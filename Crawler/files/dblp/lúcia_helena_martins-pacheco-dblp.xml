@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<dblpperson name="L&#250;cia Helena Martins Pacheco" n="1">
+<person key="homepages/20/1310" mdate="2009-06-09">
+<author>L&#250;cia Helena Martins Pacheco</author>
+</person>
+<r><inproceedings key="conf/lcn/BarencoSP95" mdate="2017-05-26">
+<author>Cl&#225;udia Jacy Barenco</author>
+<author>Elizabeth Sueli Specialski</author>
+<author>L&#250;cia Helena Martins Pacheco</author>
+<title>Aspects of video and audio signals transmission in a FDDI network.</title>
+<pages>469-478</pages>
+<year>1995</year>
+<crossref>conf/lcn/1995</crossref>
+<booktitle>LCN</booktitle>
+<ee>https://doi.org/10.1109/LCN.1995.527376</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/LCN.1995.527376</ee>
+<url>db/conf/lcn/lcn1995.html#BarencoSP95</url>
+</inproceedings>
+</r>
+<coauthors n="2" nc="1">
+<co c="0" n="2"><na f="a/Abbas:Cl=aacute=udia_Jacy_Barenco">Cl&#225;udia Jacy Barenco Abbas</na><na>Cl&#225;udia Jacy Barenco</na></co>
+<co c="0"><na f="s/Specialski:Elizabeth_Sueli">Elizabeth Sueli Specialski</na></co>
+</coauthors>
+</dblpperson>
+

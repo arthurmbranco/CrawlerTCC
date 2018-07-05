@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<dblpperson name="Pedro Alberto Barbetta" n="3">
+<person key="homepages/86/3974" mdate="2011-02-10">
+<author>Pedro Alberto Barbetta</author>
+</person>
+<r><inproceedings key="conf/iccS/InacioBD17" mdate="2017-07-05">
+<author>Eduardo Camilo Inacio</author>
+<author>Pedro Alberto Barbetta</author>
+<author>Mario A. R. Dantas</author>
+<title>A Statistical Analysis of the Performance Variability of Read/Write Operations on Parallel File Systems.</title>
+<pages>2393-2397</pages>
+<year>2017</year>
+<booktitle>ICCS</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2017.05.026</ee>
+<crossref>conf/iccS/2017</crossref>
+<url>db/conf/iccS/iccS2017.html#InacioBD17</url>
+</inproceedings>
+</r>
+<r><article key="journals/tr/MatiasBTF10" mdate="2017-05-26">
+<author>Rivalino Matias</author>
+<author>Pedro Alberto Barbetta</author>
+<author>Kishor S. Trivedi</author>
+<author>Paulo Jos&#233; de Freitas Filho</author>
+<title>Accelerated Degradation Tests Applied to Software Aging Experiments.</title>
+<pages>102-114</pages>
+<year>2010</year>
+<volume>59</volume>
+<journal>IEEE Trans. Reliability</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TR.2009.2034292</ee>
+<url>db/journals/tr/tr59.html#MatiasBTF10</url>
+</article>
+</r>
+<r><inproceedings key="conf/wsc/AndradeBFZJ06" mdate="2017-05-17">
+<author>Dalton F. Andrade</author>
+<author>Pedro Alberto Barbetta</author>
+<author>Paulo Jos&#233; de Freitas Filho</author>
+<author>Ney A. de Mello Zunino</author>
+<author>Carlos Magno Couto Jacinto</author>
+<title>Using copulas in risk analysis.</title>
+<pages>727-732</pages>
+<year>2006</year>
+<crossref>conf/wsc/2006</crossref>
+<booktitle>Winter Simulation Conference</booktitle>
+<ee>https://doi.org/10.1109/WSC.2006.323152</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSC.2006.323152</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1218248</ee>
+<url>db/conf/wsc/wsc2006.html#AndradeBFZJ06</url>
+</inproceedings>
+</r>
+<coauthors n="8" nc="2">
+<co c="0"><na f="a/Andrade:Dalton_F=">Dalton F. Andrade</na></co>
+<co c="1"><na f="d/Dantas:Mario_A=_R=">Mario A. R. Dantas</na></co>
+<co c="0"><na f="f/Filho:Paulo_Jos=eacute=_de_Freitas">Paulo Jos&#233; de Freitas Filho</na></co>
+<co c="1"><na f="i/Inacio:Eduardo_Camilo">Eduardo Camilo Inacio</na></co>
+<co c="0" n="2"><na f="j/Jacinto:Carlos_M=_C=">Carlos M. C. Jacinto</na><na>Carlos Magno Couto Jacinto</na></co>
+<co c="0"><na f="m/Matias:Rivalino">Rivalino Matias</na></co>
+<co c="0"><na f="t/Trivedi:Kishor_S=">Kishor S. Trivedi</na></co>
+<co c="0"><na f="z/Zunino:Ney_A=_de_Mello">Ney A. de Mello Zunino</na></co>
+</coauthors>
+</dblpperson>
+

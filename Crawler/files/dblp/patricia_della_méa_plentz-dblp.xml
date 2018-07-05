@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<dblpperson name="Patricia Della Mea Plentz" n="11">
+<person key="homepages/83/1063" mdate="2017-12-06">
+<author>Patricia Della Mea Plentz</author>
+<note type="affiliation">Federal University of Santa Catarina, Brazil</note>
+<url>http://www.inf.ufsc.br/~plentz/</url>
+<url>https://scholar.google.com/citations?user=mNmSmvUAAAAJ</url>
+<url>http://lattes.cnpq.br/8496058927371924</url>
+</person>
+<r><inproceedings key="conf/iccS/PennaICPFBM17" mdate="2017-12-06">
+<author>Pedro Henrique Penna</author>
+<author>Eduardo C. Inacio</author>
+<author>M&#225;rcio Bastos Castro</author>
+<author>Patricia Della Mea Plentz</author>
+<author>Henrique C. Freitas</author>
+<author>Fran&#231;ois Broquedis</author>
+<author>Jean-Fran&#231;ois M&#233;haut</author>
+<title>Assessing the Performance of the SRR Loop Scheduler with Irregular Workloads.</title>
+<pages>255-264</pages>
+<year>2017</year>
+<booktitle>ICCS</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2017.05.222</ee>
+<crossref>conf/iccS/2017</crossref>
+<url>db/conf/iccS/iccS2017.html#PennaICPFBM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/BorinCP17" mdate="2017-12-11">
+<author>Lais Borin</author>
+<author>M&#225;rcio Castro</author>
+<author>Patricia Della Mea Plentz</author>
+<title>Towards the Use of LITMUS RT as a Testbed for Multiprocessor Scheduling in Energy Harvesting Real-Time Systems.</title>
+<pages>109-116</pages>
+<year>2017</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2017.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBESC.2017.21</ee>
+<crossref>conf/sbesc/2017</crossref>
+<url>db/conf/sbesc/sbesc2017.html#BorinCP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aiccsa/SiqueiraPP16" mdate="2017-06-16">
+<author>Fernando de Lucca Siqueira</author>
+<author>Patricia Della Mea Plentz</author>
+<author>Edson Roberto de Pieri</author>
+<title>Semantic trajectory applied to the navigation of autonomous mobile robots.</title>
+<pages>1-8</pages>
+<year>2016</year>
+<booktitle>AICCSA</booktitle>
+<ee>https://doi.org/10.1109/AICCSA.2016.7945766</ee>
+<crossref>conf/aiccsa/2016</crossref>
+<url>db/conf/aiccsa/aiccsa2016.html#SiqueiraPP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icnc/SiqueiraPP16" mdate="2017-05-21">
+<author>Fernando de Lucca Siqueira</author>
+<author>Patricia Della Mea Plentz</author>
+<author>Edson Roberto de Pieri</author>
+<title>A fuzzy approach to the autonomous recharging problem for mobile robots.</title>
+<pages>1065-1070</pages>
+<year>2016</year>
+<booktitle>ICNC-FSKD</booktitle>
+<ee>https://doi.org/10.1109/FSKD.2016.7603326</ee>
+<crossref>conf/icnc/2016</crossref>
+<url>db/conf/icnc/icnc2016.html#SiqueiraPP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indin/LorbieskiPF12" mdate="2017-05-19">
+<author>Robson Lorbieski</author>
+<author>Patricia Della Mea Plentz</author>
+<author>Lu&#237;s Fernando Friedrich</author>
+<title>Implementing distributed threads using RTSJ.</title>
+<pages>265-269</pages>
+<year>2012</year>
+<booktitle>INDIN</booktitle>
+<ee>https://doi.org/10.1109/INDIN.2012.6300833</ee>
+<crossref>conf/indin/2012</crossref>
+<url>db/conf/indin/indin2012.html#LorbieskiPF12</url>
+</inproceedings>
+</r>
+<r><article key="journals/cai/PlentzMO11" mdate="2013-01-11">
+<author>Patricia Della Mea Plentz</author>
+<author>Carlos Montez</author>
+<author>R&#244;mulo Silva de Oliveira</author>
+<title>Deadline Missing Prediction Through the Use of Milestones.</title>
+<pages>657-679</pages>
+<year>2011</year>
+<volume>30</volume>
+<journal>Computing and Informatics</journal>
+<number>4</number>
+<ee>http://www.cai.sk/ojs/index.php/cai/article/view/189</ee>
+<url>db/journals/cai/cai30.html#PlentzMO11</url>
+</article>
+</r>
+<r><article key="journals/jpdc/PlentzMO11" mdate="2017-06-06">
+<author>Patricia Della Mea Plentz</author>
+<author orcid="0000-0001-7767-0692">Carlos Montez</author>
+<author>R&#244;mulo Silva de Oliveira</author>
+<title>AS prediction mechanism for distributed threads systems.</title>
+<pages>1367-1376</pages>
+<year>2011</year>
+<volume>71</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.jpdc.2011.05.002</ee>
+<url>db/journals/jpdc/jpdc71.html#PlentzMO11</url>
+</article>
+</r>
+<r><article key="journals/comcom/PlentzMO08" mdate="2017-06-05">
+<author>Patricia Della Mea Plentz</author>
+<author orcid="0000-0001-7767-0692">Carlos Montez</author>
+<author>R&#244;mulo Silva de Oliveira</author>
+<title>Deadline missing predictor based on aperiodic server queue length for distributed systems.</title>
+<pages>4167-4175</pages>
+<year>2008</year>
+<volume>31</volume>
+<journal>Computer Communications</journal>
+<number>17</number>
+<ee>https://doi.org/10.1016/j.comcom.2008.09.020</ee>
+<url>db/journals/comcom/comcom31.html#PlentzMO08</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/PlentzMO08" mdate="2017-06-02">
+<author>Patricia Della Mea Plentz</author>
+<author orcid="0000-0001-7767-0692">Carlos Montez</author>
+<author>R&#244;mulo Silva de Oliveira</author>
+<title>A mechanism for deadline missing prediction in systems based on distributed threads.</title>
+<pages>424-427</pages>
+<year>2008</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2008.4638427</ee>
+<crossref>conf/etfa/2008</crossref>
+<url>db/conf/etfa/etfa2008.html#PlentzMO08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/PlentzMO07" mdate="2017-05-23">
+<author>Patricia Della Mea Plentz</author>
+<author>Carlos Montez</author>
+<author>R&#244;mulo Silva de Oliveira</author>
+<title>Prediction of end-to-end deadline missing in distributed threads systems.</title>
+<pages>25-32</pages>
+<year>2007</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/EFTA.2007.4416749</ee>
+<crossref>conf/etfa/2007</crossref>
+<url>db/conf/etfa/etfa2007.html#PlentzMO07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/PlentzOM05" mdate="2017-05-23">
+<author>Patricia Della Mea Plentz</author>
+<author>R&#244;mulo Silva de Oliveira</author>
+<author>Carlos Montez</author>
+<title>Scheduling of the distributed thread abstraction with timing constraints using RTSJ.</title>
+<year>2005</year>
+<crossref>conf/etfa/2005</crossref>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2005.1612498</ee>
+<url>db/conf/etfa/etfa2005.html#PlentzOM05</url>
+</inproceedings>
+</r>
+<coauthors n="13" nc="3">
+<co c="0"><na f="b/Borin:Lais">Lais Borin</na></co>
+<co c="0"><na f="b/Broquedis:Fran=ccedil=ois">Fran&#231;ois Broquedis</na></co>
+<co c="0" n="2"><na f="c/Castro:M=aacute=rcio_Bastos">M&#225;rcio Bastos Castro</na><na>M&#225;rcio Castro</na></co>
+<co c="0"><na f="f/Freitas:Henrique_C=">Henrique C. Freitas</na></co>
+<co c="1"><na f="f/Friedrich:Lu=iacute=s_Fernando">Lu&#237;s Fernando Friedrich</na></co>
+<co c="0" n="2"><na f="i/Inacio:Eduardo_Camilo">Eduardo Camilo Inacio</na><na>Eduardo C. Inacio</na></co>
+<co c="1"><na f="l/Lorbieski:Robson">Robson Lorbieski</na></co>
+<co c="0"><na f="m/M=eacute=haut:Jean=Fran=ccedil=ois">Jean-Fran&#231;ois M&#233;haut</na></co>
+<co c="1"><na f="m/Montez:Carlos">Carlos Montez</na></co>
+<co c="1"><na f="o/Oliveira:R=ocirc=mulo_Silva_de">R&#244;mulo Silva de Oliveira</na></co>
+<co c="0"><na f="p/Penna:Pedro_Henrique">Pedro Henrique Penna</na></co>
+<co c="2" n="2"><na f="p/Pieri:Edson_R=_de">Edson R. de Pieri</na><na>Edson Roberto de Pieri</na></co>
+<co c="2"><na f="s/Siqueira:Fernando_de_Lucca">Fernando de Lucca Siqueira</na></co>
+</coauthors>
+</dblpperson>
+

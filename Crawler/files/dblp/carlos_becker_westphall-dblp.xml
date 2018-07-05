@@ -1,0 +1,1058 @@
+<?xml version="1.0"?>
+<dblpperson name="Carlos Becker Westphall" n="70">
+<person key="homepages/b/CarlosBeckerWestphall" mdate="2016-03-03">
+<author>Carlos Becker Westphall</author>
+<note type="affiliation">Federal University of Santa Catarina, Brazil</note>
+<url>http://www.lrg.ufsc.br/~westphal/</url>
+</person>
+<r><article key="journals/cn/WernerWW17" mdate="2017-07-03">
+<author>Jorge Werner</author>
+<author>Carla Merkle Westphall</author>
+<author>Carlos Becker Westphall</author>
+<title>Cloud identity management: A survey on privacy strategies.</title>
+<pages>29-42</pages>
+<year>2017</year>
+<volume>122</volume>
+<journal>Computer Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2017.04.030</ee>
+<url>db/journals/cn/cn122.html#WernerWW17</url>
+</article>
+</r>
+<r><inproceedings key="conf/services/BrascherWW17" mdate="2017-10-17">
+<author>Gabriel Beims Br&#228;scher</author>
+<author>Rafael Weing&#228;rtner</author>
+<author>Carlos Becker Westphall</author>
+<title>Improving Cloud Computing Virtual Machines Balancing through Hosts and Virtual Machines Similarities.</title>
+<pages>76-85</pages>
+<year>2017</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2017.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2017.21</ee>
+<crossref>conf/services/2017</crossref>
+<url>db/conf/services/services2017.html#BrascherWW17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sscc/2017" mdate="2018-03-01">
+<editor>Sabu M. Thampi</editor>
+<editor>Gregorio Mart&#237;nez P&#233;rez</editor>
+<editor>Carlos Becker Westphall</editor>
+<editor>Jiankun Hu</editor>
+<editor>Chun I. Fan</editor>
+<editor>F&#233;lix G&#243;mez M&#225;rmol</editor>
+<title>Security in Computing and Communications - 5th International Symposium, SSCC 2017, Manipal, India, September 13-16, 2017, Proceedings</title>
+<booktitle>SSCC</booktitle>
+<publisher>Springer</publisher>
+<year>2017</year>
+<series href="db/series/ccis/index.html">Communications in Computer and Information Science</series>
+<volume>746</volume>
+<isbn>978-981-10-6897-3</isbn>
+<isbn>978-981-10-6898-0</isbn>
+<ee>https://doi.org/10.1007/978-981-10-6898-0</ee>
+<url>db/conf/sscc/sscc2017.html</url>
+</proceedings>
+</r>
+<r><article key="journals/jnca/SantosMSWW16" mdate="2017-06-30">
+<author orcid="0000-0002-7747-260X">Daniel Ricardo dos Santos</author>
+<author>Roberto Marinho</author>
+<author>Gustavo Roecker Schmitt</author>
+<author>Carla Merkle Westphall</author>
+<author>Carlos Becker Westphall</author>
+<title>A framework and risk assessment approaches for risk-based access control in the cloud.</title>
+<pages>86-97</pages>
+<year>2016</year>
+<volume>74</volume>
+<journal>J. Network and Computer Applications</journal>
+<ee>https://doi.org/10.1016/j.jnca.2016.08.013</ee>
+<url>db/journals/jnca/jnca74.html#SantosMSWW16</url>
+</article>
+</r>
+<r><inproceedings key="conf/noms/GeronimoUW16" mdate="2017-05-19">
+<author>Guilherme Arthur Geronimo</author>
+<author>Rafael Brundo Uriarte</author>
+<author>Carlos Becker Westphall</author>
+<title>Order@Cloud: A VM organisation framework based on multi-objectives placement ranking.</title>
+<pages>529-535</pages>
+<year>2016</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2016.7502854</ee>
+<crossref>conf/noms/2016</crossref>
+<url>db/conf/noms/noms2016.html#GeronimoUW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/services/WeingartnerBW16" mdate="2017-06-15">
+<author orcid="0000-0001-7517-6076">Rafael Weing&#228;rtner</author>
+<author>Gabriel Beims Br&#228;scher</author>
+<author>Carlos Becker Westphall</author>
+<title>A Distributed Autonomic Management Framework for Cloud Computing Orchestration.</title>
+<pages>9-17</pages>
+<year>2016</year>
+<booktitle>SERVICES</booktitle>
+<ee>https://doi.org/10.1109/SERVICES.2016.8</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERVICES.2016.8</ee>
+<crossref>conf/services/2016</crossref>
+<url>db/conf/services/services2016.html#WeingartnerBW16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jnca/WeingartnerBW15" mdate="2017-06-06">
+<author orcid="0000-0001-7517-6076">Rafael Weing&#228;rtner</author>
+<author>Gabriel Beims Br&#228;scher</author>
+<author>Carlos Becker Westphall</author>
+<title>Cloud resource management: A survey on forecasting and profiling models.</title>
+<pages>99-106</pages>
+<year>2015</year>
+<volume>47</volume>
+<journal>J. Network and Computer Applications</journal>
+<ee>https://doi.org/10.1016/j.jnca.2014.09.018</ee>
+<url>db/journals/jnca/jnca47.html#WeingartnerBW15</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEcit/WernerWWGW15" mdate="2017-06-15">
+<author>Jorge Werner</author>
+<author>Carla Merkle Westphall</author>
+<author orcid="0000-0001-7517-6076">Rafael Weing&#228;rtner</author>
+<author>Guilherme Arthur Geronimo</author>
+<author>Carlos Becker Westphall</author>
+<title>An Approach to IdM with Privacy in the Cloud.</title>
+<pages>168-175</pages>
+<year>2015</year>
+<booktitle>CIT/IUCC/DASC/PICom</booktitle>
+<ee>https://doi.org/10.1109/CIT/IUCC/DASC/PICOM.2015.26</ee>
+<crossref>conf/IEEEcit/2015</crossref>
+<url>db/conf/IEEEcit/cit-iucc-dasc-picom2015.html#WernerWWGW15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/adhoc-now/2014w" mdate="2017-05-25">
+<editor>Miguel Garc&#237;a Pineda</editor>
+<editor>Jaime Lloret</editor>
+<editor>Symeon Papavassiliou</editor>
+<editor>Stefan Ruehrup</editor>
+<editor>Carlos Becker Westphall</editor>
+<title>Ad-hoc Networks and Wireless - ADHOC-NOW 2014 International Workshops, ETSD, MARSS, MWaoN, SecAN, SSPA, and WiSARN, Benidorm, Spain, June 22-27, 2014, Revised Selected Papers</title>
+<publisher>Springer</publisher>
+<year>2015</year>
+<series href="db/journals/lncs.html">Lecture Notes in Computer Science</series>
+<volume>8629</volume>
+<isbn>978-3-662-46337-6</isbn>
+<ee>https://doi.org/10.1007/978-3-662-46338-3</ee>
+<booktitle>ADHOC-NOW Workshops</booktitle>
+<url>db/conf/adhoc-now/adhoc-now2014w.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ijsn/SantosNWLW14" mdate="2017-06-30">
+<author orcid="0000-0002-7747-260X">Daniel Ricardo dos Santos</author>
+<author>Tiago Jaime Nascimento</author>
+<author>Carla Merkle Westphall</author>
+<author>Marcos Aur&#233;lio Pedroso Leandro</author>
+<author>Carlos Becker Westphall</author>
+<title>Privacy-preserving identity federations in the cloud: a proof of concept.</title>
+<pages>1-11</pages>
+<year>2014</year>
+<volume>9</volume>
+<journal>IJSN</journal>
+<number>1</number>
+<ee>https://doi.org/10.1504/IJSN.2014.059328</ee>
+<url>db/journals/ijsn/ijsn9.html#SantosNWLW14</url>
+</article>
+</r>
+<r><article key="journals/imcs/RigonWSW14" mdate="2017-06-30">
+<author>Evandro Alencar Rigon</author>
+<author>Carla Merkle Westphall</author>
+<author orcid="0000-0002-7747-260X">Daniel Ricardo dos Santos</author>
+<author>Carlos Becker Westphall</author>
+<title>A cyclical evaluation model of information security maturity.</title>
+<pages>265-278</pages>
+<year>2014</year>
+<volume>22</volume>
+<journal>Inf. Manag. Comput. Security</journal>
+<number>3</number>
+<ee>https://doi.org/10.1108/IMCS-04-2013-0025</ee>
+<url>db/journals/imcs/imcs22.html#RigonWSW14</url>
+</article>
+</r>
+<r><inproceedings key="conf/noms/SantosWW14" mdate="2017-06-30">
+<author orcid="0000-0002-7747-260X">Daniel Ricardo dos Santos</author>
+<author>Carla Merkle Westphall</author>
+<author>Carlos Becker Westphall</author>
+<title>A dynamic risk-based access control architecture for cloud computing.</title>
+<pages>1-9</pages>
+<year>2014</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2014.6838319</ee>
+<crossref>conf/noms/2014</crossref>
+<url>db/conf/noms/noms2014.html#SantosWW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/UriarteW14" mdate="2017-06-05">
+<author orcid="0000-0003-0750-7376">Rafael Brundo Uriarte</author>
+<author>Carlos Becker Westphall</author>
+<title>Panoptes: A monitoring architecture and framework for supporting autonomic Clouds.</title>
+<pages>1-5</pages>
+<year>2014</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2014.6838356</ee>
+<crossref>conf/noms/2014</crossref>
+<url>db/conf/noms/noms2014.html#UriarteW14</url>
+</inproceedings>
+</r>
+<r><article key="journals/cleiej/WernerGWKFW12" mdate="2018-04-17">
+<author>Jorge Werner</author>
+<author>Guilherme Arthur Geronimo</author>
+<author>Carlos Becker Westphall</author>
+<author>Fernando Luiz Koch</author>
+<author>Rafael Freitas</author>
+<author>Carla Merkle Westphall</author>
+<title>Environment, Services and Network Management for Green Clouds.</title>
+<year>2012</year>
+<volume>15</volume>
+<journal>CLEI Electron. J.</journal>
+<number>2</number>
+<ee>http://www2.clei.org/cleiej/paper.php?id=238</ee>
+<url>db/journals/cleiej/cleiej15.html#WernerGWKFW12</url>
+</article>
+</r>
+<r><inproceedings key="conf/noms/MenezesWWP12" mdate="2017-05-19">
+<author>Alexandre Gava Menezes</author>
+<author>Carlos Becker Westphall</author>
+<author>Carla Merkle Westphall</author>
+<author>Eliel Marlon de Lima Pinto</author>
+<title>Hybrid protocol for group key management and transparent cluster interconnection in a secure wireless sensor network.</title>
+<pages>603-606</pages>
+<year>2012</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2012.6211966</ee>
+<crossref>conf/noms/2012</crossref>
+<url>db/conf/noms/noms2012.html#MenezesWWP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/BrinhosaWW12" mdate="2017-05-19">
+<author>Rafael Bosse Brinhosa</author>
+<author>Carla Merkle Westphall</author>
+<author>Carlos Becker Westphall</author>
+<title>Proposal and development of the Web services input validation model.</title>
+<pages>643-646</pages>
+<year>2012</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2012.6211976</ee>
+<crossref>conf/noms/2012</crossref>
+<url>db/conf/noms/noms2012.html#BrinhosaWW12</url>
+</inproceedings>
+</r>
+<r><article key="journals/cm/ChavesUW11" mdate="2017-06-05">
+<author>Shirlei Aparecida de Chaves</author>
+<author orcid="0000-0003-0750-7376">Rafael Brundo Uriarte</author>
+<author>Carlos Becker Westphall</author>
+<title>Toward an architecture for monitoring private clouds.</title>
+<pages>130-137</pages>
+<year>2011</year>
+<volume>49</volume>
+<journal>IEEE Communications Magazine</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/MCOM.2011.6094017</ee>
+<url>db/journals/cm/cm49.html#ChavesUW11</url>
+</article>
+</r>
+<r><inproceedings key="conf/lanoms/WernerGBKF11" mdate="2017-05-26">
+<author>Jorge Werner</author>
+<author>Guilherme Arthur Geronimo</author>
+<author>Carlos Becker Westphall</author>
+<author>Fernando Luiz Koch</author>
+<author>Rafael Freitas</author>
+<title>Simulator improvements to validate the Green Cloud Computing approach.</title>
+<pages>1-8</pages>
+<year>2011</year>
+<booktitle>LANOMS</booktitle>
+<ee>https://doi.org/10.1109/LANOMS.2011.6102263</ee>
+<crossref>conf/lanoms/2011</crossref>
+<url>db/conf/lanoms/lanoms2011.html#WernerGBKF11</url>
+</inproceedings>
+</r>
+<r><article key="journals/itpro/VieiraSWW10" mdate="2017-05-27">
+<author>Kleber Vieira</author>
+<author>Alexandre Schulter</author>
+<author>Carlos Becker Westphall</author>
+<author>Carla Merkle Westphall</author>
+<title>Intrusion Detection for Grid and Cloud Computing.</title>
+<pages>38-43</pages>
+<year>2010</year>
+<volume>12</volume>
+<journal>IT Professional</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MITP.2009.89</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MITP.2009.89</ee>
+<url>db/journals/itpro/itpro12.html#VieiraSWW10</url>
+</article>
+</r>
+<r><article key="journals/jnsm/WestphallM10" mdate="2017-05-20">
+<author>Carlos Becker Westphall</author>
+<author>Peter Mueller</author>
+<title>Management of Security and Security for Management Systems.</title>
+<pages>241-243</pages>
+<year>2010</year>
+<volume>18</volume>
+<journal>J. Network Syst. Manage.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10922-010-9172-y</ee>
+<url>db/journals/jnsm/jnsm18.html#WestphallM10</url>
+</article>
+</r>
+<r><article key="journals/jnsm/ArantesWCC10" mdate="2017-05-20">
+<author>Juliana Amaral Arantes</author>
+<author>Carlos Becker Westphall</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<author>Shirlei Aparecida de Chaves</author>
+<title>Analytical Model to Evaluate the Performance of Mobile Agents in a Generic Network Topology.</title>
+<pages>357-373</pages>
+<year>2010</year>
+<volume>18</volume>
+<journal>J. Network Syst. Manage.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10922-010-9173-x</ee>
+<url>db/journals/jnsm/jnsm18.html#ArantesWCC10</url>
+</article>
+</r>
+<r><inproceedings key="conf/etelemed/RolimKWWFS10" mdate="2017-05-25">
+<author>Carlos Oberdan Rolim</author>
+<author>Fernando Luiz Koch</author>
+<author>Carlos Becker Westphall</author>
+<author>Jorge Werner</author>
+<author>Armando Fracalossi</author>
+<author>Giovanni Schmitt Salvador</author>
+<title>A Cloud Computing Solution for Patient's Data Collection in Health Care Institutions.</title>
+<pages>95-99</pages>
+<year>2010</year>
+<booktitle>eTELEMED</booktitle>
+<ee>https://doi.org/10.1109/eTELEMED.2010.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/eTELEMED.2010.19</ee>
+<crossref>conf/etelemed/2010</crossref>
+<url>db/conf/etelemed/etelemed2010.html#RolimKWWFS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icn/TeixeiraWW09" mdate="2017-05-24">
+<author>Eric Douglas Teixeira</author>
+<author>Carlos Becker Westphall</author>
+<author>Carla Merkle Westphall</author>
+<title>Self-Configuration Channel in the Wireless Networks.</title>
+<pages>67-70</pages>
+<year>2009</year>
+<booktitle>ICN</booktitle>
+<ee>https://doi.org/10.1109/ICN.2009.66</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICN.2009.66</ee>
+<crossref>conf/icn/2009</crossref>
+<url>db/conf/icn/icn2009.html#TeixeiraWW09</url>
+</inproceedings>
+</r>
+<r><article key="journals/jnsm/WestphallBNU08" mdate="2017-05-20">
+<author>Carlos Becker Westphall</author>
+<author>Marcus Brunner</author>
+<author>Jos&#233; Marcos S. Nogueira</author>
+<author>Mehmet Ulema</author>
+<title>Pervasive Management for Ubiquitous Networks and Services - Report on NOMS 2008.</title>
+<pages>317-321</pages>
+<year>2008</year>
+<volume>16</volume>
+<journal>J. Network Syst. Manage.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10922-008-9110-4</ee>
+<url>db/journals/jnsm/jnsm16.html#WestphallBNU08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icn/LanaW08" mdate="2017-05-24">
+<author>Gabriel Queiroz Lana</author>
+<author>Carlos Becker Westphall</author>
+<title>User Maturity Based Trust Management for Grid Computing.</title>
+<pages>758-761</pages>
+<year>2008</year>
+<booktitle>ICN</booktitle>
+<ee>https://doi.org/10.1109/ICN.2008.126</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICN.2008.126</ee>
+<crossref>conf/icn/2008</crossref>
+<url>db/conf/icn/icn2008.html#LanaW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icn/CendronW08" mdate="2017-05-24">
+<author>Marcelo Massocco Cendron</author>
+<author>Carlos Becker Westphall</author>
+<title>A Price-Based Task Scheduling for Grid Computing.</title>
+<pages>762-766</pages>
+<year>2008</year>
+<booktitle>ICN</booktitle>
+<ee>https://doi.org/10.1109/ICN.2008.125</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICN.2008.125</ee>
+<crossref>conf/icn/2008</crossref>
+<url>db/conf/icn/icn2008.html#CendronW08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icons/KunrathWK08" mdate="2017-05-23">
+<author>Leonardo Kunrath</author>
+<author>Carlos Becker Westphall</author>
+<author>Fernando Luiz Koch</author>
+<title>Towards Advance Reservation in Large-Scale Grids.</title>
+<pages>247-252</pages>
+<year>2008</year>
+<booktitle>ICONS</booktitle>
+<ee>https://doi.org/10.1109/ICONS.2008.41</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICONS.2008.41</ee>
+<crossref>conf/icons/2008</crossref>
+<url>db/conf/icons/icons2008.html#KunrathWK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ntms/SchulterVWWS08" mdate="2017-05-24">
+<author>Alexandre Schulter</author>
+<author>Kleber Vieira</author>
+<author>Carlos Becker Westphall</author>
+<author>Carla Merkle Westphall</author>
+<author>Abderrahim Sekkaki</author>
+<title>Intrusion Detection for Computational Grids.</title>
+<pages>1-5</pages>
+<year>2008</year>
+<booktitle>NTMS</booktitle>
+<ee>https://doi.org/10.1109/NTMS.2008.ECP.54</ee>
+<crossref>conf/ntms/2008</crossref>
+<url>db/conf/ntms/ntms2008.html#SchulterVWWS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/securware/BrinhosaWW08" mdate="2017-05-17">
+<author>Rafael Bosse Brinhosa</author>
+<author>Carlos Becker Westphall</author>
+<author>Carla Merkle Westphall</author>
+<title>A Security Framework for Input Validation.</title>
+<pages>88-92</pages>
+<year>2008</year>
+<booktitle>SECURWARE</booktitle>
+<ee>https://doi.org/10.1109/SECURWARE.2008.67</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SECURWARE.2008.67</ee>
+<crossref>conf/securware/2008</crossref>
+<url>db/conf/securware/securware2008.html#BrinhosaWW08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/noms/2008" mdate="2016-07-08">
+<editor>Marcus Brunner</editor>
+<editor>Carlos Becker Westphall</editor>
+<editor>Lisandro Zambenedetti Granville</editor>
+<title>IEEE/IFIP Network Operations and Management Symposium: Pervasive Management for Ubioquitous Networks and Services, NOMS 2008, 7-11 April 2008, Salvador, Bahia, Brazil</title>
+<booktitle>NOMS</booktitle>
+<year>2008</year>
+<publisher>IEEE</publisher>
+<isbn>978-1-4244-2066-7</isbn>
+<ee>http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4567164</ee>
+<url>db/conf/noms/noms2008.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ijnm/SilvaW07" mdate="2017-05-18">
+<author>Paulo Fernando da Silva</author>
+<author>Carlos Becker Westphall</author>
+<title>Improvements in the model for interoperability of intrusion detection responses compatible with the IDWG model.</title>
+<pages>287-294</pages>
+<year>2007</year>
+<volume>17</volume>
+<journal>Int. Journal of Network Management</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/nem.626</ee>
+<url>db/journals/ijnm/ijnm17.html#SilvaW07</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/SilvaWWA07" mdate="2017-05-23">
+<author>Paulo F. Silva 0002</author>
+<author>Carlos Becker Westphall</author>
+<author>Carla Merkle Westphall</author>
+<author>Marcos Dias de Assun&#231;&#227;o</author>
+<title>Design and Evaluation of a Grid Computing Based Architecture for Integrating Heterogeneous IDSs.</title>
+<pages>338-342</pages>
+<year>2007</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2007.70</ee>
+<crossref>conf/globecom/2007</crossref>
+<url>db/conf/globecom/globecom2007.html#SilvaWWA07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apnoms/MenezesW06" mdate="2017-05-23">
+<author>Alexandre Gava Menezes</author>
+<author>Carlos Becker Westphall</author>
+<title>Security Approaches for Cluster Interconnection in a Wireless Sensor Network.</title>
+<pages>542-545</pages>
+<year>2006</year>
+<crossref>conf/apnoms/2006</crossref>
+<booktitle>APNOMS</booktitle>
+<ee>https://doi.org/10.1007/11876601_61</ee>
+<url>db/conf/apnoms/apnoms2006.html#MenezesW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cbms/RolimKAW06" mdate="2017-05-23">
+<author>Carlos Oberdan Rolim</author>
+<author>Fernando Luiz Koch</author>
+<author>Marcos Dias de Assun&#231;&#227;o</author>
+<author>Carlos Becker Westphall</author>
+<title>Towards a Grid of Sensors for Telemedicine.</title>
+<pages>485-490</pages>
+<year>2006</year>
+<crossref>conf/cbms/2006</crossref>
+<booktitle>CBMS</booktitle>
+<ee>https://doi.org/10.1109/CBMS.2006.159</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CBMS.2006.159</ee>
+<url>db/conf/cbms/cbms2006.html#RolimKAW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurongi/SchulterVWW06" mdate="2017-05-23">
+<author>Alexandre Schulter</author>
+<author>Kleber Vieira</author>
+<author>Carlos Becker Westphall</author>
+<author>Carla Merkle Westphall</author>
+<title>Defending Grids Against Intrusions.</title>
+<pages>248-250</pages>
+<year>2006</year>
+<crossref>conf/eurongi/2006</crossref>
+<booktitle>IWSOS/EuroNGI</booktitle>
+<ee>https://doi.org/10.1007/11822035_23</ee>
+<url>db/conf/eurongi/eurongi2006.html#SchulterVWW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/TavaresW06" mdate="2017-05-25">
+<author>Rafael Kr&#252;ger Tavares</author>
+<author>Carlos Becker Westphall</author>
+<title>An Architecture to Provide QoS in Web Services.</title>
+<pages>921-925</pages>
+<year>2006</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2006.254825</ee>
+<crossref>conf/icc/2006</crossref>
+<url>db/conf/icc/icc2006.html#TavaresW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icn/NavarroSKAW06" mdate="2017-05-24">
+<author>Fabio Navarro</author>
+<author>Alexandre Schulter</author>
+<author>Fernando Luiz Koch</author>
+<author>Marcos Dias de Assun&#231;&#227;o</author>
+<author>Carlos Becker Westphall</author>
+<title>Grid Middleware for Mobile Decision Support Systems.</title>
+<pages>125</pages>
+<year>2006</year>
+<crossref>conf/icn/2006</crossref>
+<booktitle>ICN/ICONS/MCL</booktitle>
+<ee>https://doi.org/10.1109/ICNICONSMCL.2006.106</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICNICONSMCL.2006.106</ee>
+<url>db/conf/icn/icn2006.html#NavarroSKAW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icn/SchulterRKW06" mdate="2017-05-24">
+<author>Alexandre Schulter</author>
+<author>Julio Albuquerque Reis</author>
+<author>Fernando Luiz Koch</author>
+<author>Carlos Becker Westphall</author>
+<title>A Grid-based Intrusion Detection System.</title>
+<pages>187</pages>
+<year>2006</year>
+<crossref>conf/icn/2006</crossref>
+<booktitle>ICN/ICONS/MCL</booktitle>
+<ee>https://doi.org/10.1109/ICNICONSMCL.2006.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICNICONSMCL.2006.15</ee>
+<url>db/conf/icn/icn2006.html#SchulterRKW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/SilvaWWA06" mdate="2015-11-14">
+<author>Paulo F. Silva 0002</author>
+<author>Carlos Becker Westphall</author>
+<author>Carla Merkle Westphall</author>
+<author>Marcos Dias de Assun&#231;&#227;o</author>
+<title>Composition of a DIDS by integrating heterogeneous IDSs on grids.</title>
+<pages>12</pages>
+<year>2006</year>
+<booktitle>MGC@Middleware</booktitle>
+<ee>http://doi.acm.org/10.1145/1186675.1186688</ee>
+<crossref>conf/middleware/2006mgc</crossref>
+<url>db/conf/middleware/mgc2006.html#SilvaWWA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/NavarroSKAW06" mdate="2017-05-19">
+<author>Fabio Navarro</author>
+<author>Alexandre Schulter</author>
+<author>Fernando Luiz Koch</author>
+<author>Marcos Dias de Assun&#231;&#227;o</author>
+<author>Carlos Becker Westphall</author>
+<title>Towards a Middleware for Mobile Grids.</title>
+<year>2006</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2006.1687644</ee>
+<crossref>conf/noms/2006</crossref>
+<url>db/conf/noms/noms2006.html#NavarroSKAW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/SchulterNKW06" mdate="2017-05-19">
+<author>Alexandre Schulter</author>
+<author>Fabio Navarro</author>
+<author>Fernando Luiz Koch</author>
+<author>Carlos Becker Westphall</author>
+<title>Towards Grid-based Intrusion Detection.</title>
+<year>2006</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2006.1687643</ee>
+<crossref>conf/noms/2006</crossref>
+<url>db/conf/noms/noms2006.html#SchulterNKW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/SilvaW06" mdate="2017-05-19">
+<author>Paulo Fernando da Silva</author>
+<author>Carlos Becker Westphall</author>
+<title>An Intrusion Answer Model Compatible with the Alerts IDWG Model.</title>
+<year>2006</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2006.1687641</ee>
+<crossref>conf/noms/2006</crossref>
+<url>db/conf/noms/noms2006.html#SilvaW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/noms/VivianAW06" mdate="2017-05-19">
+<author>Darlan Vivian</author>
+<author>Eduardo Ad&#237;lio Pelinson Alchieri</author>
+<author>Carlos Becker Westphall</author>
+<title>Evaluation of QoS Metrics in Ad Hoc Networks with the use of Secure Routing Protocols.</title>
+<year>2006</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2006.1687606</ee>
+<crossref>conf/noms/2006</crossref>
+<url>db/conf/noms/noms2006.html#VivianAW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aict/SilvaW05" mdate="2017-05-25">
+<author>Madalena Pereira da Silva</author>
+<author>Carlos Becker Westphall</author>
+<title>Performance Analysis and Service Differentiation in the MAC SubLayer of IEEE 802.11e Ad Hoc Networks.</title>
+<pages>434-440</pages>
+<year>2005</year>
+<crossref>conf/aict/2005</crossref>
+<booktitle>AICT/SAPIR/ELETE</booktitle>
+<ee>https://doi.org/10.1109/AICT.2005.69</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AICT.2005.69</ee>
+<url>db/conf/aict/aict2005.html#SilvaW05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lanoms/AndradeW05" mdate="2016-03-12">
+<author>Aujor Tadeu C. Andrade</author>
+<author>Carlos Becker Westphall</author>
+<title>Distribution of Network Management Policies with Emphasis on Quality of Service.</title>
+<pages>213-224</pages>
+<year>2005</year>
+<booktitle>LANOMS</booktitle>
+<ee>http://www.lanoms.org/2005/anaiscd/2005/ap2.pdf</ee>
+<crossref>conf/lanoms/2005</crossref>
+<url>db/conf/lanoms/lanoms2005.html#AndradeW05</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/AssuncaoKW04" mdate="2017-05-20">
+<author>Marcos Dias de Assun&#231;&#227;o</author>
+<author>Fernando Luiz Koch</author>
+<author>Carlos Becker Westphall</author>
+<title>Grids of agents for computer and telecommunication network management.</title>
+<pages>413-424</pages>
+<year>2004</year>
+<volume>16</volume>
+<journal>Concurrency - Practice and Experience</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/cpe.820</ee>
+<url>db/journals/concurrency/concurrency16.html#AssuncaoKW04</url>
+</article>
+</r>
+<r><inproceedings key="conf/sapir/KochWAX04" mdate="2017-05-21">
+<author>Fernando Luiz Koch</author>
+<author>Carlos Becker Westphall</author>
+<author>Marcos Dias de Assun&#231;&#227;o</author>
+<author>Edison Xavier</author>
+<title>Distributed Artificial Intelligence for Network Management Systems ? New Approaches.</title>
+<pages>135-145</pages>
+<ee>https://doi.org/10.1007/978-3-540-27767-5_14</ee>
+<year>2004</year>
+<crossref>conf/sapir/2004</crossref>
+<booktitle>SAPIR</booktitle>
+<url>db/conf/sapir/sapir2004.html#KochWAX04</url>
+</inproceedings>
+</r>
+<r><article key="journals/jnsm/WestphallSAW03" mdate="2017-05-20">
+<author>Carlos Becker Westphall</author>
+<author>Abderrahim Sekkaki</author>
+<author>Luis Marco C&#225;ceres Alvarez</author>
+<author>Wagner Tatsuya Watanabe</author>
+<title>Extending TINA with Secure On-Line Accounting Services.</title>
+<year>2003</year>
+<volume>11</volume>
+<journal>J. Network Syst. Manage.</journal>
+<number>4</number>
+<url>db/journals/jnsm/jnsm11.html#WestphallSAW03</url>
+<ee>https://doi.org/10.1023/B:JONS.0000005470.09708.f0</ee>
+<pages>379-397</pages>
+</article>
+</r>
+<r><inproceedings key="conf/lanoms/MullerWW03" mdate="2011-09-22">
+<author>Morvan D. M&#252;ller</author>
+<author>Carlos Becker Westphall</author>
+<author>Carla Merkle Westphall</author>
+<title>An Authentication for Non-Adjacent LSRs in the LDP.</title>
+<pages>21-28</pages>
+<year>2003</year>
+<booktitle>LANOMS</booktitle>
+<ee>http://www.lanoms.org/2005/anaiscd/2003/1-3.pdf</ee>
+<crossref>conf/lanoms/2003</crossref>
+<url>db/conf/lanoms/lanoms2003.html#MullerWW03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lanoms/XavierKW03" mdate="2011-09-22">
+<author>Edison Xavier</author>
+<author>Fernando Luiz Koch</author>
+<author>Carlos Becker Westphall</author>
+<title>Automations in Computer Network Management Utilizing Computational Intelligence.</title>
+<pages>81-88</pages>
+<year>2003</year>
+<booktitle>LANOMS</booktitle>
+<ee>http://www.lanoms.org/2005/anaiscd/2003/3-2.pdf</ee>
+<crossref>conf/lanoms/2003</crossref>
+<url>db/conf/lanoms/lanoms2003.html#XavierKW03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/middleware/AssuncaoWK03" mdate="2003-07-17">
+<author>Marcos Dias de Assun&#231;&#227;o</author>
+<author>Carlos Becker Westphall</author>
+<author>Fernando Luiz Koch</author>
+<title>Grids of Agents for Computer and Telecommunication Network Management.</title>
+<pages>186-193</pages>
+<year>2003</year>
+<crossref>conf/middleware/2003w</crossref>
+<booktitle>Middleware Workshops</booktitle>
+<url>db/conf/middleware/middlewarew2003.html#AssuncaoWK03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/RocheWM02" mdate="2017-05-25">
+<author>Abiel Roche</author>
+<author>Carlos Becker Westphall</author>
+<author>P. A. C. K-S Graf von Mecklenburg</author>
+<title>Quality of Service for Ad Hoc Wireless Network.</title>
+<pages>100-</pages>
+<year>2002</year>
+<crossref>conf/sccc/2002</crossref>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2002.1173179</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SCCC.2002.1173179</ee>
+<url>db/conf/sccc/sccc2002.html#RocheWM02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sec/WestphallFWB02" mdate="2004-08-19">
+<author>Carla Merkle Westphall</author>
+<author>Joni da Silva Fraga</author>
+<author>Carlos Becker Westphall</author>
+<author>S. C. S. Bianchi</author>
+<title>Mandatory Security Policies for CORBA Security Model.</title>
+<pages>251-262</pages>
+<year>2002</year>
+<crossref>conf/sec/2002</crossref>
+<booktitle>SEC</booktitle>
+<url>db/conf/sec/sec2002.html#WestphallFWB02</url>
+</inproceedings>
+</r>
+<r><article key="journals/jnsm/KochW01" mdate="2017-05-20">
+<author>Fernando Luiz Koch</author>
+<author>Carlos Becker Westphall</author>
+<title>Decentralized Network Management Using Distributed Artificial Intelligence.</title>
+<year>2001</year>
+<volume>9</volume>
+<journal>J. Network Syst. Manage.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1023/A:1012976206591</ee>
+<url>db/journals/jnsm/jnsm9.html#KochW01</url>
+<pages>375-388</pages>
+</article>
+</r>
+<r><inproceedings key="conf/icc/SekkakiNMW01" mdate="2017-05-25">
+<author>Abderrahim Sekkaki</author>
+<author>Desire Nguessan</author>
+<author>Daniel M. M&#252;ller</author>
+<author>Carlos Becker Westphall</author>
+<title>Security within TINA accounting architecture management.</title>
+<pages>199-203</pages>
+<year>2001</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2001.936303</ee>
+<crossref>conf/icc/2001</crossref>
+<url>db/conf/icc/icc2001.html#SekkakiNMW01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/SekkakiAWW01" mdate="2017-05-25">
+<author>Abderrahim Sekkaki</author>
+<author>Luis Marco C&#225;ceres Alvarez</author>
+<author>Wagner Tatsuya Watanabe</author>
+<author>Carlos Becker Westphall</author>
+<title>Accounting management based service environment in a TINA architecture.</title>
+<pages>2094-2099</pages>
+<year>2001</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2001.937027</ee>
+<crossref>conf/icc/2001</crossref>
+<url>db/conf/icc/icc2001.html#SekkakiAWW01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icn/SekkakiAWW01" mdate="2017-05-24">
+<author>Abderrahim Sekkaki</author>
+<author>Luis Marco C&#225;ceres Alvarez</author>
+<author>Wagner Tatsuya Watanabe</author>
+<author>Carlos Becker Westphall</author>
+<title>Development of Accounting Management Based Service Environment in Tina, Java and Corba Architectures.</title>
+<pages>438-448</pages>
+<year>2001</year>
+<crossref>conf/icn/2001-2</crossref>
+<booktitle>ICN (2)</booktitle>
+<ee>https://doi.org/10.1007/3-540-47734-9_43</ee>
+<url>db/conf/icn/icn2001-2.html#SekkakiAWW01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/im/SekkakiAWW01" mdate="2017-05-17">
+<author>Abderrahim Sekkaki</author>
+<author>Luis Marco C&#225;ceres Alvarez</author>
+<author>Wagner Tatsuya Watanabe</author>
+<author>Carlos Becker Westphall</author>
+<title>Development of a Prototype based on TINA Accounting Management Architecture.</title>
+<pages>123-136</pages>
+<year>2001</year>
+<booktitle>Integrated Network Management</booktitle>
+<ee>https://doi.org/10.1109/INM.2001.918016</ee>
+<crossref>conf/im/2001</crossref>
+<url>db/conf/im/im2001.html#SekkakiAWW01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lanoms/VieiraW01" mdate="2011-09-22">
+<author>Elvis M. Vieira</author>
+<author>Carlos Becker Westphall</author>
+<title>Using Fuzzy Specifications to Manage QoS.</title>
+<pages>269-280</pages>
+<year>2001</year>
+<booktitle>LANOMS</booktitle>
+<ee>http://www.lanoms.org/2005/anaiscd/2001/7-3.pdf</ee>
+<crossref>conf/lanoms/2001</crossref>
+<url>db/conf/lanoms/lanoms2001.html#VieiraW01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/AlvarezTWS01" mdate="2017-05-25">
+<author>Luis Marco C&#225;ceres Alvarez</author>
+<author>Wagner Tatsuya Watanabe</author>
+<author>Carlos Becker Westphall</author>
+<author>Abderrahim Sekkaki</author>
+<title>Development of a Prototype Based on TINA Accounting and Security Management Architecture.</title>
+<pages>50-57</pages>
+<year>2001</year>
+<crossref>conf/sccc/2001</crossref>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2001.972631</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SCCC.2001.972631</ee>
+<url>db/conf/sccc/sccc2001.html#AlvarezTWS01</url>
+</inproceedings>
+</r>
+<r><article key="journals/jnsm/BarottoSW00" mdate="2017-05-20">
+<author>Andre Mello Barotto</author>
+<author>Adriano de Souza</author>
+<author>Carlos Becker Westphall</author>
+<title>Distributed Network Management Using SNMP, Java, WWW, and CORBA.</title>
+<year>2000</year>
+<volume>8</volume>
+<journal>J. Network Syst. Manage.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1023/A:1026430416255</ee>
+<url>db/journals/jnsm/jnsm8.html#BarottoSW00</url>
+<pages>483-497</pages>
+</article>
+</r>
+<r><inproceedings key="conf/icon/NotareCRW99" mdate="2017-09-07">
+<author>Mirela Sechi Moretti Annoni Notare</author>
+<author>Fernando Augosto da Silva Cruz</author>
+<author>Bernardo Gon&#231;alves Riso</author>
+<author>Carlos Becker Westphall</author>
+<title>Security management against cloned cellular telephones.</title>
+<pages>356-363</pages>
+<year>1999</year>
+<booktitle>ICON</booktitle>
+<ee>https://doi.org/10.1109/ICON.1999.796198</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICON.1999.796198</ee>
+<crossref>conf/icon/1999</crossref>
+<url>db/conf/icon/icon1999.html#NotareCRW99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdpta/LorenetSW99" mdate="2004-04-20">
+<author>Vera L&#250;cia Lorenet</author>
+<author>Jo&#227;o Bosco M. Sobral</author>
+<author>Carlos Becker Westphall</author>
+<title>TMN Distributed Management with CORBA: A Experience in Alarm Surveillance.</title>
+<pages>2692-2698</pages>
+<year>1999</year>
+<crossref>conf/pdpta/1999</crossref>
+<booktitle>PDPTA</booktitle>
+<url>db/conf/pdpta/pdpta1999-6.html#LorenetSW99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/NotareCGW99" mdate="2017-05-24">
+<author>Mirela Sechi Moretti Annoni Notare</author>
+<author>Fernando Augosto da Silva Cruz</author>
+<author>Bernardo Gon&#231;alves Riso</author>
+<author>Carlos Becker Westphall</author>
+<title>Wireless communications: security management against cloned cellular phones.</title>
+<pages>1412-1416</pages>
+<year>1999</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.1999.796970</ee>
+<crossref>conf/wcnc/1999</crossref>
+<url>db/conf/wcnc/wcnc1999.html#NotareCGW99</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/lanoms/1999" mdate="2012-03-13">
+<editor>Carlos Becker Westphall</editor>
+<title>1st Latin American Network Operations and Management Symposium, LANOMS 1999, Rio de Janeiro, Brazil, December 3-5, 1999. Proceedings</title>
+<booktitle>LANOMS</booktitle>
+<year>1999</year>
+<url>db/conf/lanoms/lanoms1999.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/im/RochaW97" mdate="2002-01-03">
+<author>Marco Antonio da Rocha</author>
+<author>Carlos Becker Westphall</author>
+<title>Proactive Management of Computer Networks Using Artificial Intelligence Agents and Techniques.</title>
+<pages>610-621</pages>
+<year>1997</year>
+<crossref>conf/im/1997</crossref>
+<booktitle>Integrated Network Management</booktitle>
+<url>db/conf/im/im1997.html#RochaW97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/NotareRLNW97" mdate="2017-05-25">
+<author>Mirela Sechi Moretti Annoni Notare</author>
+<author>Bernardo Gon&#231;alves Riso</author>
+<author>Paulo S&#233;rgio Lorena</author>
+<author>Manoel Camillo de Oliveira Penna Neto</author>
+<author>Carlos Becker Westphall</author>
+<title>Formal design of a telecommunications networks management system.</title>
+<pages>146-150</pages>
+<year>1997</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.1997.615986</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCC.1997.615986</ee>
+<crossref>conf/iscc/1997</crossref>
+<url>db/conf/iscc/iscc1997.html#NotareRLNW97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/FranceschiRWW97" mdate="2017-08-02">
+<author>Anal&#250;cia Schiaffino Morales de Franceschi</author>
+<author>Marco Antonio da Rocha</author>
+<author>Henrique L. Weber</author>
+<author>Carlos Becker Westphall</author>
+<title>Proactive network management using remote monitoring and artificial intelligence techniques.</title>
+<pages>167-171</pages>
+<year>1997</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.1997.615990</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCC.1997.615990</ee>
+<crossref>conf/iscc/1997</crossref>
+<url>db/conf/iscc/iscc1997.html#FranceschiRWW97</url>
+</inproceedings>
+</r>
+<r><article key="journals/jnsm/KormannWC96" mdate="2017-05-20">
+<author>Luiz Fernando Kormann</author>
+<author>Carlos Becker Westphall</author>
+<author>Adriano Coser</author>
+<title>OSI Usage Metering Function for the OSIMIS Management Platform.</title>
+<year>1996</year>
+<volume>4</volume>
+<journal>J. Network Syst. Manage.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/BF02139149</ee>
+<url>db/journals/jnsm/jnsm4.html#KormannWC96</url>
+<pages>319-334</pages>
+</article>
+</r>
+<r><inproceedings key="conf/aipt/AssoulW93" mdate="2002-01-21">
+<author>S. Assoul</author>
+<author>Carlos Becker Westphall</author>
+<title>Management in Broadband Networks: ATM Networks Fault Management.</title>
+<pages>87-100</pages>
+<year>1993</year>
+<crossref>conf/aipt/1993</crossref>
+<booktitle>Advanced Information Processing Techniques for LAN and MAN Management</booktitle>
+<url>db/conf/aipt/aipt1993.html#AssoulW93</url>
+</inproceedings>
+</r>
+<coauthors n="80" nc="7">
+<co c="0"><na f="a/Alchieri:Eduardo_Ad=iacute=lio_Pelinson">Eduardo Ad&#237;lio Pelinson Alchieri</na></co>
+<co c="0"><na f="a/Alvarez:Luis_Marco_C=aacute=ceres">Luis Marco C&#225;ceres Alvarez</na></co>
+<co c="-1"><na f="a/Andrade:Aujor_Tadeu_C=">Aujor Tadeu C. Andrade</na></co>
+<co c="0"><na f="a/Arantes:Juliana_Amaral">Juliana Amaral Arantes</na></co>
+<co c="-1"><na f="a/Assoul:S=">S. Assoul</na></co>
+<co c="0"><na f="a/Assun=ccedil==atilde=o:Marcos_Dias_de">Marcos Dias de Assun&#231;&#227;o</na></co>
+<co c="5"><na f="b/Barotto:Andre_Mello">Andre Mello Barotto</na></co>
+<co c="0"><na f="b/Bianchi:S=_C=_S=">S. C. S. Bianchi</na></co>
+<co c="0"><na f="b/Br=auml=scher:Gabriel_Beims">Gabriel Beims Br&#228;scher</na></co>
+<co c="0"><na f="b/Brinhosa:Rafael_Bosse">Rafael Bosse Brinhosa</na></co>
+<co c="2"><na f="b/Brunner:Marcus">Marcus Brunner</na></co>
+<co c="-1"><na f="c/Cendron:Marcelo_Massocco">Marcelo Massocco Cendron</na></co>
+<co c="0"><na f="c/Chaves:Shirlei_Aparecida_de">Shirlei Aparecida de Chaves</na></co>
+<co c="4"><na f="c/Coser:Adriano">Adriano Coser</na></co>
+<co c="0"><na f="c/Cruz:Fernando_Augosto_da_Silva">Fernando Augosto da Silva Cruz</na></co>
+<co c="0"><na f="c/Cust=oacute=dio:Ricardo_Felipe">Ricardo Felipe Cust&#243;dio</na></co>
+<co c="1"><na f="f/Fan:Chun_I=">Chun I. Fan</na></co>
+<co c="0"><na f="f/Fracalossi:Armando">Armando Fracalossi</na></co>
+<co c="0"><na f="f/Fraga:Joni_da_Silva">Joni da Silva Fraga</na></co>
+<co c="3"><na f="f/Franceschi:Anal=uacute=cia_Schiaffino_Morales_de">Anal&#250;cia Schiaffino Morales de Franceschi</na></co>
+<co c="0"><na f="f/Freitas:Rafael">Rafael Freitas</na></co>
+<co c="1" n="2"><na f="g/Garcia:Miguel">Miguel Garcia</na><na>Miguel Garc&#237;a Pineda</na></co>
+<co c="0"><na f="g/Geronimo:Guilherme_Arthur">Guilherme Arthur Geronimo</na></co>
+<co c="2"><na f="g/Granville:Lisandro_Zambenedetti">Lisandro Zambenedetti Granville</na></co>
+<co c="1"><na f="h/Hu:Jiankun">Jiankun Hu</na></co>
+<co c="0"><na f="k/Koch:Fernando_Luiz">Fernando Luiz Koch</na></co>
+<co c="4"><na f="k/Kormann:Luiz_Fernando">Luiz Fernando Kormann</na></co>
+<co c="0"><na f="k/Kunrath:Leonardo">Leonardo Kunrath</na></co>
+<co c="-1"><na f="l/Lana:Gabriel_Queiroz">Gabriel Queiroz Lana</na></co>
+<co c="0"><na f="l/Leandro:Marcos_Aur=eacute=lio_Pedroso">Marcos Aur&#233;lio Pedroso Leandro</na></co>
+<co c="0"><na f="l/Lorena:Paulo_S=eacute=rgio">Paulo S&#233;rgio Lorena</na></co>
+<co c="0"><na f="l/Lorenet:Vera_L=uacute=cia">Vera L&#250;cia Lorenet</na></co>
+<co c="0"><na f="m/Marinho:Roberto">Roberto Marinho</na></co>
+<co c="1"><na f="m/M=aacute=rmol:F=eacute=lix_G=oacute=mez">F&#233;lix G&#243;mez M&#225;rmol</na></co>
+<co c="1" n="2"><na f="m/Mauri:Jaime_Lloret">Jaime Lloret Mauri</na><na>Jaime Lloret</na></co>
+<co c="6"><na f="m/Mecklenburg:P=_A=_C=_K=S_Graf_von">P. A. C. K-S Graf von Mecklenburg</na></co>
+<co c="0"><na f="m/Menezes:Alexandre_Gava">Alexandre Gava Menezes</na></co>
+<co c="-1"><na f="m/Mueller:Peter">Peter Mueller</na></co>
+<co c="0"><na f="m/M=uuml=ller:Daniel_M=">Daniel M. M&#252;ller</na></co>
+<co c="0"><na f="m/M=uuml=ller:Morvan_D=">Morvan D. M&#252;ller</na></co>
+<co c="0"><na f="n/Nascimento:Tiago_Jaime">Tiago Jaime Nascimento</na></co>
+<co c="0"><na f="n/Navarro:Fabio">Fabio Navarro</na></co>
+<co c="0"><na f="n/Neto:Manoel_Camillo_de_Oliveira_Penna">Manoel Camillo de Oliveira Penna Neto</na></co>
+<co c="0"><na f="n/Nguessan:Desire">Desire Nguessan</na></co>
+<co c="2"><na f="n/Nogueira:Jos=eacute=_Marcos_S=">Jos&#233; Marcos S. Nogueira</na></co>
+<co c="0"><na f="n/Notare:Mirela_Sechi_Moretti_Annoni">Mirela Sechi Moretti Annoni Notare</na></co>
+<co c="1"><na f="p/Papavassiliou:Symeon">Symeon Papavassiliou</na></co>
+<co c="1"><na f="p/P=eacute=rez:Gregorio_Mart=iacute=nez">Gregorio Mart&#237;nez P&#233;rez</na></co>
+<co c="0"><na f="p/Pinto:Eliel_Marlon_de_Lima">Eliel Marlon de Lima Pinto</na></co>
+<co c="0"><na f="r/Reis:Julio_Albuquerque">Julio Albuquerque Reis</na></co>
+<co c="0"><na f="r/Rigon:Evandro_Alencar">Evandro Alencar Rigon</na></co>
+<co c="0"><na f="r/Riso:Bernardo_Gon=ccedil=alves">Bernardo Gon&#231;alves Riso</na></co>
+<co c="3"><na f="r/Rocha:Marco_Antonio_da">Marco Antonio da Rocha</na></co>
+<co c="6"><na f="r/Roche:Abiel">Abiel Roche</na></co>
+<co c="0"><na f="r/Rolim:Carlos_Oberdan">Carlos Oberdan Rolim</na></co>
+<co c="1" n="2"><na f="r/R=uuml=hrup:Stefan">Stefan R&#252;hrup</na><na>Stefan Ruehrup</na></co>
+<co c="0"><na f="s/Salvador:Giovanni_Schmitt">Giovanni Schmitt Salvador</na></co>
+<co c="0"><na f="s/Santos:Daniel_Ricardo_dos">Daniel Ricardo dos Santos</na></co>
+<co c="0"><na f="s/Schmitt:Gustavo_Roecker">Gustavo Roecker Schmitt</na></co>
+<co c="0"><na f="s/Schulter:Alexandre">Alexandre Schulter</na></co>
+<co c="0"><na f="s/Sekkaki:Abderrahim">Abderrahim Sekkaki</na></co>
+<co c="-1"><na f="s/Silva:Madalena_Pereira_da">Madalena Pereira da Silva</na></co>
+<co c="0"><na f="s/Silva_0002:Paulo_F=">Paulo F. Silva 0002</na></co>
+<co c="-1"><na f="s/Silva:Paulo_Fernando_da">Paulo Fernando da Silva</na></co>
+<co c="0"><na f="s/Sobral:Jo=atilde=o_Bosco_M=">Jo&#227;o Bosco M. Sobral</na></co>
+<co c="5"><na f="s/Souza:Adriano_de">Adriano de Souza</na></co>
+<co c="-1"><na f="t/Tavares:Rafael_Kr=uuml=ger">Rafael Kr&#252;ger Tavares</na></co>
+<co c="0"><na f="t/Teixeira:Eric_Douglas">Eric Douglas Teixeira</na></co>
+<co c="1"><na f="t/Thampi:Sabu_M=">Sabu M. Thampi</na></co>
+<co c="2"><na f="u/Ulema:Mehmet">Mehmet Ulema</na></co>
+<co c="0"><na f="u/Uriarte:Rafael_Brundo">Rafael Brundo Uriarte</na></co>
+<co c="-1"><na f="v/Vieira:Elvis_M=">Elvis M. Vieira</na></co>
+<co c="0"><na f="v/Vieira:Kleber">Kleber Vieira</na></co>
+<co c="0"><na f="v/Vivian:Darlan">Darlan Vivian</na></co>
+<co c="0"><na f="w/Watanabe:Wagner_Tatsuya">Wagner Tatsuya Watanabe</na></co>
+<co c="3"><na f="w/Weber:Henrique_L=">Henrique L. Weber</na></co>
+<co c="0"><na f="w/Weing=auml=rtner:Rafael">Rafael Weing&#228;rtner</na></co>
+<co c="0"><na f="w/Werner:Jorge">Jorge Werner</na></co>
+<co c="0"><na f="w/Westphall:Carla_Merkle">Carla Merkle Westphall</na></co>
+<co c="0"><na f="x/Xavier:Edison">Edison Xavier</na></co>
+</coauthors>
+</dblpperson>
+

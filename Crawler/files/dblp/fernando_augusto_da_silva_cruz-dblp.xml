@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<dblpperson name="Fernando Augosto da Silva Cruz" n="2">
+<person key="homepages/135/4769" mdate="2013-10-14">
+<author>Fernando Augosto da Silva Cruz</author>
+</person>
+<r><inproceedings key="conf/icon/NotareCRW99" mdate="2017-09-07">
+<author>Mirela Sechi Moretti Annoni Notare</author>
+<author>Fernando Augosto da Silva Cruz</author>
+<author>Bernardo Gon&#231;alves Riso</author>
+<author>Carlos Becker Westphall</author>
+<title>Security management against cloned cellular telephones.</title>
+<pages>356-363</pages>
+<year>1999</year>
+<booktitle>ICON</booktitle>
+<ee>https://doi.org/10.1109/ICON.1999.796198</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICON.1999.796198</ee>
+<crossref>conf/icon/1999</crossref>
+<url>db/conf/icon/icon1999.html#NotareCRW99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/NotareCGW99" mdate="2017-05-24">
+<author>Mirela Sechi Moretti Annoni Notare</author>
+<author>Fernando Augosto da Silva Cruz</author>
+<author>Bernardo Gon&#231;alves Riso</author>
+<author>Carlos Becker Westphall</author>
+<title>Wireless communications: security management against cloned cellular phones.</title>
+<pages>1412-1416</pages>
+<year>1999</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.1999.796970</ee>
+<crossref>conf/wcnc/1999</crossref>
+<url>db/conf/wcnc/wcnc1999.html#NotareCGW99</url>
+</inproceedings>
+</r>
+<coauthors n="3" nc="1">
+<co c="0"><na f="n/Notare:Mirela_Sechi_Moretti_Annoni">Mirela Sechi Moretti Annoni Notare</na></co>
+<co c="0"><na f="r/Riso:Bernardo_Gon=ccedil=alves">Bernardo Gon&#231;alves Riso</na></co>
+<co c="0"><na f="w/Westphall:Carlos_Becker">Carlos Becker Westphall</na></co>
+</coauthors>
+</dblpperson>
+

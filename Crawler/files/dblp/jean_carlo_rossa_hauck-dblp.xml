@@ -1,0 +1,304 @@
+<?xml version="1.0"?>
+<dblpperson name="Jean C. R. Hauck" n="18">
+<person key="homepages/77/5650" mdate="2018-05-07">
+<author>Jean C. R. Hauck</author>
+<author>Jean Carlo Rossa Hauck</author>
+<note type="affiliation">Federal University of Santa Catarina, Florianopolis, SC, Brazil</note>
+<url>https://www.inf.ufsc.br/~jean.hauck/</url>
+<url>https://orcid.org/0000-0001-6550-9092</url>
+</person>
+<r><article key="journals/te/GoncalvesWHZ18" mdate="2018-05-15">
+<author orcid="0000-0001-6038-9140">Rafael Queiroz Gon&#231;alves</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author orcid="0000-0001-6550-9092">Jean C. R. Hauck</author>
+<author>Andreia Zanella</author>
+<title>An Instructional Feedback Technique for Teaching Project Management Tools Aligned With PMBOK.</title>
+<pages>143-150</pages>
+<year>2018</year>
+<volume>61</volume>
+<journal>IEEE Trans. Education</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TE.2017.2774766</ee>
+<url>db/journals/te/te61.html#GoncalvesWHZ18</url>
+</article>
+</r>
+<r><article key="journals/inroads/WangenheimWPHF17" mdate="2017-03-07">
+<author>Christiane Gresse von Wangenheim</author>
+<author>Aldo von Wangenheim</author>
+<author>Fernando S. Pacheco</author>
+<author>Jean Carlo Rossa Hauck</author>
+<author>Miriam Nathalie F. Ferreira</author>
+<title>Teaching physical computing in family workshops.</title>
+<pages>48-51</pages>
+<year>2017</year>
+<volume>8</volume>
+<journal>Inroads</journal>
+<number>1</number>
+<ee>http://doi.acm.org/10.1145/3043950</ee>
+<url>db/journals/inroads/inroads8.html#WangenheimWPHF17</url>
+</article>
+</r>
+<r><inproceedings key="conf/iwsm/BuglioneAWMH16" mdate="2017-06-15">
+<author>Luigi Buglione</author>
+<author orcid="0000-0003-2670-9061">Alain Abran</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Fergal McCaffery</author>
+<author>Jean Carlo Rossa Hauck</author>
+<title>Risk Management: Achieving Higher Maturity &#38; Capability Levels through the LEGO Approach.</title>
+<pages>131-138</pages>
+<year>2016</year>
+<booktitle>IWSM-Mensura</booktitle>
+<ee>https://doi.org/10.1109/IWSM-Mensura.2016.028</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IWSM-Mensura.2016.028</ee>
+<crossref>conf/iwsm/2016</crossref>
+<url>db/conf/iwsm/iwsm2016.html#BuglioneAWMH16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwsm/BuglioneAWMH15" mdate="2017-06-15">
+<author>Luigi Buglione</author>
+<author orcid="0000-0003-2670-9061">Alain Abran</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Fergal McCaffery</author>
+<author>Jean Carlo Rossa Hauck</author>
+<title>Software or Service? That's the Question!</title>
+<pages>30-45</pages>
+<year>2015</year>
+<booktitle>IWSM/Mensura</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-24285-9_3</ee>
+<crossref>conf/iwsm/2015</crossref>
+<url>db/conf/iwsm/iwsm2015.html#BuglioneAWMH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/HauckAADN15" mdate="2017-05-26">
+<author>Jean Carlo Rossa Hauck</author>
+<author>Igor Almeida</author>
+<author>Ricardo Araujo</author>
+<author>J&#250;nior Dymow</author>
+<author>Moacyr Franco M. Neto</author>
+<title>Harmonizing MPS.BR and CERTICS: A Case Study in a Maturity Level F Organization.</title>
+<pages>61-70</pages>
+<year>2015</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2015.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBES.2015.22</ee>
+<crossref>conf/sbes/2015</crossref>
+<url>db/conf/sbes/sbes2015.html#HauckAADN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clei/NacimentoMH14" mdate="2017-05-21">
+<author>Cecilia Nacimento</author>
+<author>Santiago Matalonga</author>
+<author>Jean Carlo Rossa Hauck</author>
+<title>Identifying technical debt cost factors in reflection activities of an agile projects.</title>
+<pages>1-11</pages>
+<year>2014</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI.2014.6965155</ee>
+<crossref>conf/clei/2014</crossref>
+<url>db/conf/clei/clei2014.html#NacimentoMH14</url>
+</inproceedings>
+</r>
+<r><article key="journals/csi/BuglioneWMH13" mdate="2017-06-05">
+<author>Luigi Buglione</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Fergal McCaffery</author>
+<author>Jean Carlo Rossa Hauck</author>
+<title>The LEGO strategy: Guidelines for a profitable deployment.</title>
+<pages>10-20</pages>
+<year>2013</year>
+<volume>36</volume>
+<journal>Computer Standards &#38; Interfaces</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.csi.2013.07.008</ee>
+<url>db/journals/csi/csi36.html#BuglioneWMH13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icsr/BuglioneLWMH13" mdate="2017-06-04">
+<author>Luigi Buglione</author>
+<author>Giuseppe Lami</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Fergal McCaffery</author>
+<author>Jean Carlo Rossa Hauck</author>
+<title>Leveraging Reuse-Related Maturity Issues for Achieving Higher Maturity and Capability Levels.</title>
+<pages>343-355</pages>
+<year>2013</year>
+<booktitle>ICSR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-38977-1_26</ee>
+<crossref>conf/icsr/2013</crossref>
+<url>db/conf/icsr/icsr2013.html#BuglioneLWMH13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/amcis/WangenheimWHMB12" mdate="2013-01-29">
+<author>Christiane Gresse von Wangenheim</author>
+<author>Aldo von Wangenheim</author>
+<author>Jean Carlo Rossa Hauck</author>
+<author>Fergal McCaffery</author>
+<author>Luigi Buglione</author>
+<title>Tailoring Software Process Capability/Maturity Models for Telemedicine Systems.</title>
+<year>2012</year>
+<booktitle>AMCIS</booktitle>
+<ee>http://aisel.aisnet.org/amcis2012/proceedings/ISHealthcare/1</ee>
+<crossref>conf/amcis/2012</crossref>
+<url>db/conf/amcis/amcis2012.html#WangenheimWHMB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsoft/BuglioneHWM12" mdate="2017-12-14">
+<author>Luigi Buglione</author>
+<author>Jean Carlo Rossa Hauck</author>
+<author>Christiane Gresse von Wangenheim</author>
+<author>Fergal McCaffery</author>
+<title>Hybriding CMMI and Requirement Engineering Maturity &#38; Capability Models - Applying the LEGO Approach for Improving Estimates.</title>
+<pages>55-61</pages>
+<year>2012</year>
+<booktitle>ICSOFT</booktitle>
+<crossref>conf/icsoft/2012</crossref>
+<url>db/conf/icsoft/icsoft2012.html#BuglioneHWM12</url>
+<ee>https://doi.org/10.5220/0004082700550061</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spice/BuglioneMHW12" mdate="2017-06-05">
+<author>Luigi Buglione</author>
+<author>Fergal McCaffery</author>
+<author>Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<title>FIRST: Common-Sense Process Scopes for Starting a Process Improvement Program.</title>
+<pages>186-197</pages>
+<year>2012</year>
+<booktitle>SPICE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-30439-2_17</ee>
+<crossref>conf/spice/2012</crossref>
+<url>db/conf/spice/spice2012.html#BuglioneMHW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/profes/HauckWMB11" mdate="2017-06-05">
+<author>Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Fergal McCaffery</author>
+<author>Luigi Buglione</author>
+<title>Proposing an ISO/IEC 15504-2 Compliant Method for Process Capability/Maturity Models Customization.</title>
+<pages>44-58</pages>
+<year>2011</year>
+<booktitle>PROFES</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21843-9_6</ee>
+<crossref>conf/profes/2011</crossref>
+<url>db/conf/profes/profes2011.html#HauckWMB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/HauckW11" mdate="2017-06-05">
+<author>Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<title>A Method for Software Process Capability / Maturity Models Customization to Specific Domains.</title>
+<pages>293-302</pages>
+<year>2011</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2011.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBES.2011.23</ee>
+<crossref>conf/sbes/2011</crossref>
+<url>db/conf/sbes/sbes2011.html#HauckW11</url>
+</inproceedings>
+</r>
+<r><article key="journals/software/WangenheimHZSMS10" mdate="2017-06-08">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Jean Carlo Rossa Hauck</author>
+<author>Alessandra Zoucas</author>
+<author>Clenio F. Salviano</author>
+<author>Fergal McCaffery</author>
+<author>Forrest Shull</author>
+<title>Creating Software Process Capability/Maturity Models.</title>
+<pages>92-94</pages>
+<year>2010</year>
+<volume>27</volume>
+<journal>IEEE Software</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MS.2010.96</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MS.2010.96</ee>
+<url>db/journals/software/software27.html#WangenheimHZSMS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/profes/CancianHWR10" mdate="2017-06-05">
+<author>Maiara Heil Cancian</author>
+<author>Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Ricardo J. Rabelo</author>
+<title>Discovering Software Process and Product Quality Criteria in Software as a Service.</title>
+<pages>234-247</pages>
+<year>2010</year>
+<booktitle>PROFES</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-13792-1_19</ee>
+<crossref>conf/profes/2010</crossref>
+<url>db/conf/profes/profes2010.html#CancianHWR10</url>
+</inproceedings>
+</r>
+<r><article key="journals/software/WangenheimHW09" mdate="2017-06-08">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0003-4532-1417">Aldo von Wangenheim</author>
+<title>Enhancing Open Source Software in Alignment with CMMI-DEV.</title>
+<pages>59-67</pages>
+<year>2009</year>
+<volume>26</volume>
+<journal>IEEE Software</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MS.2009.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MS.2009.34</ee>
+<url>db/journals/software/software26.html#WangenheimHW09</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurospi/HauckWST08" mdate="2017-06-15">
+<author>Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Richard H. de Souza</author>
+<author>Marcello Thiry</author>
+<title>Process Reference Guides - Support for Improving Software Processes in Alignment with Reference Models and Standards.</title>
+<pages>70-81</pages>
+<year>2008</year>
+<booktitle>EuroSPI</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85936-9_7</ee>
+<crossref>conf/eurospi/2008</crossref>
+<url>db/conf/eurospi/eurospi2008.html#HauckWST08</url>
+</inproceedings>
+</r>
+<r><article key="journals/infsof/WangenheimWHS06" mdate="2017-06-06">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>S&#233;rgio Weber</author>
+<author>Jean Carlo Rossa Hauck</author>
+<author>Gisele Trentin da Silva</author>
+<title>Experiences on establishing software processes in small companies.</title>
+<pages>890-900</pages>
+<year>2006</year>
+<volume>48</volume>
+<journal>Information &#38; Software Technology</journal>
+<number>9</number>
+<ee>https://doi.org/10.1016/j.infsof.2005.12.010</ee>
+<url>db/journals/infsof/infsof48.html#WangenheimWHS06</url>
+</article>
+</r>
+<coauthors n="25" nc="3">
+<co c="0"><na f="a/Abran:Alain">Alain Abran</na></co>
+<co c="1"><na f="a/Almeida:Igor">Igor Almeida</na></co>
+<co c="1"><na f="a/Araujo:Ricardo">Ricardo Araujo</na></co>
+<co c="0"><na f="b/Buglione:Luigi">Luigi Buglione</na></co>
+<co c="0"><na f="c/Cancian:Maiara_Heil">Maiara Heil Cancian</na></co>
+<co c="1"><na f="d/Dymow:J=uacute=nior">J&#250;nior Dymow</na></co>
+<co c="0"><na f="f/Ferreira:Miriam_Nathalie_F=">Miriam Nathalie F. Ferreira</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Rafael_Queiroz">Rafael Queiroz Gon&#231;alves</na></co>
+<co c="0"><na f="l/Lami:Giuseppe">Giuseppe Lami</na></co>
+<co c="2"><na f="m/Matalonga:Santiago">Santiago Matalonga</na></co>
+<co c="0"><na f="m/McCaffery:Fergal">Fergal McCaffery</na></co>
+<co c="2"><na f="n/Nacimento:Cecilia">Cecilia Nacimento</na></co>
+<co c="1"><na f="n/Neto:Moacyr_Franco_M=">Moacyr Franco M. Neto</na></co>
+<co c="0"><na f="p/Pacheco:Fernando_S=">Fernando S. Pacheco</na></co>
+<co c="0"><na f="r/Rabelo:Ricardo_J=">Ricardo J. Rabelo</na></co>
+<co c="0"><na f="s/Salviano:Clenio_F=">Clenio F. Salviano</na></co>
+<co c="0"><na f="s/Shull:Forrest">Forrest Shull</na></co>
+<co c="0"><na f="s/Silva:Gisele_Trentin_da">Gisele Trentin da Silva</na></co>
+<co c="0"><na f="s/Souza:Richard_H=_de">Richard H. de Souza</na></co>
+<co c="0"><na f="t/Thiry:Marcello">Marcello Thiry</na></co>
+<co c="0"><na f="w/Wangenheim:Aldo_von">Aldo von Wangenheim</na></co>
+<co c="0"><na f="w/Wangenheim:Christiane_Gresse_von">Christiane Gresse von Wangenheim</na></co>
+<co c="0"><na f="w/Weber:S=eacute=rgio">S&#233;rgio Weber</na></co>
+<co c="0"><na f="z/Zanella:Andreia">Andreia Zanella</na></co>
+<co c="0"><na f="z/Zoucas:Alessandra">Alessandra Zoucas</na></co>
+</coauthors>
+</dblpperson>
+

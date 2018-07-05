@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<dblpperson name="Marcelo Menezes Reis" n="1">
+<person key="homepages/94/7205" mdate="2009-08-18">
+<author>Marcelo Menezes Reis</author>
+</person>
+<r><article key="journals/ce/ReisPKS06" mdate="2017-05-20">
+<author>Marcelo Menezes Reis</author>
+<author>Edson Pacheco Paladini</author>
+<author>Suresh Khator</author>
+<author>Willy Arno Sommer</author>
+<title>Artificial intelligence approach to support statistical quality control teaching.</title>
+<pages>448-464</pages>
+<year>2006</year>
+<volume>47</volume>
+<journal>Computers &#38; Education</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.compedu.2004.10.016</ee>
+<url>db/journals/ce/ce47.html#ReisPKS06</url>
+</article>
+</r>
+<coauthors n="3" nc="1">
+<co c="0"><na f="k/Khator:Suresh">Suresh Khator</na></co>
+<co c="0"><na f="p/Paladini:Edson_Pacheco">Edson Pacheco Paladini</na></co>
+<co c="0"><na f="s/Sommer:Willy_Arno">Willy Arno Sommer</na></co>
+</coauthors>
+</dblpperson>
+

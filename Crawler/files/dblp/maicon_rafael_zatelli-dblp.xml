@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<dblpperson name="Maicon Rafael Zatelli" n="10">
+<person key="homepages/130/2937" mdate="2013-05-30">
+<author>Maicon Rafael Zatelli</author>
+</person>
+<r><article key="journals/ijaose/ZatelliRH16" mdate="2017-05-20">
+<author>Maicon Rafael Zatelli</author>
+<author>Alessandro Ricci</author>
+<author>Jomi Fred H&#252;bner</author>
+<title>Integrating interaction with agents, environment, and organisation in JaCaMo.</title>
+<pages>266-302</pages>
+<year>2016</year>
+<volume>5</volume>
+<journal>IJAOSE</journal>
+<number>2/3</number>
+<ee>https://doi.org/10.1504/IJAOSE.2016.10001865</ee>
+<url>db/journals/ijaose/ijaose5.html#ZatelliRH16</url>
+</article>
+</r>
+<r><inproceedings key="conf/agere/ZatelliHRB16" mdate="2016-11-02">
+<author>Maicon Rafael Zatelli</author>
+<author>Jomi Fred H&#252;bner</author>
+<author>Alessandro Ricci</author>
+<author>Rafael H. Bordini</author>
+<title>Conflicting goals in agent-oriented programming.</title>
+<pages>21-30</pages>
+<year>2016</year>
+<booktitle>AGERE!@SPLASH</booktitle>
+<ee>http://doi.acm.org/10.1145/3001886.3001889</ee>
+<crossref>conf/agere/2016</crossref>
+<url>db/conf/agere/agere2016.html#ZatelliHRB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/ZatelliRH15" mdate="2017-05-23">
+<author>Maicon Rafael Zatelli</author>
+<author>Alessandro Ricci</author>
+<author>Jomi Fred H&#252;bner</author>
+<title>Evaluating Different Concurrency Configurations for Executing Multi-Agent Systems.</title>
+<pages>212-230</pages>
+<year>2015</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-26184-3_12</ee>
+<crossref>conf/atal/2015emas</crossref>
+<url>db/conf/atal/emas2015.html#ZatelliRH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eumas/ZatelliRH15" mdate="2017-05-26">
+<author>Maicon Rafael Zatelli</author>
+<author>Alessandro Ricci</author>
+<author>Jomi Fred H&#252;bner</author>
+<title>A Concurrent Architecture for Agent Reasoning Cycle Execution in Jason.</title>
+<pages>425-440</pages>
+<year>2015</year>
+<booktitle>EUMAS/AT</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-33509-4_33</ee>
+<crossref>conf/eumas/2015</crossref>
+<url>db/conf/eumas/eumas2015.html#ZatelliRH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dalt/ZatelliH14" mdate="2017-05-19">
+<author>Maicon Rafael Zatelli</author>
+<author>Jomi Fred H&#252;bner</author>
+<title>The Interaction as an Integration Component for the JaCaMo Platform.</title>
+<pages>431-450</pages>
+<year>2014</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-14484-9_22</ee>
+<crossref>conf/dalt/2014</crossref>
+<url>db/conf/dalt/emas2014.html#ZatelliH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/agere/CardosoZHB13" mdate="2014-04-23">
+<author>Rafael C. Cardoso</author>
+<author>Maicon Rafael Zatelli</author>
+<author>Jomi Fred H&#252;bner</author>
+<author>Rafael H. Bordini</author>
+<title>Towards benchmarking actor- and agent-based programming languages.</title>
+<pages>115-126</pages>
+<year>2013</year>
+<booktitle>AGERE!@SPLASH</booktitle>
+<ee>http://doi.acm.org/10.1145/2541329.2541339</ee>
+<crossref>conf/agere/2013</crossref>
+<url>db/conf/agere/agere2013.html#CardosoZHB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/ZatelliBSMSUH13" mdate="2017-05-23">
+<author>Maicon Rafael Zatelli</author>
+<author>Maiquel de Brito</author>
+<author>Tiago Luiz Schmitz</author>
+<author>Marcelo Menezes Morato</author>
+<author>Kaio Siqueira de Souza</author>
+<author>Daniela Maria Uez</author>
+<author>Jomi Fred H&#252;bner</author>
+<title>SMADAS: A Team for MAPC Considering the Organization and the Environment as First-Class Abstractions.</title>
+<pages>319-328</pages>
+<year>2013</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-45343-4_17</ee>
+<crossref>conf/atal/2013emas</crossref>
+<url>db/conf/atal/emas2013.html#ZatelliBSMSUH13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/AhlbrechtBBCDFHHHHJJKLLMOSSSSUVWWZ13" mdate="2017-05-23">
+<author>Tobias Ahlbrecht</author>
+<author>Christian Bender-Saebelkampf</author>
+<author>Maiquel de Brito</author>
+<author>Nicolai Christian Christensen</author>
+<author>J&#252;rgen Dix</author>
+<author>Mariana Ramos Franco</author>
+<author>Hendrik Heller</author>
+<author>Andreas Viktor Hess</author>
+<author>Axel He&#223;ler</author>
+<author>Jomi Fred H&#252;bner</author>
+<author>Andreas Schmidt Jensen</author>
+<author>Jannick Boese Johnsen</author>
+<author>Michael K&#246;ster</author>
+<author>Chengqian Li</author>
+<author>Lu Liu</author>
+<author>Marcelo Menezes Morato</author>
+<author>Philip Bratt &#216;rum</author>
+<author>Federico Schlesinger</author>
+<author>Tiago Luiz Schmitz</author>
+<author>Jaime Sim&#227;o Sichman</author>
+<author>Kaio Siqueira de Souza</author>
+<author>Daniela Maria Uez</author>
+<author>J&#248;rgen Villadsen</author>
+<author>Sebastian Werner</author>
+<author>&#216;yvind Gr&#248;nland Woller</author>
+<author>Maicon Rafael Zatelli</author>
+<title>Multi-Agent Programming Contest 2013: The Teams and the Design of Their Systems.</title>
+<pages>366-390</pages>
+<year>2013</year>
+<booktitle>EMAS@AAMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-45343-4_22</ee>
+<crossref>conf/atal/2013emas</crossref>
+<url>db/conf/atal/emas2013.html#AhlbrechtBBCDFHHHHJJKLLMOSSSSUVWWZ13</url>
+</inproceedings>
+</r>
+<r><article key="journals/rita/NeriZUC12" mdate="2015-04-15">
+<author>Jos&#233; Rodrigo Neri</author>
+<author>Maicon Rafael Zatelli</author>
+<author>Daniela Maria Uez</author>
+<author>Rafael Frizzo Callegaro</author>
+<title>Aplicando Conceitos de Sistemas Multiagentes na Elabora&#231;&#227;o de um Jogo de Estrat&#233;gia Simulado.</title>
+<pages>34-58</pages>
+<year>2012</year>
+<volume>19</volume>
+<journal>RITA</journal>
+<number>2</number>
+<ee>http://www.seer.ufrgs.br/index.php/rita/article/view/rita_v19_n2_p34</ee>
+<url>db/journals/rita/rita19.html#NeriZUC12</url>
+</article>
+</r>
+<r><inproceedings key="conf/promas/ZatelliUNSBH12" mdate="2017-05-25">
+<author>Maicon Rafael Zatelli</author>
+<author>Daniela Maria Uez</author>
+<author>Jos&#233; Rodrigo Neri</author>
+<author>Tiago Luiz Schmitz</author>
+<author>J&#233;ssica Pauli de Castro Bonson</author>
+<author>Jomi Fred H&#252;bner</author>
+<title>SMADAS: A Cooperative Team for the Multi-Agent Programming Contest Using Jason.</title>
+<pages>196-204</pages>
+<year>2012</year>
+<booktitle>ProMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-38700-5_12</ee>
+<crossref>conf/promas/2012</crossref>
+<url>db/conf/promas/promas2012.html#ZatelliUNSBH12</url>
+</inproceedings>
+</r>
+<coauthors n="31" nc="1">
+<co c="0"><na f="a/Ahlbrecht:Tobias">Tobias Ahlbrecht</na></co>
+<co c="0"><na f="b/Bender=Saebelkampf:Christian">Christian Bender-Saebelkampf</na></co>
+<co c="0"><na f="b/Bonson:J=eacute=ssica_Pauli_de_Castro">J&#233;ssica Pauli de Castro Bonson</na></co>
+<co c="0"><na f="b/Bordini:Rafael_H=">Rafael H. Bordini</na></co>
+<co c="0"><na f="b/Brito:Maiquel_de">Maiquel de Brito</na></co>
+<co c="0"><na f="c/Callegaro:Rafael_Frizzo">Rafael Frizzo Callegaro</na></co>
+<co c="0"><na f="c/Cardoso:Rafael_C=">Rafael C. Cardoso</na></co>
+<co c="0"><na f="c/Christensen:Nicolai_Christian">Nicolai Christian Christensen</na></co>
+<co c="0"><na f="d/Dix:J=uuml=rgen">J&#252;rgen Dix</na></co>
+<co c="0"><na f="f/Franco:Mariana_Ramos">Mariana Ramos Franco</na></co>
+<co c="0"><na f="h/Heller:Hendrik">Hendrik Heller</na></co>
+<co c="0"><na f="h/Hess:Andreas_Viktor">Andreas Viktor Hess</na></co>
+<co c="0"><na f="h/He=szlig=ler:Axel">Axel He&#223;ler</na></co>
+<co c="0"><na f="h/H=uuml=bner:Jomi_Fred">Jomi Fred H&#252;bner</na></co>
+<co c="0"><na f="j/Jensen:Andreas_Schmidt">Andreas Schmidt Jensen</na></co>
+<co c="0"><na f="j/Johnsen:Jannick_Boese">Jannick Boese Johnsen</na></co>
+<co c="0"><na f="k/K=ouml=ster:Michael">Michael K&#246;ster</na></co>
+<co c="0"><na f="l/Li:Chengqian">Chengqian Li</na></co>
+<co c="0"><na f="l/Liu:Lu">Lu Liu</na></co>
+<co c="0"><na f="m/Morato:Marcelo_Menezes">Marcelo Menezes Morato</na></co>
+<co c="0"><na f="n/Neri:Jos=eacute=_Rodrigo">Jos&#233; Rodrigo Neri</na></co>
+<co c="0"><na f="=/=Oslash=rum:Philip_Bratt">Philip Bratt &#216;rum</na></co>
+<co c="0"><na f="r/Ricci:Alessandro">Alessandro Ricci</na></co>
+<co c="0"><na f="s/Schlesinger:Federico">Federico Schlesinger</na></co>
+<co c="0"><na f="s/Schmitz:Tiago_Luiz">Tiago Luiz Schmitz</na></co>
+<co c="0"><na f="s/Sichman:Jaime_Sim=atilde=o">Jaime Sim&#227;o Sichman</na></co>
+<co c="0"><na f="s/Souza:Kaio_Siqueira_de">Kaio Siqueira de Souza</na></co>
+<co c="0"><na f="u/Uez:Daniela_Maria">Daniela Maria Uez</na></co>
+<co c="0"><na f="v/Villadsen:J=oslash=rgen">J&#248;rgen Villadsen</na></co>
+<co c="0"><na f="w/Werner:Sebastian">Sebastian Werner</na></co>
+<co c="0"><na f="w/Woller:=Oslash=yvind_Gr=oslash=nland">&#216;yvind Gr&#248;nland Woller</na></co>
+</coauthors>
+</dblpperson>
+

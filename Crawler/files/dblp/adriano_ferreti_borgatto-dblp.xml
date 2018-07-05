@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<dblpperson name="Adriano Ferreti Borgatto" n="7">
+<person key="homepages/12/10539" mdate="2011-11-30">
+<author>Adriano Ferreti Borgatto</author>
+</person>
+<r><inproceedings key="conf/icse/PetriWB17" mdate="2017-07-13">
+<author>Giani Petri</author>
+<author>Christiane Gresse von Wangenheim</author>
+<author>Adriano Ferreti Borgatto</author>
+<title>Quality of Games for Teaching Software Engineering: An Analysis of Empirical Evidences of Digital and Non-Digital Games.</title>
+<pages>150-159</pages>
+<year>2017</year>
+<booktitle>ICSE-SEET</booktitle>
+<ee>https://doi.org/10.1109/ICSE-SEET.2017.18</ee>
+<crossref>conf/icse/2017seet</crossref>
+<url>db/conf/icse/icse2017seet.html#PetriWB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/PetriWB17a" mdate="2017-07-13">
+<author>Giani Petri</author>
+<author>Christiane Gresse von Wangenheim</author>
+<author>Adriano Ferreti Borgatto</author>
+<title>A Large-Scale Evaluation of a Model for the Evaluation of Games for Teaching Software Engineering.</title>
+<pages>180-189</pages>
+<year>2017</year>
+<booktitle>ICSE-SEET</booktitle>
+<ee>https://doi.org/10.1109/ICSE-SEET.2017.11</ee>
+<crossref>conf/icse/2017seet</crossref>
+<url>db/conf/icse/icse2017seet.html#PetriWB17a</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijmhci/WangenheimWBNLK16" mdate="2017-06-06">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Talita A. Witt</author>
+<author>Adriano Ferreti Borgatto</author>
+<author>Juliane Vargas Nunes</author>
+<author>Tha&#237;sa Cardoso Lacerda</author>
+<author>Caroline Krone</author>
+<author>La&#237;s de Oliveira Souza</author>
+<title>A Usability Score for Mobile Phone Applications Based on Heuristics.</title>
+<pages>23-58</pages>
+<year>2016</year>
+<volume>8</volume>
+<journal>IJMHCI</journal>
+<number>1</number>
+<ee>https://doi.org/10.4018/IJMHCI.2016010102</ee>
+<url>db/journals/ijmhci/ijmhci8.html#WangenheimWBNLK16</url>
+</article>
+</r>
+<r><article key="journals/cssc/BorgattoAPA15" mdate="2017-05-18">
+<author>Adriano Ferreti Borgatto</author>
+<author>Caio L. N. Azevedo</author>
+<author>Alu&#237;sio Pinheiro</author>
+<author>Dalton F. Andrade</author>
+<title>Comparison of Ability Estimation Methods Using IRT for Tests with Different Degrees of Difficulty.</title>
+<pages>474-488</pages>
+<year>2015</year>
+<volume>44</volume>
+<journal>Communications in Statistics - Simulation and Computation</journal>
+<number>2</number>
+<ee>https://doi.org/10.1080/03610918.2013.781630</ee>
+<url>db/journals/cssc/cssc44.html#BorgattoAPA15</url>
+</article>
+</r>
+<r><article key="journals/jss/WangenheimSB13" mdate="2017-06-06">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Rafael Savi</author>
+<author>Adriano Ferreti Borgatto</author>
+<title>SCRUMIA - An educational game for teaching SCRUM in computing courses.</title>
+<pages>2675-2687</pages>
+<year>2013</year>
+<volume>86</volume>
+<journal>Journal of Systems and Software</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.jss.2013.05.030</ee>
+<url>db/journals/jss/jss86.html#WangenheimSB13</url>
+</article>
+</r>
+<r><article key="journals/infsof/WangenheimSB12" mdate="2017-06-06">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Rafael Savi</author>
+<author>Adriano Ferreti Borgatto</author>
+<title>DELIVER! - An educational game for teaching Earned Value Management in computing courses.</title>
+<pages>286-298</pages>
+<year>2012</year>
+<volume>54</volume>
+<journal>Information &#38; Software Technology</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.infsof.2011.10.005</ee>
+<url>db/journals/infsof/infsof54.html#WangenheimSB12</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/SaviWB11" mdate="2017-06-05">
+<author>Rafael Savi</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Adriano Ferreti Borgatto</author>
+<title>A Model for the Evaluation of Educational Games for Teaching Software Engineering.</title>
+<pages>194-203</pages>
+<year>2011</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2011.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBES.2011.27</ee>
+<crossref>conf/sbes/2011</crossref>
+<url>db/conf/sbes/sbes2011.html#SaviWB11</url>
+</inproceedings>
+</r>
+<coauthors n="11" nc="2">
+<co c="1"><na f="a/Andrade:Dalton_F=">Dalton F. Andrade</na></co>
+<co c="1"><na f="a/Azevedo:Caio_L=_N=">Caio L. N. Azevedo</na></co>
+<co c="0"><na f="k/Krone:Caroline">Caroline Krone</na></co>
+<co c="0" n="2"><na f="l/Lacerda:Tha=iacute=sa">Tha&#237;sa Lacerda</na><na>Tha&#237;sa Cardoso Lacerda</na></co>
+<co c="0"><na f="n/Nunes:Juliane_Vargas">Juliane Vargas Nunes</na></co>
+<co c="0"><na f="p/Petri:Giani">Giani Petri</na></co>
+<co c="1"><na f="p/Pinheiro:Alu=iacute=sio">Alu&#237;sio Pinheiro</na></co>
+<co c="0"><na f="s/Savi:Rafael">Rafael Savi</na></co>
+<co c="0"><na f="s/Souza:La=iacute=s_de_Oliveira">La&#237;s de Oliveira Souza</na></co>
+<co c="0"><na f="w/Wangenheim:Christiane_Gresse_von">Christiane Gresse von Wangenheim</na></co>
+<co c="0"><na f="w/Witt:Talita_A=">Talita A. Witt</na></co>
+</coauthors>
+</dblpperson>
+

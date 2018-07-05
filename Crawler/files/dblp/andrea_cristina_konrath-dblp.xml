@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<dblpperson name="Andrea Cristina Konrath" n="1">
+<person key="homepages/142/4648" mdate="2014-03-08">
+<author>Andrea Cristina Konrath</author>
+</person>
+<r><inproceedings key="conf/educon/KonrathHWAS13" mdate="2017-05-26">
+<author>Andrea Cristina Konrath</author>
+<author>Elisa Henning</author>
+<author>Olga Maria Formigoni Carvalho Walter</author>
+<author>Custodio da Cunha Alves</author>
+<author>Robert Wayne Samohyl</author>
+<title>Applications in teaching Statistical Quality Control with different R interfaces.</title>
+<pages>146-155</pages>
+<year>2013</year>
+<booktitle>EDUCON</booktitle>
+<ee>https://doi.org/10.1109/EduCon.2013.6530099</ee>
+<crossref>conf/educon/2013</crossref>
+<url>db/conf/educon/educon2013.html#KonrathHWAS13</url>
+</inproceedings>
+</r>
+<coauthors n="4" nc="1">
+<co c="0"><na f="a/Alves:Custodio_da_Cunha">Custodio da Cunha Alves</na></co>
+<co c="0"><na f="h/Henning:Elisa">Elisa Henning</na></co>
+<co c="0"><na f="s/Samohyl:Robert_Wayne">Robert Wayne Samohyl</na></co>
+<co c="0"><na f="w/Walter:Olga_Maria_Formigoni_Carvalho">Olga Maria Formigoni Carvalho Walter</na></co>
+</coauthors>
+</dblpperson>
+
