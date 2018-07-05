@@ -31,7 +31,6 @@ public class ResearchGate {
 	static String tipo;
 	static ResultSet myRs;
 	static int id = 557;
-	static int teste1 = id+150;
 	static int idProf;
 	static int cont;
 	static int itensPagina;
@@ -45,12 +44,8 @@ public class ResearchGate {
 	    	File[] listOfFiles = folder.listFiles();
 	    	
 	    	for (int k = 0; k < listOfFiles.length; k++) {
-	    		if(id > teste1) {
-	    			Thread.sleep(60000*60);
-	    			teste1 += 90;
-	    		}
 	    		
-	    		//Thread.sleep(5000);
+	    		Thread.sleep(1000);
 	    		cont = 1;
 	    		itensPagina = 0;
 	    		DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
@@ -173,11 +168,7 @@ public class ResearchGate {
 						} //for RG articles
 					System.out.println("\n NÃO FORAM ENCONTRADOS "+contador+" ARTIGOS!"); //print missing articles for all teachers
 					if(itensPagina < quantidade) { //Só conecta na proxima pagina caso ela exista
-			    		if(id > teste1) {
-			    			Thread.sleep(60000*60);
-			    			teste1 += 90;
-			    		}
-						//Thread.sleep(5000);
+						Thread.sleep(1000);
 						doc = Jsoup.connect(urlProf+"/"+cont).userAgent("Teste-Arthur-bot ").get();
 					}
 				}// while all pages
@@ -236,11 +227,7 @@ public class ResearchGate {
 		 id++;
 		 String url = "https://www.researchgate.net/";
 		 try {
-	    		if(id > teste1) {
-	    			Thread.sleep(60000*60);
-	    			teste1 += 90;
-	    		}
-			 //Thread.sleep(5000);
+			 Thread.sleep(1000);
 			 doc = Jsoup.connect(url+url1).userAgent("Teste-Arthur-Bot").get();
 		} catch (IOException | InterruptedException e1) {
 			// TODO Auto-generated catch block
