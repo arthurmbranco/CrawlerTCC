@@ -1,13 +1,27 @@
 <?xml version="1.0"?>
-<dblpperson name="M&#225;rcio Bastos Castro" n="31">
-<person key="homepages/39/6633" mdate="2018-03-12">
+<dblpperson name="M&#225;rcio Bastos Castro" n="32">
+<person key="homepages/39/6633" mdate="2018-07-05">
 <author>M&#225;rcio Bastos Castro</author>
 <author>M&#225;rcio Castro</author>
 <url>http://www.inf.ufsc.br/~marcio.castro/</url>
+<url>https://scholar.google.com/citations?user=3sxkal4AAAAJ</url>
 <url>http://lattes.cnpq.br/6876016315737507</url>
 <url>https://orcid.org/0000-0002-9992-8540</url>
 <note type="affiliation">Federal University of Santa Catarina (UFSC), Informatics and Statistics Department</note>
 </person>
+<r><inproceedings key="conf/europar/PodestaNC18" mdate="2018-09-13">
+<author>Emmanuel Podest&#225; Jr.</author>
+<author>Bruno Marques do Nascimento</author>
+<author orcid="0000-0002-9992-8540">M&#225;rcio Castro</author>
+<title>Energy Efficient Stencil Computations on the Low-Power Manycore MPPA-256 Processor.</title>
+<pages>642-655</pages>
+<year>2018</year>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-96983-1_46</ee>
+<crossref>conf/europar/2018</crossref>
+<url>db/conf/europar/europar2018.html#PodestaNC18</url>
+</inproceedings>
+</r>
 <r><article key="journals/concurrency/SouzaPQPGFCNM17" mdate="2017-12-28">
 <author>Matheus A. Souza</author>
 <author orcid="0000-0003-3617-2915">Pedro Henrique Penna</author>
@@ -488,7 +502,7 @@
 <url>db/conf/pact/pact2005.html#CastroBFRV05</url>
 </inproceedings>
 </r>
-<coauthors n="52" nc="1">
+<coauthors n="54" nc="2">
 <co c="0" n="2"><na f="a/Aguiar:Marilton_S=_de">Marilton S. de Aguiar</na><na>Marilton Sanchotene de Aguiar</na></co>
 <co c="0"><na f="a/Aochi:Hideo">Hideo Aochi</na></co>
 <co c="0"><na f="b/Baldo:Lucas">Lucas Baldo</na></co>
@@ -518,6 +532,7 @@
 <co c="0"><na f="m/Marangozova=Martin:Vania">Vania Marangozova-Martin</na></co>
 <co c="0"><na f="m/Mart=iacute=nez:V=iacute=ctor">V&#237;ctor Mart&#237;nez</na></co>
 <co c="0"><na f="m/M=eacute=haut:Jean=Fran=ccedil=ois">Jean-Fran&#231;ois M&#233;haut</na></co>
+<co c="1"><na f="n/Nascimento:Bruno_Marques_do">Bruno Marques do Nascimento</na></co>
 <co c="0" n="2"><na f="n/Navaux:Philippe_Olivier_Alexandre">Philippe Olivier Alexandre Navaux</na><na>Philippe O. A. Navaux</na></co>
 <co c="0"><na f="n/Netto:Renan">Renan Netto</na></co>
 <co c="0"><na f="n/Ngu=eacute=l=eacute=:Thomas_Messi">Thomas Messi Ngu&#233;l&#233;</na></co>
@@ -528,6 +543,7 @@
 <co c="0"><na f="p/Pereira:Alyson_D=">Alyson D. Pereira</na></co>
 <co c="0"><na f="p/Pilla:La=eacute=rcio_Lima">La&#233;rcio Lima Pilla</na></co>
 <co c="0"><na f="p/Plentz:Patricia_Della_Mea">Patricia Della Mea Plentz</na></co>
+<co c="1"><na f="p/Podest=aacute=_Jr=:Emmanuel">Emmanuel Podest&#225; Jr.</na></co>
 <co c="0"><na f="q/Queiroz:Matheus_M=">Matheus M. Queiroz</na></co>
 <co c="0"><na f="r/Raeder:Mateus">Mateus Raeder</na></co>
 <co c="0"><na f="r/Ramos:Luiz">Luiz Ramos</na></co>

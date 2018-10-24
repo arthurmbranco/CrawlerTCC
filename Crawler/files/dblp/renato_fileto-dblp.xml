@@ -1,8 +1,37 @@
 <?xml version="1.0"?>
-<dblpperson name="Renato Fileto" n="39">
+<dblpperson name="Renato Fileto" n="41">
 <person key="homepages/35/2350" mdate="2009-06-09">
 <author>Renato Fileto</author>
 </person>
+<r><inproceedings key="conf/webmedia/SacentiWF18" mdate="2018-10-01">
+<author>Juarez A. P. Sacenti</author>
+<author>Roberto Willrich</author>
+<author>Renato Fileto</author>
+<title>Hybrid Recommender System Based on Multi-Hierarchical Ontologies.</title>
+<pages>149-156</pages>
+<year>2018</year>
+<booktitle>WebMedia</booktitle>
+<ee>http://doi.acm.org/10.1145/3243082.3243106</ee>
+<crossref>conf/webmedia/2018</crossref>
+<url>db/conf/webmedia/webmedia2018.html#SacentiWF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/JuniorFSWRA18" mdate="2018-10-01">
+<author>Vilmar C&#233;sar Pereira J&#250;nior</author>
+<author>Renato Fileto</author>
+<author>Willian Santos de Souza</author>
+<author>Matthias Wittwer</author>
+<author>Olaf Reinhold</author>
+<author>Rainer Alt</author>
+<title>A Semantic BI Process for Detecting and Analyzing Mentions of Interest for a Domain in Tweets.</title>
+<pages>197-204</pages>
+<year>2018</year>
+<booktitle>WebMedia</booktitle>
+<ee>http://doi.acm.org/10.1145/3243082.3243100</ee>
+<crossref>conf/webmedia/2018</crossref>
+<url>db/conf/webmedia/webmedia2018.html#JuniorFSWRA18</url>
+</inproceedings>
+</r>
 <r><article key="journals/jidm/BeberFFB17" mdate="2017-10-02">
 <author>Marco Aurelio Beber</author>
 <author>Carlos Andres Ferrero</author>
@@ -371,7 +400,7 @@
 <url>db/conf/seke/seke2009.html#DAgostiniF09</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/wcce/RochaWFT09" mdate="2017-05-23">
+<r><inproceedings key="conf/wcce/RochaWFT09" mdate="2018-06-26">
 <author>Tiago Rios da Rocha</author>
 <author>Roberto Willrich</author>
 <author>Renato Fileto</author>
@@ -380,7 +409,7 @@
 <pages>349-358</pages>
 <year>2009</year>
 <booktitle>WCCE</booktitle>
-<ee>https://doi.org/10.1007/978-3-642-03115-1_37</ee>
+<ee type="oa">https://doi.org/10.1007/978-3-642-03115-1_37</ee>
 <crossref>conf/wcce/2009</crossref>
 <url>db/conf/wcce/wcce2009.html#RochaWFT09</url>
 </inproceedings>
@@ -586,8 +615,9 @@
 <url>db/conf/edbt/edbt2000phd.html#Fileto00</url>
 </inproceedings>
 </r>
-<coauthors n="91" nc="4">
+<coauthors n="95" nc="4">
 <co c="2"><na f="a/Abreu:Jean_Carlos_Oliveira_de">Jean Carlos Oliveira de Abreu</na></co>
+<co c="2"><na f="a/Alt:Rainer">Rainer Alt</na></co>
 <co c="0"><na f="a/Alves:Jhonatan">Jhonatan Alves</na></co>
 <co c="0"><na f="a/Arboleda:Francisco_Javier_Moreno">Francisco Javier Moreno Arboleda</na></co>
 <co c="0"><na f="a/Assad:Eduardo_Delgado">Eduardo Delgado Assad</na></co>
@@ -622,6 +652,7 @@
 <co c="1"><na f="h/Higa:Roberto_H=">Roberto H. Higa</na></co>
 <co c="0"><na f="i/Isaza:Fernando_Arango">Fernando Arango Isaza</na></co>
 <co c="1"><na f="j/Jimenez:Tom=aacute=s_S=">Tom&#225;s S. Jimenez</na></co>
+<co c="2"><na f="j/J=uacute=nior:Vilmar_C=eacute=sar_Pereira">Vilmar C&#233;sar Pereira J&#250;nior</na></co>
 <co c="0"><na f="k/Kaster:Daniel_S=">Daniel S. Kaster</na></co>
 <co c="1"><na f="k/Kitajima:Koji">Koji Kitajima</na></co>
 <co c="0"><na f="k/Klein:Douglas">Douglas Klein</na></co>
@@ -649,6 +680,7 @@
 <co c="0"><na f="p/Plastino:Alexandre">Alexandre Plastino</na></co>
 <co c="0"><na f="p/Pu:Calton">Calton Pu</na></co>
 <co c="0"><na f="r/Raffaet=agrave=:Alessandra">Alessandra Raffaet&#224;</na></co>
+<co c="2"><na f="r/Reinhold:Olaf">Olaf Reinhold</na></co>
 <co c="0"><na f="r/Renso:Chiara">Chiara Renso</na></co>
 <co c="1"><na f="r/Ribeiro:Andr=eacute=_A=">Andr&#233; A. Ribeiro</na></co>
 <co c="1"><na f="r/Rocchia:Walter">Walter Rocchia</na></co>
@@ -664,6 +696,7 @@
 <co c="-1"><na f="s/Silva:Felipe_P=_da">Felipe P. da Silva</na></co>
 <co c="0"><na f="s/Siqueira:Fernando_de_L=">Fernando de L. Siqueira</na></co>
 <co c="1"><na f="s/Souza:Savio">Savio Souza</na></co>
+<co c="2"><na f="s/Souza:Willian_Santos_de">Willian Santos de Souza</na></co>
 <co c="0"><na f="t/Tazi_0001:Sa=iuml=d">Sa&#239;d Tazi 0001</na></co>
 <co c="0"><na f="t/Tekli:Joe">Joe Tekli</na></co>
 <co c="1"><na f="t/Teshima:Hirofumi">Hirofumi Teshima</na></co>

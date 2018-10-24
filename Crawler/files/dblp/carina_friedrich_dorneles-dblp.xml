@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Carina F. Dorneles" n="22">
+<dblpperson name="Carina F. Dorneles" n="24">
 <person key="homepages/74/2312" mdate="2016-11-22">
 <author>Carina F. Dorneles</author>
 <author>Carina Friedrich Dorneles</author>
@@ -8,6 +8,30 @@
 <url>https://scholar.google.com/citations?user=yERABKUAAAAJ</url>
 <note type="affiliation">Federal University of Santa Catarina, Brazil</note>
 </person>
+<r><inproceedings key="conf/sbbd/KnochenhauerDW18" mdate="2018-08-22">
+<author>Lucas V. Knochenhauer</author>
+<author>Carina F. Dorneles</author>
+<author>Leandro Krug Wives</author>
+<title>WANQA: uma Abordagem para Identificar Novas Quest&#245;es N&#227;o Respond&#237;veis em Comunidades de Perguntas e Respostas.</title>
+<pages>1-12</pages>
+<year>2018</year>
+<booktitle>SBBD</booktitle>
+<ee>http://sbbd.org.br/2018/wp-content/uploads/sites/5/2018/08/001-sbbd_2018-fp.pdf</ee>
+<crossref>conf/sbbd/2018</crossref>
+<url>db/conf/sbbd/sbbd2018.html#KnochenhauerDW18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sbbd/2018" mdate="2018-08-23">
+<editor>Ricardo Choren</editor>
+<editor>Carina F. Dorneles</editor>
+<editor>Maria Camila Nardini Barioni</editor>
+<title>33rd Annual Brazilian Symposium on Databases, SBBD 2018, Rio de Janeiro, RJ, Brazil, August 25-26, 2018.</title>
+<booktitle>SBBD</booktitle>
+<publisher>SBC</publisher>
+<year>2018</year>
+<url>db/conf/sbbd/sbbd2018.html</url>
+</proceedings>
+</r>
 <r><inproceedings key="conf/cikm/VellosoD17" mdate="2017-11-06">
 <author>Roberto Panerai Velloso</author>
 <author>Carina F. Dorneles</author>
@@ -312,11 +336,13 @@
 <url>db/conf/ecweb/ecweb2001.html#VittoriDH01</url>
 </inproceedings>
 </r>
-<coauthors n="32" nc="2">
+<coauthors n="36" nc="3">
 <co c="-1"><na f="a/Amancio:Leandro">Leandro Amancio</na></co>
+<co c="2"><na f="b/Barioni:Maria_Camila_Nardini">Maria Camila Nardini Barioni</na></co>
 <co c="0"><na f="b/Bogorny:Vania">Vania Bogorny</na></co>
 <co c="0"><na f="b/Braganholo:Vanessa">Vanessa Braganholo</na></co>
 <co c="0"><na f="c/Cava:Ricardo_Andrade">Ricardo Andrade Cava</na></co>
+<co c="2"><na f="c/Choren:Ricardo">Ricardo Choren</na></co>
 <co c="0"><na f="d/D=Agostini:Caio_Stein">Caio Stein D'Agostini</na></co>
 <co c="0"><na f="d/Dantas:Mario_A=_R=">Mario A. R. Dantas</na></co>
 <co c="0"><na f="d/Duarte:Denio">Denio Duarte</na></co>
@@ -327,6 +353,7 @@
 <co c="0"><na f="g/Gon=ccedil=alves:Rodrigo">Rodrigo Gon&#231;alves</na></co>
 <co c="0" n="2"><na f="h/Heuser:Carlos_Alberto">Carlos Alberto Heuser</na><na>Carlos A. Heuser</na></co>
 <co c="-1"><na f="j/Jesus:Felipe_Born_de">Felipe Born de Jesus</na></co>
+<co c="0"><na f="k/Knochenhauer:Lucas_V=">Lucas V. Knochenhauer</na></co>
 <co c="1"><na f="l/Lautert:Larissa_R=">Larissa R. Lautert</na></co>
 <co c="0"><na f="l/Lima:Andrei_E=_N=">Andrei E. N. Lima</na></co>
 <co c="0"><na f="m/Manica:Edimar">Edimar Manica</na></co>
@@ -345,6 +372,7 @@
 <co c="-1"><na f="v/Velloso:Roberto_Panerai">Roberto Panerai Velloso</na></co>
 <co c="0"><na f="v/Vittori:C=eacute=sar_M=">C&#233;sar M. Vittori</na></co>
 <co c="0"><na f="w/Winckler:Marco">Marco Winckler</na></co>
+<co c="0"><na f="w/Wives:Leandro_Krug">Leandro Krug Wives</na></co>
 </coauthors>
 </dblpperson>
 

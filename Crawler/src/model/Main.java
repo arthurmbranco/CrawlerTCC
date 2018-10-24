@@ -1,7 +1,16 @@
+package model;
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.Reader;
 import java.io.StringWriter;
+import java.net.URL;
+import java.nio.charset.Charset;
 import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -12,6 +21,8 @@ import javax.xml.transform.TransformerException;
 import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
+import view.GUI;
+import java.io.InputStreamReader;
 
 import org.jsoup.Jsoup;
 import org.jsoup.select.Elements;
@@ -21,10 +32,6 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
-//import org.jsoup.Jsoup;
-//import org.jsoup.nodes.Document;
-//import org.jsoup.nodes.Element;
-//import org.jsoup.select.Elements;
 
 
 public class Main {
@@ -38,7 +45,9 @@ public class Main {
     		Connection conn = DriverManager.getConnection(url, user, password);
     		conn.setAutoCommit(false);
     		Statement myStmt =  conn.createStatement();
+
     		checarNovosCurriculos(conn, myStmt);
+    		GUI.init(conn, myStmt);
     		//myStmt.executeUpdate("DELETE FROM dblp");
     		//myStmt.executeUpdate("DELETE FROM googlescholar");
     		//myStmt.executeUpdate("DELETE FROM researchgate");
@@ -46,14 +55,16 @@ public class Main {
     		//Dblp.parse(conn, myStmt);
     		//GoogleScholar.parse(conn, myStmt);
     		//ResearchGate.parse(conn, myStmt);
+    		
     	}
     	catch(Exception exc){
     		exc.printStackTrace();
     	}
 
     }
-    
-    public static void checarNovosCurriculos(Connection conn, Statement myStmt) {
+
+
+	public static void checarNovosCurriculos(Connection conn, Statement myStmt) {
     	File folder = new File("files/lattes/");
     	File[] listOfFiles = folder.listFiles();    
     	ResultSet myRs;

@@ -1,10 +1,14 @@
+package model;
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.ArrayList;
 import java.util.UUID;
 
 import javax.xml.parsers.DocumentBuilder;
@@ -15,6 +19,8 @@ import org.jsoup.select.Elements;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
+
+import view.GUI;
 
 
 
@@ -30,22 +36,44 @@ public class ResearchGate {
 	static String urlProf;
 	static String tipo;
 	static ResultSet myRs;
-	static int id = 557;
+	static int id = 0;
 	static int idProf;
 	static int cont;
 	static int itensPagina;
 	static Document doc;
 	static info.debatty.java.stringsimilarity.MetricLCS lcs = new info.debatty.java.stringsimilarity.MetricLCS();
+	static int porta;
+	static int nConexoes = 0;
+	static String ip;
+	static String url;
+	static ArrayList<String> list = new ArrayList<String>();
 	
-	static void parse(Connection conn, Statement myStmt) {
+	public static void parse(Connection conn, Statement myStmt) {
 		
 		try {
+	    	
 	    	File folder = new File("files/lattes/");
 	    	File[] listOfFiles = folder.listFiles();
 	    	
+			File file = new File("files/proxy80.txt"); 
+			try {
+				BufferedReader br = new BufferedReader(new FileReader(file)); 
+				String st; 
+					while ((st = br.readLine()) != null) {
+					   list.add(st);
+					}
+				br.close();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} 
+			
+			String[] aux = list.get(0).split(":");
+			ip = aux[0];
+			porta = Integer.parseInt(aux[1]);
+	    	
 	    	for (int k = 0; k < listOfFiles.length; k++) {
-	    		
-	    		Thread.sleep(1000);
+	    		GUI.incrementarBarraRG();
 	    		cont = 1;
 	    		itensPagina = 0;
 	    		DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
@@ -64,8 +92,10 @@ public class ResearchGate {
 				
 	    		if (listOfFiles[k].isFile() && urlProf != null) {
 	    		System.out.println("RESEARCH GATE PARSING PROFESSOR: "+nome);
-	    		doc = Jsoup.connect(urlProf+"/"+cont).userAgent("Teste-arthur-bot").get(); //temporario
-	    			// Dados Lattes
+	    		Thread.sleep(3000);
+	    		doc = getProxy(urlProf+"/"+cont);
+	    		//doc = Jsoup.connect(urlProf+"/"+cont).proxy("187.32.7.131", 80).userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134").get(); //temporario
+	    		// Dados Lattes
 	    		NodeList producao = ((Element)curriculo.item(0)).getElementsByTagName("PRODUCAO-BIBLIOGRAFICA");
 	    		NodeList livrosecapitulos = ((Element)curriculo.item(0)).getElementsByTagName("LIVROS-E-CAPITULOS");		
 	    		NodeList demaistipos = ((Element)curriculo.item(0)).getElementsByTagName("DEMAIS-TIPOS-DE-PRODUCAO-BIBLIOGRAFICA");
@@ -108,8 +138,11 @@ public class ResearchGate {
 					itensPagina += 100;
 					boolean artigoEncontrado = false;
 					int contador = 0;
+					//int testecont = 0;
 					Elements list = doc.getElementsByClass("nova-v-publication-item__stack nova-v-publication-item__stack--gutter-m");
 					for (org.jsoup.nodes.Element element : list) { //Itera sobre todos os artigos do research gate
+						//testecont++;
+			   		//if(testecont >= 90 ) {
 							listaAutores = "";
 							tipo = prepararDados(element);
 							if(tipo.contains("Article") || tipo.contains("Technical Report") || tipo.contains("Conference Paper") || tipo.contains("Chapter") || tipo.contains("Book") ) {
@@ -165,11 +198,13 @@ public class ResearchGate {
 								}
 							} // Se é um artigo de interesse
 							artigoEncontrado = false;
+				//	  } //teste cont
 						} //for RG articles
 					System.out.println("\n NÃO FORAM ENCONTRADOS "+contador+" ARTIGOS!"); //print missing articles for all teachers
 					if(itensPagina < quantidade) { //Só conecta na proxima pagina caso ela exista
-						Thread.sleep(1000);
-						doc = Jsoup.connect(urlProf+"/"+cont).userAgent("Teste-Arthur-bot ").get();
+						Thread.sleep(3000);
+						doc = getProxy(urlProf+"/"+cont);
+						//doc = Jsoup.connect(urlProf+"/"+cont).proxy("187.32.7.131", 80).userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134").get();
 					}
 				}// while all pages
 	    		} // if is a file and url not null
@@ -180,44 +215,95 @@ public class ResearchGate {
 		}
 	}
 	
+	private static Document getProxy(String url) {
+		if(nConexoes > 80) {
+			list.remove(0);
+			String[] aux = list.get(0).split(":");
+			ip = aux[0];
+			porta = Integer.parseInt(aux[1]);
+			nConexoes = 0;
+		}
+		nConexoes++;
+		org.jsoup.nodes.Document doc = null;
+		boolean alive = false;
+		while(!alive) {
+			try {
+				doc = Jsoup.connect(url).proxy(ip, porta).userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134").get();
+				alive = true;
+				System.out.println("Conectou-se através do ip:porta > " + ip+":"+porta);
+			}catch(IOException ioe){
+				nConexoes = 0;
+				list.remove(0);
+				String[] aux = list.get(0).split(":");
+	    		ip = aux[0];
+	    		porta = Integer.parseInt(aux[1]);
+				System.out.println("Falhou!");
+	        }
+		}
+		return doc;
+	}
+	
 	private static String prepararDados(org.jsoup.nodes.Element element) {
 		String tipo = "";
 		url1 = "";
 		anoRG = null;
-		if(element.child(0).child(0).child(0).attr("class").contains("nova-c-image-strip")) {
+		if((element.child(0).child(0).child(0).attr("class").contains("nova-c-image-strip")) && element.child(0).child(0).child(0).child(0).attr("class").contains("nova-c-image-strip__container")) {
 			url1 = ((org.jsoup.nodes.Element) element).child(1).child(0).child(0).attr("href");
-			org.jsoup.nodes.Element autores = ((org.jsoup.nodes.Element) element).child(3).child(0);
+			//org.jsoup.nodes.Element autores = ((org.jsoup.nodes.Element) element).child(3).child(0);
+			org.jsoup.nodes.Element autores = null;
+			for(int i = 0; i < element.childNodeSize(); i++) {
+				if(element.child(i).child(0).attr("class").contains("nova-e-list")) {
+					autores = ((org.jsoup.nodes.Element) element).child(i).child(0);
+				}
+			}
 			tituloResearchGate = element.child(1).child(0).text();
 			tipo = element.child(2).child(0).child(0).child(0).child(0).text();
-			if(element.child(2).child(0).child(1).childNodeSize() != 0) {
-				String auxAno = element.child(2).child(0).child(1).child(0).child(0).text();
+			anoRG = null;
+			if(element.child(2).child(0).childNodeSize() >= 2 && element.child(2).child(0).child(2).childNodeSize() != 0) {
+				String auxAno = element.child(2).child(0).child(2).child(0).child(0).text();
                 if(auxAno.substring(auxAno.length()-4).matches("[0-9]+"))
                     anoRG = Integer.parseInt(auxAno.substring(auxAno.length()-4));
 			}
-			for(int j = 0; j < autores.childNodeSize(); j++) {
-				if(!autores.child(j).child(0).text().contains("[")) {
-					listaAutores += autores.child(j).child(0).text();
-					if(j != autores.childNodeSize()-1)
-						listaAutores += ", ";
+			if(autores != null) {
+				for(int j = 0; j < autores.childNodeSize(); j++) {
+					if(!autores.child(j).text().contains("[")) {
+						listaAutores += autores.child(j).text() + ", ";
+					}
 				}
+				listaAutores = listaAutores.substring(0, listaAutores.length() - 2);
 			}
+			
 		}
 		else {
 			url1 = ((org.jsoup.nodes.Element) element).child(0).child(0).child(0).attr("href");
-			org.jsoup.nodes.Element autores = ((org.jsoup.nodes.Element) element).child(2).child(0);
+			org.jsoup.nodes.Element autores = null;
+			for(int i = 0; i < element.childNodeSize(); i++) {
+				if(element.child(i).child(0).attr("class").contains("nova-e-list")) {
+					autores = ((org.jsoup.nodes.Element) element).child(i).child(0);
+				}
+			}
 			tituloResearchGate = element.child(0).child(0).text();
 			tipo = element.child(1).child(0).child(0).child(0).child(0).text();
-			if(element.child(1).child(0).child(1).childNodeSize() != 0) {
-				 String auxAno = element.child(1).child(0).child(1).child(0).child(0).text();
+//			System.out.println("Nome: "+ element.className());
+//			System.out.println("Filhos: "+ element.childNodeSize());
+//			System.out.println("Texto: " + element.text());
+//			for(int i = 0; i < element.childNodeSize(); i++) {
+//				System.out.println("Texto do filho: " + element.child(i).text());
+//				System.out.println("Classe do filho: " + element.child(i).className());
+//			}
+			anoRG = null;
+			if(element.child(1).child(0).childNodeSize() > 2 && element.child(1).child(0).child(2).childNodeSize() != 0) {
+				 String auxAno = element.child(1).child(0).child(2).child(0).child(0).text();
 	             if(auxAno.substring(auxAno.length()-4).matches("[0-9]+"))
 	            	 anoRG = Integer.parseInt(auxAno.substring(auxAno.length()-4));
 			}
-			for(int j = 0; j < autores.childNodeSize(); j++) {
-				if(!autores.child(j).child(0).text().contains("[")) {
-					listaAutores += autores.child(j).child(0).text();
-					if(j != autores.childNodeSize()-1)
-						listaAutores += ", ";
+			if(autores != null) {
+				for(int j = 0; j < autores.childNodeSize(); j++) {
+					if(!autores.child(j).text().contains("[")) {
+						listaAutores += autores.child(j).text() + ", ";
+					}
 				}
+				listaAutores = listaAutores.substring(0, listaAutores.length() - 2);
 			}
 		}
 		return tipo;
@@ -227,9 +313,10 @@ public class ResearchGate {
 		 id++;
 		 String url = "https://www.researchgate.net/";
 		 try {
-			 Thread.sleep(1000);
-			 doc = Jsoup.connect(url+url1).userAgent("Teste-Arthur-Bot").get();
-		} catch (IOException | InterruptedException e1) {
+			 Thread.sleep(3000);
+			 doc = getProxy(url+url1);
+			 //doc = Jsoup.connect(url+url1).proxy("187.32.7.131", 80).userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134").get();
+		} catch (InterruptedException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}
@@ -238,7 +325,7 @@ public class ResearchGate {
 		 String conferencia = null;
 		 for (org.jsoup.nodes.Element element1 : list) { 
 			 doi = element1.ownText();
-			 if(element1.child(0).nodeName() == "span") {
+			 if(element1.children().size() > 0 && element1.child(0).nodeName() == "span") {
 				 if(element1.child(0).children().size() != 1) {
 					 conferencia = element1.child(0).child(0).text(); //span tem elemento filho
 				 }
@@ -326,17 +413,17 @@ public class ResearchGate {
 //		 System.out.println("Distancia > " + lcs.distance(tituloLattes, tituloGoogle) +"\n");
 //		 }
 		 
-		 if(lcs.distance(tituloLattes, auxTitulo) < 0.1) { // Os titulos são praticamente iguais ou iguais
+		 if(lcs.distance(tituloLattes, auxTitulo) < 0.3) { // Os titulos são praticamente iguais ou iguais
 			 return true;
 		 }
-		 else if(lcs.distance(tituloLattes, auxTitulo) < 0.3) { // Os titulos são similares logo os artigos são provavelmente os mesmos
+		 else if(lcs.distance(tituloLattes, auxTitulo) < 0.5) { // Os titulos são similares logo os artigos são provavelmente os mesmos
 				 if(anoRG == null || anoRG == anoLattes) { //Ano igual e texto similiar = Mesmo artigo
 					 return true;
 				 }
 		 }
 				 
 		 
-		 else if(lcs.distance(tituloLattes, auxTitulo) < 0.7) { //Os titulos não são muito similares, mas ainda é necessario verificar outras variaveis para ter certeza
+		 else if(lcs.distance(tituloLattes, auxTitulo) < 0.8) { //Os titulos não são muito similares, mas ainda é necessario verificar outras variaveis para ter certeza
 			    if(anoRG != null && anoRG == anoLattes) { //Aqui achou todos os autores, ano é o mesmo, e o texto é semi parecido então o artigo é o mesmo
 			    Element l = (Element) rootLattes;
 			    NodeList autoresLattes = l.getElementsByTagName("AUTORES");
@@ -345,8 +432,8 @@ public class ResearchGate {
 			 	if(element.child(0).child(0).child(0).attr("class").contains("nova-c-image-strip")) { //Artigo para download
 					org.jsoup.nodes.Element autores = ((org.jsoup.nodes.Element) element).child(3).child(0);
 					for(int j = 0; j < autores.childNodeSize(); j++) {
-						if(!autores.child(j).child(0).text().contains("[")) {
-							String[] autoresAux = autores.child(j).child(0).text().split(" ");
+						if(!autores.child(j).text().contains("[")) {
+							String[] autoresAux = autores.child(j).text().split(" ");
 							String sobrenome = autoresAux[autoresAux.length-1].toLowerCase();
 					    	 for(int i = 0; i < autoresLattes.getLength(); i++ ) {
 					    		 Element aux = (Element) autoresLattes.item(i);
@@ -366,8 +453,8 @@ public class ResearchGate {
 				else {
 					org.jsoup.nodes.Element autores = ((org.jsoup.nodes.Element) element).child(2).child(0);
 					for(int j = 0; j < autores.childNodeSize(); j++) {
-						if(!autores.child(j).child(0).text().contains("[")) {
-							String[] autoresAux = autores.child(j).child(0).text().split(" ");
+						if(!autores.child(j).text().contains("[")) {
+							String[] autoresAux = autores.child(j).text().split(" ");
 							String sobrenome = autoresAux[autoresAux.length-1].toLowerCase();
 					    	 for(int i = 0; i < autoresLattes.getLength(); i++ ) {
 					    		 Element aux = (Element) autoresLattes.item(i);

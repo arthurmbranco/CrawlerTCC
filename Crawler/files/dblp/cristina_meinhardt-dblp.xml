@@ -1,10 +1,73 @@
 <?xml version="1.0"?>
-<dblpperson name="Cristina Meinhardt" n="32">
+<dblpperson name="Cristina Meinhardt" n="37">
 <person key="homepages/38/1116" mdate="2015-10-31">
 <author>Cristina Meinhardt</author>
 <note type="affiliation">Federal University of Rio Grande, Brazil</note>
 <url>https://www.linkedin.com/pub/cristina-meinhardt/8/4b6/262</url>
 </person>
+<r><article key="journals/mr/ZimpeckMAHKR18" mdate="2018-10-16">
+<author>Alexandra L. Zimpeck</author>
+<author>Cristina Meinhardt</author>
+<author>Laurent Artola</author>
+<author>Guillaume Hubert</author>
+<author>Fernanda Lima Kastensmidt</author>
+<author>Ricardo Augusto da Luz Reis</author>
+<title>Impact of different transistor arrangements on gate variability.</title>
+<pages>111-115</pages>
+<year>2018</year>
+<volume>88</volume>
+<journal>Microelectronics Reliability</journal>
+<ee>https://doi.org/10.1016/j.microrel.2018.06.090</ee>
+<url>db/journals/mr/mr88.html#ZimpeckMAHKR18</url>
+</article>
+</r>
+<r><article key="journals/mr/MoraesZMR18" mdate="2018-10-16">
+<author>L. B. Moraes</author>
+<author>Alexandra L. Zimpeck</author>
+<author>Cristina Meinhardt</author>
+<author>Ricardo Augusto da Luz Reis</author>
+<title>Evaluation of variability using Schmitt trigger on full adders layout.</title>
+<pages>116-121</pages>
+<year>2018</year>
+<volume>88</volume>
+<journal>Microelectronics Reliability</journal>
+<ee>https://doi.org/10.1016/j.microrel.2018.07.061</ee>
+<url>db/journals/mr/mr88.html#MoraesZMR18</url>
+</article>
+</r>
+<r><article key="journals/mr/AlmeidaMBSRM18" mdate="2018-10-16">
+<author>R. B. Almeida</author>
+<author>C. M. Marques</author>
+<author>Paulo F. Butzen</author>
+<author>Fabio G. R. G. da Silva</author>
+<author>Ricardo A. L. Reis</author>
+<author>Cristina Meinhardt</author>
+<title>Analysis of 6&#8239;T SRAM cell in sub-45&#8239;nm CMOS and FinFET technologies.</title>
+<pages>196-202</pages>
+<year>2018</year>
+<volume>88</volume>
+<journal>Microelectronics Reliability</journal>
+<ee>https://doi.org/10.1016/j.microrel.2018.07.134</ee>
+<url>db/journals/mr/mr88.html#AlmeidaMBSRM18</url>
+</article>
+</r>
+<r><inproceedings key="conf/lascas/SchvittzPMFNRB18" mdate="2018-07-12">
+<author>R. B. Schvittz</author>
+<author>M. Pontes</author>
+<author>Cristina Meinhardt</author>
+<author>Denis Teixeira Franco</author>
+<author>Lirida A. B. Naviner</author>
+<author>L. S. da Rosa</author>
+<author>Paulo F. Butzen</author>
+<title>Reliability evaluation of circuits designed in multi- and single-stage versions.</title>
+<pages>1-4</pages>
+<year>2018</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS.2018.8399927</ee>
+<crossref>conf/lascas/2018</crossref>
+<url>db/conf/lascas/lascas2018.html#SchvittzPMFNRB18</url>
+</inproceedings>
+</r>
 <r><article key="journals/mr/BartraAMVR17" mdate="2017-12-21">
 <author>Walter E. Calienes Bartra</author>
 <author>Y. Q. de Aguiar</author>
@@ -103,6 +166,19 @@
 <ee>https://doi.org/10.1109/ISCAS.2017.8050441</ee>
 <crossref>conf/iscas/2017</crossref>
 <url>db/conf/iscas/iscas2017.html#ZimpeckAMR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/AguiarMR17" mdate="2018-07-16">
+<author>Ygor Q. de Aguiar</author>
+<author>Cristina Meinhardt</author>
+<author>Ricardo A. L. Reis</author>
+<title>Radiation sensitivity of XOR topologies in multigate technologies under voltage variability.</title>
+<pages>1-4</pages>
+<year>2017</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS.2017.7948075</ee>
+<crossref>conf/lascas/2017</crossref>
+<url>db/conf/lascas/lascas2017.html#AguiarMR17</url>
 </inproceedings>
 </r>
 <r><article key="journals/mr/AguiarZMR16" mdate="2017-12-28">
@@ -453,9 +529,9 @@
 <url>db/conf/isvlsi/isvlsi2006.html#MenezesMRT06</url>
 </inproceedings>
 </r>
-<coauthors n="30" nc="2">
-<co c="0"><na f="a/Aguiar:Y=_Q=_de">Y. Q. de Aguiar</na></co>
-<co c="0" n="2"><na f="a/Aguiar:Ygor">Ygor Aguiar</na><na>Ygor Q. Aguiar</na></co>
+<coauthors n="35" nc="2">
+<co c="0" n="4"><na f="a/Aguiar:Ygor">Ygor Aguiar</na><na>Ygor Q. Aguiar</na><na>Y. Q. de Aguiar</na><na>Ygor Q. de Aguiar</na></co>
+<co c="0"><na f="a/Almeida:R=_B=">R. B. Almeida</na></co>
 <co c="0"><na f="a/Ames:Stephanie_O=">Stephanie O. Ames</na></co>
 <co c="0"><na f="a/Artola:Laurent">Laurent Artola</na></co>
 <co c="0"><na f="b/Bartra:Walter_E=_Calienes">Walter E. Calienes Bartra</na></co>
@@ -468,13 +544,18 @@
 <co c="0"><na f="k/Kastensmidt:Fernanda_Lima">Fernanda Lima Kastensmidt</na></co>
 <co c="0"><na f="l/Liebl:Eduardo">Eduardo Liebl</na></co>
 <co c="1"><na f="l/Lucena:Vinicius">Vinicius Lucena</na></co>
+<co c="0"><na f="m/Marques:C=_M=">C. M. Marques</na></co>
 <co c="0"><na f="m/Menezes:Claudio">Claudio Menezes</na></co>
+<co c="0"><na f="m/Moraes:L=_B=">L. B. Moraes</na></co>
 <co c="0"><na f="n/Naviner:Lirida_A=_B=">Lirida A. B. Naviner</na></co>
 <co c="0"><na f="o/Oliveira:Ingrid_F=_V=">Ingrid F. V. Oliveira</na></co>
+<co c="0"><na f="p/Pontes:M=">M. Pontes</na></co>
 <co c="0"><na f="p/Posser:Gracieli">Gracieli Posser</na></co>
 <co c="0" n="3"><na f="r/Reis:Ricardo_Augusto_da_Luz">Ricardo Augusto da Luz Reis</na><na>Ricardo A. L. Reis</na><na>Ricardo Reis</na></co>
 <co c="0"><na f="r/Reorda:Matteo_Sonza">Matteo Sonza Reorda</na></co>
+<co c="0"><na f="r/Rosa:L=_S=_da">L. S. da Rosa</na></co>
 <co c="0"><na f="s/Schivittz:Rafael_B=">Rafael B. Schivittz</na></co>
+<co c="0"><na f="s/Schvittz:R=_B=">R. B. Schvittz</na></co>
 <co c="0"><na f="s/Silva:Fabio_G=_R=_G=_da">Fabio G. R. G. da Silva</na></co>
 <co c="0"><na f="t/Tavares:Reginaldo">Reginaldo Tavares</na></co>
 <co c="0"><na f="t/Terres:Marco">Marco Terres</na></co>

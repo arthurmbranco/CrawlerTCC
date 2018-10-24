@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Luciana Rech" n="18">
+<dblpperson name="Luciana Rech" n="19">
 <person key="homepages/30/3196" mdate="2011-09-08">
 <author>Luciana Rech</author>
 <author>Luciana de Oliveira Rech</author>
@@ -19,6 +19,21 @@
 <ee>http://doi.ieeecomputersociety.org/10.1109/ICOIN.2018.8343095</ee>
 <crossref>conf/icoin/2018</crossref>
 <url>db/conf/icoin/icoin2018.html#NeiheiserPRBR018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indin/CasagrandeMMMR18" mdate="2018-10-12">
+<author>R. Casagrande</author>
+<author>R. Moraes</author>
+<author>Carlos Montez</author>
+<author>A. S. Morales</author>
+<author>Luciana Rech</author>
+<title>Interference of IEEE 802.11n Networks upon IEEE 802.15.4-Based WBANs: An Experimental Study.</title>
+<pages>388-393</pages>
+<year>2018</year>
+<booktitle>INDIN</booktitle>
+<ee>https://doi.org/10.1109/INDIN.2018.8471974</ee>
+<crossref>conf/indin/2018</crossref>
+<url>db/conf/indin/indin2018.html#CasagrandeMMMR18</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/isorc/MagalhaesRM17" mdate="2017-07-07">
@@ -164,7 +179,7 @@
 <url>db/conf/etfa/etfa2010.html#MagalhaesRLO10</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/ifip12/MagalhaesLR10" mdate="2017-05-21">
+<r><inproceedings key="conf/ifip12/MagalhaesLR10" mdate="2018-06-26">
 <author>Alex Magalh&#227;es</author>
 <author>Lau Cheuk Lung</author>
 <author>Luciana Rech</author>
@@ -172,7 +187,7 @@
 <pages>246-253</pages>
 <year>2010</year>
 <booktitle>AIAI</booktitle>
-<ee>https://doi.org/10.1007/978-3-642-16239-8_33</ee>
+<ee type="oa">https://doi.org/10.1007/978-3-642-16239-8_33</ee>
 <crossref>conf/ifip12/2010aiai</crossref>
 <url>db/conf/ifip12/aiai2010.html#MagalhaesLR10</url>
 </inproceedings>
@@ -261,10 +276,11 @@
 <url>db/conf/iat/iat2005.html#RechOM05</url>
 </inproceedings>
 </r>
-<coauthors n="24" nc="1">
+<coauthors n="27" nc="1">
 <co c="0"><na f="b/Bravo:Manuel">Manuel Bravo</na></co>
 <co c="0" n="2"><na f="c/Camargos:L=aacute=saro_J=">L&#225;saro J. Camargos</na><na>L&#225;saro Jonas Camargos</na></co>
 <co c="0"><na f="c/Campos:Antonio_J=_R=_de">Antonio J. R. de Campos</na></co>
+<co c="0"><na f="c/Casagrande:R=">R. Casagrande</na></co>
 <co c="0"><na f="c/Cecin:F=aacute=bio_Reis">F&#225;bio Reis Cecin</na></co>
 <co c="0"><na f="c/Correia_0001:Miguel">Miguel Correia 0001</na></co>
 <co c="0"><na f="f/Filgueiras:Tatiana_Pereira">Tatiana Pereira Filgueiras</na></co>
@@ -276,7 +292,9 @@
 <co c="0"><na f="m/Magalh=atilde=es:Alex">Alex Magalh&#227;es</na></co>
 <co c="0"><na f="m/Magnabosco:Leandro_Quibem">Leandro Quibem Magnabosco</na></co>
 <co c="0"><na f="m/Montez:Carlos">Carlos Montez</na></co>
+<co c="0"><na f="m/Moraes:R=">R. Moraes</na></co>
 <co c="0"><na f="m/Moraes:Ricardo">Ricardo Moraes</na></co>
+<co c="0"><na f="m/Morales:A=_S=">A. S. Morales</na></co>
 <co c="0"><na f="n/Neiheiser:Ray">Ray Neiheiser</na></co>
 <co c="0"><na f="o/Oliveira:R=ocirc=mulo_Silva_de">R&#244;mulo Silva de Oliveira</na></co>
 <co c="0"><na f="p/Presser:Daniel">Daniel Presser</na></co>

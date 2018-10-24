@@ -1,10 +1,23 @@
 <?xml version="1.0"?>
-<dblpperson name="Vania Bogorny" n="51">
+<dblpperson name="Vania Bogorny" n="54">
 <person key="homepages/16/2965" mdate="2016-03-03">
 <author>Vania Bogorny</author>
 <note type="affiliation">Federal University of Santa Catarina, Brazil</note>
 <url>http://www.inf.ufsc.br/~vania/</url>
 </person>
+<r><article key="journals/dke/FurtadoPB18" mdate="2018-06-28">
+<author>Andre Salvaro Furtado</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Vania Bogorny</author>
+<title>A branch and bound strategy for Fast Trajectory Similarity Measuring.</title>
+<pages>16-31</pages>
+<year>2018</year>
+<volume>115</volume>
+<journal>Data Knowl. Eng.</journal>
+<ee>https://doi.org/10.1016/j.datak.2018.01.003</ee>
+<url>db/journals/dke/dke115.html#FurtadoPB18</url>
+</article>
+</r>
 <r><article key="journals/gis/FurtadoAPTB18" mdate="2017-12-28">
 <author orcid="0000-0002-3714-7167">Andre Salvaro Furtado</author>
 <author>Luis Ot&#225;vio Campos Alvares</author>
@@ -19,6 +32,33 @@
 <number>1</number>
 <ee>https://doi.org/10.1080/13658816.2017.1372763</ee>
 <url>db/journals/gis/gis32.html#FurtadoAPTB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/FerreroAZB18" mdate="2018-07-04">
+<author>Carlos Andres Ferrero</author>
+<author>Luis Ot&#225;vio Alvares</author>
+<author>Willian Zalewski</author>
+<author>Vania Bogorny</author>
+<title>MOVELETS: exploring relevant subtrajectories for robust trajectory classification.</title>
+<pages>849-856</pages>
+<year>2018</year>
+<booktitle>SAC</booktitle>
+<ee>http://doi.acm.org/10.1145/3167132.3167225</ee>
+<crossref>conf/sac/2018</crossref>
+<url>db/conf/sac/sac2018.html#FerreroAZB18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-00554" mdate="2018-09-02">
+<author>Andrea Esuli</author>
+<author>Lucas May Petry</author>
+<author>Chiara Renso</author>
+<author>Vania Bogorny</author>
+<title>Traj2User: exploiting embeddings for computing similarity of users mobile behavior.</title>
+<year>2018</year>
+<volume>abs/1808.00554</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.00554</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-00554</url>
 </article>
 </r>
 <r><article key="journals/cai/ArboledaBP17" mdate="2017-07-12">
@@ -309,11 +349,11 @@
 <url>db/conf/ssd/sstd2013.html#RinzivilloSGRB13</url>
 </inproceedings>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-1303-5132" mdate="2017-06-07">
+<r><article publtype="informal" key="journals/corr/abs-1303-5132" mdate="2018-08-13">
 <author>Vitor Cunha Fontes</author>
 <author>Vania Bogorny</author>
 <title>Discovering Semantic Spatial and Spatio-Temporal Outliers from Moving Object Trajectories</title>
-<ee>http://arxiv.org/abs/1303.5132</ee>
+<ee type="oa">http://arxiv.org/abs/1303.5132</ee>
 <year>2013</year>
 <journal>CoRR</journal>
 <volume>abs/1303.5132</volume>
@@ -330,7 +370,7 @@
 <url>db/conf/geoinfo/geoinfo2012.html</url>
 </proceedings>
 </r>
-<r><article key="journals/jbcs/AlvaresLRB11" mdate="2017-06-06">
+<r><article key="journals/jbcs/AlvaresLRB11" mdate="2018-06-26">
 <author>Luis Ot&#225;vio Alvares</author>
 <author>Alisson Moscato Loy</author>
 <author orcid="0000-0002-1763-2966">Chiara Renso</author>
@@ -341,7 +381,7 @@
 <volume>17</volume>
 <journal>J. Braz. Comp. Soc.</journal>
 <number>3</number>
-<ee>https://doi.org/10.1007/s13173-011-0037-3</ee>
+<ee type="oa">https://doi.org/10.1007/s13173-011-0037-3</ee>
 <url>db/journals/jbcs/jbcs17.html#AlvaresLRB11</url>
 </article>
 </r>
@@ -360,7 +400,7 @@
 <url>db/journals/jidm/jidm2.html#MelloFDB11</url>
 </article>
 </r>
-<r><article key="journals/kais/RensoBX11" mdate="2017-06-06">
+<r><article key="journals/kais/RensoBX11" mdate="2018-06-26">
 <author orcid="0000-0002-1763-2966">Chiara Renso</author>
 <author>Vania Bogorny</author>
 <author>Hui Xiong</author>
@@ -370,7 +410,7 @@
 <volume>28</volume>
 <journal>Knowl. Inf. Syst.</journal>
 <number>2</number>
-<ee>https://doi.org/10.1007/s10115-011-0436-y</ee>
+<ee type="oa">https://doi.org/10.1007/s10115-011-0436-y</ee>
 <url>db/journals/kais/kais28.html#RensoBX11</url>
 </article>
 </r>
@@ -592,13 +632,13 @@
 <url>db/conf/sbbd/sbbd2008.html#BogornyS08</url>
 </inproceedings>
 </r>
-<r><incollection key="series/springer/RinzivilloTBKKM08" mdate="2017-06-09">
+<r><incollection key="series/springer/RinzivilloTBKKM08" mdate="2018-08-27">
 <author orcid="0000-0003-4404-4147">Salvatore Rinzivillo</author>
 <author>Franco Turini</author>
 <author>Vania Bogorny</author>
 <author>Christine K&#246;rner</author>
 <author>Bart Kuijpers</author>
-<author>Michael May</author>
+<author>Michael May 0001</author>
 <title>Knowledge Discovery from Geographical Data.</title>
 <pages>243-265</pages>
 <year>2008</year>
@@ -608,13 +648,13 @@
 <url>db/series/springer/mdmp2008.html#RinzivilloTBKKM08</url>
 </incollection>
 </r>
-<r><inproceedings publtype="informal" key="conf/dagstuhl/BogornyA08" mdate="2017-07-09">
+<r><inproceedings publtype="informal" key="conf/dagstuhl/BogornyA08" mdate="2018-08-23">
 <author>Vania Bogorny</author>
 <author>Luis Ot&#225;vio Alvares</author>
 <title>Semantic Trajectory Data Mining: a User Driven Approach.</title>
 <year>2008</year>
 <booktitle>Geographic Privacy-Aware Knowledge Discovery and Delivery</booktitle>
-<ee>http://drops.dagstuhl.de/opus/volltexte/2009/2009/</ee>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2009/2009/</ee>
 <crossref>conf/dagstuhl/2008P8471</crossref>
 <url>db/conf/dagstuhl/P8471.html#BogornyA08</url>
 </inproceedings>
@@ -730,7 +770,7 @@
 <url>db/conf/sbbd/sbbd2001.html#BogornyI01</url>
 </inproceedings>
 </r>
-<coauthors n="71" nc="1">
+<coauthors n="75" nc="1">
 <co c="0"><na f="a/Alavares:Luis">Luis Alavares</na></co>
 <co c="0"><na f="a/Alencar:Lucas_Andre_de">Lucas Andre de Alencar</na></co>
 <co c="0" n="2"><na f="a/Alvares:Luis_Ot=aacute=vio">Luis Ot&#225;vio Alvares</na><na>Luis Ot&#225;vio Campos Alvares</na></co>
@@ -749,6 +789,7 @@
 <co c="0"><na f="d/Donatiello:Giuseppe">Giuseppe Donatiello</na></co>
 <co c="0"><na f="d/Dorneles:Carina_F=">Carina F. Dorneles</na></co>
 <co c="0"><na f="e/Engel:Paulo_Martins">Paulo Martins Engel</na></co>
+<co c="0"><na f="e/Esuli:Andrea">Andrea Esuli</na></co>
 <co c="0"><na f="f/Ferrero:Carlos_Andres">Carlos Andres Ferrero</na></co>
 <co c="0"><na f="f/Fileto:Renato">Renato Fileto</na></co>
 <co c="0"><na f="f/Fontes:Vitor_Cunha">Vitor Cunha Fontes</na></co>
@@ -767,7 +808,7 @@
 <co c="0"><na f="l/Loy:Alisson_Moscato">Alisson Moscato Loy</na></co>
 <co c="0" n="2"><na f="m/Mac=ecirc=do:Jos=eacute=_A=_F=_de">Jos&#233; A. F. de Mac&#234;do</na><na>Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</na></co>
 <co c="0"><na f="m/May:Cleto">Cleto May</na></co>
-<co c="0"><na f="m/May:Michael">Michael May</na></co>
+<co c="0"><na f="m/May_0001:Michael">Michael May 0001</na></co>
 <co c="0"><na f="m/Mello:Ronaldo_dos_Santos">Ronaldo dos Santos Mello</na></co>
 <co c="0"><na f="m/Moelans:Bart">Bart Moelans</na></co>
 <co c="0"><na f="m/Monreale:Anna">Anna Monreale</na></co>
@@ -782,6 +823,8 @@
 <co c="0"><na f="p/Paula:Bruno_Cesar_de">Bruno Cesar de Paula</na></co>
 <co c="0"><na f="p/Pedreschi:Dino">Dino Pedreschi</na></co>
 <co c="0"><na f="p/Pelekis:Nikos">Nikos Pelekis</na></co>
+<co c="0"><na f="p/Petry:Lucas_May">Lucas May Petry</na></co>
+<co c="0"><na f="p/Pilla:La=eacute=rcio_Lima">La&#233;rcio Lima Pilla</na></co>
 <co c="0"><na f="p/Pineda:Andr=eacute=s_Felipe">Andr&#233;s Felipe Pineda</na></co>
 <co c="0"><na f="p/Pusiol:Guido">Guido Pusiol</na></co>
 <co c="0"><na f="r/Raffaet=agrave=:Alessandra">Alessandra Raffaet&#224;</na></co>
@@ -802,6 +845,7 @@
 <co c="-1"><na f="v/Vinhas:L=uacute=bia">L&#250;bia Vinhas</na></co>
 <co c="0"><na f="x/Xiong:Hui">Hui Xiong</na></co>
 <co c="0"><na f="y/Yan:Zhixian">Zhixian Yan</na></co>
+<co c="0"><na f="z/Zalewski:Willian">Willian Zalewski</na></co>
 </coauthors>
 </dblpperson>
 

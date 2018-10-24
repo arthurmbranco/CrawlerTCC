@@ -1,8 +1,18 @@
 <?xml version="1.0"?>
-<dblpperson name="Rafael Luiz Cancian" n="6">
+<dblpperson name="Rafael Luiz Cancian" n="7">
 <person key="homepages/71/6603" mdate="2009-06-10">
 <author>Rafael Luiz Cancian</author>
 </person>
+<r><phdthesis key="phd/ndltd/Cancian11" mdate="2018-07-23">
+<author>Rafael Luiz Cancian</author>
+<title>Um Modelo evolucion&#225;rio de otimiza&#231;&#227;o multiobjetivo para explora&#231;&#227;o do espa&#231;o de projeto em sistemas embarcados.</title>
+<year>2011</year>
+<school>Federal University of Santa Catarina, Brazil</school>
+<ee>http://repositorio.ufsc.br/xmlui/handle/123456789/94763</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:repositorio.ufsc.br:123456789/94763</ee>
+<note type="source">ndltd.org (oai:repositorio.ufsc.br:123456789/94763)</note>
+</phdthesis>
+</r>
 <r><inproceedings key="conf/cse/MarcondesCSF09" mdate="2017-05-24">
 <author>Hugo Marcondes</author>
 <author>Rafael Luiz Cancian</author>

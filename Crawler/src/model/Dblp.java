@@ -1,3 +1,4 @@
+package model;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.sql.Connection;
@@ -16,6 +17,8 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+import view.GUI;
+
 public class Dblp {
 	static String tituloLattes;
 	static int anoLattes;
@@ -33,16 +36,17 @@ public class Dblp {
 	static int idProf;
 	static ResultSet myRs;
 	static info.debatty.java.stringsimilarity.MetricLCS lcs = new info.debatty.java.stringsimilarity.MetricLCS();
+	static int total = 0;
 	
-	static void parse(Connection conn, Statement myStmt) {
+	public static void parse(Connection conn, Statement myStmt) {
 		
 		try {
 			
 	    	File folder = new File("files/lattes/");
 	    	File[] listOfFiles = folder.listFiles();
-	
 	    	for (int k = 0; k < listOfFiles.length; k++) {
-	    		if (listOfFiles[k].isFile()) {
+	    	GUI.incrementarBarraDBLP();
+	    	if (listOfFiles[k].isFile()) {
 	    	existe = true;
     		DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
     		DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
@@ -55,7 +59,7 @@ public class Dblp {
     		NodeList producao = ((Element)curriculo.item(0)).getElementsByTagName("PRODUCAO-BIBLIOGRAFICA");
     		NodeList livrosecapitulos = ((Element)curriculo.item(0)).getElementsByTagName("LIVROS-E-CAPITULOS");
     		
-    		//NodeList demaistipos = ((Element)curriculo.item(0)).getElementsByTagName("DEMAIS-TIPOS-DE-PRODUCAO-BIBLIOGRAFICA");
+    		NodeList demaistipos = ((Element)curriculo.item(0)).getElementsByTagName("DEMAIS-TIPOS-DE-PRODUCAO-BIBLIOGRAFICA");
 			
     		// Montar documento dblp a partir do nome do lattes
     		
@@ -84,23 +88,30 @@ public class Dblp {
     		if(livrosecapitulos.getLength() != 0)
     			capitulos = ((Element)livrosecapitulos.item(0)).getElementsByTagName("CAPITULOS-DE-LIVROS-PUBLICADOS");
 
+    		total += artigo.getLength()+trabalho.getLength();
 			//Demais tipos
-//    		NodeList outraproducao = null;
-//    		if(demaistipos.getLength() != 0)
-//    			outraproducao = ((Element)demaistipos.item(0)).getElementsByTagName("OUTRA-PRODUCAO-BIBLIOGRAFICA");
+    		NodeList outraproducao = null;
+    		if(demaistipos.getLength() != 0) {
+    			outraproducao = ((Element)demaistipos.item(0)).getElementsByTagName("OUTRA-PRODUCAO-BIBLIOGRAFICA");
+    			total += outraproducao.getLength();
+    		}
 			
     		NodeList livro = null;
     		NodeList capitulo = null;
 
+    		
 			if(livros != null && livros.getLength() != 0) {
 				livro =  ((Element)livros.item(0)).getElementsByTagName("LIVRO-PUBLICADO-OU-ORGANIZADO");
+				total += livro.getLength();
 			}
 			if(capitulos != null && capitulos.getLength() != 0) {
 				capitulo =  ((Element)capitulos.item(0)).getElementsByTagName("CAPITULO-DE-LIVRO-PUBLICADO");
+				total += capitulo.getLength();
 			}
 			//Dados DBLP
 			NodeList dblpperson = dblp.getElementsByTagName("dblpperson");
     		NodeList r =  ((Element)dblpperson.item(0)).getElementsByTagName("r");
+    		
     		
 			boolean artigoEncontrado = false;
 			int contador = 0;
@@ -130,6 +141,12 @@ public class Dblp {
 					 tituloDBLP = tituloDBLP.toLowerCase();
 
 					 if(iterarArtigos(artigo, aux))
+						 artigoEncontrado = true;
+					 if(iterarTrabalhosInProceedings(trabalho, aux))
+						 artigoEncontrado = true; 
+					 if(livro != null && iterarLivros(livro))
+						 artigoEncontrado = true; 
+					 if(capitulo != null && iterarCapitulos(capitulo))
 						 artigoEncontrado = true; 
 				 }
 				 else if(rootDBLP.getNodeName() == "inproceedings") {
@@ -163,7 +180,7 @@ public class Dblp {
 					 tituloDBLP = titulo.getTextContent();
 					 tituloDBLP = tituloDBLP.toLowerCase();
 					 anoDBLP = Integer.parseInt(ano.getTextContent());
-					 if(iterarTrabalhosProceedings(trabalho)) {
+					 if(iterarTrabalhosInProceedings(trabalho, "")) {
 						 artigoEncontrado = true; 
 					 }
 					 if(livro != null && iterarLivros(livro)) {
@@ -190,6 +207,7 @@ public class Dblp {
 	    	      } 
 	    	}
 			}
+	    	System.out.println(total);
 		} //Se existir url dblp
 			catch(Exception e) {
 				e.printStackTrace();
@@ -213,10 +231,10 @@ public class Dblp {
 			 
 			 
 					 
-			 if(lcs.distance(tituloLattes, tituloDBLP) < 0.1 ) { // Os titulos são muito similares logo os artigos são provavelmente os mesmos
+			 if(lcs.distance(tituloLattes, tituloDBLP) < 0.3 ) { // Os titulos são muito similares logo os artigos são provavelmente os mesmos
 				 return true;
 			 }
-			 else if(lcs.distance(tituloLattes, tituloDBLP) < 0.3){// Os titulos são similares e os anos iguais logo os artigos são provavelmente os mesmos
+			 else if(lcs.distance(tituloLattes, tituloDBLP) < 0.5){// Os titulos são similares e os anos iguais logo os artigos são provavelmente os mesmos
 				 if(anoLattes == anoDBLP)
 					 return true;
 			 }
@@ -259,26 +277,29 @@ public class Dblp {
 			tituloLattes = dadosBasicos.getAttribute("TITULO-DO-TRABALHO");
 			anoLattes = Integer.parseInt(dadosBasicos.getAttribute("ANO-DO-TRABALHO"));
 			tituloLattes = tituloLattes.toLowerCase();
-
-			 if(lcs.distance(tituloLattes, tituloDBLP) < 0.1 ) { // Os titulos são muito similares logo os artigos são provavelmente os mesmos
+			
+			
+			 if(lcs.distance(tituloLattes, tituloDBLP) < 0.3 ) { // Os titulos são muito similares logo os artigos são provavelmente os mesmos
 				 return true;
 			 }
-			 else if(lcs.distance(tituloLattes, tituloDBLP) < 0.3){// Os titulos são similares e os anos iguais logo os artigos são provavelmente os mesmos
+			 else if(lcs.distance(tituloLattes, tituloDBLP) < 0.5){// Os titulos são similares e os anos iguais logo os artigos são provavelmente os mesmos
 				 if(anoLattes == anoDBLP)
 					 return true;
 			 }
 			 else if(lcs.distance(tituloLattes, tituloDBLP) < 0.8) { // Os titulos são bem diferentes mas todos os outros dados são iguais (Talvez o titulo esteja em ingles e no outro em portugues)
-				 
-				String[] paginas = aux.split("-");
-				if(paginas.length > 1 &&  !aux.contains(":")) {
-				int paginaInicial =Integer.parseInt(paginas[0]);
-				int paginaFinal =Integer.parseInt(paginas[1]);
-				if(!detalhamento.getAttribute("PAGINA-INICIAL").isEmpty() && detalhamento.getAttribute("PAGINA-INICIAL").matches("[0-9]+"))
-					pgInicLattes =  Integer.parseInt(detalhamento.getAttribute("PAGINA-INICIAL"));
-				if(!detalhamento.getAttribute("PAGINA-FINAL").isEmpty() && detalhamento.getAttribute("PAGINA-FINAL").matches("[0-9]+"))
-					pgFinalLattes = Integer.parseInt(detalhamento.getAttribute("PAGINA-FINAL"));
-				if(anoLattes == anoDBLP && paginaInicial == pgInicLattes && paginaFinal == pgFinalLattes)
-					return true;
+				 String[] paginas = null;
+				if(aux != "")
+					paginas = aux.split("-");
+				if(paginas != null && paginas.length > 1 &&  !aux.contains(":")) {
+					int paginaInicial =Integer.parseInt(paginas[0]);
+					int paginaFinal =Integer.parseInt(paginas[1]);
+					
+					if(!detalhamento.getAttribute("PAGINA-INICIAL").isEmpty() && detalhamento.getAttribute("PAGINA-INICIAL").matches("[0-9]+"))
+						pgInicLattes =  Integer.parseInt(detalhamento.getAttribute("PAGINA-INICIAL"));
+					if(!detalhamento.getAttribute("PAGINA-FINAL").isEmpty() && detalhamento.getAttribute("PAGINA-FINAL").matches("[0-9]+"))
+						pgFinalLattes = Integer.parseInt(detalhamento.getAttribute("PAGINA-FINAL"));
+					if(anoLattes == anoDBLP && paginaInicial == pgInicLattes && paginaFinal == pgFinalLattes)
+						return true;
 				}
 				else {
 				    if(anoLattes == anoDBLP) { //Aqui achou todos os autores, ano é o mesmo, e o texto é semi parecido então o artigo é o mesmo
@@ -298,12 +319,11 @@ public class Dblp {
 					    	 for(int i = 0; i < autoresLattes.getLength(); i++ ) {
 				    			Element aux2 = (Element) autoresLattes.item(i);
 				    			autorLattes = aux2.getAttribute("NOME-COMPLETO-DO-AUTOR");
-
-					    		 autorLattes = autorLattes.toLowerCase();
-					    		 if(autorLattes.contains(autorDBLP)) { //Se achar o sobrenome de um autor da DBLP no Lattes então vai para o proximo autor
-					    			 achouSobrenome++;
-					    			 break;
-					    		 }	 
+					    		autorLattes = autorLattes.toLowerCase();
+					    		if(lcs.distance(autorLattes, autorDBLP) < 0.4) { //Se achar o sobrenome de um autor da DBLP no Lattes então vai para o proximo autor
+					    			achouSobrenome++;
+					    			break;
+					    		}	 
 					    	
 					    	 }
 					     }
@@ -316,55 +336,6 @@ public class Dblp {
 	return false;
 	}
 	
-	private static boolean iterarTrabalhosProceedings(NodeList trabalho) {
-		for(int a = 0; a < trabalho.getLength(); a++) {
-			//Verificar se o artigo contido na DBLP também esta no lattes
-			rootLattes = trabalho.item(a); //ARTIGOS
- 			Element l = (Element) rootLattes;
- 			Element dadosBasicos = (Element) l.getElementsByTagName("DADOS-BASICOS-DO-TRABALHO").item(0); //DADOS BASICOS
-			tituloLattes = dadosBasicos.getAttribute("TITULO-DO-TRABALHO");
-			anoLattes = Integer.parseInt(dadosBasicos.getAttribute("ANO-DO-TRABALHO"));
-			tituloLattes = tituloLattes.toLowerCase();
-			 
-			 if(lcs.distance(tituloLattes, tituloDBLP) < 0.1 ) { // Os titulos são muito similares logo os artigos são provavelmente os mesmos
-				 return true;
-			 }
-			 else if(lcs.distance(tituloLattes, tituloDBLP) < 0.3){// Os titulos são similares e os anos iguais logo os artigos são provavelmente os mesmos
-				 if(anoLattes == anoDBLP)
-					 return true;
-			 }
-			 else if(lcs.distance(tituloLattes, tituloDBLP) < 0.8) { // Os titulos são bem diferentes mas todos os outros dados são iguais (Talvez o titulo esteja em ingles e no outro em portugues)
-				    if(anoLattes == anoDBLP) { //Aqui achou todos os autores, ano é o mesmo, e o texto é semi parecido então o artigo é o mesmo
-		           		NodeList autoresLattes = l.getElementsByTagName("AUTORES");
-					 	String[] separar;
-					 	String autorLattes;
-					 	String autorDBLP;
-					 	int achouSobrenome = 0;
-					     for (int x=0; x < autores.getLength() ; x++) { // Procurando pelos sobrenomes para comparar com o Lattes
-					    	 Element autor = (Element) autores.item(x);
-					    	 separar = (String[]) autor.getTextContent().split(" ");
-					    	 autorDBLP = separar[separar.length-1];
-					    	 autorDBLP = autorDBLP.toLowerCase();
-					    	 for(int i = 0; i < autoresLattes.getLength(); i++ ) {
-					    		 Element aux2 = (Element) autoresLattes.item(i);
-					    		 autorLattes = aux2.getAttribute("NOME-COMPLETO-DO-AUTOR");
-					    		 autorLattes = autorLattes.toLowerCase();
-					    		 if(autorLattes.contains(autorDBLP)) { //Se achar o sobrenome de um autor da DBLP no Lattes então vai para o proximo autor
-					    			 achouSobrenome++;
-					    			 break;
-					    		 }	 
-					    	
-					    	 }
-					     }
-				    	 if(achouSobrenome == autoresLattes.getLength())
-				    		 return true;
-					 } 
-
-				
-			 }
-	   }
-	return false;
-	}
 	
 	private static boolean iterarLivros(NodeList livro) {
 		for(int a = 0; a < livro.getLength(); a++) {
@@ -378,10 +349,10 @@ public class Dblp {
 		    tituloLattes = tituloLattes.toLowerCase();
 			 
 					 
-			 if(lcs.distance(tituloLattes, tituloDBLP) < 0.1 ) { // Os titulos são muito similares logo os artigos são provavelmente os mesmos
+			 if(lcs.distance(tituloLattes, tituloDBLP) < 0.3 ) { // Os titulos são muito similares logo os artigos são provavelmente os mesmos
 				 return true;
 			 }
-			 else if(lcs.distance(tituloLattes, tituloDBLP) < 0.3){// Os titulos são similares e os anos iguais logo os artigos são provavelmente os mesmos
+			 else if(lcs.distance(tituloLattes, tituloDBLP) < 0.5){// Os titulos são similares e os anos iguais logo os artigos são provavelmente os mesmos
 				 if(anoLattes == anoDBLP)
 					 return true;
 			 }
@@ -401,7 +372,7 @@ public class Dblp {
 					    		 Element aux2 = (Element) autoresLattes.item(i);
 						    	 autorLattes = aux2.getAttribute("NOME-COMPLETO-DO-AUTOR");
 						    	 autorLattes = autorLattes.toLowerCase();
-					    		 if(autorLattes.contains(autorDBLP)) { //Se achar o sobrenome de um autor da DBLP no Lattes então vai para o proximo autor
+					    		 if(lcs.distance(autorLattes, autorDBLP) < 0.4) { //Se achar o sobrenome de um autor da DBLP no Lattes então vai para o proximo autor
 					    			 achouSobrenome++;
 					    			 break;
 					    		 }	 
@@ -428,10 +399,10 @@ public class Dblp {
 		 	 tituloLattes = tituloLattes.toLowerCase();
 			 
 					 
-			 if(lcs.distance(tituloLattes, tituloDBLP) < 0.1 ) { // Os titulos são muito similares logo os artigos são provavelmente os mesmos
+			 if(lcs.distance(tituloLattes, tituloDBLP) < 0.3 ) { // Os titulos são muito similares logo os artigos são provavelmente os mesmos
 				 return true;
 			 }
-			 else if(lcs.distance(tituloLattes, tituloDBLP) < 0.3){// Os titulos são similares e os anos iguais logo os artigos são provavelmente os mesmos
+			 else if(lcs.distance(tituloLattes, tituloDBLP) < 0.5){// Os titulos são similares e os anos iguais logo os artigos são provavelmente os mesmos
 				 if(anoLattes == anoDBLP)
 					 return true;
 			 }
@@ -452,7 +423,7 @@ public class Dblp {
 					    		 Element aux2 = (Element) autoresLattes.item(i);
 						    	 autorLattes = aux2.getAttribute("NOME-COMPLETO-DO-AUTOR");
 						    	 autorLattes = autorLattes.toLowerCase();
-					    		 if(autorLattes.contains(autorDBLP)) { //Se achar o sobrenome de um autor da DBLP no Lattes então vai para o proximo autor
+					    		 if(lcs.distance(autorLattes, autorDBLP) < 0.4) { //Se achar o sobrenome de um autor da DBLP no Lattes então vai para o proximo autor
 					    			 achouSobrenome++;
 					    			 break;
 					    		 }	 
@@ -499,7 +470,7 @@ public class Dblp {
 		}
 		 
 		Element pages = (Element) t.getElementsByTagName("pages").item(0);
-		String paginas = "";
+		String paginas = null;
 		if(pages != null) {
 			paginas = pages.getTextContent();
 		}
@@ -585,7 +556,6 @@ public class Dblp {
 	public static String docDBLP(String nome, Statement myStmt) {
 		String doc = "";
 		String nomeAux = nome;
-		System.out.println(nomeAux);
 		try {
     		File folder = new File("files/dblp/");
 	    	File[] listOfFiles = folder.listFiles();

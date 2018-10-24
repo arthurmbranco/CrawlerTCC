@@ -1,9 +1,22 @@
 <?xml version="1.0"?>
-<dblpperson name="Frank Siqueira" n="43">
+<dblpperson name="Frank Siqueira" n="44">
 <person key="homepages/32/5988" mdate="2010-04-25">
 <author>Frank Siqueira</author>
 <author>Frank Augusto Siqueira</author>
 </person>
+<r><inproceedings key="conf/bigdata/PresserSR18" mdate="2018-09-14">
+<author>Daniel Presser</author>
+<author>Frank Siqueira</author>
+<author>Fabio Reina</author>
+<title>Performance Modeling and Task Scheduling in Distributed Graph Processing.</title>
+<pages>135-142</pages>
+<year>2018</year>
+<booktitle>BigData Congress</booktitle>
+<ee>https://doi.org/10.1109/BigDataCongress.2018.00025</ee>
+<crossref>conf/bigdata/2018</crossref>
+<url>db/conf/bigdata/bigdata2018.html#PresserSR18</url>
+</inproceedings>
+</r>
 <r><article key="journals/ijwis/SalvadoriHOMS17" mdate="2017-09-11">
 <author>Ivan Luiz Salvadori</author>
 <author>Alexis Huf</author>
@@ -456,7 +469,7 @@
 <url>db/conf/iscc/iscc2006.html#MachadoSMV06</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/mmns/BortoletoLSBF05" mdate="2017-06-04">
+<r><inproceedings key="conf/mmns/BortoletoLSBF05" mdate="2018-06-26">
 <author>Christiane M. Bortoleto</author>
 <author>Lau Cheuk Lung</author>
 <author>Frank Siqueira</author>
@@ -467,7 +480,7 @@
 <year>2005</year>
 <crossref>conf/mmns/2005</crossref>
 <booktitle>MMNS</booktitle>
-<ee>https://doi.org/10.1007/11572831_10</ee>
+<ee type="oa">https://doi.org/10.1007/11572831_10</ee>
 <url>db/conf/mmns/mmns2005.html#BortoletoLSBF05</url>
 </inproceedings>
 </r>
@@ -597,7 +610,7 @@
 <url>db/conf/ftdcs/ftdcs1995.html#FragaFFS95</url>
 </inproceedings>
 </r>
-<coauthors n="45" nc="3">
+<coauthors n="47" nc="3">
 <co c="0"><na f="a/Ara=uacute=jo:Gustavo_Medeiros_de">Gustavo Medeiros de Ara&#250;jo</na></co>
 <co c="0"><na f="b/Barreto:Luciano">Luciano Barreto</na></co>
 <co c="0"><na f="b/Bessani:Alysson_Neves">Alysson Neves Bessani</na></co>
@@ -627,7 +640,9 @@
 <co c="0"><na f="m/Morales:Analucia_Schiaffino">Analucia Schiaffino Morales</na></co>
 <co c="0"><na f="o/Oliveira:Bruno_C=_N=">Bruno C. N. Oliveira</na></co>
 <co c="0"><na f="o/Oliveira:R=ocirc=mulo_Silva_de">R&#244;mulo Silva de Oliveira</na></co>
+<co c="0"><na f="p/Presser:Daniel">Daniel Presser</na></co>
 <co c="0"><na f="r/Rabelo:Ricardo_J=">Ricardo J. Rabelo</na></co>
+<co c="0"><na f="r/Reina:Fabio">Fabio Reina</na></co>
 <co c="-1"><na f="r/Rezende:Itamar_de">Itamar de Rezende</na></co>
 <co c="0"><na f="s/Salvadori:Ivan_Luiz">Ivan Luiz Salvadori</na></co>
 <co c="0"><na f="s/Santin:Altair_Olivo">Altair Olivo Santin</na></co>

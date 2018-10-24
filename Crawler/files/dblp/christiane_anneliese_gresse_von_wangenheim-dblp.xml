@@ -405,7 +405,7 @@
 <url>db/conf/icsr/icsr2013.html#BuglioneLWMH13</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/ifip5-5/CancianRW13" mdate="2017-06-04">
+<r><inproceedings key="conf/ifip5-5/CancianRW13" mdate="2018-06-26">
 <author>Maiara Heil Cancian</author>
 <author>Ricardo J. Rabelo</author>
 <author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
@@ -413,7 +413,7 @@
 <pages>183-190</pages>
 <year>2013</year>
 <booktitle>PRO-VE</booktitle>
-<ee>https://doi.org/10.1007/978-3-642-40543-3_20</ee>
+<ee type="oa">https://doi.org/10.1007/978-3-642-40543-3_20</ee>
 <crossref>conf/ifip5-5/2013</crossref>
 <url>db/conf/ifip5-5/prove2013.html#CancianRW13</url>
 </inproceedings>
@@ -460,7 +460,7 @@
 <ee>https://doi.org/10.5220/0004082700550061</ee>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/ifip5-5/CancianRW12" mdate="2017-06-04">
+<r><inproceedings key="conf/ifip5-5/CancianRW12" mdate="2018-06-26">
 <author>Maiara Heil Cancian</author>
 <author>Ricardo J. Rabelo</author>
 <author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
@@ -468,7 +468,7 @@
 <pages>374-384</pages>
 <year>2012</year>
 <booktitle>PRO-VE</booktitle>
-<ee>https://doi.org/10.1007/978-3-642-32775-9_38</ee>
+<ee type="oa">https://doi.org/10.1007/978-3-642-32775-9_38</ee>
 <crossref>conf/ifip5-5/2012</crossref>
 <url>db/conf/ifip5-5/prove2012.html#CancianRW12</url>
 </inproceedings>
@@ -590,7 +590,7 @@
 <url>db/journals/software/software27.html#WangenheimHZSMS10</url>
 </article>
 </r>
-<r><inproceedings key="conf/ifip5-5/CancianRW10" mdate="2017-06-04">
+<r><inproceedings key="conf/ifip5-5/CancianRW10" mdate="2018-06-26">
 <author>Maiara Heil Cancian</author>
 <author>Ricardo J. Rabelo</author>
 <author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
@@ -598,7 +598,7 @@
 <pages>672-684</pages>
 <year>2010</year>
 <booktitle>PRO-VE</booktitle>
-<ee>https://doi.org/10.1007/978-3-642-15961-9_80</ee>
+<ee type="oa">https://doi.org/10.1007/978-3-642-15961-9_80</ee>
 <crossref>conf/ifip5-5/2010</crossref>
 <url>db/conf/ifip5-5/prove2010.html#CancianRW10</url>
 </inproceedings>

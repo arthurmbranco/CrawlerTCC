@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Elder Rizzon Santos" n="9">
+<dblpperson name="Elder Rizzon Santos" n="10">
 <person key="homepages/74/5905" mdate="2009-06-10">
 <author>Elder Rizzon Santos</author>
 </person>
@@ -14,6 +14,19 @@
 <ee>https://doi.org/10.5220/0006718701250132</ee>
 <crossref>conf/icaart/2018-1</crossref>
 <url>db/conf/icaart/icaart2018-1.html#DemarchiSS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/paams/DemarchiSS18" mdate="2018-06-24">
+<author>Felipe Demarchi</author>
+<author>Elder Rizzon Santos</author>
+<author>Ricardo Azambuja Silveira</author>
+<title>Significant Educational Content Based Learning Model Using Public Ontologies and Multiagent Systems.</title>
+<pages>348-359</pages>
+<year>2018</year>
+<booktitle>PAAMS (Workshops)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-94779-2_30</ee>
+<crossref>conf/paams/2018w</crossref>
+<url>db/conf/paams/paams2018w.html#DemarchiSS18</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/mtsr/VicariRSSPB10" mdate="2017-06-04">

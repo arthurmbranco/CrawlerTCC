@@ -1,8 +1,21 @@
 <?xml version="1.0"?>
-<dblpperson name="La&#233;rcio Lima Pilla" n="39">
+<dblpperson name="La&#233;rcio Lima Pilla" n="41">
 <person key="homepages/75/2582" mdate="2009-06-09">
 <author>La&#233;rcio Lima Pilla</author>
 </person>
+<r><article key="journals/dke/FurtadoPB18" mdate="2018-06-28">
+<author>Andre Salvaro Furtado</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Vania Bogorny</author>
+<title>A branch and bound strategy for Fast Trajectory Similarity Measuring.</title>
+<pages>16-31</pages>
+<year>2018</year>
+<volume>115</volume>
+<journal>Data Knowl. Eng.</journal>
+<ee>https://doi.org/10.1016/j.datak.2018.01.003</ee>
+<url>db/journals/dke/dke115.html#FurtadoPB18</url>
+</article>
+</r>
 <r><article key="journals/fgcs/RighiGRCAPN18" mdate="2017-12-28">
 <author orcid="0000-0001-5080-7660">Rodrigo da Rosa Righi</author>
 <author>Roberto de Quadros Gomes</author>
@@ -19,6 +32,23 @@
 <ee>https://doi.org/10.1016/j.future.2016.05.004</ee>
 <url>db/journals/fgcs/fgcs78.html#RighiGRCAPN18</url>
 </article>
+</r>
+<r><inproceedings key="conf/pdp/CruzDSNPK18" mdate="2018-07-03">
+<author>Eduardo H. M. Cruz</author>
+<author>Matthias Diener</author>
+<author>Matheus da Silva Serpa</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Israel Koren</author>
+<title>Improving Communication and Load Balancing with Thread Mapping in Manycore Systems.</title>
+<pages>93-100</pages>
+<year>2018</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP2018.2018.00021</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PDP2018.2018.00021</ee>
+<crossref>conf/pdp/2018</crossref>
+<url>db/conf/pdp/pdp2018.html#CruzDSNPK18</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/hpca/OliveiraPHFFLCN17" mdate="2017-09-18">
 <author>Daniel Alfonso Gon&#231;alves de Oliveira</author>
@@ -593,7 +623,7 @@
 <url>db/conf/hpcc/hpcc2009.html#RighiPCNH09</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/iccS/RighiPCNH09" mdate="2017-05-21">
+<r><inproceedings key="conf/iccS/RighiPCNH09" mdate="2018-06-26">
 <author>Rodrigo da Rosa Righi</author>
 <author>La&#233;rcio Lima Pilla</author>
 <author>Alexandre Carissimi</author>
@@ -603,7 +633,7 @@
 <pages>213-223</pages>
 <year>2009</year>
 <booktitle>ICCS (1)</booktitle>
-<ee>https://doi.org/10.1007/978-3-642-01970-8_22</ee>
+<ee type="oa">https://doi.org/10.1007/978-3-642-01970-8_22</ee>
 <crossref>conf/iccS/2009-1</crossref>
 <url>db/conf/iccS/iccS2009-1.html#RighiPCNH09</url>
 </inproceedings>
@@ -639,13 +669,14 @@
 <url>db/conf/sbac-pad/sbac-pad2008.html#RighiPCN08</url>
 </inproceedings>
 </r>
-<coauthors n="64" nc="1">
+<coauthors n="67" nc="2">
 <co c="0"><na f="a/Alberti:Ant=ocirc=nio_Marcos">Ant&#244;nio Marcos Alberti</na></co>
 <co c="0"><na f="a/Almeida:Sheiny">Sheiny Almeida</na></co>
 <co c="0"><na f="a/Alves:Marco_Antonio_Zanata">Marco Antonio Zanata Alves</na></co>
 <co c="0"><na f="=/=Aacute=vila:Rafael_Bohrer">Rafael Bohrer &#193;vila</na></co>
 <co c="0"><na f="b/Bhatele:Abhinav">Abhinav Bhatele</na></co>
 <co c="0"><na f="b/Blanchard:Sean">Sean Blanchard</na></co>
+<co c="1"><na f="b/Bogorny:Vania">Vania Bogorny</na></co>
 <co c="0"><na f="b/Boito:Francieli_Zanon">Francieli Zanon Boito</na></co>
 <co c="0"><na f="b/Broquedis:Fran=ccedil=ois">Fran&#231;ois Broquedis</na></co>
 <co c="0"><na f="c/Carissimi:Alexandre">Alexandre Carissimi</na></co>
@@ -664,8 +695,9 @@
 <co c="0"><na f="d/Dupros:Fabrice">Fabrice Dupros</na></co>
 <co c="0"><na f="f/Fernandes:Fernando">Fernando Fernandes</na></co>
 <co c="0" n="2"><na f="f/Fontana:Tiago">Tiago Fontana</na><na>Tiago Augusto Fontana</na></co>
-<co c="0"><na f="f/Fran=ccedil=a:Felipe_Maia_Galv=atilde=o">Felipe Maia Galv&#227;o Fran&#231;a</na></co>
+<co c="0" n="2"><na f="f/Fran=ccedil=a:Felipe_M=_G=">Felipe M. G. Fran&#231;a</na><na>Felipe Maia Galv&#227;o Fran&#231;a</na></co>
 <co c="0"><na f="f/Fratin:Vinicius">Vinicius Fratin</na></co>
+<co c="1"><na f="f/Furtado:Andre_Salvaro">Andre Salvaro Furtado</na></co>
 <co c="0"><na f="g/Gaujal:Bruno">Bruno Gaujal</na></co>
 <co c="0"><na f="g/Gomes:Roberto_de_Quadros">Roberto de Quadros Gomes</na></co>
 <co c="0"><na f="g/Graebin:Lucas">Lucas Graebin</na></co>
@@ -699,6 +731,7 @@
 <co c="0"><na f="r/Rodrigues:Vinicius_Facco">Vinicius Facco Rodrigues</na></co>
 <co c="0"><na f="s/Santini:Thiago">Thiago Santini</na></co>
 <co c="0"><na f="s/Schepke:Claudio">Claudio Schepke</na></co>
+<co c="0"><na f="s/Serpa:Matheus_da_Silva">Matheus da Silva Serpa</na></co>
 <co c="0"><na f="s/Silvestri_0001:Francesco">Francesco Silvestri 0001</na></co>
 <co c="0"><na f="t/Tesser:Rafael_Keller">Rafael Keller Tesser</na></co>
 <co c="0"><na f="t/Torres:Giovane_O=">Giovane O. Torres</na></co>

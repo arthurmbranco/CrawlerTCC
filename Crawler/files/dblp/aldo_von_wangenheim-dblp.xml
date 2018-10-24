@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Aldo von Wangenheim" n="106">
+<dblpperson name="Aldo von Wangenheim" n="109">
 <person key="homepages/w/AldovonWangenheim" mdate="2018-03-22">
 <author>Aldo von Wangenheim</author>
 <note type="affiliation">Federal University of Santa Catarina, Brazil</note>
@@ -9,6 +9,53 @@
 <url>https://www.scopus.com/authid/detail.uri?authorId=6602002506</url>
 <url>https://orcid.org/0000-0003-4532-1417</url>
 </person>
+<r><article key="journals/rita/CarvalhoNCSW18" mdate="2018-09-14">
+<author>Lu&#237;s Eduardo Ramos de Carvalho</author>
+<author>Sylvio Luiz Mantelli Neto</author>
+<author>Eros Comunello</author>
+<author>Antonio Carlos Sobieranski</author>
+<author>Aldo von Wangenheim</author>
+<title>Can the Use of nonlinear Color Metrics systematically improve Segmentation?</title>
+<pages>23-38</pages>
+<year>2018</year>
+<volume>25</volume>
+<journal>RITA</journal>
+<number>3</number>
+<ee>http://www.seer.ufrgs.br/rita/article/view/VOL25_NR3_23</ee>
+<url>db/journals/rita/rita25.html#CarvalhoNCSW18</url>
+</article>
+</r>
+<r><inproceedings key="conf/cbms/BeckhauserSWK18" mdate="2018-07-30">
+<author>Eduardo Beckhauser</author>
+<author>Alexandre Savaris</author>
+<author>Aldo von Wangenheim</author>
+<author>Dirk Krechel</author>
+<title>ISO Compliant Evaluation of a Teledermatology Structured Report System for the Brazilian Public Healthcare.</title>
+<pages>135-140</pages>
+<year>2018</year>
+<booktitle>CBMS</booktitle>
+<ee>https://doi.org/10.1109/CBMS.2018.00031</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CBMS.2018.00031</ee>
+<crossref>conf/cbms/2018</crossref>
+<url>db/conf/cbms/cbms2018.html#BeckhauserSWK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cbms/BeckhauserPWSK18" mdate="2018-07-30">
+<author>Eduardo Beckhauser</author>
+<author>Vinicius A. Petrolini</author>
+<author>Aldo von Wangenheim</author>
+<author>Alexandre Savaris</author>
+<author>Dirk Krechel</author>
+<title>Software Quality Evaluation of a Low-Cost Multimodal Telemedicine and Telehealth Station.</title>
+<pages>444-445</pages>
+<year>2018</year>
+<booktitle>CBMS</booktitle>
+<ee>https://doi.org/10.1109/CBMS.2018.00087</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CBMS.2018.00087</ee>
+<crossref>conf/cbms/2018</crossref>
+<url>db/conf/cbms/cbms2018.html#BeckhauserPWSK18</url>
+</inproceedings>
+</r>
 <r><article key="journals/inroads/WangenheimWPHF17" mdate="2017-03-07">
 <author>Christiane Gresse von Wangenheim</author>
 <author>Aldo von Wangenheim</author>
@@ -179,8 +226,8 @@
 <url>db/conf/iv/iv2016.html#MittmannWS16</url>
 </inproceedings>
 </r>
-<r><article key="journals/ijig/CarvalhoNSCW15" mdate="2017-06-06">
-<author>L. E. Carvalho</author>
+<r><article key="journals/ijig/CarvalhoNSCW15" mdate="2018-09-14">
+<author>Lu&#233;s Eduardo Ramos de Carvalho</author>
 <author>Sylvio Luiz Mantelli Neto</author>
 <author>Antonio Carlos Sobieranski</author>
 <author orcid="0000-0002-6627-4210">Eros Comunello</author>
@@ -237,8 +284,8 @@
 <url>db/journals/computer/computer47.html#WangenheimW14</url>
 </article>
 </r>
-<r><article key="journals/ijig/CarvalhoNWSCC14" mdate="2017-05-27">
-<author>L. E. Carvalho</author>
+<r><article key="journals/ijig/CarvalhoNWSCC14" mdate="2018-09-14">
+<author>Lu&#233;s Eduardo Ramos de Carvalho</author>
 <author>Sylvio Luiz Mantelli Neto</author>
 <author>Aldo von Wangenheim</author>
 <author>Antonio Carlos Sobieranski</author>
@@ -633,7 +680,7 @@
 <url>db/conf/wetice/wetice2011.html#MacedoCPWD11</url>
 </inproceedings>
 </r>
-<r><article key="journals/jbcs/SavarisW10" mdate="2017-06-06">
+<r><article key="journals/jbcs/SavarisW10" mdate="2018-06-26">
 <author>Alexandre Savaris</author>
 <author orcid="0000-0003-4532-1417">Aldo von Wangenheim</author>
 <title>Comparative evaluation of static gesture recognition techniques based on nearest neighbor, neural networks and support vector machines.</title>
@@ -642,7 +689,7 @@
 <volume>16</volume>
 <journal>J. Braz. Comp. Soc.</journal>
 <number>2</number>
-<ee>https://doi.org/10.1007/s13173-010-0009-z</ee>
+<ee type="oa">https://doi.org/10.1007/s13173-010-0009-z</ee>
 <url>db/journals/jbcs/jbcs16.html#SavarisW10</url>
 </article>
 </r>
@@ -884,7 +931,7 @@
 <url>db/journals/itpro/itpro10.html#WallauerMAW08</url>
 </article>
 </r>
-<r><article key="journals/jbcs/WangenheimBARPS08" mdate="2017-05-26">
+<r><article key="journals/jbcs/WangenheimBARPS08" mdate="2018-06-26">
 <author>Aldo von Wangenheim</author>
 <author>Rafael F. Bertoldi</author>
 <author>Daniel D. Abdala</author>
@@ -898,7 +945,7 @@
 <journal>J. Braz. Comp. Soc.</journal>
 <number>4</number>
 <ee>https://doi.org/10.1590/S0104-65002008000400004</ee>
-<ee>https://doi.org/10.1007/BF03192570</ee>
+<ee type="oa">https://doi.org/10.1007/BF03192570</ee>
 <url>db/journals/jbcs/jbcs14.html#WangenheimBARPS08</url>
 </article>
 </r>
@@ -1617,7 +1664,7 @@
 <url>db/conf/bildmed/bildmed1996.html#KrechelW96</url>
 </inproceedings>
 </r>
-<coauthors n="137" nc="3">
+<coauthors n="138" nc="3">
 <co c="0" n="2"><na f="a/Abdala:Daniel_Duarte">Daniel Duarte Abdala</na><na>Daniel D. Abdala</na></co>
 <co c="0"><na f="a/Aguiar:Daniel_Besen_de">Daniel Besen de Aguiar</na></co>
 <co c="0"><na f="a/Albino:Danielle_B=_L=">Danielle B. L. Albino</na></co>
@@ -1647,7 +1694,8 @@
 <co c="0"><na f="c/Cargnin=Ferreira:Eduardo">Eduardo Cargnin-Ferreira</na></co>
 <co c="0"><na f="c/Carvalho:Diego_D=_B=">Diego D. B. Carvalho</na></co>
 <co c="0"><na f="c/Carvalho:Diego_Dias_Bispo">Diego Dias Bispo Carvalho</na></co>
-<co c="0"><na f="c/Carvalho:L=_E=">L. E. Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Lu=eacute=s_Eduardo_Ramos_de">Lu&#233;s Eduardo Ramos de Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Lu=iacute=s_Eduardo_Ramos_de">Lu&#237;s Eduardo Ramos de Carvalho</na></co>
 <co c="0"><na f="c/Charnovscki:Rafael">Rafael Charnovscki</na></co>
 <co c="0"><na f="c/Chaves:Daniel">Daniel Chaves</na></co>
 <co c="0"><na f="c/Chiarella:Vito_F=">Vito F. Chiarella</na></co>

@@ -31,13 +31,13 @@
 <url>db/conf/isw/isc2009.html#NakaharaSFCSP09</url>
 </inproceedings>
 </r>
-<r><inproceedings publtype="informal" key="conf/dagstuhl/NakaharaF09" mdate="2017-07-09">
+<r><inproceedings publtype="informal" key="conf/dagstuhl/NakaharaF09" mdate="2018-08-23">
 <author>Jorge Nakahara Jr.</author>
 <author>Daniel Santana de Freitas</author>
 <title>Mini-ciphers: a reliable testbed for cryptanalysis?</title>
 <year>2009</year>
 <booktitle>Symmetric Cryptography</booktitle>
-<ee>http://drops.dagstuhl.de/opus/volltexte/2009/1961/</ee>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2009/1961/</ee>
 <crossref>conf/dagstuhl/2009P9031</crossref>
 <url>db/conf/dagstuhl/P9031.html#NakaharaF09</url>
 </inproceedings>

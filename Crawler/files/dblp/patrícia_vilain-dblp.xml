@@ -1,16 +1,30 @@
 <?xml version="1.0"?>
-<dblpperson name="Patricia Vilain" n="21">
+<dblpperson name="Patricia Vilain" n="22">
 <person key="homepages/69/3719" mdate="2009-06-10">
 <author>Patricia Vilain</author>
 </person>
-<r><inproceedings key="conf/xpu/SantosV18" mdate="2018-05-17">
+<r><inproceedings key="conf/icse/SantosVL18" mdate="2018-09-04">
+<author>Ernani C&#233;sar dos Santos</author>
+<author>Patricia Vilain</author>
+<author>Douglas Hiura Longo</author>
+<title>A systematic literature review to support the selection of user acceptance testing techniques.</title>
+<pages>418-419</pages>
+<year>2018</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<ee>http://doi.acm.org/10.1145/3183440.3195036</ee>
+<ee>http://ieeexplore.ieee.org/document/8449605</ee>
+<crossref>conf/icse/2018c</crossref>
+<url>db/conf/icse/icse2018c.html#SantosVL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xpu/SantosV18" mdate="2018-06-26">
 <author>Ernani C&#233;sar dos Santos</author>
 <author>Patricia Vilain</author>
 <title>Automated Acceptance Tests as Software Requirements: An Experiment to Compare the Applicability of Fit Tables and Gherkin Language.</title>
 <pages>104-119</pages>
 <year>2018</year>
 <booktitle>XP</booktitle>
-<ee>https://doi.org/10.1007/978-3-319-91602-6_7</ee>
+<ee type="oa">https://doi.org/10.1007/978-3-319-91602-6_7</ee>
 <crossref>conf/xpu/2018</crossref>
 <url>db/conf/xpu/xp2018.html#SantosV18</url>
 </inproceedings>
@@ -274,7 +288,7 @@
 <co c="0"><na f="m/Mello:Ronaldo_dos_Santos">Ronaldo dos Santos Mello</na></co>
 <co c="0"><na f="n/Neto:Nelson_Mariano_Leite">Nelson Mariano Leite Neto</na></co>
 <co c="-1"><na f="n/Neves:Glauco_Silva">Glauco Silva Neves</na></co>
-<co c="-1"><na f="s/Santos:Ernani_C=eacute=sar_dos">Ernani C&#233;sar dos Santos</na></co>
+<co c="0"><na f="s/Santos:Ernani_C=eacute=sar_dos">Ernani C&#233;sar dos Santos</na></co>
 <co c="1"><na f="s/Schwabe:Daniel">Daniel Schwabe</na></co>
 <co c="0"><na f="s/Silva:Lucas_Pereira_da">Lucas Pereira da Silva</na></co>
 <co c="1"><na f="s/Souza:Clarisse_Sieckenius_de">Clarisse Sieckenius de Souza</na></co>

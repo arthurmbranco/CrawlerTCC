@@ -64,7 +64,7 @@
 <url>db/conf/visapp/visapp2014-2.html#BerriSPGA14</url>
 </inproceedings>
 </r>
-<r><article publtype="informal" key="journals/corr/BerriSPGA14" mdate="2017-06-07">
+<r><article publtype="informal" key="journals/corr/BerriSPGA14" mdate="2018-08-13">
 <author>Rafael A. Berri</author>
 <author>Alexandre Gon&#231;alves Silva</author>
 <author>Rafael S. Parpinelli</author>
@@ -74,7 +74,7 @@
 <year>2014</year>
 <volume>abs/1408.0680</volume>
 <journal>CoRR</journal>
-<ee>http://arxiv.org/abs/1408.0680</ee>
+<ee type="oa">http://arxiv.org/abs/1408.0680</ee>
 <url>db/journals/corr/corr1408.html#BerriSPGA14</url>
 </article>
 </r>

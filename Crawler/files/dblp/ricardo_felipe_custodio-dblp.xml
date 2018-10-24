@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Ricardo Felipe Cust&#243;dio" n="24">
+<dblpperson name="Ricardo Felipe Cust&#243;dio" n="26">
 <person key="homepages/95/6830" mdate="2009-06-10">
 <author>Ricardo Felipe Cust&#243;dio</author>
 </person>
@@ -14,6 +14,31 @@
 <journal>Inf. Process. Lett.</journal>
 <ee>https://doi.org/10.1016/j.ipl.2017.12.002</ee>
 <url>db/journals/ipl/ipl132.html#NiehuesCP18</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-00432" mdate="2018-08-13">
+<author>Gustavo Banegas</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<author>Daniel Panario</author>
+<title>A new class of irreducible pentanomials for polynomial based multipliers in binary fields.</title>
+<year>2018</year>
+<volume>abs/1806.00432</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.00432</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-00432</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BanegasCP18" mdate="2018-08-14">
+<author>Gustavo Banegas</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<author>Daniel Panario</author>
+<title>A new class of irreducible pentanomials for polynomial based multipliers in binary fields.</title>
+<pages>554</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">https://eprint.iacr.org/2018/554</ee>
+<url>db/journals/iacr/iacr2018.html#BanegasCP18</url>
 </article>
 </r>
 <r><article key="journals/ijguc/BrocardoRDCT17" mdate="2017-05-28">
@@ -317,7 +342,7 @@
 <url>db/conf/europki/europki2007.html#MartinaSC07</url>
 </inproceedings>
 </r>
-<r><article publtype="informal" key="journals/iacr/AraujoCG07" mdate="2018-03-23">
+<r><article publtype="informal" key="journals/iacr/AraujoCG07" mdate="2018-08-14">
 <author>Roberto Ara&#250;jo 0001</author>
 <author>Ricardo Felipe Cust&#243;dio</author>
 <author>Jeroen van de Graaf</author>
@@ -326,7 +351,7 @@
 <year>2007</year>
 <volume>2007</volume>
 <journal>IACR Cryptology ePrint Archive</journal>
-<ee>http://eprint.iacr.org/2007/252</ee>
+<ee type="oa">http://eprint.iacr.org/2007/252</ee>
 <url>db/journals/iacr/iacr2007.html#AraujoCG07</url>
 </article>
 </r>
@@ -344,9 +369,10 @@
 <url>db/conf/lanoms/lanoms2003.html#DiasDCR03</url>
 </inproceedings>
 </r>
-<coauthors n="38" nc="3">
+<coauthors n="39" nc="3">
 <co c="0"><na f="a/Arantes:Juliana_Amaral">Juliana Amaral Arantes</na></co>
 <co c="2"><na f="a/Ara=uacute=jo_0001:Roberto">Roberto Ara&#250;jo 0001</na></co>
+<co c="0"><na f="b/Banegas:Gustavo">Gustavo Banegas</na></co>
 <co c="1"><na f="b/Brocardo:Marcelo_Luiz">Marcelo Luiz Brocardo</na></co>
 <co c="0"><na f="c/Carlos:Marcelo_Carlomagno">Marcelo Carlomagno Carlos</na></co>
 <co c="0"><na f="c/Chaves:Shirlei_Aparecida_de">Shirlei Aparecida de Chaves</na></co>

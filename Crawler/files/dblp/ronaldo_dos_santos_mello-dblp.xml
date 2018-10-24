@@ -1,11 +1,50 @@
 <?xml version="1.0"?>
-<dblpperson name="Ronaldo dos Santos Mello" n="39">
+<dblpperson name="Ronaldo dos Santos Mello" n="42">
 <person key="homepages/82/6647" mdate="2016-06-14">
 <author>Ronaldo dos Santos Mello</author>
 <url>http://www.inf.ufsc.br/~ronaldo/</url>
 <url>http://lattes.cnpq.br/5011370918857999</url>
 <note type="affiliation">Federal University of Santa Catarina (UFSC), Department of Informatics and Statistics</note>
 </person>
+<r><inproceedings key="conf/iri/FrozzaMC18" mdate="2018-08-08">
+<author>Angelo Augusto Frozza</author>
+<author>Ronaldo dos Santos Mello</author>
+<author>Felipe de Souza da Costa</author>
+<title>An Approach for Schema Extraction of JSON and Extended JSON Document Collections.</title>
+<pages>356-363</pages>
+<year>2018</year>
+<booktitle>IRI</booktitle>
+<ee>https://doi.org/10.1109/IRI.2018.00060</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IRI.2018.00060</ee>
+<crossref>conf/iri/2018</crossref>
+<url>db/conf/iri/iri2018.html#FrozzaMC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/SchreinerDM18" mdate="2018-08-22">
+<author>Geomar A. Schreiner</author>
+<author>Denio Duarte</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>An Autonomous Hybrid Data Partition for NewSQL DBs.</title>
+<pages>95-101</pages>
+<year>2018</year>
+<booktitle>SBBD Companion</booktitle>
+<ee>http://sbbd.org.br/2018/wp-content/uploads/sites/5/2018/08/095-sbbd_2018_comp.pdf</ee>
+<crossref>conf/sbbd/2018c</crossref>
+<url>db/conf/sbbd/sbbd2018c.html#SchreinerDM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/FrozzaM18" mdate="2018-08-22">
+<author>Angelo Augusto Frozza</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>A Process for Reverse Engineering of Aggregate-Oriented NoSQL Databases with Emphasis on Geographic Data.</title>
+<pages>109-115</pages>
+<year>2018</year>
+<booktitle>SBBD Companion</booktitle>
+<ee>http://sbbd.org.br/2018/wp-content/uploads/sites/5/2018/08/109-sbbd_2018_comp.pdf</ee>
+<crossref>conf/sbbd/2018c</crossref>
+<url>db/conf/sbbd/sbbd2018c.html#FrozzaM18</url>
+</inproceedings>
+</r>
 <r><article key="journals/ijwis/SalvadoriHOMS17" mdate="2017-09-11">
 <author>Ivan Luiz Salvadori</author>
 <author>Alexis Huf</author>
@@ -507,19 +546,20 @@
 <url>db/conf/wiiw/wiiw2001.html#MelloH01</url>
 </inproceedings>
 </r>
-<coauthors n="40" nc="5">
+<coauthors n="41" nc="6">
 <co c="0"><na f="b/Bogorny:Vania">Vania Bogorny</na></co>
 <co c="0"><na f="b/Braganholo:Vanessa">Vanessa Braganholo</na></co>
 <co c="4"><na f="c/Calil:Andre">Andre Calil</na></co>
 <co c="1"><na f="c/Camargo:Andr=eacute=_de">Andr&#233; de Camargo</na></co>
 <co c="0"><na f="c/Camillo:Sandro_Daniel">Sandro Daniel Camillo</na></co>
 <co c="0"><na f="c/Castano:Silvana">Silvana Castano</na></co>
+<co c="3"><na f="c/Costa:Felipe_de_Souza_da">Felipe de Souza da Costa</na></co>
 <co c="0"><na f="d/Dorneles:Carina_F=">Carina F. Dorneles</na></co>
 <co c="0"><na f="d/Duarte:Denio">Denio Duarte</na></co>
 <co c="4"><na f="f/Ferreira:Gabriel_dos_Santos">Gabriel dos Santos Ferreira</na></co>
 <co c="0"><na f="f/Fileto:Renato">Renato Fileto</na></co>
 <co c="0"><na f="f/Freire:Juliana">Juliana Freire</na></co>
-<co c="-1"><na f="f/Frozza:Angelo_Augusto">Angelo Augusto Frozza</na></co>
+<co c="3"><na f="f/Frozza:Angelo_Augusto">Angelo Augusto Frozza</na></co>
 <co c="0" n="2"><na f="g/Galante:Renata">Renata Galante</na><na>Renata de Matos Galante</na></co>
 <co c="0"><na f="g/Gon=ccedil=alves:Rodrigo">Rodrigo Gon&#231;alves</na></co>
 <co c="0"><na f="h/Hara:Carmem_S=">Carmem S. Hara</na></co>
@@ -536,9 +576,9 @@
 <co c="-1"><na f="p/Peres:Fabiana_Frata_Furlan">Fabiana Frata Furlan Peres</na></co>
 <co c="0"><na f="p/Pinnamaneni:Ramesh">Ramesh Pinnamaneni</na></co>
 <co c="-1"><na f="r/Rodrigues:Khaue_Rezende">Khaue Rezende Rodrigues</na></co>
-<co c="3"><na f="r/Roisenberg:Mauro">Mauro Roisenberg</na></co>
+<co c="5"><na f="r/Roisenberg:Mauro">Mauro Roisenberg</na></co>
 <co c="1"><na f="s/Salvadori:Ivan_Luiz">Ivan Luiz Salvadori</na></co>
-<co c="3" n="2"><na f="s/Santana:Luiz_H=_Z=">Luiz H. Z. Santana</na><na>Luiz Henrique Zambom Santana</na></co>
+<co c="5" n="2"><na f="s/Santana:Luiz_H=_Z=">Luiz H. Z. Santana</na><na>Luiz Henrique Zambom Santana</na></co>
 <co c="0"><na f="s/Santos:Leonardo_Bres_dos">Leonardo Bres dos Santos</na></co>
 <co c="0"><na f="s/Schreiner:Geomar_A=">Geomar A. Schreiner</na></co>
 <co c="0"><na f="s/Schroeder:Rebeca">Rebeca Schroeder</na></co>

@@ -31,7 +31,7 @@
 <url>db/conf/ntms/ntms2014.html#PereiraSW14</url>
 </inproceedings>
 </r>
-<r><article key="journals/sensors/GuardalbenGBSC11" mdate="2017-06-08">
+<r><article key="journals/sensors/GuardalbenGBSC11" mdate="2018-08-14">
 <author orcid="0000-0003-4296-3115">Lucas Guardalben</author>
 <author orcid="0000-0001-7573-6272">Luis Javier Garc&#237;a-Villalba</author>
 <author>F&#225;bio Buiati</author>
@@ -43,7 +43,7 @@
 <volume>11</volume>
 <journal>Sensors</journal>
 <number>1</number>
-<ee>https://doi.org/10.3390/s110100425</ee>
+<ee type="oa">https://doi.org/10.3390/s110100425</ee>
 <url>db/journals/sensors/sensors11.html#GuardalbenGBSC11</url>
 </article>
 </r>

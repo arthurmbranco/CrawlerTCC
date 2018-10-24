@@ -1,12 +1,25 @@
 <?xml version="1.0"?>
-<dblpperson name="Jos&#233; Lu&#237;s Almada G&#252;ntzel" n="45">
+<dblpperson name="Jos&#233; Lu&#237;s Almada G&#252;ntzel" n="46">
 <person key="homepages/04/3287" mdate="2012-11-17">
 <author>Jos&#233; Lu&#237;s Almada G&#252;ntzel</author>
 <author>Jos&#233; Lu&#237;s G&#252;ntzel</author>
 </person>
-<r><article key="journals/tcad/LivramentoLCYXP17" mdate="2018-01-30">
+<r><inproceedings key="conf/lascas/MonteiroSG18" mdate="2018-07-12">
+<author>Marcio Monteiro</author>
+<author>Ismael Seidel</author>
+<author>Jos&#233; Lu&#237;s G&#252;ntzel</author>
+<title>On the calculation reuse in hadamard-based SATD.</title>
+<pages>1-4</pages>
+<year>2018</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS.2018.8399925</ee>
+<crossref>conf/lascas/2018</crossref>
+<url>db/conf/lascas/lascas2018.html#MonteiroSG18</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcad/LivramentoLCYXP17" mdate="2018-08-10">
 <author orcid="0000-0001-5167-6359">Vinicius S. Livramento</author>
-<author>Derong Liu</author>
+<author>Derong Liu 0002</author>
 <author>Salim Chowdhury</author>
 <author>Bei Yu 0001</author>
 <author orcid="0000-0002-5314-7669">Xiaoqing Xu</author>
@@ -620,7 +633,7 @@
 <url>db/conf/vlsi/vlsisoc2003.html#LazzariDGR03</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/vlsi/LazzariDGR03a" mdate="2017-05-24">
+<r><inproceedings key="conf/vlsi/LazzariDGR03a" mdate="2018-06-26">
 <author>Cristiano Lazzari</author>
 <author>Cristiano Viana Domingues</author>
 <author>Jos&#233; Lu&#237;s G&#252;ntzel</author>
@@ -629,7 +642,7 @@
 <pages>197-211</pages>
 <year>2003</year>
 <booktitle>VLSI-SoC (Selected Papers)</booktitle>
-<ee>https://doi.org/10.1007/0-387-33403-3_13</ee>
+<ee type="oa">https://doi.org/10.1007/0-387-33403-3_13</ee>
 <crossref>conf/vlsi/2003socs</crossref>
 <url>db/conf/vlsi/vlsisoc2003s.html#LazzariDGR03a</url>
 </inproceedings>
@@ -690,7 +703,7 @@
 <co c="0"><na f="k/Klautau:Aldebaro">Aldebaro Klautau</na></co>
 <co c="0"><na f="l/Lazzari:Cristiano">Cristiano Lazzari</na></co>
 <co c="0"><na f="l/Lima:Fernanda">Fernanda Lima</na></co>
-<co c="0"><na f="l/Liu:Derong">Derong Liu</na></co>
+<co c="0"><na f="l/Liu_0002:Derong">Derong Liu 0002</na></co>
 <co c="0" n="2"><na f="l/Livramento:Vinicius_S=">Vinicius S. Livramento</na><na>Vinicius dos S. Livramento</na></co>
 <co c="0"><na f="m/Machado:Brunno_Abner">Brunno Abner Machado</na></co>
 <co c="0"><na f="m/Mendon=ccedil=a:Alexandre_K=_I=">Alexandre K. I. Mendon&#231;a</na></co>

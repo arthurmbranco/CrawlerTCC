@@ -1,10 +1,37 @@
 <?xml version="1.0"?>
-<dblpperson name="Silvia M. Nassar" n="19">
+<dblpperson name="Silvia M. Nassar" n="21">
 <person key="homepages/10/1102" mdate="2017-07-28">
 <author>Silvia M. Nassar</author>
 <author>Silvia Modesto Nassar</author>
 <author>Silvia Nassar</author>
 </person>
+<r><article key="journals/jcsci/LorbieskiN18" mdate="2018-06-04">
+<author>Rodolfo Lorbieski</author>
+<author>Silvia Modesto Nassar</author>
+<title>Impact of an Extra Layer on the Stacking Algorithm for Classification Problems.</title>
+<pages>613-622</pages>
+<year>2018</year>
+<volume>14</volume>
+<journal>JCS</journal>
+<number>5</number>
+<ee>https://doi.org/10.3844/jcssp.2018.613.622</ee>
+<url>db/journals/jcsci/jcsci14.html#LorbieskiN18</url>
+</article>
+</r>
+<r><article key="journals/jcsci/JuniorWN18" mdate="2018-09-07">
+<author>Ademar Crotti Junior</author>
+<author>Beatriz Wilges</author>
+<author>Silvia Modesto Nassar</author>
+<title>MCMC-Fuzzy: A Fuzzy Metric Applied to Bayesian Network Structure Learning.</title>
+<pages>1115-1125</pages>
+<year>2018</year>
+<volume>14</volume>
+<journal>JCS</journal>
+<number>8</number>
+<ee>https://doi.org/10.3844/jcssp.2018.1115.1125</ee>
+<url>db/journals/jcsci/jcsci14.html#JuniorWN18</url>
+</article>
+</r>
 <r><inproceedings key="conf/wocn/MateusWDN17" mdate="2017-10-23">
 <author>Gustavo Pereira Mateus</author>
 <author>Beatriz Wilges</author>
@@ -293,7 +320,7 @@
 <url>db/conf/iceis/iceis2000.html#VarvalhoANKCBR00</url>
 </inproceedings>
 </r>
-<coauthors n="34" nc="3">
+<coauthors n="36" nc="3">
 <co c="1"><na f="a/Azevedo:Fernando_Mendes_de">Fernando Mendes de Azevedo</na></co>
 <co c="0"><na f="b/Bastos:Rog=eacute=rio_Cid">Rog&#233;rio Cid Bastos</na></co>
 <co c="1"><na f="b/Batezini:Charles_T=">Charles T. Batezini</na></co>
@@ -312,8 +339,10 @@
 <co c="0"><na f="g/Gauthier:Fernando">Fernando Gauthier</na></co>
 <co c="0"><na f="g/Geszychter:Michel_Barnad">Michel Barnad Geszychter</na></co>
 <co c="0"><na f="j/Jacinto:Carlos_M=_C=">Carlos M. C. Jacinto</na></co>
+<co c="0"><na f="j/Junior:Ademar_Crotti">Ademar Crotti Junior</na></co>
 <co c="1"><na f="k/Koehler:Christiane">Christiane Koehler</na></co>
 <co c="0" n="2"><na f="l/Lima:Mariana_D=_C=">Mariana D. C. Lima</na><na>Mariana Dehon Costa e Lima</na></co>
+<co c="-1"><na f="l/Lorbieski:Rodolfo">Rodolfo Lorbieski</na></co>
 <co c="0"><na f="m/Magno:Carlos">Carlos Magno</na></co>
 <co c="0"><na f="m/Makiyama:Fernando">Fernando Makiyama</na></co>
 <co c="0"><na f="m/Mateus:Gustavo_Pereira">Gustavo Pereira Mateus</na></co>

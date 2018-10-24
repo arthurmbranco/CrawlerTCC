@@ -11,8 +11,8 @@ CREATE TABLE Professores (
 CREATE TABLE DBLP (
     id int NOT NULL,
 	_event varchar(16) NOT NULL,
-   	title varchar(512) NOT NULL,
-	authors varchar(255),
+   	title varchar(1024) NOT NULL,
+	authors varchar(1024),
 	pages varchar(16),
 	_year int,
 	volume varchar(255),
@@ -33,20 +33,25 @@ CREATE TABLE DBLP (
 
 CREATE TABLE GoogleScholar (
     id int NOT NULL,
-    title varchar(512),
-    authors varchar(255),
+    title varchar(2048),
+    authors varchar(2048),
     conference varchar(255),
+    pages varchar(16),
+    publisher varchar(255),
     citations int,
+    abstract text,
+    volume varchar(255),
+    _number varchar(255),
     _year int,
     id_prof int,
     PRIMARY KEY (id),
-	FOREIGN KEY (id_prof) REFERENCES Professores(id)
+    FOREIGN KEY (id_prof) REFERENCES Professores(id)
 );
 
 CREATE TABLE ResearchGate (
     id int NOT NULL,
-    title varchar(512),
-    authors varchar(255),
+    title varchar(1024),
+    authors varchar(1024),
     conference varchar(255),
     _year int,
     _event varchar(255),

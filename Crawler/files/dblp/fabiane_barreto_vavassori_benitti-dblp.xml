@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Fabiane Barreto Vavassori Benitti" n="14">
+<dblpperson name="Fabiane Barreto Vavassori Benitti" n="15">
 <person key="homepages/58/10759" mdate="2012-01-17">
 <author>Fabiane Barreto Vavassori Benitti</author>
 </person>
@@ -15,6 +15,18 @@
 <ee>https://doi.org/10.1016/j.csi.2017.12.001</ee>
 <url>db/journals/csi/csi58.html#JustoBL18</url>
 </article>
+</r>
+<r><inproceedings key="conf/sbes/BordinB18" mdate="2018-10-17">
+<author>Andr&#233;a Sabedra Bordin</author>
+<author>Fabiane Barreto Vavassori Benitti</author>
+<title>Software maintenance: what do we teach and what does the industry practice?</title>
+<pages>270-279</pages>
+<year>2018</year>
+<booktitle>SBES</booktitle>
+<ee>http://doi.acm.org/10.1145/3266237.3266251</ee>
+<crossref>conf/sbes/2018</crossref>
+<url>db/conf/sbes/sbes2018.html#BordinB18</url>
+</inproceedings>
 </r>
 <r><article key="journals/ce/SpolaorB17" mdate="2017-12-28">
 <author orcid="0000-0003-0748-3693">Newton Spola&#244;r</author>
@@ -39,7 +51,7 @@
 <url>db/conf/sbes/sbes2017.html#Benitti17</url>
 </inproceedings>
 </r>
-<r><article publtype="informal" key="journals/corr/JustoLBC17" mdate="2017-06-07">
+<r><article publtype="informal" key="journals/corr/JustoLBC17" mdate="2018-08-13">
 <author>Jos&#233; Lu&#237;s Barros Justo</author>
 <author>Ania Cravero Leal</author>
 <author>Fabiane Barreto Vavassori Benitti</author>
@@ -48,7 +60,7 @@
 <year>2017</year>
 <volume>abs/1701.05747</volume>
 <journal>CoRR</journal>
-<ee>http://arxiv.org/abs/1701.05747</ee>
+<ee type="oa">http://arxiv.org/abs/1701.05747</ee>
 <url>db/journals/corr/corr1701.html#JustoLBC17</url>
 </article>
 </r>
@@ -173,7 +185,8 @@
 <url>db/journals/rita/rita15.html#Benitti08</url>
 </article>
 </r>
-<coauthors n="11" nc="4">
+<coauthors n="12" nc="4">
+<co c="-1" n="2"><na f="b/Bordin:Andr=eacute=a_S=">Andr&#233;a S. Bordin</na><na>Andr&#233;a Sabedra Bordin</na></co>
 <co c="0"><na f="c/Capilla=Sevilla:Rafael">Rafael Capilla-Sevilla</na></co>
 <co c="2"><na f="d/Dalcin:Felipe_Simoni">Felipe Simoni Dalcin</na></co>
 <co c="0"><na f="j/Justo:Jos=eacute=_Lu=iacute=s_Barros">Jos&#233; Lu&#237;s Barros Justo</na></co>

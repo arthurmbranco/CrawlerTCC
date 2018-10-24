@@ -34,7 +34,6 @@ INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (34, 'Jose Eduardo De Lucca', null, null, 'https://www.researchgate.net/profile/Jose_Eduardo_De_Lucca');
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (35, 'Juliana Eyng', 'https://dblp.uni-trier.de/pers/xx/e/Eyng:Juliana.xml', null, null);
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (36, 'Laércio Lima Pilla', 'https://dblp.uni-trier.de/pers/xx/p/Pilla:La=eacute=rcio_Lima.xml', 'https://scholar.google.com.br/citations?user=i189aV0AAAAJ&hl=pt-BR', 'https://www.researchgate.net/profile/Laercio_Lima_Pilla');
-
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (37, 'Leandro José Komosinski', null, null, null);
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (38, 'Lúcia Helena Martins-Pacheco', 'https://dblp.uni-trier.de/pers/xx/p/Pacheco:L=uacute=cia_Helena_Martins.xml', null, null);
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (39, 'Luiz Cláudio Villar dos Santos', 'https://dblp.uni-trier.de/pers/xx/s/Santos:Luiz_Cl=aacute=udio_Villar_dos.xml', null, null);
@@ -45,7 +44,6 @@ INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (44, 'Maurício Floriano Galimberti', null, null, 'https://www.researchgate.net/profile/Mauricio_Floriano_Galimberti');
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (45, 'Mauro Roisenberg', 'https://dblp.uni-trier.de/pers/xx/r/Roisenberg:Mauro.xml', 'https://scholar.google.com.br/citations?user=qmyvtaYAAAAJ&hl=pt-BR', 'https://www.researchgate.net/profile/Mauro_Roisenberg');
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (46, 'Meire Mezzomo', null, null, null);
-
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (47, 'Patricia Della Méa Plentz', 'https://dblp.uni-trier.de/pers/xx/p/Plentz:Patricia_Della_Mea.xml', 'https://scholar.google.com.br/citations?user=mNmSmvUAAAAJ&hl=pt-BR', null);
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (48, 'Patrícia Vilain', 'https://dblp.uni-trier.de/pers/xx/v/Vilain:Patricia.xml', null, 'https://www.researchgate.net/profile/Patricia_Vilain');
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (49, 'Pedro Alberto Barbetta', 'https://dblp.uni-trier.de/pers/xx/b/Barbetta:Pedro_Alberto.xml', 'https://scholar.google.com.br/citations?user=b7ETU6IAAAAJ&hl=pt-BR', 'https://www.researchgate.net/profile/Pedro_Barbetta');
@@ -55,7 +53,6 @@ INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (53, 'Ricardo Pereira e Silva', 'https://dblp.uni-trier.de/pers/xx/s/Silva:Ricardo_Pereira_e.xml', null, null);
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (54, 'Ronaldo dos Santos Mello', 'https://dblp.uni-trier.de/pers/xx/m/Mello:Ronaldo_dos_Santos.xml', null, null);
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (55, 'Sergio Peters', null, null, 'https://www.researchgate.net/profile/Sergio_Peters');
-
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (56, 'Vania Bogorny', 'https://dblp.uni-trier.de/pers/xx/b/Bogorny:Vania.xml', 'https://scholar.google.com.br/citations?user=-x_FW-wAAAAJ&hl=pt-BR', 'https://www.researchgate.net/profile/Vania_Bogorny');
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (57, 'Vera do Carmo Comparsi de Vargas', 'https://dblp.uni-trier.de/pers/xx/v/Vargas:Vera_do_Carmo_C=_de.xml', null, null);
 INSERT into professores (id, nome, linkdblp, linkgooglescholar, linkresearchgate) VALUES (58, 'Vitório Bruno Mazzola', null, null, null);

@@ -1,8 +1,21 @@
 <?xml version="1.0"?>
-<dblpperson name="Roberto Willrich" n="25">
+<dblpperson name="Roberto Willrich" n="26">
 <person key="homepages/74/6170" mdate="2009-06-10">
 <author>Roberto Willrich</author>
 </person>
+<r><inproceedings key="conf/webmedia/SacentiWF18" mdate="2018-10-01">
+<author>Juarez A. P. Sacenti</author>
+<author>Roberto Willrich</author>
+<author>Renato Fileto</author>
+<title>Hybrid Recommender System Based on Multi-Hierarchical Ontologies.</title>
+<pages>149-156</pages>
+<year>2018</year>
+<booktitle>WebMedia</booktitle>
+<ee>http://doi.acm.org/10.1145/3243082.3243106</ee>
+<crossref>conf/webmedia/2018</crossref>
+<url>db/conf/webmedia/webmedia2018.html#SacentiWF18</url>
+</inproceedings>
+</r>
 <r><article key="journals/jidm/JuniorCWM17" mdate="2017-12-12">
 <author>Caetano Traina Junior</author>
 <author>Robson L. F. Cordeiro</author>
@@ -86,7 +99,7 @@
 <url>db/conf/webmedia/webmedia2014.html#VetterW14</url>
 </inproceedings>
 </r>
-<r><article key="journals/jbcs/JuniorPWS13" mdate="2017-05-26">
+<r><article key="journals/jbcs/JuniorPWS13" mdate="2018-06-26">
 <author>Jos&#233; C&#233; J&#250;nior</author>
 <author>Achilles Colombo Prud&#234;ncio</author>
 <author>Roberto Willrich</author>
@@ -97,7 +110,7 @@
 <volume>19</volume>
 <journal>J. Braz. Comp. Soc.</journal>
 <number>3</number>
-<ee>https://doi.org/10.1007/s13173-012-0094-2</ee>
+<ee type="oa">https://doi.org/10.1007/s13173-012-0094-2</ee>
 <url>db/journals/jbcs/jbcs19.html#JuniorPWS13</url>
 </article>
 </r>
@@ -146,7 +159,7 @@
 <url>db/conf/nca/nca2009.html#PrudencioWDT09</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/wcce/RochaWFT09" mdate="2017-05-23">
+<r><inproceedings key="conf/wcce/RochaWFT09" mdate="2018-06-26">
 <author>Tiago Rios da Rocha</author>
 <author>Roberto Willrich</author>
 <author>Renato Fileto</author>
@@ -155,7 +168,7 @@
 <pages>349-358</pages>
 <year>2009</year>
 <booktitle>WCCE</booktitle>
-<ee>https://doi.org/10.1007/978-3-642-03115-1_37</ee>
+<ee type="oa">https://doi.org/10.1007/978-3-642-03115-1_37</ee>
 <crossref>conf/wcce/2009</crossref>
 <url>db/conf/wcce/wcce2009.html#RochaWFT09</url>
 </inproceedings>
@@ -383,7 +396,7 @@
 <co c="0"><na f="h/Hoyos=Rivera:Guillermo_de_Jes=uacute=s">Guillermo de Jes&#250;s Hoyos-Rivera</na></co>
 <co c="0"><na f="i/Izidoro:Diego">Diego Izidoro</na></co>
 <co c="0"><na f="j/J=uacute=nior:Jos=eacute=_C=eacute=">Jos&#233; C&#233; J&#250;nior</na></co>
-<co c="0"><na f="l/Lima:Christopher_Viana">Christopher Viana Lima</na></co>
+<co c="0" n="2"><na f="l/Lima:Christopher">Christopher Lima</na><na>Christopher Viana Lima</na></co>
 <co c="0"><na f="l/Lima:Jos=eacute=_Valdeni_de">Jos&#233; Valdeni de Lima</na></co>
 <co c="0"><na f="l/Lima=Gomes:Roberta">Roberta Lima-Gomes</na></co>
 <co c="0"><na f="m/Machado:Javam_C=">Javam C. Machado</na></co>

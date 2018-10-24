@@ -40,7 +40,7 @@
 <url>db/journals/cj/cj52.html#SilvaF09</url>
 </article>
 </r>
-<r><inproceedings key="conf/pts/KawakamiKRBPSS07" mdate="2017-05-23">
+<r><inproceedings key="conf/pts/KawakamiKRBPSS07" mdate="2018-06-26">
 <author>Luiz Kawakami</author>
 <author>Andr&#233; Knabben</author>
 <author>Douglas Rechia</author>
@@ -53,7 +53,7 @@
 <year>2007</year>
 <crossref>conf/pts/2007</crossref>
 <booktitle>TestCom/FATES</booktitle>
-<ee>https://doi.org/10.1007/978-3-540-73066-8_14</ee>
+<ee type="oa">https://doi.org/10.1007/978-3-540-73066-8_14</ee>
 <url>db/conf/pts/testcom2007.html#KawakamiKRBPSS07</url>
 </inproceedings>
 </r>

@@ -76,7 +76,7 @@
 <url>db/conf/geoinfo/geoinfo2016.html#BordignonFRR16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/icann/PrioriSRSHSDS16" mdate="2017-05-26">
+<r><inproceedings key="conf/icann/PrioriSRSHSDS16" mdate="2018-06-25">
 <author>Daniel Priori</author>
 <author>Giseli de Sousa</author>
 <author>Mauro Roisenberg</author>
@@ -84,7 +84,7 @@
 <author>Evelyn Hesse</author>
 <author>Emmanuel Salawu</author>
 <author>Neil Davey</author>
-<author>Yi Sun</author>
+<author>Yi Sun 0001</author>
 <title>Using Machine Learning Techniques to Recover Prismatic Cirrus Ice Crystal Size from 2-Dimensional Light Scattering Patterns.</title>
 <pages>372-379</pages>
 <year>2016</year>
@@ -486,13 +486,14 @@
 <url>db/conf/sbrn/sbrn2000.html#FranceschiBR00</url>
 </inproceedings>
 </r>
-<r><phdthesis key="phd/ndltd/Roisenberg98" mdate="2017-07-31">
+<r><phdthesis key="phd/ndltd/Roisenberg98" mdate="2018-07-18">
 <author>Mauro Roisenberg</author>
-<title>Emerg&#234;ncia da intelig&#234;ncia em agentes aut&#244;nomos atrav&#233;s de modelos inspirados na natureza /.</title>
+<title>Emerg&#234;ncia da intelig&#234;ncia em agentes aut&#244;nomos atrav&#233;s de modelos inspirados na natureza.</title>
 <year>1998</year>
 <school>Federal University of Santa Catarina, Florian&#243;polis, Brazil</school>
 <ee>http://repositorio.ufsc.br/xmlui/handle/123456789/77698</ee>
 <ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.RI_UFSC:oai:repositorio.ufsc.br:123456789/77698</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:repositorio.ufsc.br:123456789/77698</ee>
 <note type="source">ndltd.org (oai:agregador.ibict.br.RI_UFSC:oai:repositorio.ufsc.br:123456789/77698)</note>
 </phdthesis>
 </r>
@@ -558,7 +559,7 @@
 <co c="0"><na f="s/Soares:S=eacute=rgio_Aur=eacute=lio_Ferreira">S&#233;rgio Aur&#233;lio Ferreira Soares</na></co>
 <co c="2"><na f="s/Sousa:Giseli_de">Giseli de Sousa</na></co>
 <co c="2"><na f="s/Stopford:Christopher">Christopher Stopford</na></co>
-<co c="2"><na f="s/Sun:Yi">Yi Sun</na></co>
+<co c="2"><na f="s/Sun_0001:Yi">Yi Sun 0001</na></co>
 <co c="1"><na f="v/Vieira:R=_C=">R. C. Vieira</na></co>
 <co c="7"><na f="v/Vieira:Renato">Renato Vieira</na></co>
 </coauthors>
