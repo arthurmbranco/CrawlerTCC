@@ -33,7 +33,6 @@ import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
 
-
 public class Main {
 	static String url = "jdbc:postgresql://localhost:5432/crawler";
 	static String user = "postgres";
@@ -45,8 +44,38 @@ public class Main {
     		Connection conn = DriverManager.getConnection(url, user, password);
     		conn.setAutoCommit(false);
     		Statement myStmt =  conn.createStatement();
-
-    		checarNovosCurriculos(conn, myStmt);
+    		
+//    		File file = new File("files/proxy80.txt"); 		  
+//    		BufferedReader br = new BufferedReader(new FileReader(file)); 
+//    		ArrayList<String> list = new ArrayList<String>();
+//    		String st; 
+//    		while ((st = br.readLine()) != null) {
+//    		   list.add(st);
+//    		} 
+//    		
+//    		int index = (int) (Math.random()*list.size()-1);
+//    		String[] aux = list.get(index).split(":");
+//    		String ip = aux[0];
+//    		int porta = Integer.parseInt(aux[1]);
+//    		org.jsoup.nodes.Document doc = null;
+//    		boolean alive = false;
+//    		while(!alive) {
+//    		try {
+//    			System.out.println(list.get(index));
+//    			doc = Jsoup.connect("https://www.meuip.com.br").proxy(ip, porta).timeout(5000).userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36").get();
+//    			System.out.println(doc.getElementsByTag("h1").text());
+//    			alive = true;
+//    		}catch(IOException ioe){
+//    			list.remove(index);
+//    			index = (int) (Math.random()*list.size()-1);
+//        		aux = list.get(index).split(":");
+//        		ip = aux[0];
+//        		porta = Integer.parseInt(aux[1]);
+//    			System.out.println("Falhou!");
+//            }
+//    		}
+    		
+    		//checarNovosCurriculos(conn, myStmt);
     		GUI.init(conn, myStmt);
     		//myStmt.executeUpdate("DELETE FROM dblp");
     		//myStmt.executeUpdate("DELETE FROM googlescholar");

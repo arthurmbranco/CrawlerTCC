@@ -1,22 +1,8 @@
 <?xml version="1.0"?>
-<dblpperson name="Raul Sidnei Wazlawick" n="17">
+<dblpperson name="Raul Sidnei Wazlawick" n="16">
 <person key="homepages/71/3416" mdate="2009-06-10">
 <author>Raul Sidnei Wazlawick</author>
 </person>
-<r><article key="journals/smr/TolfoWFF18" mdate="2018-10-16">
-<author>Cristiano Tolfo</author>
-<author>Raul Sidnei Wazlawick</author>
-<author>Marcelo Gitirana Gomes Ferreira</author>
-<author>Fernando Antonio Forcellini</author>
-<title>Agile practices and the promotion of entrepreneurial skills in software development.</title>
-<year>2018</year>
-<volume>30</volume>
-<journal>Journal of Software: Evolution and Process</journal>
-<number>9</number>
-<ee>https://doi.org/10.1002/smr.1945</ee>
-<url>db/journals/smr/smr30.html#TolfoWFF18</url>
-</article>
-</r>
 <r><inproceedings key="conf/icist/MiquiriceW18" mdate="2018-08-29">
 <author>Samuel Ant&#243;nio Miquirice</author>
 <author>Raul Sidnei Wazlawick</author>
@@ -67,11 +53,11 @@
 <url>db/conf/icaisc/icaisc2014-1.html#SacramentoSW14</url>
 </inproceedings>
 </r>
-<r><article key="journals/smr/TolfoWFF11" mdate="2018-10-16">
+<r><article key="journals/smr/TolfoWFF11" mdate="2017-06-08">
 <author>Cristiano Tolfo</author>
 <author orcid="0000-0003-4293-1359">Raul Sidnei Wazlawick</author>
 <author>Marcelo Gitirana Gomes Ferreira</author>
-<author>Fernando Antonio Forcellini</author>
+<author>Fernando A. Forcellini</author>
 <title>Agile methods and organizational culture: reflections about cultural levels.</title>
 <pages>423-441</pages>
 <year>2011</year>
@@ -249,7 +235,7 @@
 <co c="0"><na f="f/Fagundes:L=eacute=a_Da_Cruz">L&#233;a Da Cruz Fagundes</na></co>
 <co c="2"><na f="f/Ferreira:Marcelo_Gitirana_Gomes">Marcelo Gitirana Gomes Ferreira</na></co>
 <co c="3"><na f="f/Ferro:Humberto_F=">Humberto F. Ferro</na></co>
-<co c="2"><na f="f/Forcellini:Fernando_Antonio">Fernando Antonio Forcellini</na></co>
+<co c="2"><na f="f/Forcellini:Fernando_A=">Fernando A. Forcellini</na></co>
 <co c="0"><na f="k/Kawamoto:Andr=eacute=_Luiz_Satoshi">Andr&#233; Luiz Satoshi Kawamoto</na></co>
 <co c="0"><na f="k/Kirner:Claudio">Claudio Kirner</na></co>
 <co c="0"><na f="k/Kirner:Tereza_G=">Tereza G. Kirner</na></co>

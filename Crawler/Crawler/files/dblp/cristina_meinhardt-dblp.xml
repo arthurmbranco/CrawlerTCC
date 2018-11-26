@@ -1,56 +1,10 @@
 <?xml version="1.0"?>
-<dblpperson name="Cristina Meinhardt" n="37">
+<dblpperson name="Cristina Meinhardt" n="34">
 <person key="homepages/38/1116" mdate="2015-10-31">
 <author>Cristina Meinhardt</author>
 <note type="affiliation">Federal University of Rio Grande, Brazil</note>
 <url>https://www.linkedin.com/pub/cristina-meinhardt/8/4b6/262</url>
 </person>
-<r><article key="journals/mr/ZimpeckMAHKR18" mdate="2018-10-16">
-<author>Alexandra L. Zimpeck</author>
-<author>Cristina Meinhardt</author>
-<author>Laurent Artola</author>
-<author>Guillaume Hubert</author>
-<author>Fernanda Lima Kastensmidt</author>
-<author>Ricardo Augusto da Luz Reis</author>
-<title>Impact of different transistor arrangements on gate variability.</title>
-<pages>111-115</pages>
-<year>2018</year>
-<volume>88</volume>
-<journal>Microelectronics Reliability</journal>
-<ee>https://doi.org/10.1016/j.microrel.2018.06.090</ee>
-<url>db/journals/mr/mr88.html#ZimpeckMAHKR18</url>
-</article>
-</r>
-<r><article key="journals/mr/MoraesZMR18" mdate="2018-10-16">
-<author>L. B. Moraes</author>
-<author>Alexandra L. Zimpeck</author>
-<author>Cristina Meinhardt</author>
-<author>Ricardo Augusto da Luz Reis</author>
-<title>Evaluation of variability using Schmitt trigger on full adders layout.</title>
-<pages>116-121</pages>
-<year>2018</year>
-<volume>88</volume>
-<journal>Microelectronics Reliability</journal>
-<ee>https://doi.org/10.1016/j.microrel.2018.07.061</ee>
-<url>db/journals/mr/mr88.html#MoraesZMR18</url>
-</article>
-</r>
-<r><article key="journals/mr/AlmeidaMBSRM18" mdate="2018-10-16">
-<author>R. B. Almeida</author>
-<author>C. M. Marques</author>
-<author>Paulo F. Butzen</author>
-<author>Fabio G. R. G. da Silva</author>
-<author>Ricardo A. L. Reis</author>
-<author>Cristina Meinhardt</author>
-<title>Analysis of 6&#8239;T SRAM cell in sub-45&#8239;nm CMOS and FinFET technologies.</title>
-<pages>196-202</pages>
-<year>2018</year>
-<volume>88</volume>
-<journal>Microelectronics Reliability</journal>
-<ee>https://doi.org/10.1016/j.microrel.2018.07.134</ee>
-<url>db/journals/mr/mr88.html#AlmeidaMBSRM18</url>
-</article>
-</r>
 <r><inproceedings key="conf/lascas/SchvittzPMFNRB18" mdate="2018-07-12">
 <author>R. B. Schvittz</author>
 <author>M. Pontes</author>
@@ -529,9 +483,8 @@
 <url>db/conf/isvlsi/isvlsi2006.html#MenezesMRT06</url>
 </inproceedings>
 </r>
-<coauthors n="35" nc="2">
+<coauthors n="32" nc="2">
 <co c="0" n="4"><na f="a/Aguiar:Ygor">Ygor Aguiar</na><na>Ygor Q. Aguiar</na><na>Y. Q. de Aguiar</na><na>Ygor Q. de Aguiar</na></co>
-<co c="0"><na f="a/Almeida:R=_B=">R. B. Almeida</na></co>
 <co c="0"><na f="a/Ames:Stephanie_O=">Stephanie O. Ames</na></co>
 <co c="0"><na f="a/Artola:Laurent">Laurent Artola</na></co>
 <co c="0"><na f="b/Bartra:Walter_E=_Calienes">Walter E. Calienes Bartra</na></co>
@@ -544,9 +497,7 @@
 <co c="0"><na f="k/Kastensmidt:Fernanda_Lima">Fernanda Lima Kastensmidt</na></co>
 <co c="0"><na f="l/Liebl:Eduardo">Eduardo Liebl</na></co>
 <co c="1"><na f="l/Lucena:Vinicius">Vinicius Lucena</na></co>
-<co c="0"><na f="m/Marques:C=_M=">C. M. Marques</na></co>
 <co c="0"><na f="m/Menezes:Claudio">Claudio Menezes</na></co>
-<co c="0"><na f="m/Moraes:L=_B=">L. B. Moraes</na></co>
 <co c="0"><na f="n/Naviner:Lirida_A=_B=">Lirida A. B. Naviner</na></co>
 <co c="0"><na f="o/Oliveira:Ingrid_F=_V=">Ingrid F. V. Oliveira</na></co>
 <co c="0"><na f="p/Pontes:M=">M. Pontes</na></co>
