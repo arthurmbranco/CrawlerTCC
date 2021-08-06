@@ -1,0 +1,593 @@
+<?xml version="1.0"?>
+<dblpperson name="Ronaldo dos Santos Mello" n="42">
+<person key="homepages/82/6647" mdate="2016-06-14">
+<author>Ronaldo dos Santos Mello</author>
+<url>http://www.inf.ufsc.br/~ronaldo/</url>
+<url>http://lattes.cnpq.br/5011370918857999</url>
+<note type="affiliation">Federal University of Santa Catarina (UFSC), Department of Informatics and Statistics</note>
+</person>
+<r><inproceedings key="conf/iri/FrozzaMC18" mdate="2018-08-08">
+<author>Angelo Augusto Frozza</author>
+<author>Ronaldo dos Santos Mello</author>
+<author>Felipe de Souza da Costa</author>
+<title>An Approach for Schema Extraction of JSON and Extended JSON Document Collections.</title>
+<pages>356-363</pages>
+<year>2018</year>
+<booktitle>IRI</booktitle>
+<ee>https://doi.org/10.1109/IRI.2018.00060</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IRI.2018.00060</ee>
+<crossref>conf/iri/2018</crossref>
+<url>db/conf/iri/iri2018.html#FrozzaMC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/SchreinerDM18" mdate="2018-08-22">
+<author>Geomar A. Schreiner</author>
+<author>Denio Duarte</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>An Autonomous Hybrid Data Partition for NewSQL DBs.</title>
+<pages>95-101</pages>
+<year>2018</year>
+<booktitle>SBBD Companion</booktitle>
+<ee>http://sbbd.org.br/2018/wp-content/uploads/sites/5/2018/08/095-sbbd_2018_comp.pdf</ee>
+<crossref>conf/sbbd/2018c</crossref>
+<url>db/conf/sbbd/sbbd2018c.html#SchreinerDM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/FrozzaM18" mdate="2018-08-22">
+<author>Angelo Augusto Frozza</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>A Process for Reverse Engineering of Aggregate-Oriented NoSQL Databases with Emphasis on Geographic Data.</title>
+<pages>109-115</pages>
+<year>2018</year>
+<booktitle>SBBD Companion</booktitle>
+<ee>http://sbbd.org.br/2018/wp-content/uploads/sites/5/2018/08/109-sbbd_2018_comp.pdf</ee>
+<crossref>conf/sbbd/2018c</crossref>
+<url>db/conf/sbbd/sbbd2018c.html#FrozzaM18</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijwis/SalvadoriHOMS17" mdate="2017-09-11">
+<author>Ivan Luiz Salvadori</author>
+<author>Alexis Huf</author>
+<author>Bruno C. N. Oliveira</author>
+<author>Ronaldo dos Santos Mello</author>
+<author>Frank Siqueira</author>
+<title>Improving entity linking with ontology alignment for semantic microservices composition.</title>
+<pages>302-323</pages>
+<year>2017</year>
+<volume>13</volume>
+<journal>IJWIS</journal>
+<number>3</number>
+<ee>https://doi.org/10.1108/IJWIS-04-2017-0029</ee>
+<url>db/journals/ijwis/ijwis13.html#SalvadoriHOMS17</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbbd/SantanaM17" mdate="2018-02-19">
+<author>Luiz Henrique Zambom Santana</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>Workload-Aware RDF Partitioning and SPARQL Query Caching for Massive RDF Graphs stored in NoSQL Databases.</title>
+<pages>184-195</pages>
+<year>2017</year>
+<booktitle>SBBD</booktitle>
+<ee>http://sbbd.org.br/2017/wp-content/uploads/sites/3/2018/02/p184-195.pdf</ee>
+<crossref>conf/sbbd/2017</crossref>
+<url>db/conf/sbbd/sbbd2017.html#SantanaM17</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijwis/LimaM16" mdate="2017-05-28">
+<author>Claudio de Lima</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>On proposing and evaluating a NoSQL document database logical approach.</title>
+<pages>398-417</pages>
+<year>2016</year>
+<volume>12</volume>
+<journal>IJWIS</journal>
+<number>4</number>
+<ee>https://doi.org/10.1108/IJWIS-04-2016-0018</ee>
+<url>db/journals/ijwis/ijwis12.html#LimaM16</url>
+</article>
+</r>
+<r><inproceedings key="conf/iiwas/CamargoSMS16" mdate="2017-04-24">
+<author>Andr&#233; de Camargo</author>
+<author>Ivan Luiz Salvadori</author>
+<author>Ronaldo dos Santos Mello</author>
+<author>Frank Siqueira</author>
+<title>An architecture to automate performance tests on microservices.</title>
+<pages>422-429</pages>
+<year>2016</year>
+<booktitle>iiWAS</booktitle>
+<ee>http://doi.acm.org/10.1145/3011141.3011179</ee>
+<crossref>conf/iiwas/2016</crossref>
+<url>db/conf/iiwas/iiwas2016.html#CamargoSMS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiwas/NetoVM16" mdate="2017-04-24">
+<author>Nelson Mariano Leite Neto</author>
+<author>Patricia Vilain</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>Segen: generation of test cases for selenium and selendroid.</title>
+<pages>433-442</pages>
+<year>2016</year>
+<booktitle>iiWAS</booktitle>
+<ee>http://doi.acm.org/10.1145/3011141.3011154</ee>
+<crossref>conf/iiwas/2016</crossref>
+<url>db/conf/iiwas/iiwas2016.html#NetoVM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiwas/SalvadoriHMS16" mdate="2017-09-16">
+<author>Ivan Luiz Salvadori</author>
+<author orcid="0000-0003-2723-0546">Alexis Huf</author>
+<author>Ronaldo dos Santos Mello</author>
+<author>Frank Siqueira</author>
+<title>Publishing linked data through semantic microservices composition.</title>
+<pages>443-452</pages>
+<year>2016</year>
+<booktitle>iiWAS</booktitle>
+<ee>http://doi.acm.org/10.1145/3011141.3011155</ee>
+<crossref>conf/iiwas/2016</crossref>
+<url>db/conf/iiwas/iiwas2016.html#SalvadoriHMS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiwas/LongoVSM16" mdate="2017-04-24">
+<author>Douglas Hiura Longo</author>
+<author>Patricia Vilain</author>
+<author>Lucas Pereira da Silva</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>A web framework for test automation: user scenarios through user interaction diagrams.</title>
+<pages>458-467</pages>
+<year>2016</year>
+<booktitle>iiWAS</booktitle>
+<ee>http://doi.acm.org/10.1145/3011141.3011158</ee>
+<crossref>conf/iiwas/2016</crossref>
+<url>db/conf/iiwas/iiwas2016.html#LongoVSM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiwas/LimaM15" mdate="2016-05-23">
+<author>Claudio de Lima</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>A workload-driven logical design approach for NoSQL document databases.</title>
+<pages>73:1-73:10</pages>
+<year>2015</year>
+<booktitle>iiWAS</booktitle>
+<ee>http://doi.acm.org/10.1145/2837185.2837218</ee>
+<crossref>conf/iiwas/2015</crossref>
+<url>db/conf/iiwas/iiwas2015.html#LimaM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiwas/SchreinerDM15" mdate="2016-05-23">
+<author>Geomar A. Schreiner</author>
+<author>Denio Duarte</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>SQLtoKeyNoSQL: a layer for relational to key-based NoSQL database mapping.</title>
+<pages>74:1-74:9</pages>
+<year>2015</year>
+<booktitle>iiWAS</booktitle>
+<ee>http://doi.acm.org/10.1145/2837185.2837224</ee>
+<crossref>conf/iiwas/2015</crossref>
+<url>db/conf/iiwas/iiwas2015.html#SchreinerDM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/SantanaMR15" mdate="2015-11-04">
+<author>Luiz Henrique Zambom Santana</author>
+<author>Ronaldo dos Santos Mello</author>
+<author>Mauro Roisenberg</author>
+<title>Smart Crawler: Using Committee Machines for\\Web Pages Continuous Classification.</title>
+<pages>125-132</pages>
+<year>2015</year>
+<booktitle>WebMedia</booktitle>
+<ee>http://doi.acm.org/10.1145/2820426.2820437</ee>
+<crossref>conf/webmedia/2015</crossref>
+<url>db/conf/webmedia/webmedia2015.html#SantanaMR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/SouzaM14" mdate="2016-06-25">
+<author>Augusto Ferreia de Souza</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>Defini&#231;&#227;o e Avalia&#231;&#227;o de uma Abordagem para Extra&#231;&#227;o e Cataloga&#231;&#227;o de Conte&#250;do Obtido da Deep Web.</title>
+<pages>77-86</pages>
+<year>2014</year>
+<booktitle>SBBD</booktitle>
+<ee>http://www.lbd.dcc.ufmg.br/colecoes/sbbd/2014/007.pdf</ee>
+<crossref>conf/sbbd/2014</crossref>
+<url>db/conf/sbbd/sbbd2014.html#SouzaM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecis/SouzaM13" mdate="2013-10-01">
+<author>Augusto F. Souza</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>Deepec: An Approach For Deep Web Content Extraction And Cataloguing.</title>
+<pages>150</pages>
+<year>2013</year>
+<booktitle>ECIS</booktitle>
+<ee>http://aisel.aisnet.org/ecis2013_cr/150</ee>
+<crossref>conf/ecis/2013</crossref>
+<url>db/conf/ecis/ecis2013.html#SouzaM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiwas/FerreiraCM13" mdate="2014-02-12">
+<author>Gabriel dos Santos Ferreira</author>
+<author>Andre Calil</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>On Providing DDL Support for a Relational Layer over a Document NoSQL Database.</title>
+<pages>125</pages>
+<year>2013</year>
+<booktitle>iiWAS</booktitle>
+<ee>http://doi.acm.org/10.1145/2539150.2539196</ee>
+<crossref>conf/iiwas/2013</crossref>
+<url>db/conf/iiwas/iiwas2013.html#FerreiraCM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/KoerichM13" mdate="2016-06-21">
+<author>Willian Ventura Koerich</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>A Query-by-Similarity Indexing Strategy for Web Forms.</title>
+<pages>16:1-16:6</pages>
+<year>2013</year>
+<booktitle>SBBD (Short Papers)</booktitle>
+<ee>http://www.lbd.dcc.ufmg.br/colecoes/sbbd/2013/0016.pdf</ee>
+<crossref>conf/sbbd/2013s</crossref>
+<url>db/conf/sbbd/sbbd2013s.html#KoerichM13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijwis/SchroederDM12" mdate="2017-05-28">
+<author>Rebeca Schroeder</author>
+<author>Denio Duarte</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>On Evaluating an Approach for Balancing the Trade-off on XML Schema Design.</title>
+<year>2012</year>
+<volume>8</volume>
+<journal>IJWIS</journal>
+<number>4</number>
+<ee>https://doi.org/10.1108/17440081211282874</ee>
+<url>db/journals/ijwis/ijwis8.html#SchroederDM12</url>
+<pages>371-389</pages>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/CalilM12" mdate="2017-05-21">
+<author>Andre Calil</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>SimpleSQL: A Relational Layer for SimpleDB.</title>
+<pages>99-110</pages>
+<year>2012</year>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33074-2_8</ee>
+<crossref>conf/adbis/2012</crossref>
+<url>db/conf/adbis/adbis2012.html#CalilM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/SantosDM12" mdate="2016-06-21">
+<author>Leonardo Bres dos Santos</author>
+<author>Carina F. Dorneles</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>Uma Abordagem para Detec&#231;&#227;o e Extra&#231;&#227;o de R&#243;tulos em Formul&#225;rios Web.</title>
+<pages>233-239</pages>
+<year>2012</year>
+<booktitle>SBBD (Short Papers)</booktitle>
+<ee>http://www.lbd.dcc.ufmg.br/colecoes/sbbd/2012/0030.pdf</ee>
+<crossref>conf/sbbd/2012s</crossref>
+<url>db/conf/sbbd/sbbd2012s.html#SantosDM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webdb/SchroederMH12" mdate="2012-11-21">
+<author>Rebeca Schroeder</author>
+<author>Ronaldo dos Santos Mello</author>
+<author>Carmem S. Hara</author>
+<title>Affinity&#173;based XML Fragmentation.</title>
+<pages>61-66</pages>
+<year>2012</year>
+<booktitle>WebDB</booktitle>
+<ee>http://db.disi.unitn.eu/pages/WebDB2012/papers/p23.pdf</ee>
+<crossref>conf/webdb/2012</crossref>
+<url>db/conf/webdb/webdb2012.html#SchroederMH12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jidm/MelloFDB11" mdate="2011-11-02">
+<author>Ronaldo dos Santos Mello</author>
+<author>Renato Fileto</author>
+<author>Carina F. Dorneles</author>
+<author>Vania Bogorny</author>
+<title>Research on Complex Data Management and Analysis at UFSC.</title>
+<pages>155-170</pages>
+<year>2011</year>
+<volume>2</volume>
+<journal>JIDM</journal>
+<number>2</number>
+<ee>http://seer.lcc.ufmg.br/index.php/jidm/article/view/118</ee>
+<url>db/journals/jidm/jidm2.html#MelloFDB11</url>
+</article>
+</r>
+<r><article key="journals/kais/DornelesGM11" mdate="2017-05-28">
+<author>Carina F. Dorneles</author>
+<author>Rodrigo Gon&#231;alves</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>Approximate data instance matching: a survey.</title>
+<pages>1-21</pages>
+<year>2011</year>
+<volume>27</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10115-010-0285-0</ee>
+<url>db/journals/kais/kais27.html#DornelesGM11</url>
+</article>
+</r>
+<r><inproceedings key="conf/iiwas/SchroederDM11" mdate="2012-01-19">
+<author>Rebeca Schroeder</author>
+<author>Denio Duarte</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>A workload-aware approach for optimizing the XML schema design trade-off.</title>
+<pages>12-19</pages>
+<year>2011</year>
+<booktitle>iiWAS</booktitle>
+<ee>http://doi.acm.org/10.1145/2095536.2095542</ee>
+<crossref>conf/iiwas/2011</crossref>
+<url>db/conf/iiwas/iiwas2011.html#SchroederDM11</url>
+</inproceedings>
+</r>
+<r><article key="journals/jidm/MelloPF10" mdate="2010-11-03">
+<author>Ronaldo dos Santos Mello</author>
+<author>Ramesh Pinnamaneni</author>
+<author>Juliana Freire</author>
+<title>Indexing Web Form Constraints.</title>
+<pages>343-358</pages>
+<year>2010</year>
+<volume>1</volume>
+<journal>JIDM</journal>
+<number>3</number>
+<ee>http://seer.lcc.ufmg.br/index.php/jidm/article/view/55</ee>
+<url>db/journals/jidm/jidm1.html#MelloPF10</url>
+</article>
+</r>
+<r><proceedings key="conf/sbbd/2010p" mdate="2016-06-21">
+<editor>Ronaldo dos Santos Mello</editor>
+<editor>Viviane Moreira Orengo</editor>
+<title>XXV Simp&#243;sio Brasileiro de Banco de Dados - Sess&#227;o de P&#244;steres, Belo Horizonte, Minas Gerais, Brasil, October 5-8, 2010.</title>
+<booktitle>SBBD (Posters)</booktitle>
+<publisher>SBC</publisher>
+<year>2010</year>
+<url>db/conf/sbbd/sbbd2010p.html</url>
+</proceedings>
+</r>
+<r><article key="journals/mta/SchroederM09" mdate="2017-05-28">
+<author>Rebeca Schroeder</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>Designing XML documents from conceptual schemas and workload information.</title>
+<pages>303-326</pages>
+<year>2009</year>
+<volume>43</volume>
+<journal>Multimedia Tools Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11042-009-0272-1</ee>
+<url>db/journals/mta/mta43.html#SchroederM09</url>
+</article>
+</r>
+<r><article key="journals/sigmod/MoroBDDGM09" mdate="2017-09-16">
+<author orcid="0000-0002-0545-2001">Mirella M. Moro</author>
+<author>Vanessa Braganholo</author>
+<author>Carina F. Dorneles</author>
+<author>Denio Duarte</author>
+<author>Renata de Matos Galante</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>XML: some papers in a haystack.</title>
+<pages>29-34</pages>
+<year>2009</year>
+<volume>38</volume>
+<journal>SIGMOD Record</journal>
+<number>2</number>
+<ee>http://doi.acm.org/10.1145/1815918.1815924</ee>
+<url>db/journals/sigmod/sigmod38.html#MoroBDDGM09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdim/PeresM09" mdate="2017-05-26">
+<author>Fabiana Frata Furlan Peres</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>A rule-based conversion of an object-oriented database schema to a schema in XML schema.</title>
+<pages>198-204</pages>
+<year>2009</year>
+<booktitle>ICDIM</booktitle>
+<ee>https://doi.org/10.1109/ICDIM.2009.5356777</ee>
+<crossref>conf/icdim/2009</crossref>
+<url>db/conf/icdim/icdim2009.html#PeresM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doceng/SchroederM08" mdate="2008-09-19">
+<author>Rebeca Schroeder</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>Improving query performance on XML documents: a workload-driven design approach.</title>
+<pages>177-186</pages>
+<year>2008</year>
+<booktitle>ACM Symposium on Document Engineering</booktitle>
+<ee>http://doi.acm.org/10.1145/1410140.1410176</ee>
+<crossref>conf/doceng/2008</crossref>
+<url>db/conf/doceng/doceng2008.html#SchroederM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/SchroederM08" mdate="2008-04-28">
+<author>Rebeca Schroeder</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>Conversion of generalization hierarchies and union types from extended entity-relationship model to an XML logical model.</title>
+<pages>1036-1037</pages>
+<year>2008</year>
+<booktitle>SAC</booktitle>
+<ee>http://doi.acm.org/10.1145/1363686.1363926</ee>
+<crossref>conf/sac/2008</crossref>
+<url>db/conf/sac/sac2008.html#SchroederM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/JrM08" mdate="2014-05-22">
+<author>Carlos Alberto Souza Jr.</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>An ontology-driven process for unification of XML instances.</title>
+<pages>242-249</pages>
+<year>2008</year>
+<booktitle>WebMedia</booktitle>
+<ee>http://doi.acm.org/10.1145/1666091.1666131</ee>
+<crossref>conf/webmedia/2008</crossref>
+<url>db/conf/webmedia/webmedia2008.html#JrM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/GoncalvesM07" mdate="2017-05-26">
+<author>Rodrigo Gon&#231;alves</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>Improving XML Instances Comparison with Preprocessing Algorithms.</title>
+<pages>13-22</pages>
+<year>2007</year>
+<crossref>conf/dexa/2007</crossref>
+<booktitle>DEXA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74469-6_2</ee>
+<url>db/conf/dexa/dexa2007.html#GoncalvesM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/RodriguesM07" mdate="2017-05-26">
+<author>Khaue Rezende Rodrigues</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>A Faceted Taxonomy of Semantic Integrity Constraints for the XML Data Model.</title>
+<pages>65-74</pages>
+<year>2007</year>
+<crossref>conf/dexa/2007</crossref>
+<booktitle>DEXA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74469-6_8</ee>
+<url>db/conf/dexa/dexa2007.html#RodriguesM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iri/RodriguesM07" mdate="2017-05-26">
+<author>Khaue Rezende Rodrigues</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>DIInCX: An Approach to Discovery of Implicit Integrity Constraints from XML Data.</title>
+<pages>606-611</pages>
+<year>2007</year>
+<crossref>conf/iri/2007</crossref>
+<booktitle>IRI</booktitle>
+<ee>https://doi.org/10.1109/IRI.2007.4296687</ee>
+<url>db/conf/iri/iri2007.html#RodriguesM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/geoinfo/FrozzaM06" mdate="2008-01-24">
+<author>Angelo Augusto Frozza</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>Um M&#233;todo para Determinar a Equival&#234;ncia Sem&#226;ntica entre Esquemas GML.</title>
+<pages>283-294</pages>
+<year>2006</year>
+<crossref>conf/geoinfo/2006</crossref>
+<booktitle>GeoInfo</booktitle>
+<ee>http://www.geoinfo.info/geoinfo2006/papers/p25.pdf</ee>
+<url>db/conf/geoinfo/geoinfo2006.html#FrozzaM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caise/MelloH05" mdate="2017-05-24">
+<author>Ronaldo dos Santos Mello</author>
+<author>Carlos A. Heuser</author>
+<title>BInXS: A Process for Integration of XML Schemata.</title>
+<pages>151-166</pages>
+<year>2005</year>
+<crossref>conf/caise/2005</crossref>
+<booktitle>CAiSE</booktitle>
+<ee>https://doi.org/10.1007/11431855_12</ee>
+<url>db/conf/caise/caise2005.html#MelloH05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/LazzarettiM05" mdate="2005-11-17">
+<author>Alexandre Tagliari Lazzaretti</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>A Domain Integrity Constraint Control for XML Documents.</title>
+<pages>115-129</pages>
+<year>2005</year>
+<crossref>conf/sbbd/2005</crossref>
+<booktitle>SBBD</booktitle>
+<ee>http://www.sbbd-sbes2005.ufu.br/arquivos/artigo-08-novo_Lazzaretti.pdf</ee>
+<url>db/conf/sbbd/sbbd2005.html#LazzarettiM05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/CamilloHM03" mdate="2017-05-25">
+<author>Sandro Daniel Camillo</author>
+<author>Carlos A. Heuser</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>Querying Heterogeneous XML Sources through a Conceptual Schema.</title>
+<pages>186-199</pages>
+<ee>https://doi.org/10.1007/978-3-540-39648-2_17</ee>
+<year>2003</year>
+<crossref>conf/er/2003</crossref>
+<booktitle>ER</booktitle>
+<url>db/conf/er/er2003.html#CamilloHM03</url>
+</inproceedings>
+</r>
+<r><article key="journals/infsof/MelloCH02" mdate="2017-05-17">
+<author>Ronaldo dos Santos Mello</author>
+<author>Silvana Castano</author>
+<author>Carlos A. Heuser</author>
+<title>A Method for the Unification of XML Schemata.</title>
+<pages>241-249</pages>
+<year>2002</year>
+<volume>44</volume>
+<journal>Information &#38; Software Technology</journal>
+<number>4</number>
+<url>db/journals/infsof/infsof44.html#MelloCH02</url>
+<ee>https://doi.org/10.1016/S0950-5849(02)00014-9</ee>
+</article>
+</r>
+<r><inproceedings key="conf/er/MelloH01" mdate="2017-05-25">
+<author>Ronaldo dos Santos Mello</author>
+<author>Carlos A. Heuser</author>
+<title>A Rule-Based Conversion of a DTD to a Conceptual Schema.</title>
+<pages>133-148</pages>
+<year>2001</year>
+<crossref>conf/er/2001</crossref>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/3-540-45581-7_12</ee>
+<url>db/conf/er/er2001.html#MelloH01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wiiw/MelloH01" mdate="2017-03-16">
+<author>Ronaldo dos Santos Mello</author>
+<author>Carlos A. Heuser</author>
+<title>A Bottom-Up Approach for Integration of XML Sources.</title>
+<pages>118-124</pages>
+<year>2001</year>
+<crossref>conf/wiiw/2001</crossref>
+<booktitle>Workshop on Information Integration on the Web</booktitle>
+<url>db/conf/wiiw/wiiw2001.html#MelloH01</url>
+</inproceedings>
+</r>
+<coauthors n="41" nc="6">
+<co c="0"><na f="b/Bogorny:Vania">Vania Bogorny</na></co>
+<co c="0"><na f="b/Braganholo:Vanessa">Vanessa Braganholo</na></co>
+<co c="4"><na f="c/Calil:Andre">Andre Calil</na></co>
+<co c="1"><na f="c/Camargo:Andr=eacute=_de">Andr&#233; de Camargo</na></co>
+<co c="0"><na f="c/Camillo:Sandro_Daniel">Sandro Daniel Camillo</na></co>
+<co c="0"><na f="c/Castano:Silvana">Silvana Castano</na></co>
+<co c="3"><na f="c/Costa:Felipe_de_Souza_da">Felipe de Souza da Costa</na></co>
+<co c="0"><na f="d/Dorneles:Carina_F=">Carina F. Dorneles</na></co>
+<co c="0"><na f="d/Duarte:Denio">Denio Duarte</na></co>
+<co c="4"><na f="f/Ferreira:Gabriel_dos_Santos">Gabriel dos Santos Ferreira</na></co>
+<co c="0"><na f="f/Fileto:Renato">Renato Fileto</na></co>
+<co c="0"><na f="f/Freire:Juliana">Juliana Freire</na></co>
+<co c="3"><na f="f/Frozza:Angelo_Augusto">Angelo Augusto Frozza</na></co>
+<co c="0" n="2"><na f="g/Galante:Renata">Renata Galante</na><na>Renata de Matos Galante</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Rodrigo">Rodrigo Gon&#231;alves</na></co>
+<co c="0"><na f="h/Hara:Carmem_S=">Carmem S. Hara</na></co>
+<co c="0" n="2"><na f="h/Heuser:Carlos_Alberto">Carlos Alberto Heuser</na><na>Carlos A. Heuser</na></co>
+<co c="1"><na f="h/Huf:Alexis">Alexis Huf</na></co>
+<co c="-1"><na f="k/Koerich:Willian_Ventura">Willian Ventura Koerich</na></co>
+<co c="-1"><na f="l/Lazzaretti:Alexandre_Tagliari">Alexandre Tagliari Lazzaretti</na></co>
+<co c="-1"><na f="l/Lima:Claudio_de">Claudio de Lima</na></co>
+<co c="2"><na f="l/Longo:Douglas_Hiura">Douglas Hiura Longo</na></co>
+<co c="0" n="2"><na f="m/Moreira:Viviane_Pereira">Viviane Pereira Moreira</na><na>Viviane Moreira Orengo</na></co>
+<co c="0"><na f="m/Moro:Mirella_M=">Mirella M. Moro</na></co>
+<co c="2"><na f="n/Neto:Nelson_Mariano_Leite">Nelson Mariano Leite Neto</na></co>
+<co c="1"><na f="o/Oliveira:Bruno_C=_N=">Bruno C. N. Oliveira</na></co>
+<co c="-1"><na f="p/Peres:Fabiana_Frata_Furlan">Fabiana Frata Furlan Peres</na></co>
+<co c="0"><na f="p/Pinnamaneni:Ramesh">Ramesh Pinnamaneni</na></co>
+<co c="-1"><na f="r/Rodrigues:Khaue_Rezende">Khaue Rezende Rodrigues</na></co>
+<co c="5"><na f="r/Roisenberg:Mauro">Mauro Roisenberg</na></co>
+<co c="1"><na f="s/Salvadori:Ivan_Luiz">Ivan Luiz Salvadori</na></co>
+<co c="5" n="2"><na f="s/Santana:Luiz_H=_Z=">Luiz H. Z. Santana</na><na>Luiz Henrique Zambom Santana</na></co>
+<co c="0"><na f="s/Santos:Leonardo_Bres_dos">Leonardo Bres dos Santos</na></co>
+<co c="0"><na f="s/Schreiner:Geomar_A=">Geomar A. Schreiner</na></co>
+<co c="0"><na f="s/Schroeder:Rebeca">Rebeca Schroeder</na></co>
+<co c="2"><na f="s/Silva:Lucas_Pereira_da">Lucas Pereira da Silva</na></co>
+<co c="1"><na f="s/Siqueira:Frank">Frank Siqueira</na></co>
+<co c="-1"><na f="s/Souza:Augusto_F=">Augusto F. Souza</na></co>
+<co c="-1"><na f="s/Souza:Augusto_Ferreia_de">Augusto Ferreia de Souza</na></co>
+<co c="-1"><na f="s/Souza_Jr=:Carlos_Alberto">Carlos Alberto Souza Jr.</na></co>
+<co c="2"><na f="v/Vilain:Patricia">Patricia Vilain</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<dblpperson name="Jerusa Marchi" n="16">
+<person key="homepages/67/3037" mdate="2009-06-09">
+<author>Jerusa Marchi</author>
+</person>
+<r><article key="journals/rita/CoutoMG17" mdate="2018-01-05">
+<author>Diego Couto</author>
+<author>Jerusa Marchi</author>
+<author>Thiago &#194;ngelo Gelaim</author>
+<title>Composi&#231;&#227;o de Agentes EBDI: Integra&#231;&#227;o WASABI-Jason.</title>
+<pages>112-129</pages>
+<year>2017</year>
+<volume>24</volume>
+<journal>RITA</journal>
+<number>2</number>
+<ee>http://www.seer.ufrgs.br/index.php/rita/article/view/VOL24-NR2-112</ee>
+<url>db/journals/rita/rita24.html#CoutoMG17</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/AlvesM17" mdate="2018-01-23">
+<author>Jhonatan Alves</author>
+<author>Jerusa Marchi</author>
+<title>Web Service Composition: An Agent-Based Approach.</title>
+<pages>121-126</pages>
+<year>2017</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2017.79</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/BRACIS.2017.79</ee>
+<crossref>conf/bracis/2017</crossref>
+<url>db/conf/bracis/bracis2017.html#AlvesM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/AlvesMFD16" mdate="2017-05-25">
+<author>Jhonatan Alves</author>
+<author>Jerusa Marchi</author>
+<author>Renato Fileto</author>
+<author>Mario A. R. Dantas</author>
+<title>Resilient composition of Web services through nondeterministic planning.</title>
+<pages>895-900</pages>
+<year>2016</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2016.7543850</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCC.2016.7543850</ee>
+<crossref>conf/iscc/2016</crossref>
+<url>db/conf/iscc/iscc2016.html#AlvesMFD16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/micai/GelaimSM15" mdate="2017-05-24">
+<author>Thiago &#194;ngelo Gelaim</author>
+<author>Ricardo Azambuja Silveira</author>
+<author>Jerusa Marchi</author>
+<title>Towards a Model of Cognitive Agents: Integrating Emotion on Trust.</title>
+<pages>80-86</pages>
+<year>2015</year>
+<booktitle>MICAI (Special Sessions)</booktitle>
+<ee>https://doi.org/10.1109/MICAI.2015.19</ee>
+<crossref>conf/micai/2015s</crossref>
+<url>db/conf/micai/micai2015s.html#GelaimSM15</url>
+</inproceedings>
+</r>
+<r><article key="journals/rcs/Chavez-BosquezM14" mdate="2015-06-18">
+<author>Oscar Ch&#225;vez-Bosquez</author>
+<author>Jerusa Marchi</author>
+<author>Pilar Pozos Parra</author>
+<title>Nutritional Menu Planning: A Hybrid Approach and Preliminary Tests.</title>
+<pages>93-104</pages>
+<year>2014</year>
+<volume>82</volume>
+<journal>Research in Computing Science</journal>
+<ee>http://rcs.cic.ipn.mx/2014_82/Nutritional%20Menu%20Planning_%20A%20Hybrid%20Approach%20and%20Preliminary%20Tests.pdf</ee>
+<url>db/journals/rcs/rcs82.html#Chavez-BosquezM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/eumas/BitencourtSM13" mdate="2015-12-18">
+<author>Guilherme K. Bitencourt</author>
+<author>Ricardo Azambuja Silveira</author>
+<author>Jerusa Marchi</author>
+<title>TrustE: An Emotional Trust Model for Agents.</title>
+<pages>54-67</pages>
+<year>2013</year>
+<booktitle>EUMAS</booktitle>
+<ee>http://ceur-ws.org/Vol-1113/paper5.pdf</ee>
+<crossref>conf/eumas/2013</crossref>
+<url>db/conf/eumas/eumas2013.html#BitencourtSM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jelia/PerrusselMTZ12" mdate="2017-05-25">
+<author>Laurent Perrussel</author>
+<author>Jerusa Marchi</author>
+<author>Jean-Marc Th&#233;venin</author>
+<author>Dongmo Zhang</author>
+<title>Relevant Minimal Change in Belief Update.</title>
+<pages>333-345</pages>
+<year>2012</year>
+<booktitle>JELIA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33353-8_26</ee>
+<crossref>conf/jelia/2012</crossref>
+<url>db/conf/jelia/jelia2012.html#PerrusselMTZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/MarchiP11" mdate="2011-06-28">
+<author>Jerusa Marchi</author>
+<author>Laurent Perrussel</author>
+<title>Prime Normal Forms in Belief Merging.</title>
+<year>2011</year>
+<booktitle>FLAIRS Conference</booktitle>
+<ee>http://aaai.org/ocs/index.php/FLAIRS/FLAIRS11/paper/view/2584</ee>
+<crossref>conf/flairs/2011</crossref>
+<url>db/conf/flairs/flairs2011.html#MarchiP11</url>
+</inproceedings>
+</r>
+<r><article key="journals/amai/MarchiBP10" mdate="2017-05-28">
+<author>Jerusa Marchi</author>
+<author>Guilherme Bittencourt</author>
+<author>Laurent Perrussel</author>
+<title>Prime forms and minimal change in propositional belief bases.</title>
+<pages>1-45</pages>
+<year>2010</year>
+<volume>59</volume>
+<journal>Ann. Math. Artif. Intell.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10472-010-9206-x</ee>
+<url>db/journals/amai/amai59.html#MarchiBP10</url>
+</article>
+</r>
+<r><inproceedings key="conf/ausai/PerrusselMZ10" mdate="2017-05-21">
+<author>Laurent Perrussel</author>
+<author>Jerusa Marchi</author>
+<author>Dongmo Zhang</author>
+<title>Characterizing Relevant Belief Revision Operators.</title>
+<pages>42-51</pages>
+<year>2010</year>
+<booktitle>Australasian Conference on Artificial Intelligence</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-17432-2_5</ee>
+<crossref>conf/ausai/2010</crossref>
+<url>db/conf/ausai/ausai2010.html#PerrusselMZ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/flairs/PerrusselMB09" mdate="2012-12-13">
+<author>Laurent Perrussel</author>
+<author>Jerusa Marchi</author>
+<author>Guilherme Bittencourt</author>
+<title>Prime Implicants and Belief Update.</title>
+<year>2009</year>
+<booktitle>FLAIRS Conference</booktitle>
+<crossref>conf/flairs/2009</crossref>
+<url>db/conf/flairs/flairs2009.html#PerrusselMB09</url>
+<ee>http://aaai.org/ocs/index.php/FLAIRS/2009/paper/view/87</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iberamia/PerrusselMB08" mdate="2017-05-21">
+<author>Laurent Perrussel</author>
+<author>Jerusa Marchi</author>
+<author>Guilherme Bittencourt</author>
+<title>Quantum-Based Belief Merging.</title>
+<pages>21-30</pages>
+<year>2008</year>
+<booktitle>IBERAMIA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-88309-8_3</ee>
+<crossref>conf/iberamia/2008</crossref>
+<url>db/conf/iberamia/iberamia2008.html#PerrusselMB08</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Marchi06" mdate="2018-07-15">
+<author>Jerusa Marchi</author>
+<title>Operadores sint&#225;ticos para mudan&#231;a de cren&#231;as baseados na representa&#231;&#227;o em formas normais prim&#225;rias.</title>
+<year>2006</year>
+<school>Federal University of Santa Catarina, Florian&#243;polis, Brazers</school>
+<ee>http://repositorio.ufsc.br/xmlui/handle/123456789/89122</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.RI_UFSC:oai:repositorio.ufsc.br:123456789/89122</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:repositorio.ufsc.br:123456789/89122</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.RI_UFSC:oai:repositorio.ufsc.br:123456789/89122)</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/micai/MarchiBP05" mdate="2017-05-24">
+<author>Jerusa Marchi</author>
+<author>Guilherme Bittencourt</author>
+<author>Laurent Perrussel</author>
+<title>A Syntactical Approach to Belief Update.</title>
+<pages>142-151</pages>
+<year>2005</year>
+<crossref>conf/micai/2005</crossref>
+<booktitle>MICAI</booktitle>
+<ee>https://doi.org/10.1007/11579427_15</ee>
+<url>db/conf/micai/micai2005.html#MarchiBP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/BittencourtPM04" mdate="2004-09-02">
+<author>Guilherme Bittencourt</author>
+<author>Laurent Perrussel</author>
+<author>Jerusa Marchi</author>
+<title>A Syntactical Approach to Revision.</title>
+<pages>788-792</pages>
+<year>2004</year>
+<crossref>conf/ecai/2004</crossref>
+<booktitle>ECAI</booktitle>
+<url>db/conf/ecai/ecai2004.html#BittencourtPM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/MarchiB04" mdate="2017-05-17">
+<author>Jerusa Marchi</author>
+<author>Guilherme Bittencourt</author>
+<title>Propositional Reasoning for an Embodied Cognitive Model.</title>
+<pages>164-173</pages>
+<ee>https://doi.org/10.1007/978-3-540-28645-5_17</ee>
+<year>2004</year>
+<crossref>conf/sbia/2004</crossref>
+<booktitle>SBIA</booktitle>
+<url>db/conf/sbia/sbia2004.html#MarchiB04</url>
+</inproceedings>
+</r>
+<coauthors n="13" nc="3">
+<co c="2"><na f="a/Alves:Jhonatan">Jhonatan Alves</na></co>
+<co c="1"><na f="b/Bitencourt:Guilherme_K=">Guilherme K. Bitencourt</na></co>
+<co c="0"><na f="b/Bittencourt:Guilherme">Guilherme Bittencourt</na></co>
+<co c="0"><na f="c/Ch=aacute=vez=Bosquez:Oscar">Oscar Ch&#225;vez-Bosquez</na></co>
+<co c="1"><na f="c/Couto:Diego">Diego Couto</na></co>
+<co c="2"><na f="d/Dantas:Mario_A=_R=">Mario A. R. Dantas</na></co>
+<co c="2"><na f="f/Fileto:Renato">Renato Fileto</na></co>
+<co c="1"><na f="g/Gelaim:Thiago_=Acirc=ngelo">Thiago &#194;ngelo Gelaim</na></co>
+<co c="0" n="2"><na f="p/Parra:Maria_del_Pilar_Pozos" bibtex="Maria del Pilar {Pozos Parra}">Maria del Pilar Pozos Parra</na><na bibtex="Pilar {Pozos Parra}">Pilar Pozos Parra</na></co>
+<co c="0"><na f="p/Perrussel:Laurent">Laurent Perrussel</na></co>
+<co c="1"><na f="s/Silveira:Ricardo_Azambuja">Ricardo Azambuja Silveira</na></co>
+<co c="0"><na f="t/Th=eacute=venin:Jean=Marc">Jean-Marc Th&#233;venin</na></co>
+<co c="0"><na f="z/Zhang:Dongmo">Dongmo Zhang</na></co>
+</coauthors>
+</dblpperson>
+

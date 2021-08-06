@@ -1,0 +1,652 @@
+<?xml version="1.0"?>
+<dblpperson name="Alex R. Pinto" n="35">
+<person key="homepages/97/1179" mdate="2017-07-28">
+<author>Alex R. Pinto</author>
+<author>Alex S. R. Pinto</author>
+<author>Alex Sandro Roschildt Pinto</author>
+<author>Alex Roschildt Pinto</author>
+<url>https://orcid.org/0000-0002-9144-1535</url>
+</person>
+<r><article key="journals/sensors/MaschiPMB18" mdate="2018-08-14">
+<author>Luis F. C. Maschi</author>
+<author>Alex S. R. Pinto</author>
+<author orcid="0000-0003-2982-4006">Rodolfo Ipolito Meneguette</author>
+<author orcid="0000-0001-8824-3055">Alexandro Baldassin</author>
+<title>Data Summarization in the Node by Parameters (DSNP): Local Data Fusion in an IoT Environment.</title>
+<pages>799</pages>
+<year>2018</year>
+<volume>18</volume>
+<journal>Sensors</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.3390/s18030799</ee>
+<url>db/journals/sensors/sensors18.html#MaschiPMB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/hicss/MarconatoRPPFPB17" mdate="2017-03-10">
+<author>Emerson Alberto Marconato</author>
+<author>Mariana Rodrigues</author>
+<author>Rayner de Melo Pires</author>
+<author>Daniel Fernando Pigatto</author>
+<author>Luiz C. Querino Filho</author>
+<author>Alex Sandro Roschildt Pinto</author>
+<author>Kalinka Regina Lucas Jaquie Castelo Branco</author>
+<title>AVENS - A Novel Flying Ad Hoc Network Simulator with Automatic Code Generation for Unmanned Aircraft System.</title>
+<year>2017</year>
+<booktitle>HICSS</booktitle>
+<ee>http://aisel.aisnet.org/hicss-50/st/wireless_networks/2</ee>
+<crossref>conf/hicss/2017</crossref>
+<url>db/conf/hicss/hicss2017.html#MarconatoRPPFPB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iissc/VanelliPSDFCV17" mdate="2018-08-15">
+<author>Brunno Vanelli</author>
+<author>Alex R. Pinto</author>
+<author>Madalena Pereira da Silva</author>
+<author>M. A. R. Dantas</author>
+<author>Maria Fazio</author>
+<author>Antonio Celesti</author>
+<author>Massimo Villari</author>
+<title>IoT Data Storage in the Cloud: A Case Study in Human Biometeorology.</title>
+<pages>253-262</pages>
+<year>2017</year>
+<booktitle>IISSC/CN4IoT</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-67636-4_26</ee>
+<crossref>conf/iissc/2017</crossref>
+<url>db/conf/iissc/iissc2017.html#VanelliPSDFCV17</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijes/SchrickteMOP16" mdate="2017-05-06">
+<author>Luiz Fernando Schrickte</author>
+<author>Carlos Barros Montez</author>
+<author>R&#244;mulo Silva de Oliveira</author>
+<author>Alex Sandro Roschildt Pinto</author>
+<title>Design and implementation of a 6LoWPAN gateway for wireless sensor networks integration with the internet of things.</title>
+<pages>380-390</pages>
+<year>2016</year>
+<volume>8</volume>
+<journal>IJES</journal>
+<number>5/6</number>
+<ee>https://doi.org/10.1504/IJES.2016.10001304</ee>
+<url>db/journals/ijes/ijes8.html#SchrickteMOP16</url>
+</article>
+</r>
+<r><article key="journals/jirs/PigattoGRFSPB16" mdate="2017-06-06">
+<author orcid="0000-0001-8528-7407">Daniel Fernando Pigatto</author>
+<author>Alexandre L. Gon&#231;alves</author>
+<author>Guilherme Freire Roberto</author>
+<author>Julio Fernando Rodrigues Filho</author>
+<author>Nat&#225;ssya Barlate Floro da Silva</author>
+<author orcid="0000-0002-9144-1535">Alex Sandro Roschildt Pinto</author>
+<author>Kalinka Regina Lucas Jaquie Castelo Branco</author>
+<title>The HAMSTER Data Communication Architecture for Unmanned Aerial, Ground and Aquatic Systems - Aims, Scope and Definitions.</title>
+<pages>705-723</pages>
+<year>2016</year>
+<volume>84</volume>
+<journal>Journal of Intelligent and Robotic Systems</journal>
+<number>1-4</number>
+<ee>https://doi.org/10.1007/s10846-016-0356-x</ee>
+<url>db/journals/jirs/jirs84.html#PigattoGRFSPB16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cbms/SilvaNDGPMV16" mdate="2017-05-23">
+<author>Madalena Pereira da Silva</author>
+<author>D&#233;bora Cabral Naz&#225;rio</author>
+<author>M. A. R. Dantas</author>
+<author>Alexandre Leopoldo Gon&#231;alves</author>
+<author>Alex R. Pinto</author>
+<author>Guilherme Manerichi</author>
+<author>Bruno Vanelli</author>
+<title>An eHealth Context Management and Distribution Approach in AAL Environments.</title>
+<pages>169-174</pages>
+<year>2016</year>
+<booktitle>CBMS</booktitle>
+<ee>https://doi.org/10.1109/CBMS.2016.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CBMS.2016.15</ee>
+<crossref>conf/cbms/2016</crossref>
+<url>db/conf/cbms/cbms2016.html#SilvaNDGPMV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/MarconatoMPPLB16" mdate="2017-05-21">
+<author>Emerson Alberto Marconato</author>
+<author>Jean-Aim&#233; Maxa</author>
+<author>Daniel F. Pigatto</author>
+<author>Alex S. R. Pinto</author>
+<author>Nicolas Larrieu</author>
+<author>Kalinka R. L. J. Castelo Branco</author>
+<title>IEEE 802.11n vs. IEEE 802.15.4: A Study on Communication QoS to Provide Safe FANETs.</title>
+<pages>184-191</pages>
+<year>2016</year>
+<booktitle>DSN Workshops</booktitle>
+<ee>https://doi.org/10.1109/DSN-W.2016.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DSN-W.2016.35</ee>
+<crossref>conf/dsn/2016w</crossref>
+<url>db/conf/dsn/dsn2016w.html#MarconatoMPPLB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hicss/PiresAPB16" mdate="2017-06-15">
+<author orcid="0000-0001-9445-9063">Rayner de Melo Pires</author>
+<author>Sergio Zumpano Arnosti</author>
+<author orcid="0000-0002-9144-1535">Alex Sandro Roschildt Pinto</author>
+<author>Kalinka Regina Lucas Jaquie Castelo Branco</author>
+<title>Experimenting Broadcast Storm Mitigation Techniques in FANETs.</title>
+<pages>5868-5877</pages>
+<year>2016</year>
+<booktitle>HICSS</booktitle>
+<ee>https://doi.org/10.1109/HICSS.2016.726</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HICSS.2016.726</ee>
+<crossref>conf/hicss/2016</crossref>
+<url>db/conf/hicss/hicss2016.html#PiresAPB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iecon/AndradeMMPVS16" mdate="2018-02-26">
+<author>A. T. C. Andrade</author>
+<author>Carlos Montez</author>
+<author>Ricardo Moraes</author>
+<author>Alex R. Pinto</author>
+<author>Francisco Vasques</author>
+<author>G. L. da Silva</author>
+<title>Outlier detection using k-means clustering and lightweight methods for Wireless Sensor Networks.</title>
+<pages>4683-4688</pages>
+<year>2016</year>
+<booktitle>IECON</booktitle>
+<ee>https://doi.org/10.1109/IECON.2016.7794093</ee>
+<crossref>conf/iecon/2016</crossref>
+<url>db/conf/iecon/iecon2016.html#AndradeMMPVS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wetice/SilvaNDGPMV16" mdate="2017-05-26">
+<author>Madalena Pereira da Silva</author>
+<author>D&#233;bora Cabral Naz&#225;rio</author>
+<author>Mario A. R. Dantas</author>
+<author>Alexandre Leopoldo Gon&#231;alves</author>
+<author>Alex R. Pinto</author>
+<author>Guilherme Manerichi</author>
+<author>Bruno Vanelli</author>
+<title>Context Management and Distribution Architecture Using Software-Defined Networking.</title>
+<pages>185-190</pages>
+<year>2016</year>
+<booktitle>WETICE</booktitle>
+<ee>https://doi.org/10.1109/WETICE.2016.48</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WETICE.2016.48</ee>
+<crossref>conf/wetice/2016</crossref>
+<url>db/conf/wetice/wetice2016.html#SilvaNDGPMV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wfcs/ValleBMPHVVG16" mdate="2017-06-05">
+<author>Odilson T. Valle</author>
+<author>Gerson F. Budke</author>
+<author>Carlos Montez</author>
+<author>Alex R. Pinto</author>
+<author>Fernando Hernandez</author>
+<author orcid="0000-0003-3115-0901">Francisco Vasques</author>
+<author>Fabian Vargas</author>
+<author>Edmundo Gatti</author>
+<title>Experimental assessment of using network coding and cooperative diversity techniques in IEEE 802.15.4 wireless sensor networks.</title>
+<pages>1-4</pages>
+<year>2016</year>
+<booktitle>WFCS</booktitle>
+<ee>https://doi.org/10.1109/WFCS.2016.7496521</ee>
+<crossref>conf/wfcs/2016</crossref>
+<url>db/conf/wfcs/wfcs2016.html#ValleBMPHVVG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mswim/SilvaDGP15" mdate="2017-06-04">
+<author>Madalena Pereira da Silva</author>
+<author>Mario A. R. Dantas</author>
+<author>Alexandre L. Gon&#231;alves</author>
+<author orcid="0000-0002-9144-1535">Alex R. Pinto</author>
+<title>A Managing QoE Approach for Provisioning User Experience Aware Services Using SDN.</title>
+<pages>51-58</pages>
+<year>2015</year>
+<booktitle>Q2SWinet@MSWiM</booktitle>
+<ee>http://doi.acm.org/10.1145/2815317.2815321</ee>
+<crossref>conf/mswim/2015q</crossref>
+<url>db/conf/mswim/q2swinet2015.html#SilvaDGP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/SilvaGDVMSFP15" mdate="2017-06-05">
+<author>Madalena Pereira da Silva</author>
+<author>Alexandre L. Gon&#231;alves</author>
+<author>M. A. R. Dantas</author>
+<author>Brunno Vanelli</author>
+<author>Guilherme Manerichi</author>
+<author>Stephan A. R. D. dos Santos</author>
+<author>Mauri Ferrandim</author>
+<author orcid="0000-0002-9144-1535">Alex R. Pinto</author>
+<title>Implementation of IoT for Monitoring Ambient Air in Ubiquitous AAL Environments.</title>
+<pages>158-161</pages>
+<year>2015</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2015.37</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBESC.2015.37</ee>
+<crossref>conf/sbesc/2015</crossref>
+<url>db/conf/sbesc/sbesc2015.html#SilvaGDVMSFP15</url>
+</inproceedings>
+</r>
+<r><article key="journals/inffus/PintoMAVP14" mdate="2017-06-06">
+<author orcid="0000-0002-9144-1535">Alex R. Pinto</author>
+<author orcid="0000-0001-7767-0692">Carlos Montez</author>
+<author>Gustavo Medeiros de Ara&#250;jo</author>
+<author orcid="0000-0003-3115-0901">Francisco Vasques</author>
+<author orcid="0000-0002-6386-9753">Paulo Portugal</author>
+<title>An approach to implement data fusion techniques in wireless sensor networks using genetic machine learning algorithms.</title>
+<pages>90-101</pages>
+<year>2014</year>
+<volume>15</volume>
+<journal>Information Fusion</journal>
+<ee>https://doi.org/10.1016/j.inffus.2013.05.003</ee>
+<url>db/journals/inffus/inffus15.html#PintoMAVP14</url>
+</article>
+</r>
+<r><article key="journals/jcsci/RibeiroPZPBC14" mdate="2017-08-28">
+<author>Adriano Cesar Ribeiro</author>
+<author orcid="0000-0002-9144-1535">Alex Roschildt Pinto</author>
+<author>Geraldo Francisco Donega Zafalon</author>
+<author orcid="0000-0001-8528-7407">Daniel Fernando Pigatto</author>
+<author>Kalinka Castelo Branco</author>
+<author>Adriano Mauro Cansian</author>
+<title>An Approach to mitigate Denial of Service Attacks in IEEE 802.11 Networks.</title>
+<pages>128-137</pages>
+<year>2014</year>
+<volume>10</volume>
+<journal>JCS</journal>
+<number>1</number>
+<ee>https://doi.org/10.3844/jcssp.2014.128.137</ee>
+<url>db/journals/jcsci/jcsci10.html#RibeiroPZPBC14</url>
+</article>
+</r>
+<r><article key="journals/sensors/FilhoUVPGPPB14" mdate="2018-08-14">
+<author>Geraldo P. R. Filho</author>
+<author>J&#243; Ueyama</author>
+<author>Leandro A. Villas</author>
+<author orcid="0000-0002-9144-1535">Alex R. Pinto</author>
+<author>Vin&#237;cius Pereira Gon&#231;alves</author>
+<author orcid="0000-0002-7411-9229">Gustavo Pessin</author>
+<author>Richard W. Pazzi</author>
+<author>Torsten Braun</author>
+<title>NodePM: A Remote Monitoring Alert System for Energy Consumption Using Probabilistic Techniques.</title>
+<pages>848-867</pages>
+<year>2014</year>
+<volume>14</volume>
+<journal>Sensors</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.3390/s140100848</ee>
+<url>db/journals/sensors/sensors14.html#FilhoUVPGPPB14</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbesc/SantosSFCP14" mdate="2017-08-28">
+<author>Luiz Fernando Segato dos Santos</author>
+<author>Tiago Henrique Faccio Segato</author>
+<author>Alessandra Monteiro Ferro</author>
+<author>Leonardo Gabriel Quintino Cabreira</author>
+<author orcid="0000-0002-9144-1535">Alex Roschildt Pinto</author>
+<title>Study of the Efficiency of Electronic Postural Corrector in the Treatment and Prevention of Thoracic Hyperkyphosis in Children and Teenagers.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2014.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBESC.2014.23</ee>
+<crossref>conf/sbesc/2014</crossref>
+<url>db/conf/sbesc/sbesc2014.html#SantosSFCP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/MeneguetteMMPLV14" mdate="2017-05-23">
+<author>Rodolfo Ipolito Meneguette</author>
+<author>Guilherme Maia</author>
+<author>Edmundo R. M. Madeira</author>
+<author>Alex R. Pinto</author>
+<author>Antonio A. F. Loureiro</author>
+<author>Leandro A. Villas</author>
+<title>A New Solution to Perform Data Dissemination in Vehicular Networks.</title>
+<pages>443-450</pages>
+<year>2014</year>
+<booktitle>SBRC</booktitle>
+<ee>https://doi.org/10.1109/SBRC.2014.53</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBRC.2014.53</ee>
+<crossref>conf/sbrc/2014</crossref>
+<url>db/conf/sbrc/sbrc2014.html#MeneguetteMMPLV14</url>
+</inproceedings>
+</r>
+<r><incollection key="series/sci/AraujoPKB14" mdate="2017-06-09">
+<author>Gustavo Medeiros de Ara&#250;jo</author>
+<author orcid="0000-0002-9144-1535">Alex R. Pinto</author>
+<author>J&#246;rg Kaiser</author>
+<author>Leandro Buss Becker</author>
+<title>Genetic Machine Learning Approach for Link Quality Prediction in Mobile Wireless Sensor Networks.</title>
+<pages>1-18</pages>
+<year>2014</year>
+<booktitle>Cooperative Robots and Sensor Networks</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39301-3_1</ee>
+<crossref>series/sci/2014-507</crossref>
+<url>db/series/sci/sci507.html#AraujoPKB14</url>
+</incollection>
+</r>
+<r><article key="journals/ijbi/PavarinoNMGSMZPV13" mdate="2018-08-16">
+<author>Eduardo Pavarino</author>
+<author orcid="0000-0001-8580-7054">Leandro Alves Neves</author>
+<author>Jos&#233; Marcio Machado</author>
+<author orcid="0000-0001-8390-0933">Moacir Fernandes de Godoy</author>
+<author>Y. Shiyou</author>
+<author>Julio Cesar Momente</author>
+<author>Geraldo F. D. Zafalon</author>
+<author orcid="0000-0002-9144-1535">Alex R. Pinto</author>
+<author>Carlos Roberto Val&#234;ncio</author>
+<title>Free Tools and Strategies for the Generation of 3D Finite Element Meshes: Modeling of the Cardiac Structures.</title>
+<year>2013</year>
+<volume>2013</volume>
+<journal>Int. J. Biomedical Imaging</journal>
+<ee type="oa">https://doi.org/10.1155/2013/540571</ee>
+<url>db/journals/ijbi/ijbi2013.html#PavarinoNMGSMZPV13</url>
+<pages>540571:1-540571:11</pages>
+</article>
+</r>
+<r><inproceedings key="conf/eann/ColturatoGPCPBFB13" mdate="2017-06-02">
+<author>Adimara Bentivoglio Colturato</author>
+<author>Andr&#233; Benjamin Gomes</author>
+<author orcid="0000-0001-8528-7407">Daniel Fernando Pigatto</author>
+<author>Danielle Bentivoglio Colturato</author>
+<author orcid="0000-0002-9144-1535">Alex Sandro Roschildt Pinto</author>
+<author>Luiz Henrique Castelo Branco</author>
+<author>Edson Luiz Furtado</author>
+<author>Kalinka Regina Lucas Jaquie Castelo Branco</author>
+<title>Pattern Recognition in Thermal Images of Plants Pine Using Artificial Neural Networks.</title>
+<pages>406-413</pages>
+<year>2013</year>
+<booktitle>EANN (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41013-0_42</ee>
+<crossref>conf/eann/2013-1</crossref>
+<url>db/conf/eann/eann2013-1.html#ColturatoGPCPBFB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/FelskeMPVP13" mdate="2017-06-02">
+<author>Mitchel S. Felske</author>
+<author orcid="0000-0001-7767-0692">Carlos Montez</author>
+<author orcid="0000-0002-9144-1535">Alex R. Pinto</author>
+<author orcid="0000-0003-3115-0901">Francisco Vasques</author>
+<author orcid="0000-0002-6386-9753">Paulo Portugal</author>
+<title>GLHOVE: A framework for uniform coverage monitoring using cluster-tree wireless sensor networks.</title>
+<pages>1-8</pages>
+<year>2013</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2013.6648061</ee>
+<crossref>conf/etfa/2013</crossref>
+<url>db/conf/etfa/etfa2013.html#FelskeMPVP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indin/SemprebomPMV13" mdate="2017-06-04">
+<author>Tiago Semprebom</author>
+<author orcid="0000-0002-9144-1535">Alex R. Pinto</author>
+<author orcid="0000-0001-7767-0692">Carlos Montez</author>
+<author orcid="0000-0003-3115-0901">Francisco Vasques</author>
+<title>Energy consumption and spatial diversity trade-off in autonomic Wireless Sensor Networks: The (m, k)-Gur Game approach.</title>
+<pages>135-140</pages>
+<year>2013</year>
+<booktitle>INDIN</booktitle>
+<ee>https://doi.org/10.1109/INDIN.2013.6622871</ee>
+<crossref>conf/indin/2013</crossref>
+<url>db/conf/indin/indin2013.html#SemprebomPMV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latw/RobertoBMP13" mdate="2017-05-19">
+<author>Guilherme Freire Roberto</author>
+<author>Kalinka R. L. J. Castelo Branco</author>
+<author>Jos&#233; Marcio Machado</author>
+<author>Alex R. Pinto</author>
+<title>Local data fusion algorithm for fire detection through mobile robot.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>LATW</booktitle>
+<ee>https://doi.org/10.1109/LATW.2013.6562667</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/LATW.2013.6562667</ee>
+<crossref>conf/latw/2013</crossref>
+<url>db/conf/latw/latw2013.html#RobertoBMP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdcat/ValencioSGCTP13" mdate="2017-09-16">
+<author>Carlos Roberto Val&#234;ncio</author>
+<author>Andrielson Ferreira Da Silva</author>
+<author>Diogo Lemos Guimaraes</author>
+<author>Adriano Mauro Cansian</author>
+<author orcid="0000-0002-3050-466X">M&#225;rio Luiz Tronco</author>
+<author orcid="0000-0002-9144-1535">Alex Sandro Roschildt Pinto</author>
+<title>GBD IAAS Manager: A Tool for Managing Infrastructure-as-a-Service for Private and Hybrid Clouds.</title>
+<pages>206-211</pages>
+<year>2013</year>
+<booktitle>PDCAT</booktitle>
+<ee>https://doi.org/10.1109/PDCAT.2013.39</ee>
+<crossref>conf/pdcat/2013</crossref>
+<url>db/conf/pdcat/pdcat2013.html#ValencioSGCTP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/SchrickteMOP13" mdate="2017-06-05">
+<author>Luiz Fernando Schrickte</author>
+<author orcid="0000-0001-7767-0692">Carlos Montez</author>
+<author>R&#244;mulo Silva de Oliveira</author>
+<author>Alex R. Pinto</author>
+<title>Integration of Wireless Sensor Networks to the Internet of Things Using a 6LoWPAN Gateway.</title>
+<pages>119-124</pages>
+<year>2013</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2013.37</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBESC.2013.37</ee>
+<crossref>conf/sbesc/2013</crossref>
+<url>db/conf/sbesc/sbesc2013.html#SchrickteMOP13</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Pinto12b" mdate="2018-07-25">
+<author>Alex Sandro Roschildt Pinto</author>
+<title>Abordagens auton&#244;micas para qualidade de servi&#231;o da comunica&#231;&#227;o em redes de sensores sem fio densas com requisitos temporais.</title>
+<year>2012</year>
+<school>Federal University of Santa Catarina, Brazil</school>
+<ee>http://repositorio.ufsc.br/xmlui/handle/123456789/93669</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:repositorio.ufsc.br:123456789/93669</ee>
+<note type="source">ndltd.org (oai:repositorio.ufsc.br:123456789/93669)</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/latw/PintoCMM12" mdate="2017-06-04">
+<author orcid="0000-0002-9144-1535">Alex R. Pinto</author>
+<author>Adriano Mauro Cansian</author>
+<author>Jos&#233; Marcio Machado</author>
+<author orcid="0000-0001-7767-0692">Carlos Montez</author>
+<title>Self-optimization of dense wireless sensor networks based on simulated annealing.</title>
+<pages>1-6</pages>
+<year>2012</year>
+<booktitle>LATW</booktitle>
+<ee>https://doi.org/10.1109/LATW.2012.6261236</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/LATW.2012.6261236</ee>
+<crossref>conf/latw/2012</crossref>
+<url>db/conf/latw/latw2012.html#PintoCMM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/SemprebomZMMP12" mdate="2017-06-05">
+<author>Tiago Semprebom</author>
+<author>Gustavo Zomer</author>
+<author>Andre V. Milack</author>
+<author orcid="0000-0001-7767-0692">Carlos Montez</author>
+<author orcid="0000-0002-9144-1535">Alex R. Pinto</author>
+<title>(m, k)-Gur Game: Exploiting Message Discards in Order to Increase the Lifetime and Spatial Diversity in Autonomic Wireless Sensor Networks.</title>
+<pages>218-223</pages>
+<year>2012</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2012.51</ee>
+<crossref>conf/sbesc/2012</crossref>
+<url>db/conf/sbesc/sbesc2012.html#SemprebomZMMP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/procedia/AraujoPKB12" mdate="2017-06-08">
+<author>Gustavo Medeiros de Ara&#250;jo</author>
+<author orcid="0000-0002-9144-1535">Alex R. Pinto</author>
+<author>J&#246;rg Kaiser</author>
+<author>Leandro Buss Becker</author>
+<title>An Evolutionary Approach to Improve Connectivity Prediction in Mobile Wireless Sensor Networks.</title>
+<pages>1100-1105</pages>
+<year>2012</year>
+<crossref>conf/ant/2012</crossref>
+<booktitle>ANT/MobiWIS</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2012.06.156</ee>
+<url>db/journals/procedia/procedia10.html#AraujoPKB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/LavrattiPBVMHGS10" mdate="2017-06-02">
+<author>Felipe Lavratti</author>
+<author orcid="0000-0002-9144-1535">Alex R. Pinto</author>
+<author>Let&#237;cia Maria Veiras Bolzani</author>
+<author>Fabian Vargas</author>
+<author orcid="0000-0001-7767-0692">Carlos Barros Montez</author>
+<author>Fernando Hernandez</author>
+<author>Edmundo Gatti</author>
+<author>C. Silva</author>
+<title>Evaluating a Transmission Power Self-Optimization Technique for WSN in EMI Environments.</title>
+<pages>509-515</pages>
+<year>2010</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2010.116</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DSD.2010.116</ee>
+<crossref>conf/dsd/2010</crossref>
+<url>db/conf/dsd/dsd2010.html#LavrattiPBVMHGS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/PintoBDMV08" mdate="2017-06-02">
+<author>Alex R. Pinto</author>
+<author>Benedito Bitencort</author>
+<author>Mario A. R. Dantas</author>
+<author orcid="0000-0001-7767-0692">Carlos Barros Montez</author>
+<author orcid="0000-0003-3115-0901">Francisco Vasques</author>
+<title>Genetic machine learning approach for data fusion applications in dense Wireless Sensor Networks.</title>
+<pages>1177-1180</pages>
+<year>2008</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2008.4638549</ee>
+<crossref>conf/etfa/2008</crossref>
+<url>db/conf/etfa/etfa2008.html#PintoBDMV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcs/FerreiraDPMR07" mdate="2017-06-02">
+<author>D. J. Ferreira</author>
+<author>Mario A. R. Dantas</author>
+<author orcid="0000-0002-9144-1535">Alex R. Pinto</author>
+<author>Carlos Barros Montez</author>
+<author>Martius Rodriguez</author>
+<title>A Middleware for OSCAR and Wireless Sensor Network Environments.</title>
+<pages>24</pages>
+<year>2007</year>
+<crossref>conf/hpcs/2007</crossref>
+<booktitle>HPCS</booktitle>
+<ee>https://doi.org/10.1109/HPCS.2007.5</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HPCS.2007.5</ee>
+<url>db/conf/hpcs/hpcs2007.html#FerreiraDPMR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcs/DantasP05" mdate="2017-06-02">
+<author>Mario A. R. Dantas</author>
+<author orcid="0000-0002-9144-1535">Alex R. Pinto</author>
+<title>A Load Balancing Approach Based on a Genetic Machine Learning Algorithm.</title>
+<pages>124-130</pages>
+<year>2005</year>
+<crossref>conf/hpcs/2005</crossref>
+<booktitle>HPCS</booktitle>
+<ee>https://doi.org/10.1109/HPCS.2005.8</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HPCS.2005.8</ee>
+<url>db/conf/hpcs/hpcs2005.html#DantasP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/DantasP05" mdate="2018-06-26">
+<author>Mario A. R. Dantas</author>
+<author>Alex R. Pinto</author>
+<title>A Genetic Machine Learning Algorithm for Load Balancing in Cluster Configurations.</title>
+<pages>971-974</pages>
+<year>2005</year>
+<crossref>conf/iccS/2005-3</crossref>
+<booktitle>International Conference on Computational Science (3)</booktitle>
+<ee type="oa">https://doi.org/10.1007/11428862_150</ee>
+<url>db/conf/iccS/iccS2005-3.html#DantasP05</url>
+</inproceedings>
+</r>
+<coauthors n="84" nc="2">
+<co c="0"><na f="a/Andrade:A=_T=_C=">A. T. C. Andrade</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Gustavo_Medeiros_de">Gustavo Medeiros de Ara&#250;jo</na></co>
+<co c="0"><na f="a/Arnosti:Sergio_Zumpano">Sergio Zumpano Arnosti</na></co>
+<co c="0"><na f="b/Baldassin:Alexandro">Alexandro Baldassin</na></co>
+<co c="0"><na f="b/Becker:Leandro_Buss">Leandro Buss Becker</na></co>
+<co c="0"><na f="b/Bitencort:Benedito">Benedito Bitencort</na></co>
+<co c="0"><na f="b/Bolzani:Let=iacute=cia_Maria_Veiras">Let&#237;cia Maria Veiras Bolzani</na></co>
+<co c="0" n="3"><na f="b/Branco:Kalinka_Regina_Lucas_Jaquie_Castelo">Kalinka Regina Lucas Jaquie Castelo Branco</na><na>Kalinka R. L. J. Castelo Branco</na><na>Kalinka Castelo Branco</na></co>
+<co c="0"><na f="b/Branco:Luiz_Henrique_Castelo">Luiz Henrique Castelo Branco</na></co>
+<co c="0"><na f="b/Braun:Torsten">Torsten Braun</na></co>
+<co c="0"><na f="b/Budke:Gerson_F=">Gerson F. Budke</na></co>
+<co c="1"><na f="c/Cabreira:Leonardo_Gabriel_Quintino">Leonardo Gabriel Quintino Cabreira</na></co>
+<co c="0"><na f="c/Cansian:Adriano_Mauro">Adriano Mauro Cansian</na></co>
+<co c="0"><na f="c/Celesti:Antonio">Antonio Celesti</na></co>
+<co c="0"><na f="c/Colturato:Adimara_Bentivoglio">Adimara Bentivoglio Colturato</na></co>
+<co c="0"><na f="c/Colturato:Danielle_Bentivoglio">Danielle Bentivoglio Colturato</na></co>
+<co c="0" n="2"><na f="d/Dantas:Mario_A=_R=">Mario A. R. Dantas</na><na>M. A. R. Dantas</na></co>
+<co c="0"><na f="f/Fazio:Maria">Maria Fazio</na></co>
+<co c="0"><na f="f/Felske:Mitchel_S=">Mitchel S. Felske</na></co>
+<co c="0"><na f="f/Ferrandim:Mauri">Mauri Ferrandim</na></co>
+<co c="0"><na f="f/Ferreira:D=_J=">D. J. Ferreira</na></co>
+<co c="1"><na f="f/Ferro:Alessandra_Monteiro">Alessandra Monteiro Ferro</na></co>
+<co c="0"><na f="f/Filho:Geraldo_P=_R=">Geraldo P. R. Filho</na></co>
+<co c="0"><na f="f/Filho:Julio_Fernando_Rodrigues">Julio Fernando Rodrigues Filho</na></co>
+<co c="0"><na f="f/Filho:Luiz_C=_Querino">Luiz C. Querino Filho</na></co>
+<co c="0"><na f="f/Furtado:Edson_Luiz">Edson Luiz Furtado</na></co>
+<co c="0"><na f="g/Gatti:Edmundo">Edmundo Gatti</na></co>
+<co c="0"><na f="g/Godoy:Moacir_Fernandes_de">Moacir Fernandes de Godoy</na></co>
+<co c="0"><na f="g/Gomes:Andr=eacute=_Benjamin">Andr&#233; Benjamin Gomes</na></co>
+<co c="0" n="2"><na f="g/Gon=ccedil=alves:Alexandre_L=">Alexandre L. Gon&#231;alves</na><na>Alexandre Leopoldo Gon&#231;alves</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Vin=iacute=cius_Pereira">Vin&#237;cius Pereira Gon&#231;alves</na></co>
+<co c="0"><na f="g/Guimaraes:Diogo_Lemos">Diogo Lemos Guimaraes</na></co>
+<co c="0"><na f="h/Hernandez:Fernando">Fernando Hernandez</na></co>
+<co c="0"><na f="k/Kaiser:J=ouml=rg">J&#246;rg Kaiser</na></co>
+<co c="0"><na f="l/Larrieu:Nicolas">Nicolas Larrieu</na></co>
+<co c="0"><na f="l/Lavratti:Felipe">Felipe Lavratti</na></co>
+<co c="0" n="2"><na f="l/Loureiro:Antonio_Alfredo_Ferreira">Antonio Alfredo Ferreira Loureiro</na><na>Antonio A. F. Loureiro</na></co>
+<co c="0"><na f="m/Machado:Jos=eacute=_Marcio">Jos&#233; Marcio Machado</na></co>
+<co c="0" n="2"><na f="m/Madeira:Edmundo_Roberto_Mauro">Edmundo Roberto Mauro Madeira</na><na>Edmundo R. M. Madeira</na></co>
+<co c="0"><na f="m/Maia:Guilherme">Guilherme Maia</na></co>
+<co c="0"><na f="m/Manerichi:Guilherme">Guilherme Manerichi</na></co>
+<co c="0"><na f="m/Marconato:Emerson_Alberto">Emerson Alberto Marconato</na></co>
+<co c="0"><na f="m/Maschi:Luis_F=_C=">Luis F. C. Maschi</na></co>
+<co c="0"><na f="m/Maxa:Jean=Aim=eacute=">Jean-Aim&#233; Maxa</na></co>
+<co c="0"><na f="m/Meneguette:Rodolfo_Ipolito">Rodolfo Ipolito Meneguette</na></co>
+<co c="0"><na f="m/Milack:Andre_V=">Andre V. Milack</na></co>
+<co c="0"><na f="m/Momente:Julio_Cesar">Julio Cesar Momente</na></co>
+<co c="0" n="2"><na f="m/Montez:Carlos">Carlos Montez</na><na>Carlos Barros Montez</na></co>
+<co c="0"><na f="m/Moraes:Ricardo">Ricardo Moraes</na></co>
+<co c="0"><na f="n/Naz=aacute=rio:D=eacute=bora_Cabral">D&#233;bora Cabral Naz&#225;rio</na></co>
+<co c="0"><na f="n/Neves:Leandro_Alves">Leandro Alves Neves</na></co>
+<co c="0"><na f="o/Oliveira:R=ocirc=mulo_Silva_de">R&#244;mulo Silva de Oliveira</na></co>
+<co c="0"><na f="p/Pavarino:Eduardo">Eduardo Pavarino</na></co>
+<co c="0" n="2"><na f="p/Pazzi:Richard_Werner_Nelem">Richard Werner Nelem Pazzi</na><na>Richard W. Pazzi</na></co>
+<co c="0"><na f="p/Pessin:Gustavo">Gustavo Pessin</na></co>
+<co c="0" n="2"><na f="p/Pigatto:Daniel_F=">Daniel F. Pigatto</na><na>Daniel Fernando Pigatto</na></co>
+<co c="0"><na f="p/Pires:Rayner_de_Melo">Rayner de Melo Pires</na></co>
+<co c="0"><na f="p/Portugal:Paulo">Paulo Portugal</na></co>
+<co c="0"><na f="r/Ribeiro:Adriano_Cesar">Adriano Cesar Ribeiro</na></co>
+<co c="0"><na f="r/Roberto:Guilherme_Freire">Guilherme Freire Roberto</na></co>
+<co c="0"><na f="r/Rodrigues:Mariana">Mariana Rodrigues</na></co>
+<co c="0"><na f="r/Rodriguez:Martius">Martius Rodriguez</na></co>
+<co c="1"><na f="s/Santos:Luiz_Fernando_Segato_dos">Luiz Fernando Segato dos Santos</na></co>
+<co c="0"><na f="s/Santos:Stephan_A=_R=_D=_dos">Stephan A. R. D. dos Santos</na></co>
+<co c="0"><na f="s/Schrickte:Luiz_Fernando">Luiz Fernando Schrickte</na></co>
+<co c="1"><na f="s/Segato:Tiago_Henrique_Faccio">Tiago Henrique Faccio Segato</na></co>
+<co c="0"><na f="s/Semprebom:Tiago">Tiago Semprebom</na></co>
+<co c="0"><na f="s/Shiyou:Y=">Y. Shiyou</na></co>
+<co c="0"><na f="s/Silva:Andrielson_Ferreira_Da">Andrielson Ferreira Da Silva</na></co>
+<co c="0"><na f="s/Silva:C=">C. Silva</na></co>
+<co c="0"><na f="s/Silva:G=_L=_da">G. L. da Silva</na></co>
+<co c="0"><na f="s/Silva:Madalena_Pereira_da">Madalena Pereira da Silva</na></co>
+<co c="0"><na f="s/Silva:Nat=aacute=ssya_Barlate_Floro_da">Nat&#225;ssya Barlate Floro da Silva</na></co>
+<co c="0"><na f="t/Tronco:M=aacute=rio_Luiz">M&#225;rio Luiz Tronco</na></co>
+<co c="0" n="2"><na f="u/Ueyama:Jo">Jo Ueyama</na><na>J&#243; Ueyama</na></co>
+<co c="0"><na f="v/Val=ecirc=ncio:Carlos_Roberto">Carlos Roberto Val&#234;ncio</na></co>
+<co c="0"><na f="v/Valle:Odilson_T=">Odilson T. Valle</na></co>
+<co c="0" n="2"><na f="v/Vanelli:Bruno">Bruno Vanelli</na><na>Brunno Vanelli</na></co>
+<co c="0"><na f="v/Vargas:Fabian">Fabian Vargas</na></co>
+<co c="0"><na f="v/Vasques:Francisco">Francisco Vasques</na></co>
+<co c="0"><na f="v/Villari:Massimo">Massimo Villari</na></co>
+<co c="0"><na f="v/Villas:Leandro_A=">Leandro A. Villas</na></co>
+<co c="0" n="2"><na f="z/Zafalon:Geraldo_F=_D=">Geraldo F. D. Zafalon</na><na>Geraldo Francisco Donega Zafalon</na></co>
+<co c="0"><na f="z/Zomer:Gustavo">Gustavo Zomer</na></co>
+</coauthors>
+</dblpperson>
+

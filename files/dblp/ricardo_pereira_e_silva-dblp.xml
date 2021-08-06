@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<dblpperson name="Ricardo Pereira e Silva" n="6">
+<person key="homepages/34/5903" mdate="2009-06-10">
+<author>Ricardo Pereira e Silva</author>
+</person>
+<r><inproceedings key="conf/seke/CabralSC13" mdate="2015-01-05">
+<author>Patricia Dousseau Cabral</author>
+<author>Ricardo Pereira e Silva</author>
+<author>Roberto Silvino da Cunha</author>
+<title>Framework for digital voting systems (S).</title>
+<pages>715-720</pages>
+<year>2013</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2013</crossref>
+<url>db/conf/seke/seke2013.html#CabralSC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/TeixeiraS11" mdate="2017-05-25">
+<author>Nara Sueina Teixeira</author>
+<author>Ricardo Pereira e Silva</author>
+<title>Compatibility Evaluation of Components Specified in UML.</title>
+<pages>90-99</pages>
+<year>2011</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2011.13</ee>
+<crossref>conf/sccc/2011</crossref>
+<url>db/conf/sccc/sccc2011.html#TeixeiraS11</url>
+</inproceedings>
+</r>
+<r><article key="journals/cj/SilvaF09" mdate="2017-05-20">
+<author>Ricardo Pereira e Silva</author>
+<author>Evandro C&#233;sar Freiberger</author>
+<title>Metrics to Evaluate the Use of Object Oriented Frameworks.</title>
+<pages>288-304</pages>
+<year>2009</year>
+<volume>52</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1093/comjnl/bxm125</ee>
+<url>db/journals/cj/cj52.html#SilvaF09</url>
+</article>
+</r>
+<r><inproceedings key="conf/pts/KawakamiKRBPSS07" mdate="2018-06-26">
+<author>Luiz Kawakami</author>
+<author>Andr&#233; Knabben</author>
+<author>Douglas Rechia</author>
+<author>Denise Bastos</author>
+<author>Otavio Pereira</author>
+<author>Ricardo Pereira e Silva</author>
+<author>Luiz C. V. dos Santos</author>
+<title>An Object-Oriented Framework for Improving Software Reuse on Automated Testing of Mobile Phones.</title>
+<pages>199-211</pages>
+<year>2007</year>
+<crossref>conf/pts/2007</crossref>
+<booktitle>TestCom/FATES</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-73066-8_14</ee>
+<url>db/conf/pts/testcom2007.html#KawakamiKRBPSS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/SilvaF04" mdate="2011-10-26">
+<author>Ricardo Pereira e Silva</author>
+<author>Evandro C&#233;sar Freiberger</author>
+<title>Helping Object-Oriented Framework Use and Evaluation by means of Historical Use Information.</title>
+<pages>278-281</pages>
+<year>2004</year>
+<crossref>conf/kbse/2004</crossref>
+<booktitle>ASE</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2004.10030</ee>
+<url>db/conf/kbse/ase2004.html#SilvaF04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/SilvaP98" mdate="2017-05-25">
+<author>Ricardo Pereira e Silva</author>
+<author>Roberto Tom Price</author>
+<title>Tool Support for Helping the Use of Frameworks.</title>
+<pages>192-201</pages>
+<year>1998</year>
+<crossref>conf/sccc/1998</crossref>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.1998.730799</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SCCC.1998.730799</ee>
+<url>db/conf/sccc/sccc1998.html#SilvaP98</url>
+</inproceedings>
+</r>
+<coauthors n="11" nc="2">
+<co c="0"><na f="b/Bastos:Denise">Denise Bastos</na></co>
+<co c="1"><na f="c/Cabral:Patricia_Dousseau">Patricia Dousseau Cabral</na></co>
+<co c="1"><na f="c/Cunha:Roberto_Silvino_da">Roberto Silvino da Cunha</na></co>
+<co c="-1"><na f="f/Freiberger:Evandro_C=eacute=sar">Evandro C&#233;sar Freiberger</na></co>
+<co c="0"><na f="k/Kawakami:Luiz">Luiz Kawakami</na></co>
+<co c="0"><na f="k/Knabben:Andr=eacute=">Andr&#233; Knabben</na></co>
+<co c="0"><na f="p/Pereira:Otavio">Otavio Pereira</na></co>
+<co c="-1"><na f="p/Price:Roberto_Tom">Roberto Tom Price</na></co>
+<co c="0"><na f="r/Rechia:Douglas">Douglas Rechia</na></co>
+<co c="0" n="2"><na f="s/Santos:Luiz_Cl=aacute=udio_Villar_dos">Luiz Cl&#225;udio Villar dos Santos</na><na>Luiz C. V. dos Santos</na></co>
+<co c="-1"><na f="t/Teixeira:Nara_Sueina">Nara Sueina Teixeira</na></co>
+</coauthors>
+</dblpperson>
+

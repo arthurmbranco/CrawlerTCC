@@ -1,0 +1,285 @@
+<?xml version="1.0"?>
+<dblpperson name="Jean Everson Martina" n="19">
+<person key="homepages/24/765" mdate="2009-06-09">
+<author>Jean Everson Martina</author>
+</person>
+<r><inproceedings key="conf/esorics/IdalinoSM17" mdate="2017-09-13">
+<author>Tha&#237;s Bardini Idalino</author>
+<author>Dayana Spagnuelo</author>
+<author>Jean Everson Martina</author>
+<title>Private Verification of Access on Medical Data: An Initial Study.</title>
+<pages>86-103</pages>
+<year>2017</year>
+<booktitle>DPM/CBT@ESORICS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-67816-0_6</ee>
+<crossref>conf/esorics/2017dpm</crossref>
+<url>db/conf/esorics/dpm2017.html#IdalinoSM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEares/MartimianoM16" mdate="2017-09-16">
+<author>Taciane Martimiano</author>
+<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
+<title>Threat Modelling Service Security as a Security Ceremony.</title>
+<pages>195-204</pages>
+<year>2016</year>
+<booktitle>ARES</booktitle>
+<ee>https://doi.org/10.1109/ARES.2016.59</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ARES.2016.59</ee>
+<crossref>conf/IEEEares/2016</crossref>
+<url>db/conf/IEEEares/ares2016.html#MartimianoM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEares/IdalinoCM16" mdate="2017-05-24">
+<author>Tha&#237;s Bardini Idalino</author>
+<author>Marina Coelho</author>
+<author>Jean Everson Martina</author>
+<title>Automated Issuance of Digital Certificates through the Use of Federations.</title>
+<pages>725-732</pages>
+<year>2016</year>
+<booktitle>ARES</booktitle>
+<ee>https://doi.org/10.1109/ARES.2016.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ARES.2016.21</ee>
+<crossref>conf/IEEEares/2016</crossref>
+<url>db/conf/IEEEares/ares2016.html#IdalinoCM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iciss/SilvaRSM16" mdate="2017-09-16">
+<author>Douglas Sim&#245;es Silva</author>
+<author>Davi Resner</author>
+<author>Rick Lopes de Souza</author>
+<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
+<title>Formal Verification of a Cross-Layer, Trustful Space-Time Protocol for Wireless Sensor Networks.</title>
+<pages>426-443</pages>
+<year>2016</year>
+<booktitle>ICISS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-49806-5_23</ee>
+<crossref>conf/iciss/2016</crossref>
+<url>db/conf/iciss/iciss2016.html#SilvaRSM16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijisec/MartinaSCPC15" mdate="2017-09-16">
+<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
+<author>Eduardo dos Santos</author>
+<author>Marcelo Carlomagno Carlos</author>
+<author>Geraint Price</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>An adaptive threat model for security ceremonies.</title>
+<pages>103-121</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>Int. J. Inf. Sec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10207-014-0253-x</ee>
+<url>db/journals/ijisec/ijisec14.html#MartinaSCPC15</url>
+</article>
+</r>
+<r><article key="journals/ijisec/MartinaP15" mdate="2017-09-16">
+<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
+<author orcid="0000-0003-0288-4279">Lawrence C. Paulson</author>
+<title>Verifying multicast-based security protocols using the inductive method.</title>
+<pages>187-204</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>Int. J. Inf. Sec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10207-014-0251-z</ee>
+<url>db/journals/ijisec/ijisec14.html#MartinaP15</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEares/SassoMM14" mdate="2017-05-24">
+<author>Felipe Coral Sasso</author>
+<author>Ricardo Alexandre Reinaldo De Moraes</author>
+<author>Jean Everson Martina</author>
+<title>A Proposal for a Unified Identity Card for Use in an Academic Federation Environment.</title>
+<pages>265-272</pages>
+<year>2014</year>
+<booktitle>ARES</booktitle>
+<ee>https://doi.org/10.1109/ARES.2014.42</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ARES.2014.42</ee>
+<crossref>conf/IEEEares/2014</crossref>
+<url>db/conf/IEEEares/ares2014.html#SassoMM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stast/MartimianoMOC14" mdate="2017-05-19">
+<author>Taciane Martimiano</author>
+<author>Jean Everson Martina</author>
+<author>Maina M. Olembo</author>
+<author>Marcelo Carlomagno Carlos</author>
+<title>Modelling User Devices in Security Ceremonies.</title>
+<pages>16-23</pages>
+<year>2014</year>
+<booktitle>STAST</booktitle>
+<ee>https://doi.org/10.1109/STAST.2014.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/STAST.2014.11</ee>
+<crossref>conf/stast/2014</crossref>
+<url>db/conf/stast/stast2014.html#MartimianoMOC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/FrohlichOSOM13" mdate="2017-09-16">
+<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author>Alexandre Massayuki Okazaki</author>
+<author>Rodrigo Vieira Steiner</author>
+<author>Peterson Oliveira</author>
+<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
+<title>A cross-layer approach to trustfulness in the Internet of Things.</title>
+<pages>1-8</pages>
+<year>2013</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2013.6913223</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISORC.2013.6913223</ee>
+<crossref>conf/isorc/2013</crossref>
+<url>db/conf/isorc/isorc2013.html#FrohlichOSOM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/MartinaP13" mdate="2017-06-05">
+<author>Jean Everson Martina</author>
+<author orcid="0000-0003-0288-4279">Lawrence C. Paulson</author>
+<title>Verifying multicast-based security protocols using the inductive method.</title>
+<pages>1824-1829</pages>
+<year>2013</year>
+<booktitle>SAC</booktitle>
+<ee>http://doi.acm.org/10.1145/2480362.2480703</ee>
+<crossref>conf/sac/2013</crossref>
+<url>db/conf/sac/sac2013.html#MartinaP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/CarlosMPC13" mdate="2013-05-03">
+<author>Marcelo Carlomagno Carlos</author>
+<author>Jean Everson Martina</author>
+<author>Geraint Price</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>An updated threat model for security ceremonies.</title>
+<pages>1836-1843</pages>
+<year>2013</year>
+<booktitle>SAC</booktitle>
+<ee>http://doi.acm.org/10.1145/2480362.2480705</ee>
+<crossref>conf/sac/2013</crossref>
+<url>db/conf/sac/sac2013.html#CarlosMPC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/stast/Martina13" mdate="2017-05-19">
+<author>Jean Everson Martina</author>
+<title>The Ever Changing Threat Model: A Social-Technical Perspective.</title>
+<pages>1</pages>
+<year>2013</year>
+<booktitle>STAST</booktitle>
+<ee>https://doi.org/10.1109/STAST.2013.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/STAST.2013.16</ee>
+<crossref>conf/stast/2013</crossref>
+<url>db/conf/stast/stast2013.html#Martina13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/secrypt/CarlosMPC12" mdate="2013-03-07">
+<author>Marcelo Carlomagno Carlos</author>
+<author>Jean Everson Martina</author>
+<author>Geraint Price</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>A Proposed Framework for Analysing Security Ceremonies.</title>
+<pages>440-445</pages>
+<year>2012</year>
+<booktitle>SECRYPT</booktitle>
+<crossref>conf/secrypt/2012</crossref>
+<url>db/conf/secrypt/secrypt2012.html#CarlosMPC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/SantosMC12" mdate="2017-09-16">
+<author>Eduardo dos Santos</author>
+<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>Towards a Formal Verification of a Multi-factor Authentication Protocol Using Automated Theorem Provers.</title>
+<pages>84-91</pages>
+<year>2012</year>
+<booktitle>TrustCom</booktitle>
+<ee>https://doi.org/10.1109/TrustCom.2012.278</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TrustCom.2012.278</ee>
+<crossref>conf/trustcom/2012</crossref>
+<url>db/conf/trustcom/trustcom2012.html#SantosMC12</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ethos/Martina11" mdate="2016-08-23">
+<author>Jean Everson Martina</author>
+<title>Verification of security protocols based on multicast communication.</title>
+<year>2011</year>
+<school>University of Cambridge, UK</school>
+<ee>http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.609650</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/cse/MartinaSC09" mdate="2017-05-24">
+<author>Jean Everson Martina</author>
+<author>T&#250;lio Cicero Salvaro de Souza</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>Ceremonies Formal Analysis in PKI's Context.</title>
+<pages>392-398</pages>
+<year>2009</year>
+<booktitle>CSE (3)</booktitle>
+<ee>https://doi.org/10.1109/CSE.2009.324</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSE.2009.324</ee>
+<crossref>conf/cse/2009</crossref>
+<url>db/conf/cse/cse2009-3.html#MartinaSC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/AraujoM09" mdate="2017-09-16">
+<author orcid="0000-0002-5944-1041">Thiago Souza Araujo</author>
+<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
+<title>Economics Applied to Information Security: The Brazilian Electronic Bill of Sale Case.</title>
+<pages>307-310</pages>
+<year>2009</year>
+<booktitle>Web Intelligence/IAT Workshops</booktitle>
+<ee>https://doi.org/10.1109/WI-IAT.2009.289</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WI-IAT.2009.289</ee>
+<crossref>conf/iat/2009w</crossref>
+<url>db/conf/iat/iatw2009.html#AraujoM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/idtrust/SouzaMC08" mdate="2017-09-16">
+<author>T&#250;lio Cicero Salvaro de Souza</author>
+<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>Audit and backup procedures for hardware security modules.</title>
+<pages>89-97</pages>
+<year>2008</year>
+<booktitle>IDtrust</booktitle>
+<ee>http://doi.acm.org/10.1145/1373290.1373302</ee>
+<crossref>conf/idtrust/2008</crossref>
+<url>db/conf/idtrust/idtrust2008.html#SouzaMC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europki/MartinaSC07" mdate="2017-09-16">
+<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
+<author>T&#250;lio Cicero Salvaro de Souza</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>OpenHSM: An Open Key Life Cycle Protocol for Public Key Infrastructure's Hardware Security Modules.</title>
+<pages>220-235</pages>
+<year>2007</year>
+<crossref>conf/europki/2007</crossref>
+<booktitle>EuroPKI</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73408-6_16</ee>
+<url>db/conf/europki/europki2007.html#MartinaSC07</url>
+</inproceedings>
+</r>
+<coauthors n="21" nc="2">
+<co c="-1"><na f="a/Araujo:Thiago_Souza">Thiago Souza Araujo</na></co>
+<co c="0"><na f="c/Carlos:Marcelo_Carlomagno">Marcelo Carlomagno Carlos</na></co>
+<co c="0"><na f="c/Coelho:Marina">Marina Coelho</na></co>
+<co c="0"><na f="c/Cust=oacute=dio:Ricardo_Felipe">Ricardo Felipe Cust&#243;dio</na></co>
+<co c="0"><na f="f/Fr=ouml=hlich:Ant=ocirc=nio_Augusto">Ant&#244;nio Augusto Fr&#246;hlich</na></co>
+<co c="0"><na f="i/Idalino:Tha=iacute=s_Bardini">Tha&#237;s Bardini Idalino</na></co>
+<co c="0"><na f="m/Martimiano:Taciane">Taciane Martimiano</na></co>
+<co c="1"><na f="m/Moraes:Ricardo_Alexandre_Reinaldo_De">Ricardo Alexandre Reinaldo De Moraes</na></co>
+<co c="0"><na f="o/Okazaki:Alexandre_Massayuki">Alexandre Massayuki Okazaki</na></co>
+<co c="0"><na f="o/Olembo:Maina_M=">Maina M. Olembo</na></co>
+<co c="0"><na f="o/Oliveira:Peterson">Peterson Oliveira</na></co>
+<co c="-1"><na f="p/Paulson:Lawrence_C=">Lawrence C. Paulson</na></co>
+<co c="0"><na f="p/Price:Geraint">Geraint Price</na></co>
+<co c="0"><na f="r/Resner:Davi">Davi Resner</na></co>
+<co c="0"><na f="s/Santos:Eduardo_dos">Eduardo dos Santos</na></co>
+<co c="1"><na f="s/Sasso:Felipe_Coral">Felipe Coral Sasso</na></co>
+<co c="0"><na f="s/Silva:Douglas_Sim=otilde=es">Douglas Sim&#245;es Silva</na></co>
+<co c="0"><na f="s/Souza:Rick_Lopes_de">Rick Lopes de Souza</na></co>
+<co c="0"><na f="s/Souza:T=uacute=lio_Cicero_Salvaro_de">T&#250;lio Cicero Salvaro de Souza</na></co>
+<co c="0"><na f="s/Spagnuelo:Dayana">Dayana Spagnuelo</na></co>
+<co c="0"><na f="s/Steiner:Rodrigo_Vieira">Rodrigo Vieira Steiner</na></co>
+</coauthors>
+</dblpperson>
+

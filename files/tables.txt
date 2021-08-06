@@ -1,0 +1,64 @@
+CREATE TABLE Professores (
+    id int NOT NULL,
+    nome varchar(255) NOT NULL,
+    linkdblp varchar(255),
+    linkgooglescholar varchar(255),
+    linkresearchgate varchar(255),
+    lattes XML,
+    PRIMARY KEY (ID)
+);
+
+CREATE TABLE DBLP (
+    id int NOT NULL,
+	_event varchar(16) NOT NULL,
+   	title varchar(1024) NOT NULL,
+	authors varchar(1024),
+	pages varchar(16),
+	_year int,
+	volume varchar(255),
+	journal varchar(255),
+	_number varchar(255), /* Alguns numbers não continham apenas numeros */
+	ee varchar(255),
+	url varchar(255),
+	_key varchar(255),
+	_mdate date,
+	booktitle varchar(255),
+	publisher varchar(255),
+	isbn varchar(255),
+	crossref varchar(255),
+	id_prof int,
+    	PRIMARY KEY (ID),
+	FOREIGN KEY (id_prof) REFERENCES Professores(id)
+);
+
+CREATE TABLE GoogleScholar (
+    id int NOT NULL,
+    title varchar(2048),
+    authors varchar(2048),
+    conference varchar(255),
+    pages varchar(16),
+    publisher varchar(255),
+    citations int,
+    abstract text,
+    volume varchar(255),
+    _number varchar(255),
+    _year int,
+    id_prof int,
+    PRIMARY KEY (id),
+    FOREIGN KEY (id_prof) REFERENCES Professores(id)
+);
+
+CREATE TABLE ResearchGate (
+    id int NOT NULL,
+    title varchar(1024),
+    authors varchar(1024),
+    conference varchar(255),
+    _year int,
+    _event varchar(255),
+    doi varchar(255),
+    abstract text,
+    id_prof int,
+    reads int,
+    PRIMARY KEY (id),
+    FOREIGN KEY (id_prof) REFERENCES Professores(id)
+);

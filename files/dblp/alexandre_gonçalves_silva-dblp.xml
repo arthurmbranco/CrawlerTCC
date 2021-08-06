@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<dblpperson name="Alexandre Gon&#231;alves Silva" n="15">
+<person key="homepages/76/4680" mdate="2009-06-10">
+<author>Alexandre Gon&#231;alves Silva</author>
+</person>
+<r><inproceedings key="conf/ijcnn/BerriOPS16" mdate="2017-06-15">
+<author orcid="0000-0002-3812-4186">Rafael A. Berri</author>
+<author>Fernando Santos Os&#243;rio</author>
+<author>Rafael S. Parpinelli</author>
+<author>Alexandre Gon&#231;alves Silva</author>
+<title>A hybrid vision system for detecting use of mobile phones while driving.</title>
+<pages>4601-4610</pages>
+<year>2016</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2016.7727803</ee>
+<crossref>conf/ijcnn/2016</crossref>
+<url>db/conf/ijcnn/ijcnn2016.html#BerriOPS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cbms/SilvaFSAAIF15" mdate="2017-05-23">
+<author>Alexandre Gon&#231;alves Silva</author>
+<author>Marina Silva Fouto</author>
+<author>Andr&#233; Tavares da Silva</author>
+<author>Rangel Arthur</author>
+<author>Angelica Moises Arthur</author>
+<author>Yuzo Iano</author>
+<author>Jacqueline Mendonca Lopes de Faria</author>
+<title>Segmentation of Foveal Avascular Zone of the Retina Based on Morphological Alternating Sequential Filtering.</title>
+<pages>38-43</pages>
+<year>2015</year>
+<booktitle>CBMS</booktitle>
+<ee>https://doi.org/10.1109/CBMS.2015.65</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CBMS.2015.65</ee>
+<crossref>conf/cbms/2015</crossref>
+<url>db/conf/cbms/cbms2015.html#SilvaFSAAIF15</url>
+</inproceedings>
+</r>
+<r><article key="journals/tcos/HounsellBS14" mdate="2017-05-17">
+<author>Marcelo da Silva Hounsell</author>
+<author>Leonardo Kandler Bittencourt</author>
+<author>Alexandre Gon&#231;alves Silva</author>
+<title>3D Reconstruction from Planar Contours: Analysis of Heuristic Tiling Approaches.</title>
+<pages>95-114</pages>
+<year>2014</year>
+<volume>22</volume>
+<journal>Trans. Computational Science</journal>
+<ee>https://doi.org/10.1007/978-3-642-54212-1_5</ee>
+<crossref>journals/tcos/2014-22</crossref>
+<url>db/journals/tcos/tcos22.html#HounsellBS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/visapp/BerriSPGA14" mdate="2017-05-24">
+<author>Rafael A. Berri</author>
+<author>Alexandre Gon&#231;alves Silva</author>
+<author>Rafael S. Parpinelli</author>
+<author>Elaine Girardi</author>
+<author>Rangel Arthur</author>
+<title>A Pattern Recognition System for Detecting Use of Mobile Phones While Driving.</title>
+<pages>411-418</pages>
+<year>2014</year>
+<booktitle>VISAPP (2)</booktitle>
+<ee>https://doi.org/10.5220/0004684504110418</ee>
+<crossref>conf/visapp/2014-2</crossref>
+<url>db/conf/visapp/visapp2014-2.html#BerriSPGA14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/BerriSPGA14" mdate="2018-08-13">
+<author>Rafael A. Berri</author>
+<author>Alexandre Gon&#231;alves Silva</author>
+<author>Rafael S. Parpinelli</author>
+<author>Elaine Girardi</author>
+<author>Rangel Arthur</author>
+<title>A Pattern Recognition System for Detecting Use of Mobile Phones While Driving.</title>
+<year>2014</year>
+<volume>abs/1408.0680</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1408.0680</ee>
+<url>db/journals/corr/corr1408.html#BerriSPGA14</url>
+</article>
+</r>
+<r><article key="journals/ijcat/SantosSA12" mdate="2017-05-28">
+<author>Gilmario B. Santos</author>
+<author>Alexandre Gon&#231;alves Silva</author>
+<author>Rangel Arthur</author>
+<title>Maps of distances for evaluating the tracking and measurement of electrical arcs by 3D-snake.</title>
+<pages>180-187</pages>
+<year>2012</year>
+<volume>44</volume>
+<journal>IJCAT</journal>
+<number>3</number>
+<ee>https://doi.org/10.1504/IJCAT.2012.049081</ee>
+<url>db/journals/ijcat/ijcat44.html#SantosSA12</url>
+</article>
+</r>
+<r><article key="journals/prl/SilvaL11" mdate="2017-05-28">
+<author>Alexandre Gon&#231;alves Silva</author>
+<author>Roberto de Alencar Lotufo</author>
+<title>Efficient computation of new extinction values from extended component tree.</title>
+<pages>79-90</pages>
+<year>2011</year>
+<volume>32</volume>
+<journal>Pattern Recognition Letters</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.patrec.2010.07.019</ee>
+<url>db/journals/prl/prl32.html#SilvaL11</url>
+</article>
+</r>
+<r><inproceedings key="conf/icip/Silva11" mdate="2017-05-25">
+<author>Alexandre Gon&#231;alves Silva</author>
+<title>Region-based thresholding using component tree.</title>
+<pages>1445-1448</pages>
+<year>2011</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2011.6115713</ee>
+<crossref>conf/icip/2011</crossref>
+<url>db/conf/icip/icip2011.html#Silva11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/RittnerSSMBL11" mdate="2017-06-05">
+<author orcid="0000-0001-8182-5554">Let&#237;cia Rittner</author>
+<author>Andr&#233; Vital Sa&#250;de</author>
+<author>Alexandre Gon&#231;alves Silva</author>
+<author>Rubens Campos Machado</author>
+<author>Mariana P. Bento</author>
+<author>Roberto de Alencar Lotufo</author>
+<title>Adessowiki: Collaborative Scientific Programming Environment.</title>
+<pages>56-62</pages>
+<year>2011</year>
+<booktitle>SIBGRAPI Tutorials</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI-T.2011.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SIBGRAPI-T.2011.12</ee>
+<crossref>conf/sibgrapi/2011t</crossref>
+<url>db/conf/sibgrapi/sibgrapi2011t.html#RittnerSSMBL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/SilvaL08" mdate="2017-05-26">
+<author>Alexandre Gon&#231;alves Silva</author>
+<author>Roberto de Alencar Lotufo</author>
+<title>New Extinction Values from Efficient Construction and Analysis of Extended Attribute Component Tree.</title>
+<pages>204-211</pages>
+<year>2008</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2008.8</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2008.8</ee>
+<crossref>conf/sibgrapi/2008</crossref>
+<url>db/conf/sibgrapi/sibgrapi2008.html#SilvaL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compimage/SilvaL06" mdate="2014-09-30">
+<author>Alexandre Gon&#231;alves Silva</author>
+<author>Roberto de Alencar Lotufo</author>
+<title>Hierarchical morphological analysis for generic detection of shapes in grayscale images.</title>
+<pages>405-410</pages>
+<year>2006</year>
+<booktitle>CompIMAGE</booktitle>
+<crossref>conf/compimage/2006</crossref>
+<url>db/conf/compimage/compimage2006.html#SilvaL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/SilvaL04" mdate="2017-05-26">
+<author>Alexandre Gon&#231;alves Silva</author>
+<author>Roberto de Alencar Lotufo</author>
+<title>Detection of Lines Using Hierarchical Region Based Representation.</title>
+<pages>58-64</pages>
+<year>2004</year>
+<crossref>conf/sibgrapi/2004</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRA.2004.1352943</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SIBGRA.2004.1352943</ee>
+<url>db/conf/sibgrapi/sibgrapi2004.html#SilvaL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/SilvaLMS03" mdate="2017-05-25">
+<author>Alexandre Gon&#231;alves Silva</author>
+<author>Roberto de Alencar Lotufo</author>
+<author>Rubens Campos Machado</author>
+<author>Andr&#233; Vital Sa&#250;de</author>
+<title>Toolbox of image processing using the Python language.</title>
+<pages>1049-1052</pages>
+<year>2003</year>
+<crossref>conf/icip/2003</crossref>
+<booktitle>ICIP (3)</booktitle>
+<url>db/conf/icip/icip2003-3.html#SilvaLMS03</url>
+<ee>https://doi.org/10.1109/ICIP.2003.1247428</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/FloresLIRSR02" mdate="2017-05-26">
+<author>Franklin C&#233;sar Flores</author>
+<author>Roberto de Alencar Lotufo</author>
+<author>Stela Isernhagen</author>
+<author>Leonardo Marques Rocha</author>
+<author>Alexandre Gon&#231;alves Silva</author>
+<author>Eduardo Faccini Rocha</author>
+<title>Automatic Method for Assessment of Telangiectasia Degreeing by Mathematical Morphology.</title>
+<pages>153-</pages>
+<year>2002</year>
+<crossref>conf/sibgrapi/2002</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRA.2002.1167138</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SIBGRA.2002.1167138</ee>
+<url>db/conf/sibgrapi/sibgrapi2002.html#FloresLIRSR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/SilvaLM01" mdate="2017-05-26">
+<author>Alexandre Gon&#231;alves Silva</author>
+<author>Roberto de Alencar Lotufo</author>
+<author>Rubens Machado</author>
+<title>Toolbox of Image Processing for Numerical Python.</title>
+<pages>402</pages>
+<year>2001</year>
+<crossref>conf/sibgrapi/2001</crossref>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI.2001.963108</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SIBGRAPI.2001.963108</ee>
+<url>db/conf/sibgrapi/sibgrapi2001.html#SilvaLM01</url>
+</inproceedings>
+</r>
+<coauthors n="22" nc="2">
+<co c="0"><na f="a/Arthur:Angelica_Moises">Angelica Moises Arthur</na></co>
+<co c="0"><na f="a/Arthur:Rangel">Rangel Arthur</na></co>
+<co c="1"><na f="b/Bento:Mariana_P=">Mariana P. Bento</na></co>
+<co c="0"><na f="b/Berri:Rafael_A=">Rafael A. Berri</na></co>
+<co c="0"><na f="b/Bittencourt:Leonardo_Kandler">Leonardo Kandler Bittencourt</na></co>
+<co c="0"><na f="f/Faria:Jacqueline_Mendonca_Lopes_de">Jacqueline Mendonca Lopes de Faria</na></co>
+<co c="1"><na f="f/Flores:Franklin_C=eacute=sar">Franklin C&#233;sar Flores</na></co>
+<co c="0"><na f="f/Fouto:Marina_Silva">Marina Silva Fouto</na></co>
+<co c="0"><na f="g/Girardi:Elaine">Elaine Girardi</na></co>
+<co c="0"><na f="h/Hounsell:Marcelo_da_Silva">Marcelo da Silva Hounsell</na></co>
+<co c="0"><na f="i/Iano:Yuzo">Yuzo Iano</na></co>
+<co c="1"><na f="i/Isernhagen:Stela">Stela Isernhagen</na></co>
+<co c="1"><na f="l/Lotufo:Roberto_de_Alencar">Roberto de Alencar Lotufo</na></co>
+<co c="1" n="2"><na f="m/Machado:Rubens_Campos">Rubens Campos Machado</na><na>Rubens Machado</na></co>
+<co c="0"><na f="o/Os=oacute=rio:Fernando_Santos">Fernando Santos Os&#243;rio</na></co>
+<co c="0"><na f="p/Parpinelli:Rafael_S=">Rafael S. Parpinelli</na></co>
+<co c="1"><na f="r/Rittner:Let=iacute=cia">Let&#237;cia Rittner</na></co>
+<co c="1"><na f="r/Rocha:Eduardo_Faccini">Eduardo Faccini Rocha</na></co>
+<co c="1" n="2"><na f="r/Rocha:Leonardo_M=">Leonardo M. Rocha</na><na>Leonardo Marques Rocha</na></co>
+<co c="0"><na f="s/Santos:Gilmario_B=">Gilmario B. Santos</na></co>
+<co c="1"><na f="s/Sa=uacute=de:Andr=eacute=_Vital">Andr&#233; Vital Sa&#250;de</na></co>
+<co c="0"><na f="s/Silva:Andr=eacute=_Tavares_da">Andr&#233; Tavares da Silva</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<dblpperson name="Renato Cislaghi" n="3">
+<person key="homepages/203/3986" mdate="2017-07-25">
+<author>Renato Cislaghi</author>
+</person>
+<r><article key="journals/jcsci/WilgesMNCB16" mdate="2017-07-25">
+<author>Beatriz Wilges</author>
+<author>Gustavo Pereira Mateus</author>
+<author>Silvia M. Nassar</author>
+<author>Renato Cislaghi</author>
+<author>Rog&#233;rio Cid Bastos</author>
+<title>Fuzzy Modeling for Multi-Label Text Classification Supported by Classification Algorithms.</title>
+<pages>341-349</pages>
+<year>2016</year>
+<volume>12</volume>
+<journal>JCS</journal>
+<number>7</number>
+<ee>https://doi.org/10.3844/jcssp.2016.341.349</ee>
+<url>db/journals/jcsci/jcsci12.html#WilgesMNCB16</url>
+</article>
+</r>
+<r><article key="journals/jcsci/LongoWVC15" mdate="2017-07-27">
+<author>Douglas Hiura Longo</author>
+<author>Beatriz Wilges</author>
+<author>Patricia Vilain</author>
+<author>Renato Cislaghi</author>
+<title>Fixture Setup through Object Notation for Implicit Test Fixtures.</title>
+<pages>794-803</pages>
+<year>2015</year>
+<volume>11</volume>
+<journal>JCS</journal>
+<number>6</number>
+<ee>https://doi.org/10.3844/jcssp.2015.794.803</ee>
+<url>db/journals/jcsci/jcsci11.html#LongoWVC15</url>
+</article>
+</r>
+<r><phdthesis key="phd/ndltd/Cislaghi08" mdate="2018-07-23">
+<author>Renato Cislaghi</author>
+<title>Um modelo de sistema de gest&#227;o do conhecimento em um framework para a promo&#231;&#227;o da perman&#234;ncia discente no ensino de gradua&#231;&#227;o.</title>
+<year>2008</year>
+<school>Federal University of Santa Catarina, Brazil</school>
+<ee>http://repositorio.ufsc.br/xmlui/handle/123456789/91544</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:repositorio.ufsc.br:123456789/91544</ee>
+<note type="source">ndltd.org (oai:repositorio.ufsc.br:123456789/91544)</note>
+</phdthesis>
+</r>
+<coauthors n="6" nc="1">
+<co c="0"><na f="b/Bastos:Rog=eacute=rio_Cid">Rog&#233;rio Cid Bastos</na></co>
+<co c="0"><na f="l/Longo:Douglas_Hiura">Douglas Hiura Longo</na></co>
+<co c="0"><na f="m/Mateus:Gustavo_Pereira">Gustavo Pereira Mateus</na></co>
+<co c="0"><na f="n/Nassar:Silvia_M=">Silvia M. Nassar</na></co>
+<co c="0"><na f="v/Vilain:Patricia">Patricia Vilain</na></co>
+<co c="0"><na f="w/Wilges:Beatriz">Beatriz Wilges</na></co>
+</coauthors>
+</dblpperson>
+

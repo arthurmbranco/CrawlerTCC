@@ -1,0 +1,716 @@
+<?xml version="1.0"?>
+<dblpperson name="Renato Fileto" n="41">
+<person key="homepages/35/2350" mdate="2009-06-09">
+<author>Renato Fileto</author>
+</person>
+<r><inproceedings key="conf/webmedia/SacentiWF18" mdate="2018-10-01">
+<author>Juarez A. P. Sacenti</author>
+<author>Roberto Willrich</author>
+<author>Renato Fileto</author>
+<title>Hybrid Recommender System Based on Multi-Hierarchical Ontologies.</title>
+<pages>149-156</pages>
+<year>2018</year>
+<booktitle>WebMedia</booktitle>
+<ee>http://doi.acm.org/10.1145/3243082.3243106</ee>
+<crossref>conf/webmedia/2018</crossref>
+<url>db/conf/webmedia/webmedia2018.html#SacentiWF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/JuniorFSWRA18" mdate="2018-10-01">
+<author>Vilmar C&#233;sar Pereira J&#250;nior</author>
+<author>Renato Fileto</author>
+<author>Willian Santos de Souza</author>
+<author>Matthias Wittwer</author>
+<author>Olaf Reinhold</author>
+<author>Rainer Alt</author>
+<title>A Semantic BI Process for Detecting and Analyzing Mentions of Interest for a Domain in Tweets.</title>
+<pages>197-204</pages>
+<year>2018</year>
+<booktitle>WebMedia</booktitle>
+<ee>http://doi.acm.org/10.1145/3243082.3243100</ee>
+<crossref>conf/webmedia/2018</crossref>
+<url>db/conf/webmedia/webmedia2018.html#JuniorFSWRA18</url>
+</inproceedings>
+</r>
+<r><article key="journals/jidm/BeberFFB17" mdate="2017-10-02">
+<author>Marco Aurelio Beber</author>
+<author>Carlos Andres Ferrero</author>
+<author>Renato Fileto</author>
+<author>Vania Bogorny</author>
+<title>Individual and Group Activity Recognition in Moving Object Trajectories.</title>
+<pages>50-66</pages>
+<year>2017</year>
+<volume>8</volume>
+<journal>JIDM</journal>
+<number>1</number>
+<ee>https://seer.lcc.ufmg.br/index.php/jidm/article/view/4601</ee>
+<url>db/journals/jidm/jidm8.html#BeberFFB17</url>
+</article>
+</r>
+<r><inproceedings key="conf/iiwas/AbreuFNRWS17" mdate="2018-02-20">
+<author>Jean Carlos Oliveira de Abreu</author>
+<author>Renato Fileto</author>
+<author>Axel-Cyrille Ngonga Ngomo</author>
+<author>Michael R&#246;der</author>
+<author>Matthias Wittwer</author>
+<author>Horacio Saggion</author>
+<title>Characterizing mention mismatching problems for improving recognition results.</title>
+<pages>85-94</pages>
+<year>2017</year>
+<booktitle>iiWAS</booktitle>
+<ee>http://doi.acm.org/10.1145/3151759.3151794</ee>
+<crossref>conf/iiwas/2017</crossref>
+<url>db/conf/iiwas/iiwas2017.html#AbreuFNRWS17</url>
+</inproceedings>
+</r>
+<r><article key="journals/jidm/CordeiroJF16" mdate="2016-10-04">
+<author>Robson L. F. Cordeiro</author>
+<author>Caetano Traina Junior</author>
+<author>Renato Fileto</author>
+<title>Editorial.</title>
+<pages>1-3</pages>
+<year>2016</year>
+<volume>7</volume>
+<journal>JIDM</journal>
+<number>1</number>
+<ee>https://seer.lcc.ufmg.br/index.php/jidm/article/view/3449/2651</ee>
+<url>db/journals/jidm/jidm7.html#CordeiroJF16</url>
+</article>
+</r>
+<r><inproceedings key="conf/geoinfo/BeberFFB16" mdate="2017-05-31">
+<author>Marco Aurelio Beber</author>
+<author>Carlos Andres Ferrero</author>
+<author>Renato Fileto</author>
+<author>Vania Bogorny</author>
+<title>Towards activity recognition in moving object trajectories from Twitter data.</title>
+<pages>68-79</pages>
+<year>2016</year>
+<booktitle>GeoInfo</booktitle>
+<ee>http://urlib.net/8JMKD3MGPDW34P/3NDC4BB</ee>
+<crossref>conf/geoinfo/2016</crossref>
+<url>db/conf/geoinfo/geoinfo2016.html#BeberFFB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/AlvesMFD16" mdate="2017-05-25">
+<author>Jhonatan Alves</author>
+<author>Jerusa Marchi</author>
+<author>Renato Fileto</author>
+<author>Mario A. R. Dantas</author>
+<title>Resilient composition of Web services through nondeterministic planning.</title>
+<pages>895-900</pages>
+<year>2016</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2016.7543850</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCC.2016.7543850</ee>
+<crossref>conf/iscc/2016</crossref>
+<url>db/conf/iscc/iscc2016.html#AlvesMFD16</url>
+</inproceedings>
+</r>
+<r><article key="journals/dke/FiletoMRPKT15" mdate="2017-06-05">
+<author>Renato Fileto</author>
+<author>Cleto May</author>
+<author orcid="0000-0002-1763-2966">Chiara Renso</author>
+<author>Nikos Pelekis</author>
+<author>Douglas Klein</author>
+<author>Yannis Theodoridis</author>
+<title>The Baquara<sup>2</sup> knowledge-based framework for semantic enrichment and analysis of movement data.</title>
+<pages>104-122</pages>
+<year>2015</year>
+<volume>98</volume>
+<journal>Data Knowl. Eng.</journal>
+<ee>https://doi.org/10.1016/j.datak.2015.07.010</ee>
+<url>db/journals/dke/dke98.html#FiletoMRPKT15</url>
+</article>
+</r>
+<r><article key="journals/isci/TekliCTTF15" mdate="2017-05-27">
+<author>Joe Tekli</author>
+<author>Richard Chbeir</author>
+<author>Agma J. M. Traina</author>
+<author>Caetano Traina Jr.</author>
+<author>Renato Fileto</author>
+<title>Approximate XML structure validation based on document-grammar tree similarity.</title>
+<pages>258-302</pages>
+<year>2015</year>
+<volume>295</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2014.09.044</ee>
+<url>db/journals/isci/isci295.html#TekliCTTF15</url>
+</article>
+</r>
+<r><article key="journals/jidm/SilvaF15" mdate="2015-11-16">
+<author>Felipe P. da Silva</author>
+<author>Renato Fileto</author>
+<title>A Method to Detect and Classify Inconsistencies of Moving Objects' Stops with Requested and Reported Tasks.</title>
+<pages>71-80</pages>
+<year>2015</year>
+<volume>6</volume>
+<journal>JIDM</journal>
+<number>1</number>
+<ee>https://seer.lcc.ufmg.br/index.php/jidm/article/view/853</ee>
+<url>db/journals/jidm/jidm6.html#SilvaF15</url>
+</article>
+</r>
+<r><article key="journals/sigspatial/FiletoBMK15" mdate="2015-06-23">
+<author>Renato Fileto</author>
+<author>Vania Bogorny</author>
+<author>Cleto May</author>
+<author>Douglas Klein</author>
+<title>Semantic enrichment and analysis of movement data: probably it is just starting!</title>
+<pages>11-18</pages>
+<year>2015</year>
+<volume>7</volume>
+<journal>SIGSPATIAL Special</journal>
+<number>1</number>
+<ee>http://doi.acm.org/10.1145/2782759.2782763</ee>
+<url>db/journals/sigspatial/sigspatial7.html#FiletoBMK15</url>
+</article>
+</r>
+<r><inproceedings key="conf/dawak/SacentiSFRR15" mdate="2017-05-21">
+<author>Juarez A. P. Sacenti</author>
+<author>Fabio Salvini</author>
+<author>Renato Fileto</author>
+<author>Alessandra Raffaet&#224;</author>
+<author>Alessandro Roncato</author>
+<title>Automatically Tailoring Semantics-Enabled Dimensions for Movement Data Warehouses.</title>
+<pages>205-216</pages>
+<year>2015</year>
+<booktitle>DaWaK</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-22729-0_16</ee>
+<crossref>conf/dawak/2015</crossref>
+<url>db/conf/dawak/dawak2015.html#SacentiSFRR15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/geoinfo/2015" mdate="2015-12-14">
+<editor>Thales Sehn K&#246;rting</editor>
+<editor>Renato Fileto</editor>
+<title>XVI Brazilian Symposium on GeoInformatics, Campos do Jord&#227;o, S&#227;o Paulo, Brazil, November 29 - December 2, 2015.</title>
+<booktitle>GeoInfo</booktitle>
+<publisher>MCTI/INPE</publisher>
+<year>2015</year>
+<url>db/conf/geoinfo/geoinfo2015.html</url>
+</proceedings>
+</r>
+<r><article key="journals/cai/ArboledaPFB14" mdate="2014-08-12">
+<author>Francisco Javier Moreno Arboleda</author>
+<author>Andr&#233;s Felipe Pineda</author>
+<author>Renato Fileto</author>
+<author>Vania Bogorny</author>
+<title>SMoT+: Extending the SMoT Algorithm for Discovering Stops in Nested Sites.</title>
+<pages>327-342</pages>
+<year>2014</year>
+<volume>33</volume>
+<journal>Computing and Informatics</journal>
+<number>2</number>
+<ee>http://www.cai.sk/ojs/index.php/cai/article/view/1130</ee>
+<url>db/journals/cai/cai33.html#ArboledaPFB14</url>
+</article>
+</r>
+<r><article key="journals/jidm/SalgadoBFP14" mdate="2014-07-23">
+<author>Ana Carolina Salgado</author>
+<author>Vanessa Braganholo</author>
+<author>Renato Fileto</author>
+<author>Alexandre Plastino</author>
+<title>Editorial.</title>
+<pages>1-3</pages>
+<year>2014</year>
+<volume>5</volume>
+<journal>JIDM</journal>
+<number>1</number>
+<ee>https://seer.lcc.ufmg.br/index.php/jidm/article/view/698/577</ee>
+<url>db/journals/jidm/jidm5.html#SalgadoBFP14</url>
+</article>
+</r>
+<r><inproceedings key="conf/dolap/FiletoRRSMK14" mdate="2014-11-05">
+<author>Renato Fileto</author>
+<author>Alessandra Raffaet&#224;</author>
+<author>Alessandro Roncato</author>
+<author>Juarez A. P. Sacenti</author>
+<author>Cleto May</author>
+<author>Douglas Klein</author>
+<title>A Semantic Model for Movement Data Warehouses.</title>
+<pages>47-56</pages>
+<year>2014</year>
+<booktitle>DOLAP</booktitle>
+<ee>http://doi.acm.org/10.1145/2666158.2666180</ee>
+<crossref>conf/dolap/2014</crossref>
+<url>db/conf/dolap/dolap2014.html#FiletoRRSMK14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/geoinfo/SilvaF14" mdate="2015-01-05">
+<author>Felipe P. da Silva</author>
+<author>Renato Fileto</author>
+<title>Analysis of Spatiotemporal Inconsistencies of Trajectories with Planned and Reported Tasks.</title>
+<pages>1-12</pages>
+<year>2014</year>
+<booktitle>GeoInfo</booktitle>
+<ee>http://www.geoinfo.info/proceedings_geoinfo2014.split/Paper02-F-p10.pdf</ee>
+<crossref>conf/geoinfo/2014</crossref>
+<url>db/conf/geoinfo/geoinfo2014.html#SilvaF14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/geoinfo/NaboFNR14" mdate="2015-01-05">
+<author>Ricardo G. B. Nabo</author>
+<author>Renato Fileto</author>
+<author>Mirco Nanni</author>
+<author>Chiara Renso</author>
+<title>Annotating Trajectories by Fusing them with Social Media Users Posts.</title>
+<pages>25-36</pages>
+<year>2014</year>
+<booktitle>GeoInfo</booktitle>
+<ee>http://www.geoinfo.info/proceedings_geoinfo2014.split/Paper04-F-p21.pdf</ee>
+<crossref>conf/geoinfo/2014</crossref>
+<url>db/conf/geoinfo/geoinfo2014.html#NaboFNR14</url>
+</inproceedings>
+</r>
+<r><article key="journals/jidm/FurtadoFR13" mdate="2013-09-02">
+<author>Andre Salvaro Furtado</author>
+<author>Renato Fileto</author>
+<author>Chiara Renso</author>
+<title>Assessing the Attractiveness of Places with Movement Data.</title>
+<pages>124-133</pages>
+<year>2013</year>
+<volume>4</volume>
+<journal>JIDM</journal>
+<number>2</number>
+<ee>http://seer.lcc.ufmg.br/index.php/jidm/article/view/231</ee>
+<url>db/journals/jidm/jidm4.html#FurtadoFR13</url>
+</article>
+</r>
+<r><inproceedings key="conf/er/FiletoKPTR13" mdate="2017-06-02">
+<author>Renato Fileto</author>
+<author>Marcelo Kr&#252;ger</author>
+<author>Nikos Pelekis</author>
+<author>Yannis Theodoridis</author>
+<author orcid="0000-0002-1763-2966">Chiara Renso</author>
+<title>Baquara: A Holistic Ontological Framework for Movement Analysis Using Linked Data.</title>
+<pages>342-355</pages>
+<year>2013</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41924-9_28</ee>
+<crossref>conf/er/2013</crossref>
+<url>db/conf/er/er2013.html#FiletoKPTR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ism/FasolinFKKFCTT13" mdate="2017-05-24">
+<author>Karina Fasolin</author>
+<author>Renato Fileto</author>
+<author>Marcelo Kr&#252;ger</author>
+<author>Daniel S. Kaster</author>
+<author>M&#244;nica Ribeiro Porto Ferreira</author>
+<author>Robson Leonardo Ferreira Cordeiro</author>
+<author>Agma J. M. Traina</author>
+<author>Caetano Traina Jr.</author>
+<title>Efficient Execution of Conjunctive Complex Queries on Big Multimedia Databases.</title>
+<pages>536-543</pages>
+<year>2013</year>
+<booktitle>ISM</booktitle>
+<ee>https://doi.org/10.1109/ISM.2013.112</ee>
+<crossref>conf/ism/2013</crossref>
+<url>db/conf/ism/ism2013.html#FasolinFKKFCTT13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sbbd/2013s" mdate="2016-06-21">
+<editor>Renato Fileto</editor>
+<editor>Marco Cristo</editor>
+<title>XXVIII Simp&#243;sio Brasileiro de Banco de Dados - Short Papers, Recife, Pernambuco, Brasil, September 30 - October 3, 2013.</title>
+<booktitle>SBBD (Short Papers)</booktitle>
+<publisher>SBC</publisher>
+<year>2013</year>
+<url>db/conf/sbbd/sbbd2013s.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/geoinfo/FurtadoFR12" mdate="2013-09-17">
+<author>Andre Salvaro Furtado</author>
+<author>Renato Fileto</author>
+<author>Chiara Renso</author>
+<title>M-Attract: Assessing the Attractiveness of Places by Using Moving Objects Trajectories Data.</title>
+<pages>84-95</pages>
+<year>2012</year>
+<booktitle>GeoInfo</booktitle>
+<ee>http://www.geoinfo.info/proceedings/proceedings_geoinfo2012.pdf#page=91</ee>
+<crossref>conf/geoinfo/2012</crossref>
+<url>db/conf/geoinfo/geoinfo2012.html#FurtadoFR12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jidm/MelloFDB11" mdate="2011-11-02">
+<author>Ronaldo dos Santos Mello</author>
+<author>Renato Fileto</author>
+<author>Carina F. Dorneles</author>
+<author>Vania Bogorny</author>
+<title>Research on Complex Data Management and Analysis at UFSC.</title>
+<pages>155-170</pages>
+<year>2011</year>
+<volume>2</volume>
+<journal>JIDM</journal>
+<number>2</number>
+<ee>http://seer.lcc.ufmg.br/index.php/jidm/article/view/118</ee>
+<url>db/journals/jidm/jidm2.html#MelloFDB11</url>
+</article>
+</r>
+<r><article key="journals/mcm/ArboledaFI10" mdate="2017-05-28">
+<author>Francisco Javier Moreno Arboleda</author>
+<author>Renato Fileto</author>
+<author>Fernando Arango Isaza</author>
+<title>Season queries on a temporal multidimensional model for OLAP.</title>
+<pages>1103-1109</pages>
+<year>2010</year>
+<volume>52</volume>
+<journal>Mathematical and Computer Modelling</journal>
+<number>7-8</number>
+<ee>https://doi.org/10.1016/j.mcm.2010.02.007</ee>
+<url>db/journals/mcm/mcm52.html#ArboledaFI10</url>
+</article>
+</r>
+<r><inproceedings key="conf/geoinfo/DeggauFPM10" mdate="2011-04-05">
+<author>Renato Deggau</author>
+<author>Renato Fileto</author>
+<author>Danilo Pereira</author>
+<author>Eugenio Merino</author>
+<title>Interacting With Spatial Data Warehouses Through Semantic Descriptions.</title>
+<pages>122-133</pages>
+<year>2010</year>
+<booktitle>GeoInfo</booktitle>
+<ee>http://www.geoinfo.info/geoinfo2010/proceedings_geoinfo2010.pdf#page=122</ee>
+<crossref>conf/geoinfo/2010</crossref>
+<url>db/conf/geoinfo/geoinfo2010.html#DeggauFPM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/geoinfo/FilhoFFG10" mdate="2011-04-05">
+<author>Sergio Izack Vieira Filho</author>
+<author>Renato Fileto</author>
+<author>Andre Salvaro Furtado</author>
+<author>Ricardo Haus Guembarovski</author>
+<title>Towards Intelligent Analysis of Commplex Networks in Spatial Data Warehouses.</title>
+<pages>134-145</pages>
+<year>2010</year>
+<booktitle>GeoInfo</booktitle>
+<ee>http://www.geoinfo.info/geoinfo2010/proceedings_geoinfo2010.pdf#page=134</ee>
+<crossref>conf/geoinfo/2010</crossref>
+<url>db/conf/geoinfo/geoinfo2010.html#FilhoFFG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/DAgostiniF09" mdate="2009-06-29">
+<author>Caio Stein D'Agostini</author>
+<author>Renato Fileto</author>
+<title>Capturing Users' Preferences and Intentions in a Semantic Search System.</title>
+<pages>587-591</pages>
+<year>2009</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2009</crossref>
+<url>db/conf/seke/seke2009.html#DAgostiniF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcce/RochaWFT09" mdate="2018-06-26">
+<author>Tiago Rios da Rocha</author>
+<author>Roberto Willrich</author>
+<author>Renato Fileto</author>
+<author>Sa&#239;d Tazi 0001</author>
+<title>Supporting Collaborative Learning Activities with a Digital Library and Annotations.</title>
+<pages>349-358</pages>
+<year>2009</year>
+<booktitle>WCCE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-03115-1_37</ee>
+<crossref>conf/wcce/2009</crossref>
+<url>db/conf/wcce/wcce2009.html#RochaWFT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webmedia/FurtadoWFST09" mdate="2015-04-02">
+<author>Carlos A. Furtado</author>
+<author>Roberto Willrich</author>
+<author>Renato Fileto</author>
+<author>Fernando de L. Siqueira</author>
+<author>Sa&#239;d Tazi 0001</author>
+<title>Custom ordering on digital library information retrieval.</title>
+<pages>28</pages>
+<year>2009</year>
+<booktitle>WebMedia</booktitle>
+<ee>http://doi.acm.org/10.1145/1858477.1858505</ee>
+<crossref>conf/webmedia/2009</crossref>
+<url>db/conf/webmedia/webmedia2009.html#FurtadoWFST09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/DAgostiniFDG08" mdate="2008-08-20">
+<author>Caio Stein D'Agostini</author>
+<author>Renato Fileto</author>
+<author>Mario Antonio Ribeiro Dantas</author>
+<author>Fernando Alvaro Ostuni Gauthier</author>
+<title>Contextual Semantic Search - Capturing, using the User's Context to Direct Semantic Search.</title>
+<pages>154-159</pages>
+<year>2008</year>
+<booktitle>ICEIS (4)</booktitle>
+<crossref>conf/iceis/2008-4</crossref>
+<url>db/conf/iceis/iceis2008-4.html#DAgostiniFDG08</url>
+</inproceedings>
+</r>
+<r><article key="journals/nar/NeshichMYKFPPKBMH05" mdate="2017-05-28">
+<author>Goran Neshich</author>
+<author>Adauto L. Mancini</author>
+<author>Michel E. B. Yamagishi</author>
+<author>Paula R. Kuser</author>
+<author>Renato Fileto</author>
+<author>Ivan P. Pinto</author>
+<author>Juliana F. Palandrani</author>
+<author>Jo&#227;o N. Krauchenco</author>
+<author>Christian Baudet</author>
+<author>Arnaldo J. Montagner</author>
+<author>Roberto H. Higa</author>
+<title>STING Report: convenient web-based application for graphic and tabular presentations of protein sequence, structure and function descriptors from the STING database.</title>
+<pages>269-274</pages>
+<year>2005</year>
+<volume>33</volume>
+<journal>Nucleic Acids Research</journal>
+<number>Database-Issue</number>
+<ee>https://doi.org/10.1093/nar/gki111</ee>
+<url>db/journals/nar/nar33.html#NeshichMYKFPPKBMH05</url>
+</article>
+</r>
+<r><article key="journals/nar/NeshichBHKYFKFRBVJFTKBSTM05" mdate="2017-05-28">
+<author>Goran Neshich</author>
+<author>Luiz C. Borro</author>
+<author>Roberto H. Higa</author>
+<author>Paula R. Kuser</author>
+<author>Michel E. B. Yamagishi</author>
+<author>Eduardo H. Franco</author>
+<author>Jo&#227;o N. Krauchenco</author>
+<author>Renato Fileto</author>
+<author>Andr&#233; A. Ribeiro</author>
+<author>George B. P. Bezerra</author>
+<author>Thiago M. Velludo</author>
+<author>Tom&#225;s S. Jimenez</author>
+<author>Noboru Furukawa</author>
+<author>Hirofumi Teshima</author>
+<author>Koji Kitajima</author>
+<author>K. Abdulla Bava</author>
+<author>Akinori Sarai</author>
+<author>Roberto C. Togawa</author>
+<author>Adauto L. Mancini</author>
+<title>The Diamond STING server.</title>
+<pages>29-35</pages>
+<year>2005</year>
+<volume>33</volume>
+<journal>Nucleic Acids Research</journal>
+<number>Web-Server-Issue</number>
+<ee>https://doi.org/10.1093/nar/gki397</ee>
+<url>db/journals/nar/nar33.html#NeshichBHKYFKFRBVJFTKBSTM05</url>
+</article>
+</r>
+<r><inproceedings key="conf/wise/FiletoMPLA05" mdate="2017-07-20">
+<author>Renato Fileto</author>
+<author>Claudia Bauzer Medeiros</author>
+<author>Calton Pu</author>
+<author>Ling Liu 0001</author>
+<author>Eduardo Delgado Assad</author>
+<title>Building a Semantic Web System for Scientific Applications: An Engineering Approach.</title>
+<pages>633-642</pages>
+<year>2005</year>
+<crossref>conf/wise/2005</crossref>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1007/11581062_70</ee>
+<url>db/conf/wise/wise2005.html#FiletoMPLA05</url>
+</inproceedings>
+</r>
+<r><article key="journals/nar/NeshichRMYKFBPMPKTSTH04" mdate="2017-06-08">
+<author>Goran Neshich</author>
+<author orcid="0000-0003-2480-7151">Walter Rocchia</author>
+<author>Adauto L. Mancini</author>
+<author>Michel E. B. Yamagishi</author>
+<author>Paula R. Kuser</author>
+<author>Renato Fileto</author>
+<author>Christian Baudet</author>
+<author>Ivan P. Pinto</author>
+<author>Arnaldo J. Montagner</author>
+<author>Juliana F. Palandrani</author>
+<author>Jo&#227;o N. Krauchenco</author>
+<author>Renato C. Torres</author>
+<author>Savio Souza</author>
+<author>Roberto C. Togawa</author>
+<author>Roberto H. Higa</author>
+<title><sup>Java</sup>Protein Dossier: a novel web-based data visualization tool for comprehensive analysis of protein structure.</title>
+<pages>595-601</pages>
+<year>2004</year>
+<volume>32</volume>
+<journal>Nucleic Acids Research</journal>
+<number>Web-Server-Issue</number>
+<url>db/journals/nar/nar32.html#NeshichRMYKFBPMPKTSTH04</url>
+<ee>https://doi.org/10.1093/nar/gkh480</ee>
+</article>
+</r>
+<r><phdthesis key="phd/ndltd/Fileto03" mdate="2017-08-02">
+<author>Renato Fileto</author>
+<title>A abordagem POESIA para a integra&#231;&#227;o de dados e servi&#231;os na Web semantica.</title>
+<year>2003</year>
+<school>University of Campinas, Brazil</school>
+<ee>http://repositorio.unicamp.br/jspui/handle/REPOSIP/276382</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.RI_UNICAMP:oai:repositorio.unicamp.br:REPOSIP/276382</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.RI_UNICAMP:oai:repositorio.unicamp.br:REPOSIP/276382)</note>
+</phdthesis>
+</r>
+<r><article key="journals/vldb/FiletoLPAM03" mdate="2017-07-20">
+<author>Renato Fileto</author>
+<author>Ling Liu 0001</author>
+<author>Calton Pu</author>
+<author>Eduardo Delgado Assad</author>
+<author>Claudia Bauzer Medeiros</author>
+<title>POESIA: An ontological workflow approach for composing Web services in agriculture.</title>
+<pages>352-367</pages>
+<year>2003</year>
+<volume>12</volume>
+<journal>VLDB J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00778-003-0103-3</ee>
+<url>db/journals/vldb/vldb12.html#FiletoLPAM03</url>
+</article>
+</r>
+<r><inproceedings key="conf/geoinfo/VenancioFM03" mdate="2005-10-27">
+<author>Lauro Ramos Ven&#226;ncio</author>
+<author>Renato Fileto</author>
+<author>Claudia Bauzer Medeiros</author>
+<title>Aplicando Ontologias de Objetos Geogr&#225;ficos para Facilitar Navega&#231;&#227;o em GIS.</title>
+<year>2003</year>
+<crossref>conf/geoinfo/2003</crossref>
+<booktitle>GeoInfo</booktitle>
+<url>db/conf/geoinfo/geoinfo2003.html#VenancioFM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbbd/FiletoMLPA03" mdate="2017-07-20">
+<author>Renato Fileto</author>
+<author>Claudia Bauzer Medeiros</author>
+<author>Ling Liu 0001</author>
+<author>Calton Pu</author>
+<author>Eduardo Delgado Assad</author>
+<title>Using Domain Ontologies to Help Track Data Provenance.</title>
+<pages>84-98</pages>
+<year>2003</year>
+<crossref>conf/sbbd/2003</crossref>
+<booktitle>SBBD</booktitle>
+<url>db/conf/sbbd/sbbd2003.html#FiletoMLPA03</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/ButtlerCCFHLPRX02" mdate="2017-07-20">
+<author>David Buttler</author>
+<author orcid="0000-0003-1389-4018">Matthew Coleman</author>
+<author>Terence Critchlow</author>
+<author>Renato Fileto</author>
+<author>Wei Han</author>
+<author>Ling Liu 0001</author>
+<author>Calton Pu</author>
+<author>Daniel Rocco</author>
+<author>Li Xiong 0001</author>
+<title>Querying Multiple Bioinformatics Data Sources: Can Semantic Web Research Help?</title>
+<pages>59-64</pages>
+<year>2002</year>
+<volume>31</volume>
+<journal>SIGMOD Record</journal>
+<number>4</number>
+<ee>http://doi.acm.org/10.1145/637411.637421</ee>
+<url>db/journals/sigmod/sigmod31.html#ButtlerCCFHLPRX02</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/Fileto00" mdate="2002-01-03">
+<author>Renato Fileto</author>
+<title>The Design of Decision Support Systems for Effective Use of Spatio-Temporal Data.</title>
+<year>2000</year>
+<booktitle>EDBT PhD Workshop</booktitle>
+<ee>http://www.edbt2000.uni-konstanz.de/phd-workshop/papers/Fileto.ps</ee>
+<url>db/conf/edbt/edbt2000phd.html#Fileto00</url>
+</inproceedings>
+</r>
+<coauthors n="95" nc="4">
+<co c="2"><na f="a/Abreu:Jean_Carlos_Oliveira_de">Jean Carlos Oliveira de Abreu</na></co>
+<co c="2"><na f="a/Alt:Rainer">Rainer Alt</na></co>
+<co c="0"><na f="a/Alves:Jhonatan">Jhonatan Alves</na></co>
+<co c="0"><na f="a/Arboleda:Francisco_Javier_Moreno">Francisco Javier Moreno Arboleda</na></co>
+<co c="0"><na f="a/Assad:Eduardo_Delgado">Eduardo Delgado Assad</na></co>
+<co c="1"><na f="b/Baudet:Christian">Christian Baudet</na></co>
+<co c="1"><na f="b/Bava:K=_Abdulla">K. Abdulla Bava</na></co>
+<co c="0"><na f="b/Beber:Marco_Aurelio">Marco Aurelio Beber</na></co>
+<co c="1"><na f="b/Bezerra:George_B=_P=">George B. P. Bezerra</na></co>
+<co c="0"><na f="b/Bogorny:Vania">Vania Bogorny</na></co>
+<co c="1"><na f="b/Borro:Luiz_C=">Luiz C. Borro</na></co>
+<co c="0"><na f="b/Braganholo:Vanessa">Vanessa Braganholo</na></co>
+<co c="0"><na f="b/Buttler:David">David Buttler</na></co>
+<co c="0"><na f="c/Chbeir:Richard">Richard Chbeir</na></co>
+<co c="0"><na f="c/Coleman:Matthew">Matthew Coleman</na></co>
+<co c="0" n="2"><na f="c/Cordeiro:Robson_L=_F=">Robson L. F. Cordeiro</na><na>Robson Leonardo Ferreira Cordeiro</na></co>
+<co c="-1"><na f="c/Cristo:Marco">Marco Cristo</na></co>
+<co c="0"><na f="c/Critchlow:Terence">Terence Critchlow</na></co>
+<co c="0"><na f="d/D=Agostini:Caio_Stein">Caio Stein D'Agostini</na></co>
+<co c="0" n="2"><na f="d/Dantas:Mario_A=_R=">Mario A. R. Dantas</na><na>Mario Antonio Ribeiro Dantas</na></co>
+<co c="3"><na f="d/Deggau:Renato">Renato Deggau</na></co>
+<co c="0"><na f="d/Dorneles:Carina_F=">Carina F. Dorneles</na></co>
+<co c="0"><na f="f/Fasolin:Karina">Karina Fasolin</na></co>
+<co c="0"><na f="f/Ferreira:M=ocirc=nica_Ribeiro_Porto">M&#244;nica Ribeiro Porto Ferreira</na></co>
+<co c="0"><na f="f/Ferrero:Carlos_Andres">Carlos Andres Ferrero</na></co>
+<co c="0"><na f="f/Filho:Sergio_Izack_Vieira">Sergio Izack Vieira Filho</na></co>
+<co c="1"><na f="f/Franco:Eduardo_H=">Eduardo H. Franco</na></co>
+<co c="0"><na f="f/Furtado:Andre_Salvaro">Andre Salvaro Furtado</na></co>
+<co c="0"><na f="f/Furtado:Carlos_A=">Carlos A. Furtado</na></co>
+<co c="1"><na f="f/Furukawa:Noboru">Noboru Furukawa</na></co>
+<co c="0"><na f="g/Gauthier:Fernando_Alvaro_Ostuni">Fernando Alvaro Ostuni Gauthier</na></co>
+<co c="0"><na f="g/Guembarovski:Ricardo_Haus">Ricardo Haus Guembarovski</na></co>
+<co c="0"><na f="h/Han:Wei">Wei Han</na></co>
+<co c="1"><na f="h/Higa:Roberto_H=">Roberto H. Higa</na></co>
+<co c="0"><na f="i/Isaza:Fernando_Arango">Fernando Arango Isaza</na></co>
+<co c="1"><na f="j/Jimenez:Tom=aacute=s_S=">Tom&#225;s S. Jimenez</na></co>
+<co c="2"><na f="j/J=uacute=nior:Vilmar_C=eacute=sar_Pereira">Vilmar C&#233;sar Pereira J&#250;nior</na></co>
+<co c="0"><na f="k/Kaster:Daniel_S=">Daniel S. Kaster</na></co>
+<co c="1"><na f="k/Kitajima:Koji">Koji Kitajima</na></co>
+<co c="0"><na f="k/Klein:Douglas">Douglas Klein</na></co>
+<co c="-1" n="2"><na f="k/Korting:Thales_Sehn">Thales Sehn Korting</na><na>Thales Sehn K&#246;rting</na></co>
+<co c="1"><na f="k/Krauchenco:Jo=atilde=o_N=">Jo&#227;o N. Krauchenco</na></co>
+<co c="0"><na f="k/Kr=uuml=ger:Marcelo">Marcelo Kr&#252;ger</na></co>
+<co c="1"><na f="k/Kuser:Paula_R=">Paula R. Kuser</na></co>
+<co c="0"><na f="l/Liu_0001:Ling">Ling Liu 0001</na></co>
+<co c="1"><na f="m/Mancini:Adauto_L=">Adauto L. Mancini</na></co>
+<co c="0"><na f="m/Marchi:Jerusa">Jerusa Marchi</na></co>
+<co c="0"><na f="m/May:Cleto">Cleto May</na></co>
+<co c="0"><na f="m/Medeiros:Claudia_Bauzer">Claudia Bauzer Medeiros</na></co>
+<co c="0"><na f="m/Mello:Ronaldo_dos_Santos">Ronaldo dos Santos Mello</na></co>
+<co c="3"><na f="m/Merino:Eugenio">Eugenio Merino</na></co>
+<co c="1"><na f="m/Montagner:Arnaldo_J=">Arnaldo J. Montagner</na></co>
+<co c="0"><na f="n/Nabo:Ricardo_G=_B=">Ricardo G. B. Nabo</na></co>
+<co c="0"><na f="n/Nanni:Mirco">Mirco Nanni</na></co>
+<co c="1"><na f="n/Neshich:Goran">Goran Neshich</na></co>
+<co c="2"><na f="n/Ngomo:Axel=Cyrille_Ngonga">Axel-Cyrille Ngonga Ngomo</na></co>
+<co c="1"><na f="p/Palandrani:Juliana_F=">Juliana F. Palandrani</na></co>
+<co c="0"><na f="p/Pelekis:Nikos">Nikos Pelekis</na></co>
+<co c="3"><na f="p/Pereira:Danilo">Danilo Pereira</na></co>
+<co c="0"><na f="p/Pineda:Andr=eacute=s_Felipe">Andr&#233;s Felipe Pineda</na></co>
+<co c="1"><na f="p/Pinto:Ivan_P=">Ivan P. Pinto</na></co>
+<co c="0"><na f="p/Plastino:Alexandre">Alexandre Plastino</na></co>
+<co c="0"><na f="p/Pu:Calton">Calton Pu</na></co>
+<co c="0"><na f="r/Raffaet=agrave=:Alessandra">Alessandra Raffaet&#224;</na></co>
+<co c="2"><na f="r/Reinhold:Olaf">Olaf Reinhold</na></co>
+<co c="0"><na f="r/Renso:Chiara">Chiara Renso</na></co>
+<co c="1"><na f="r/Ribeiro:Andr=eacute=_A=">Andr&#233; A. Ribeiro</na></co>
+<co c="1"><na f="r/Rocchia:Walter">Walter Rocchia</na></co>
+<co c="0"><na f="r/Rocco:Daniel">Daniel Rocco</na></co>
+<co c="0"><na f="r/Rocha:Tiago_Rios_da">Tiago Rios da Rocha</na></co>
+<co c="2"><na f="r/R=ouml=der:Michael">Michael R&#246;der</na></co>
+<co c="0"><na f="r/Roncato:Alessandro">Alessandro Roncato</na></co>
+<co c="0"><na f="s/Sacenti:Juarez_A=_P=">Juarez A. P. Sacenti</na></co>
+<co c="2"><na f="s/Saggion:Horacio">Horacio Saggion</na></co>
+<co c="0"><na f="s/Salgado:Ana_Carolina">Ana Carolina Salgado</na></co>
+<co c="0"><na f="s/Salvini:Fabio">Fabio Salvini</na></co>
+<co c="1"><na f="s/Sarai:Akinori">Akinori Sarai</na></co>
+<co c="-1"><na f="s/Silva:Felipe_P=_da">Felipe P. da Silva</na></co>
+<co c="0"><na f="s/Siqueira:Fernando_de_L=">Fernando de L. Siqueira</na></co>
+<co c="1"><na f="s/Souza:Savio">Savio Souza</na></co>
+<co c="2"><na f="s/Souza:Willian_Santos_de">Willian Santos de Souza</na></co>
+<co c="0"><na f="t/Tazi_0001:Sa=iuml=d">Sa&#239;d Tazi 0001</na></co>
+<co c="0"><na f="t/Tekli:Joe">Joe Tekli</na></co>
+<co c="1"><na f="t/Teshima:Hirofumi">Hirofumi Teshima</na></co>
+<co c="0"><na f="t/Theodoridis:Yannis">Yannis Theodoridis</na></co>
+<co c="1"><na f="t/Togawa:Roberto_C=">Roberto C. Togawa</na></co>
+<co c="1"><na f="t/Torres:Renato_C=">Renato C. Torres</na></co>
+<co c="0"><na f="t/Traina:Agma_J=_M=">Agma J. M. Traina</na></co>
+<co c="0" n="2"><na f="t/Traina_Jr=:Caetano">Caetano Traina Jr.</na><na>Caetano Traina Junior</na></co>
+<co c="1"><na f="v/Velludo:Thiago_M=">Thiago M. Velludo</na></co>
+<co c="0"><na f="v/Ven=acirc=ncio:Lauro_Ramos">Lauro Ramos Ven&#226;ncio</na></co>
+<co c="0"><na f="w/Willrich:Roberto">Roberto Willrich</na></co>
+<co c="2"><na f="w/Wittwer:Matthias">Matthias Wittwer</na></co>
+<co c="0"><na f="x/Xiong_0001:Li">Li Xiong 0001</na></co>
+<co c="1"><na f="y/Yamagishi:Michel_E=_B=">Michel E. B. Yamagishi</na></co>
+</coauthors>
+</dblpperson>
+

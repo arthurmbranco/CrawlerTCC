@@ -1,0 +1,301 @@
+<?xml version="1.0"?>
+<dblpperson name="Patricia Vilain" n="22">
+<person key="homepages/69/3719" mdate="2009-06-10">
+<author>Patricia Vilain</author>
+</person>
+<r><inproceedings key="conf/icse/SantosVL18" mdate="2018-09-04">
+<author>Ernani C&#233;sar dos Santos</author>
+<author>Patricia Vilain</author>
+<author>Douglas Hiura Longo</author>
+<title>A systematic literature review to support the selection of user acceptance testing techniques.</title>
+<pages>418-419</pages>
+<year>2018</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<ee>http://doi.acm.org/10.1145/3183440.3195036</ee>
+<ee>http://ieeexplore.ieee.org/document/8449605</ee>
+<crossref>conf/icse/2018c</crossref>
+<url>db/conf/icse/icse2018c.html#SantosVL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xpu/SantosV18" mdate="2018-06-26">
+<author>Ernani C&#233;sar dos Santos</author>
+<author>Patricia Vilain</author>
+<title>Automated Acceptance Tests as Software Requirements: An Experiment to Compare the Applicability of Fit Tables and Gherkin Language.</title>
+<pages>104-119</pages>
+<year>2018</year>
+<booktitle>XP</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-91602-6_7</ee>
+<crossref>conf/xpu/2018</crossref>
+<url>db/conf/xpu/xp2018.html#SantosV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/SilvaV17" mdate="2017-08-22">
+<author>Lucas Pereira da Silva</author>
+<author>Patricia Vilain</author>
+<title>Reuse of Fixture Setup between Test Classes.</title>
+<pages>224-229</pages>
+<year>2017</year>
+<booktitle>SEKE</booktitle>
+<ee>https://doi.org/10.18293/SEKE2017-181</ee>
+<crossref>conf/seke/2017</crossref>
+<url>db/conf/seke/seke2017.html#SilvaV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiwas/NetoVM16" mdate="2017-04-24">
+<author>Nelson Mariano Leite Neto</author>
+<author>Patricia Vilain</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>Segen: generation of test cases for selenium and selendroid.</title>
+<pages>433-442</pages>
+<year>2016</year>
+<booktitle>iiWAS</booktitle>
+<ee>http://doi.acm.org/10.1145/3011141.3011154</ee>
+<crossref>conf/iiwas/2016</crossref>
+<url>db/conf/iiwas/iiwas2016.html#NetoVM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiwas/LongoVSM16" mdate="2017-04-24">
+<author>Douglas Hiura Longo</author>
+<author>Patricia Vilain</author>
+<author>Lucas Pereira da Silva</author>
+<author>Ronaldo dos Santos Mello</author>
+<title>A web framework for test automation: user scenarios through user interaction diagrams.</title>
+<pages>458-467</pages>
+<year>2016</year>
+<booktitle>iiWAS</booktitle>
+<ee>http://doi.acm.org/10.1145/3011141.3011158</ee>
+<crossref>conf/iiwas/2016</crossref>
+<url>db/conf/iiwas/iiwas2016.html#LongoVSM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sera/SilvaV16" mdate="2017-05-19">
+<author>Lucas Pereira da Silva</author>
+<author>Patricia Vilain</author>
+<title>Execution and code reuse between test classes.</title>
+<pages>99-106</pages>
+<year>2016</year>
+<booktitle>SERA</booktitle>
+<ee>https://doi.org/10.1109/SERA.2016.7516134</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SERA.2016.7516134</ee>
+<crossref>conf/sera/2016</crossref>
+<url>db/conf/sera/sera2016.html#SilvaV16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijseke/LongoV15" mdate="2017-05-27">
+<author>Douglas Hiura Longo</author>
+<author>Patricia Vilain</author>
+<title>User Scenarios Through User Interaction Diagrams.</title>
+<pages>1771-1776</pages>
+<year>2015</year>
+<volume>25</volume>
+<journal>International Journal of Software Engineering and Knowledge Engineering</journal>
+<number>9-10</number>
+<ee>https://doi.org/10.1142/S0218194015710151</ee>
+<url>db/journals/ijseke/ijseke25.html#LongoV15</url>
+</article>
+</r>
+<r><article key="journals/jcsci/LongoWVC15" mdate="2017-07-27">
+<author>Douglas Hiura Longo</author>
+<author>Beatriz Wilges</author>
+<author>Patricia Vilain</author>
+<author>Renato Cislaghi</author>
+<title>Fixture Setup through Object Notation for Implicit Test Fixtures.</title>
+<pages>794-803</pages>
+<year>2015</year>
+<volume>11</volume>
+<journal>JCS</journal>
+<number>6</number>
+<ee>https://doi.org/10.3844/jcssp.2015.794.803</ee>
+<url>db/journals/jcsci/jcsci11.html#LongoWVC15</url>
+</article>
+</r>
+<r><inproceedings key="conf/seke/LongoV15" mdate="2017-05-26">
+<author>Douglas Hiura Longo</author>
+<author>Patricia Vilain</author>
+<title>Creating User Scenarios through User Interaction Diagrams by Non-Technical Customers.</title>
+<pages>330-335</pages>
+<year>2015</year>
+<booktitle>SEKE</booktitle>
+<ee>https://doi.org/10.18293/SEKE2015-179</ee>
+<crossref>conf/seke/2015</crossref>
+<url>db/conf/seke/seke2015.html#LongoV15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiwas/ZeferinoV14" mdate="2015-02-23">
+<author>Natan Vin&#237;cius Zeferino</author>
+<author>Patricia Vilain</author>
+<title>A model-driven approach for generating interfaces from user interaction diagrams.</title>
+<pages>474-478</pages>
+<year>2014</year>
+<booktitle>iiWAS</booktitle>
+<ee>http://doi.acm.org/10.1145/2684200.2684326</ee>
+<crossref>conf/iiwas/2014</crossref>
+<url>db/conf/iiwas/iiwas2014.html#ZeferinoV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iri/NevesV14" mdate="2017-05-26">
+<author>Glauco Silva Neves</author>
+<author>Patricia Vilain</author>
+<title>Test logic reuse through unit test patterns a test automation framework for software product lines.</title>
+<pages>28-35</pages>
+<year>2014</year>
+<booktitle>IRI</booktitle>
+<ee>https://doi.org/10.1109/IRI.2014.7051868</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IRI.2014.7051868</ee>
+<crossref>conf/iri/2014</crossref>
+<url>db/conf/iri/iri2014.html#NevesV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/NevesV14" mdate="2015-03-05">
+<author>Glauco Silva Neves</author>
+<author>Patricia Vilain</author>
+<title>Reactive Variability Realization with Test Driven Development and Refactoring.</title>
+<pages>100-105</pages>
+<year>2014</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2014</crossref>
+<url>db/conf/seke/seke2014.html#NevesV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/SouzaV13" mdate="2015-01-05">
+<author>Diego Spillere de Souza</author>
+<author>Patricia Vilain</author>
+<title>Selecting Agile Practices for Developing Software Product Lines (S).</title>
+<pages>220-225</pages>
+<year>2013</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2013</crossref>
+<url>db/conf/seke/seke2013.html#SouzaV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/DamianiV12" mdate="2012-08-20">
+<author>Filipe Bianchi Damiani</author>
+<author>Patricia Vilain</author>
+<title>Automatic Generation of Web Interfaces from User Interaction Diagrams.</title>
+<pages>605-610</pages>
+<year>2012</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2012</crossref>
+<url>db/conf/seke/seke2012.html#DamianiV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/VilainM11" mdate="2011-12-09">
+<author>Patricia Vilain</author>
+<author>Alexandre Jonatan B. Martins</author>
+<title>Neglecting Agile Principles and Practices: A Case Study.</title>
+<pages>596-601</pages>
+<year>2011</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2011</crossref>
+<url>db/conf/seke/seke2011.html#VilainM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/IbarraV10" mdate="2017-05-26">
+<author>Gustavo Bestetti Ibarra</author>
+<author>Patricia Vilain</author>
+<title>Software Estimation Based on Use Case Size.</title>
+<pages>178-187</pages>
+<year>2010</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2010.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBES.2010.22</ee>
+<crossref>conf/sbes/2010</crossref>
+<url>db/conf/sbes/sbes2010.html#IbarraV10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/DAgostiniV08" mdate="2008-08-14">
+<author>Caio Stein D'Agostini</author>
+<author>Patricia Vilain</author>
+<title>MARVIN - Modeling Environments with Ubiquitous Computing.</title>
+<pages>262-265</pages>
+<year>2008</year>
+<booktitle>ICEIS (3-1)</booktitle>
+<crossref>conf/iceis/2008-3-1</crossref>
+<url>db/conf/iceis/iceis2008-3-1.html#DAgostiniV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/VilainFM07" mdate="2007-09-19">
+<author>Patricia Vilain</author>
+<author>Priscila Basto Fagundes</author>
+<author>Thiago Leao Machado</author>
+<title>A Framework for Selecting Agile Practices and Defining Agile Software Processes.</title>
+<pages>25-28</pages>
+<year>2007</year>
+<crossref>conf/seke/2007</crossref>
+<booktitle>SEKE</booktitle>
+<url>db/conf/seke/seke2007.html#VilainFM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/ZanattaV07" mdate="2007-09-19">
+<author>Alexandre Lazaretti Zanatta</author>
+<author>Patricia Vilain</author>
+<title>Agile Methods and Quality Models: Towards an Integration in Requirements Engineering.</title>
+<pages>173-178</pages>
+<year>2007</year>
+<crossref>conf/seke/2007</crossref>
+<booktitle>SEKE</booktitle>
+<url>db/conf/seke/seke2007.html#ZanattaV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wer/ZanattaV05" mdate="2005-11-30">
+<author>Alexandre Lazaretti Zanatta</author>
+<author>Patricia Vilain</author>
+<title>Uma an&#225;lise do m&#233;todo &#225;gil Scrum conforme abordagem nas &#225;reas de processo Gerenciamento e Desenvolvimento de Requisitos do CMMI.</title>
+<pages>209-220</pages>
+<year>2005</year>
+<crossref>conf/wer/2005</crossref>
+<booktitle>WER</booktitle>
+<ee>http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER05/alexandre_zanatta.pdf</ee>
+<url>db/conf/wer/wer2005.html#ZanattaV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/GuellSV00" mdate="2017-06-02">
+<author>Natacha G&#252;ell</author>
+<author orcid="0000-0003-4347-2940">Daniel Schwabe</author>
+<author>Patricia Vilain</author>
+<title>Modeling Interactions and Navigation in Web Applications.</title>
+<pages>115-127</pages>
+<ee>https://doi.org/10.1007/3-540-45394-6_11</ee>
+<year>2000</year>
+<crossref>conf/er/2000w</crossref>
+<booktitle>ER (Workshops)</booktitle>
+<url>db/conf/er/erw2000.html#GuellSV00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uml/VilainSS00" mdate="2017-06-15">
+<author>Patricia Vilain</author>
+<author orcid="0000-0003-4347-2940">Daniel Schwabe</author>
+<author orcid="0000-0002-2154-4723">Clarisse Sieckenius de Souza</author>
+<title>A Diagrammatic Tool for Representing User Interaction in UML.</title>
+<pages>133-147</pages>
+<ee>https://doi.org/10.1007/3-540-40011-7_10</ee>
+<year>2000</year>
+<crossref>conf/uml/2000</crossref>
+<booktitle>UML</booktitle>
+<url>db/conf/uml/uml2000.html#VilainSS00</url>
+</inproceedings>
+</r>
+<coauthors n="20" nc="3">
+<co c="0"><na f="c/Cislaghi:Renato">Renato Cislaghi</na></co>
+<co c="-1"><na f="d/D=Agostini:Caio_Stein">Caio Stein D'Agostini</na></co>
+<co c="-1"><na f="d/Damiani:Filipe_Bianchi">Filipe Bianchi Damiani</na></co>
+<co c="2"><na f="f/Fagundes:Priscila_Basto">Priscila Basto Fagundes</na></co>
+<co c="1"><na f="g/G=uuml=ell:Natacha">Natacha G&#252;ell</na></co>
+<co c="-1"><na f="i/Ibarra:Gustavo_Bestetti">Gustavo Bestetti Ibarra</na></co>
+<co c="0"><na f="l/Longo:Douglas_Hiura">Douglas Hiura Longo</na></co>
+<co c="2"><na f="m/Machado:Thiago_Leao">Thiago Leao Machado</na></co>
+<co c="-1"><na f="m/Martins:Alexandre_Jonatan_B=">Alexandre Jonatan B. Martins</na></co>
+<co c="0"><na f="m/Mello:Ronaldo_dos_Santos">Ronaldo dos Santos Mello</na></co>
+<co c="0"><na f="n/Neto:Nelson_Mariano_Leite">Nelson Mariano Leite Neto</na></co>
+<co c="-1"><na f="n/Neves:Glauco_Silva">Glauco Silva Neves</na></co>
+<co c="0"><na f="s/Santos:Ernani_C=eacute=sar_dos">Ernani C&#233;sar dos Santos</na></co>
+<co c="1"><na f="s/Schwabe:Daniel">Daniel Schwabe</na></co>
+<co c="0"><na f="s/Silva:Lucas_Pereira_da">Lucas Pereira da Silva</na></co>
+<co c="1"><na f="s/Souza:Clarisse_Sieckenius_de">Clarisse Sieckenius de Souza</na></co>
+<co c="-1"><na f="s/Souza:Diego_Spillere_de">Diego Spillere de Souza</na></co>
+<co c="0"><na f="w/Wilges:Beatriz">Beatriz Wilges</na></co>
+<co c="-1"><na f="z/Zanatta:Alexandre_Lazaretti">Alexandre Lazaretti Zanatta</na></co>
+<co c="-1"><na f="z/Zeferino:Natan_Vin=iacute=cius">Natan Vin&#237;cius Zeferino</na></co>
+</coauthors>
+</dblpperson>
+

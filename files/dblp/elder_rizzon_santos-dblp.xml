@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<dblpperson name="Elder Rizzon Santos" n="10">
+<person key="homepages/74/5905" mdate="2009-06-10">
+<author>Elder Rizzon Santos</author>
+</person>
+<r><inproceedings key="conf/icaart/DemarchiSS18" mdate="2018-03-27">
+<author>Felipe Demarchi</author>
+<author>Elder Rizzon Santos</author>
+<author>Ricardo Azambuja Silveira</author>
+<title>Integration Between Agents and Remote Ontologies for the Use of Content on the Semantic Web.</title>
+<pages>125-132</pages>
+<year>2018</year>
+<booktitle>ICAART (1)</booktitle>
+<ee>https://doi.org/10.5220/0006718701250132</ee>
+<crossref>conf/icaart/2018-1</crossref>
+<url>db/conf/icaart/icaart2018-1.html#DemarchiSS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/paams/DemarchiSS18" mdate="2018-06-24">
+<author>Felipe Demarchi</author>
+<author>Elder Rizzon Santos</author>
+<author>Ricardo Azambuja Silveira</author>
+<title>Significant Educational Content Based Learning Model Using Public Ontologies and Multiagent Systems.</title>
+<pages>348-359</pages>
+<year>2018</year>
+<booktitle>PAAMS (Workshops)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-94779-2_30</ee>
+<crossref>conf/paams/2018w</crossref>
+<url>db/conf/paams/paams2018w.html#DemarchiSS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mtsr/VicariRSSPB10" mdate="2017-06-04">
+<author>Rosa Maria Vicari</author>
+<author>Alexandre Ribeiro</author>
+<author>J&#250;lia Marques Carvalho da Silva</author>
+<author>Elder Rizzon Santos</author>
+<author orcid="0000-0003-3870-097X">Tiago Thompsen Primo</author>
+<author>Marta R. Bez</author>
+<title>Brazilian Proposal for Agent-Based Learning Objects Metadata Standard - OBAA.</title>
+<pages>300-311</pages>
+<year>2010</year>
+<booktitle>MTSR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16552-8_27</ee>
+<crossref>conf/mtsr/2010</crossref>
+<url>db/conf/mtsr/mtsr2010.html#VicariRSSPB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/SantosFV07" mdate="2008-02-05">
+<author>Elder Rizzon Santos</author>
+<author>Moser Silva Fagundes</author>
+<author>Rosa Maria Vicari</author>
+<title>An ontology-based approach to interoperability for Bayesian agents.</title>
+<pages>231</pages>
+<year>2007</year>
+<crossref>conf/atal/2007</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>http://doi.acm.org/10.1145/1329125.1329404</ee>
+<url>db/conf/atal/aamas2007.html#SantosFV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caepia/BoffSFV07" mdate="2017-05-23">
+<author>Elisa Boff</author>
+<author>Elder Rizzon Santos</author>
+<author>Moser Silva Fagundes</author>
+<author>Rosa Maria Vicari</author>
+<title>Interoperable Bayesian Agents for Collaborative Learning Environments.</title>
+<pages>31-39</pages>
+<year>2007</year>
+<crossref>conf/caepia/2007</crossref>
+<booktitle>CAEPIA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-75271-4_4</ee>
+<url>db/conf/caepia/caepia2007.html#BoffSFV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/BoffSFV07" mdate="2017-05-23">
+<author>Elisa Boff</author>
+<author>Elder Rizzon Santos</author>
+<author>Moser Silva Fagundes</author>
+<author>Rosa Maria Vicari</author>
+<title>Interoperable Bayesian Agents for Collaborative Learning.</title>
+<pages>530-532</pages>
+<year>2007</year>
+<crossref>conf/icalt/2007</crossref>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2007.172</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICALT.2007.172</ee>
+<url>db/conf/icalt/icalt2007.html#BoffSFV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/LeonhardtTVSS07" mdate="2017-05-23">
+<author>Michelle Denise Leonhardt</author>
+<author>Liane Margarida Rockenbach Tarouco</author>
+<author>Rosa Maria Vicari</author>
+<author>Elder Rizzon Santos</author>
+<author>Michele dos Santos da Silva</author>
+<title>Using Chatbots for Network Management Training through Problem-based Oriented Education.</title>
+<pages>845-847</pages>
+<year>2007</year>
+<crossref>conf/icalt/2007</crossref>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2007.275</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICALT.2007.275</ee>
+<url>db/conf/icalt/icalt2007.html#LeonhardtTVSS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/promas/SantosFV07" mdate="2017-05-25">
+<author>Elder Rizzon Santos</author>
+<author>Moser Silva Fagundes</author>
+<author>Rosa Maria Vicari</author>
+<title>Interoperability for Bayesian Agents in the Semantic Web.</title>
+<pages>73-88</pages>
+<year>2007</year>
+<booktitle>PROMAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-79043-3_5</ee>
+<crossref>conf/promas/2007</crossref>
+<url>db/conf/promas/promas2007.html#SantosFV07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/BoffSV06" mdate="2017-05-10">
+<author>Elisa Boff</author>
+<author>Elder Rizzon Santos</author>
+<author>Rosa Maria Vicari</author>
+<title>Social Agents to Improve Collaboration on an Educational Portal.</title>
+<pages>896-900</pages>
+<year>2006</year>
+<crossref>conf/icalt/2006</crossref>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2006.1652587</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICALT.2006.291</ee>
+<url>db/conf/icalt/icalt2006.html#BoffSV06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/SantosBV06" mdate="2017-05-21">
+<author>Elder Rizzon Santos</author>
+<author>Elisa Boff</author>
+<author>Rosa Maria Vicari</author>
+<title>Semantic Web Technologies Applied to Interoperability on an Educational Portal.</title>
+<pages>308-317</pages>
+<year>2006</year>
+<crossref>conf/its/2006</crossref>
+<booktitle>Intelligent Tutoring Systems</booktitle>
+<ee>https://doi.org/10.1007/11774303_31</ee>
+<url>db/conf/its/its2006.html#SantosBV06</url>
+</inproceedings>
+</r>
+<coauthors n="12" nc="1">
+<co c="0"><na f="b/Bez:Marta_R=">Marta R. Bez</na></co>
+<co c="0"><na f="b/Boff:Elisa">Elisa Boff</na></co>
+<co c="0"><na f="d/Demarchi:Felipe">Felipe Demarchi</na></co>
+<co c="0"><na f="f/Fagundes:Moser_Silva">Moser Silva Fagundes</na></co>
+<co c="0"><na f="l/Leonhardt:Michelle_Denise">Michelle Denise Leonhardt</na></co>
+<co c="0"><na f="p/Primo:Tiago_Thompsen">Tiago Thompsen Primo</na></co>
+<co c="0"><na f="r/Ribeiro:Alexandre">Alexandre Ribeiro</na></co>
+<co c="0"><na f="s/Silva:J=uacute=lia_Marques_Carvalho_da">J&#250;lia Marques Carvalho da Silva</na></co>
+<co c="0"><na f="s/Silva:Michele_dos_Santos_da">Michele dos Santos da Silva</na></co>
+<co c="0"><na f="s/Silveira:Ricardo_Azambuja">Ricardo Azambuja Silveira</na></co>
+<co c="0"><na f="t/Tarouco:Liane_Margarida_Rockenbach">Liane Margarida Rockenbach Tarouco</na></co>
+<co c="0"><na f="v/Vicari:Rosa_Maria">Rosa Maria Vicari</na></co>
+</coauthors>
+</dblpperson>
+

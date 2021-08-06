@@ -1,0 +1,974 @@
+<?xml version="1.0"?>
+<dblpperson name="Christiane Gresse von Wangenheim" n="63">
+<person key="homepages/w/ChristianeGressevonWangenheim" mdate="2018-03-12">
+<author>Christiane Gresse von Wangenheim</author>
+<note type="affiliation">Federal University of Santa Catarina, Brazil</note>
+<url>http://www.inf.ufsc.br/~gresse/</url>
+<url>https://orcid.org/0000-0002-6566-1606</url>
+</person>
+<r><article key="journals/csi/LacerdaW18" mdate="2017-12-20">
+<author>Tha&#237;sa Cardoso Lacerda</author>
+<author>Christiane Gresse von Wangenheim</author>
+<title>Systematic literature review of usability capability/maturity models.</title>
+<pages>95-105</pages>
+<year>2018</year>
+<volume>55</volume>
+<journal>Computer Standards &#38; Interfaces</journal>
+<ee>https://doi.org/10.1016/j.csi.2017.06.001</ee>
+<url>db/journals/csi/csi55.html#LacerdaW18</url>
+</article>
+</r>
+<r><article key="journals/te/GoncalvesWHZ18" mdate="2018-05-15">
+<author orcid="0000-0001-6038-9140">Rafael Queiroz Gon&#231;alves</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author orcid="0000-0001-6550-9092">Jean C. R. Hauck</author>
+<author>Andreia Zanella</author>
+<title>An Instructional Feedback Technique for Teaching Project Management Tools Aligned With PMBOK.</title>
+<pages>143-150</pages>
+<year>2018</year>
+<volume>61</volume>
+<journal>IEEE Trans. Education</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TE.2017.2774766</ee>
+<url>db/journals/te/te61.html#GoncalvesWHZ18</url>
+</article>
+</r>
+<r><article key="journals/ce/PetriW17" mdate="2017-06-14">
+<author orcid="0000-0002-9884-8151">Giani Petri</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<title>How games for computing education are evaluated? A systematic literature review.</title>
+<pages>68-90</pages>
+<year>2017</year>
+<volume>107</volume>
+<journal>Computers &#38; Education</journal>
+<ee>https://doi.org/10.1016/j.compedu.2017.01.004</ee>
+<url>db/journals/ce/ce107.html#PetriW17</url>
+</article>
+</r>
+<r><article key="journals/inroads/WangenheimWPHF17" mdate="2017-03-07">
+<author>Christiane Gresse von Wangenheim</author>
+<author>Aldo von Wangenheim</author>
+<author>Fernando S. Pacheco</author>
+<author>Jean Carlo Rossa Hauck</author>
+<author>Miriam Nathalie F. Ferreira</author>
+<title>Teaching physical computing in family workshops.</title>
+<pages>48-51</pages>
+<year>2017</year>
+<volume>8</volume>
+<journal>Inroads</journal>
+<number>1</number>
+<ee>http://doi.acm.org/10.1145/3043950</ee>
+<url>db/journals/inroads/inroads8.html#WangenheimWPHF17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/PetriWB17" mdate="2017-07-13">
+<author>Giani Petri</author>
+<author>Christiane Gresse von Wangenheim</author>
+<author>Adriano Ferreti Borgatto</author>
+<title>Quality of Games for Teaching Software Engineering: An Analysis of Empirical Evidences of Digital and Non-Digital Games.</title>
+<pages>150-159</pages>
+<year>2017</year>
+<booktitle>ICSE-SEET</booktitle>
+<ee>https://doi.org/10.1109/ICSE-SEET.2017.18</ee>
+<crossref>conf/icse/2017seet</crossref>
+<url>db/conf/icse/icse2017seet.html#PetriWB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/PetriWB17a" mdate="2017-07-13">
+<author>Giani Petri</author>
+<author>Christiane Gresse von Wangenheim</author>
+<author>Adriano Ferreti Borgatto</author>
+<title>A Large-Scale Evaluation of a Model for the Evaluation of Games for Teaching Software Engineering.</title>
+<pages>180-189</pages>
+<year>2017</year>
+<booktitle>ICSE-SEET</booktitle>
+<ee>https://doi.org/10.1109/ICSE-SEET.2017.11</ee>
+<crossref>conf/icse/2017seet</crossref>
+<url>db/conf/icse/icse2017seet.html#PetriWB17a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/GoncalvesW17" mdate="2017-07-07">
+<author>Rafael Queiroz Gon&#231;alves</author>
+<author>Christiane Gresse von Wangenheim</author>
+<title>DotProject+: open-source software for project management education.</title>
+<pages>213-215</pages>
+<year>2017</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1109/ICSE-C.2017.128</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3098416</ee>
+<crossref>conf/icse/2017c</crossref>
+<url>db/conf/icse/icse2017c.html#GoncalvesW17</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijmhci/WangenheimWBNLK16" mdate="2017-06-06">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Talita A. Witt</author>
+<author>Adriano Ferreti Borgatto</author>
+<author>Juliane Vargas Nunes</author>
+<author>Tha&#237;sa Cardoso Lacerda</author>
+<author>Caroline Krone</author>
+<author>La&#237;s de Oliveira Souza</author>
+<title>A Usability Score for Mobile Phone Applications Based on Heuristics.</title>
+<pages>23-58</pages>
+<year>2016</year>
+<volume>8</volume>
+<journal>IJMHCI</journal>
+<number>1</number>
+<ee>https://doi.org/10.4018/IJMHCI.2016010102</ee>
+<url>db/journals/ijmhci/ijmhci8.html#WangenheimWBNLK16</url>
+</article>
+</r>
+<r><article key="journals/jucs/PetriW16" mdate="2016-10-14">
+<author>Giani Petri</author>
+<author>Christiane Gresse von Wangenheim</author>
+<title>How to Evaluate Educational Games: a Systematic Literature Review.</title>
+<pages>992-1021</pages>
+<year>2016</year>
+<volume>22</volume>
+<journal>J. UCS</journal>
+<number>7</number>
+<ee>http://www.jucs.org/jucs_22_7/how_to_evaluate_educational</ee>
+<url>db/journals/jucs/jucs22.html#PetriW16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cbms/AlvesARZSWW16" mdate="2017-06-15">
+<author>Joao Marcus Alves</author>
+<author>Danielle B. L. Albino</author>
+<author>Marisete C. Resener</author>
+<author>Marlene Zannin</author>
+<author>Alexandre Savaris</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Aldo von Wangenheim</author>
+<title>Quality Evaluation of Poison Control Information Systems: A Case Study of the DATATOX System.</title>
+<pages>30-35</pages>
+<year>2016</year>
+<booktitle>CBMS</booktitle>
+<ee>https://doi.org/10.1109/CBMS.2016.53</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CBMS.2016.53</ee>
+<crossref>conf/cbms/2016</crossref>
+<url>db/conf/cbms/cbms2016.html#AlvesARZSWW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cbms/AlvesSWW16" mdate="2017-06-15">
+<author>Joao Marcus Alves</author>
+<author>Alexandre Savaris</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Aldo von Wangenheim</author>
+<title>Software Quality Evaluation of the Laboratory Information System Used in the Santa Catarina State Integrated Telemedicine and Telehealth System.</title>
+<pages>76-81</pages>
+<year>2016</year>
+<booktitle>CBMS</booktitle>
+<ee>https://doi.org/10.1109/CBMS.2016.51</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CBMS.2016.51</ee>
+<crossref>conf/cbms/2016</crossref>
+<url>db/conf/cbms/cbms2016.html#AlvesSWW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csee/GoncalvesW16" mdate="2017-05-17">
+<author>Rafael Queiroz Gon&#231;alves</author>
+<author>Christiane Gresse von Wangenheim</author>
+<title>An Instructional Unit for Teaching Project Management Tools Aligned with PMBOK.</title>
+<pages>46-55</pages>
+<year>2016</year>
+<booktitle>CSEE&#38;T</booktitle>
+<ee>https://doi.org/10.1109/CSEET.2016.10</ee>
+<crossref>conf/csee/2016</crossref>
+<url>db/conf/csee/csee2016.html#GoncalvesW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/GoncalvesW16" mdate="2017-05-17">
+<author>Rafael Queiroz Gon&#231;alves</author>
+<author>Christiane Gresse von Wangenheim</author>
+<title>Evaluating the Teaching of Project Management Tools through a Series of Case Studies.</title>
+<pages>393-404</pages>
+<year>2016</year>
+<booktitle>ICEIS (1)</booktitle>
+<ee>https://doi.org/10.5220/0005738603930404</ee>
+<crossref>conf/iceis/2016-1</crossref>
+<url>db/conf/iceis/iceis2016-1.html#GoncalvesW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwsm/BuglioneAWMH16" mdate="2017-06-15">
+<author>Luigi Buglione</author>
+<author orcid="0000-0003-2670-9061">Alain Abran</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Fergal McCaffery</author>
+<author>Jean Carlo Rossa Hauck</author>
+<title>Risk Management: Achieving Higher Maturity &#38; Capability Levels through the LEGO Approach.</title>
+<pages>131-138</pages>
+<year>2016</year>
+<booktitle>IWSM-Mensura</booktitle>
+<ee>https://doi.org/10.1109/IWSM-Mensura.2016.028</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IWSM-Mensura.2016.028</ee>
+<crossref>conf/iwsm/2016</crossref>
+<url>db/conf/iwsm/iwsm2016.html#BuglioneAWMH16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/GoncalvesW16" mdate="2017-06-15">
+<author>Rafael Queiroz Gon&#231;alves</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<title>How Instructional Feedback Has Been Employed in Instructional Units for Teaching Software Project Management Tools: A Systematic Literature Review.</title>
+<pages>153-158</pages>
+<year>2016</year>
+<booktitle>SEKE</booktitle>
+<ee>https://doi.org/10.18293/SEKE2016-023</ee>
+<crossref>conf/seke/2016</crossref>
+<url>db/conf/seke/seke2016.html#GoncalvesW16</url>
+</inproceedings>
+</r>
+<r><article key="journals/eis/CancianRW15" mdate="2017-06-05">
+<author>Maiara Heil Cancian</author>
+<author>Ricardo J. Rabelo</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<title>Collaborative business processes for enhancing partnerships among software services providers.</title>
+<pages>634-659</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>Enterprise IS</journal>
+<number>5-6</number>
+<ee>https://doi.org/10.1080/17517575.2014.985617</ee>
+<url>db/journals/eis/eis9.html#CancianRW15</url>
+</article>
+</r>
+<r><article key="journals/ijitpm/GoncalvesKW15" mdate="2017-05-26">
+<author>Rafael Queiroz Gon&#231;alves</author>
+<author>Elisa de Freitas K&#252;hlkamp</author>
+<author>Christiane Gresse von Wangenheim</author>
+<title>Enhancing DotProject to Support Risk Management Aligned with PMBOK in the Context of SMEs.</title>
+<pages>40-60</pages>
+<year>2015</year>
+<volume>6</volume>
+<journal>IJITPM</journal>
+<number>2</number>
+<ee>https://doi.org/10.4018/ijitpm.2015040103</ee>
+<url>db/journals/ijitpm/ijitpm6.html#GoncalvesKW15</url>
+</article>
+</r>
+<r><article key="journals/te/ChavesWFOSF15" mdate="2017-06-08">
+<author>Rafael Oliveira Chaves</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Julio Cezar Costa Furtado</author>
+<author>Sandro Ronaldo Bezerra Oliveira</author>
+<author>Alex Santos</author>
+<author>Eloi Luiz Favero</author>
+<title>Experimental Evaluation of a Serious Game for Teaching Software Process Modeling.</title>
+<pages>289-296</pages>
+<year>2015</year>
+<volume>58</volume>
+<journal>IEEE Trans. Education</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TE.2015.2411573</ee>
+<url>db/journals/te/te58.html#ChavesWFOSF15</url>
+</article>
+</r>
+<r><inproceedings key="conf/iwsm/BuglioneAWMH15" mdate="2017-06-15">
+<author>Luigi Buglione</author>
+<author orcid="0000-0003-2670-9061">Alain Abran</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Fergal McCaffery</author>
+<author>Jean Carlo Rossa Hauck</author>
+<title>Software or Service? That's the Question!</title>
+<pages>30-45</pages>
+<year>2015</year>
+<booktitle>IWSM/Mensura</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-24285-9_3</ee>
+<crossref>conf/iwsm/2015</crossref>
+<url>db/conf/iwsm/iwsm2015.html#BuglioneAWMH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/GoncalvesW15" mdate="2017-05-26">
+<author>Rafael Queiroz Gon&#231;alves</author>
+<author>Christiane Gresse von Wangenheim</author>
+<title>How to Teach the Usage of Project Management Tools in Computer Courses: A Systematic Literature Review.</title>
+<pages>36-41</pages>
+<year>2015</year>
+<booktitle>SEKE</booktitle>
+<ee>https://doi.org/10.18293/SEKE2015-19</ee>
+<crossref>conf/seke/2015</crossref>
+<url>db/conf/seke/seke2015.html#GoncalvesW15</url>
+</inproceedings>
+</r>
+<r><article key="journals/computer/WangenheimW14" mdate="2017-06-05">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Aldo von Wangenheim</author>
+<title>Teaching Game Programming in Family Workshops.</title>
+<pages>84-87</pages>
+<year>2014</year>
+<volume>47</volume>
+<journal>IEEE Computer</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/MC.2014.220</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2014.220</ee>
+<url>db/journals/computer/computer47.html#WangenheimW14</url>
+</article>
+</r>
+<r><article key="journals/jbi/LacerdaWWG14" mdate="2017-06-06">
+<author>Tha&#237;sa Cardoso Lacerda</author>
+<author>Christiane Gresse von Wangenheim</author>
+<author orcid="0000-0003-4532-1417">Aldo von Wangenheim</author>
+<author>Isabela Giuliano</author>
+<title>Does the use of structured reporting improve usability? A comparative evaluation of the usability of two approaches for findings reporting in a large-scale telecardiology context.</title>
+<pages>222-230</pages>
+<year>2014</year>
+<volume>52</volume>
+<journal>Journal of Biomedical Informatics</journal>
+<ee>https://doi.org/10.1016/j.jbi.2014.07.002</ee>
+<url>db/journals/jbi/jbi52.html#LacerdaWWG14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cbms/AlvesWSW14" mdate="2017-06-01">
+<author>Joao Marcus Alves</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Alexandre Savaris</author>
+<author>Aldo von Wangenheim</author>
+<title>Identifying and Evaluating Usability Heuristics Applicable to Clinical Laboratory Systems.</title>
+<pages>529-530</pages>
+<year>2014</year>
+<booktitle>CBMS</booktitle>
+<ee>https://doi.org/10.1109/CBMS.2014.123</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CBMS.2014.123</ee>
+<crossref>conf/cbms/2014</crossref>
+<url>db/conf/cbms/cbms2014.html#AlvesWSW14</url>
+</inproceedings>
+</r>
+<r><article key="journals/csi/BuglioneWMH13" mdate="2017-06-05">
+<author>Luigi Buglione</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Fergal McCaffery</author>
+<author>Jean Carlo Rossa Hauck</author>
+<title>The LEGO strategy: Guidelines for a profitable deployment.</title>
+<pages>10-20</pages>
+<year>2013</year>
+<volume>36</volume>
+<journal>Computer Standards &#38; Interfaces</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.csi.2013.07.008</ee>
+<url>db/journals/csi/csi36.html#BuglioneWMH13</url>
+</article>
+</r>
+<r><article key="journals/ijmhci/SalazarLNW13" mdate="2017-06-06">
+<author>Luiz Henrique A. Salazar</author>
+<author>Tha&#237;sa Lacerda</author>
+<author>Juliane Vargas Nunes</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<title>A Systematic Literature Review on Usability Heuristics for Mobile Phones.</title>
+<pages>50-61</pages>
+<year>2013</year>
+<volume>5</volume>
+<journal>IJMHCI</journal>
+<number>2</number>
+<ee>https://doi.org/10.4018/jmhci.2013040103</ee>
+<url>db/journals/ijmhci/ijmhci5.html#SalazarLNW13</url>
+</article>
+</r>
+<r><article key="journals/ijseke/PereiraGWB13" mdate="2017-06-06">
+<author>Andr&#233; Marques Pereira</author>
+<author>Rafael Queiroz Gon&#231;alves</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Luigi Buglione</author>
+<title>Comparison of Open Source Tools for Project Management.</title>
+<pages>189-210</pages>
+<year>2013</year>
+<volume>23</volume>
+<journal>International Journal of Software Engineering and Knowledge Engineering</journal>
+<number>2</number>
+<ee>https://doi.org/10.1142/S0218194013500046</ee>
+<url>db/journals/ijseke/ijseke23.html#PereiraGWB13</url>
+</article>
+</r>
+<r><article key="journals/jss/WangenheimSB13" mdate="2017-06-06">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Rafael Savi</author>
+<author>Adriano Ferreti Borgatto</author>
+<title>SCRUMIA - An educational game for teaching SCRUM in computing courses.</title>
+<pages>2675-2687</pages>
+<year>2013</year>
+<volume>86</volume>
+<journal>Journal of Systems and Software</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.jss.2013.05.030</ee>
+<url>db/journals/jss/jss86.html#WangenheimSB13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icsr/BuglioneLWMH13" mdate="2017-06-04">
+<author>Luigi Buglione</author>
+<author>Giuseppe Lami</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Fergal McCaffery</author>
+<author>Jean Carlo Rossa Hauck</author>
+<title>Leveraging Reuse-Related Maturity Issues for Achieving Higher Maturity and Capability Levels.</title>
+<pages>343-355</pages>
+<year>2013</year>
+<booktitle>ICSR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-38977-1_26</ee>
+<crossref>conf/icsr/2013</crossref>
+<url>db/conf/icsr/icsr2013.html#BuglioneLWMH13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/CancianRW13" mdate="2018-06-26">
+<author>Maiara Heil Cancian</author>
+<author>Ricardo J. Rabelo</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<title>Supporting Processes for Collaborative SaaS.</title>
+<pages>183-190</pages>
+<year>2013</year>
+<booktitle>PRO-VE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-40543-3_20</ee>
+<crossref>conf/ifip5-5/2013</crossref>
+<url>db/conf/ifip5-5/prove2013.html#CancianRW13</url>
+</inproceedings>
+</r>
+<r><article key="journals/infsof/WangenheimSB12" mdate="2017-06-06">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Rafael Savi</author>
+<author>Adriano Ferreti Borgatto</author>
+<title>DELIVER! - An educational game for teaching Earned Value Management in computing courses.</title>
+<pages>286-298</pages>
+<year>2012</year>
+<volume>54</volume>
+<journal>Information &#38; Software Technology</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.infsof.2011.10.005</ee>
+<url>db/journals/infsof/infsof54.html#WangenheimSB12</url>
+</article>
+</r>
+<r><inproceedings key="conf/amcis/WangenheimWHMB12" mdate="2013-01-29">
+<author>Christiane Gresse von Wangenheim</author>
+<author>Aldo von Wangenheim</author>
+<author>Jean Carlo Rossa Hauck</author>
+<author>Fergal McCaffery</author>
+<author>Luigi Buglione</author>
+<title>Tailoring Software Process Capability/Maturity Models for Telemedicine Systems.</title>
+<year>2012</year>
+<booktitle>AMCIS</booktitle>
+<ee>http://aisel.aisnet.org/amcis2012/proceedings/ISHealthcare/1</ee>
+<crossref>conf/amcis/2012</crossref>
+<url>db/conf/amcis/amcis2012.html#WangenheimWHMB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsoft/BuglioneHWM12" mdate="2017-12-14">
+<author>Luigi Buglione</author>
+<author>Jean Carlo Rossa Hauck</author>
+<author>Christiane Gresse von Wangenheim</author>
+<author>Fergal McCaffery</author>
+<title>Hybriding CMMI and Requirement Engineering Maturity &#38; Capability Models - Applying the LEGO Approach for Improving Estimates.</title>
+<pages>55-61</pages>
+<year>2012</year>
+<booktitle>ICSOFT</booktitle>
+<crossref>conf/icsoft/2012</crossref>
+<url>db/conf/icsoft/icsoft2012.html#BuglioneHWM12</url>
+<ee>https://doi.org/10.5220/0004082700550061</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip5-5/CancianRW12" mdate="2018-06-26">
+<author>Maiara Heil Cancian</author>
+<author>Ricardo J. Rabelo</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<title>What Is Collaboration? An Analytical Cut from the Business Processes and SaaS Perspectives.</title>
+<pages>374-384</pages>
+<year>2012</year>
+<booktitle>PRO-VE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-32775-9_38</ee>
+<crossref>conf/ifip5-5/2012</crossref>
+<url>db/conf/ifip5-5/prove2012.html#CancianRW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihc/SalazarLWB12" mdate="2013-09-25">
+<author>Luiz Henrique A. Salazar</author>
+<author>Tha&#237;sa Lacerda</author>
+<author>Christiane Gresse von Wangenheim</author>
+<author>Rodrigo Ara&#250;jo Barbalho</author>
+<title>Customizando heur&#237;sticas de usabilidade para celulares.</title>
+<pages>37-38</pages>
+<year>2012</year>
+<booktitle>IHC (Companion)</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2400092</ee>
+<crossref>conf/ihc/2012c</crossref>
+<url>db/conf/ihc/ihc2012c.html#SalazarLWB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihc/RabelloBNW12" mdate="2013-09-26">
+<author>Rodrigo Becker Rabello</author>
+<author>Rodrigo Ara&#250;jo Barbalho</author>
+<author>Juliane Vargas Nunes</author>
+<author>Christiane Gresse von Wangenheim</author>
+<title>Integra&#231;&#227;o de engenharia de usabilidade em um modelo de capacidade/maturidade de processo de software.</title>
+<pages>175-184</pages>
+<year>2012</year>
+<booktitle>IHC</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2393562</ee>
+<crossref>conf/ihc/2012</crossref>
+<url>db/conf/ihc/ihc2012.html#RabelloBNW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spice/BuglioneMHW12" mdate="2017-06-05">
+<author>Luigi Buglione</author>
+<author>Fergal McCaffery</author>
+<author>Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<title>FIRST: Common-Sense Process Scopes for Starting a Process Improvement Program.</title>
+<pages>186-197</pages>
+<year>2012</year>
+<booktitle>SPICE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-30439-2_17</ee>
+<crossref>conf/spice/2012</crossref>
+<url>db/conf/spice/spice2012.html#BuglioneMHW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/profes/HauckWMB11" mdate="2017-06-05">
+<author>Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Fergal McCaffery</author>
+<author>Luigi Buglione</author>
+<title>Proposing an ISO/IEC 15504-2 Compliant Method for Process Capability/Maturity Models Customization.</title>
+<pages>44-58</pages>
+<year>2011</year>
+<booktitle>PROFES</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21843-9_6</ee>
+<crossref>conf/profes/2011</crossref>
+<url>db/conf/profes/profes2011.html#HauckWMB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SaviWB11" mdate="2017-06-05">
+<author>Rafael Savi</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Adriano Ferreti Borgatto</author>
+<title>A Model for the Evaluation of Educational Games for Teaching Software Engineering.</title>
+<pages>194-203</pages>
+<year>2011</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2011.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBES.2011.27</ee>
+<crossref>conf/sbes/2011</crossref>
+<url>db/conf/sbes/sbes2011.html#SaviWB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/HauckW11" mdate="2017-06-05">
+<author>Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<title>A Method for Software Process Capability / Maturity Models Customization to Specific Domains.</title>
+<pages>293-302</pages>
+<year>2011</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2011.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBES.2011.23</ee>
+<crossref>conf/sbes/2011</crossref>
+<url>db/conf/sbes/sbes2011.html#HauckW11</url>
+</inproceedings>
+</r>
+<r><article key="journals/infsof/WangenheimSBSP10" mdate="2017-06-06">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Djoni Antonio da Silva</author>
+<author>Luigi Buglione</author>
+<author>Rafael Scheidt</author>
+<author>Rafael Prikladnicki</author>
+<title>Best practice fusion of CMMI-DEV v1.2 (PP, PMC, SAM) and PMBOK 2008.</title>
+<pages>749-757</pages>
+<year>2010</year>
+<volume>52</volume>
+<journal>Information &#38; Software Technology</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/j.infsof.2010.03.008</ee>
+<url>db/journals/infsof/infsof52.html#WangenheimSBSP10</url>
+</article>
+</r>
+<r><article key="journals/software/WangenheimHZSMS10" mdate="2017-06-08">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Jean Carlo Rossa Hauck</author>
+<author>Alessandra Zoucas</author>
+<author>Clenio F. Salviano</author>
+<author>Fergal McCaffery</author>
+<author>Forrest Shull</author>
+<title>Creating Software Process Capability/Maturity Models.</title>
+<pages>92-94</pages>
+<year>2010</year>
+<volume>27</volume>
+<journal>IEEE Software</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MS.2010.96</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MS.2010.96</ee>
+<url>db/journals/software/software27.html#WangenheimHZSMS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/ifip5-5/CancianRW10" mdate="2018-06-26">
+<author>Maiara Heil Cancian</author>
+<author>Ricardo J. Rabelo</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<title>Supporting Software Services' Trustworthiness in Collaborative Networks.</title>
+<pages>672-684</pages>
+<year>2010</year>
+<booktitle>PRO-VE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-15961-9_80</ee>
+<crossref>conf/ifip5-5/2010</crossref>
+<url>db/conf/ifip5-5/prove2010.html#CancianRW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/profes/CancianHWR10" mdate="2017-06-05">
+<author>Maiara Heil Cancian</author>
+<author>Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Ricardo J. Rabelo</author>
+<title>Discovering Software Process and Product Quality Criteria in Software as a Service.</title>
+<pages>234-247</pages>
+<year>2010</year>
+<booktitle>PROFES</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-13792-1_19</ee>
+<crossref>conf/profes/2010</crossref>
+<url>db/conf/profes/profes2010.html#CancianHWR10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ese/WangenheimTK09" mdate="2017-06-06">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Marcello Thiry</author>
+<author>Djone Kochanski</author>
+<title>Empirical evaluation of an educational game on software measurement.</title>
+<pages>418-452</pages>
+<year>2009</year>
+<volume>14</volume>
+<journal>Empirical Software Engineering</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10664-008-9092-6</ee>
+<url>db/journals/ese/ese14.html#WangenheimTK09</url>
+</article>
+</r>
+<r><article key="journals/software/WangenheimHW09" mdate="2017-06-08">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0003-4532-1417">Aldo von Wangenheim</author>
+<title>Enhancing Open Source Software in Alignment with CMMI-DEV.</title>
+<pages>59-67</pages>
+<year>2009</year>
+<volume>26</volume>
+<journal>IEEE Software</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MS.2009.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MS.2009.34</ee>
+<url>db/journals/software/software26.html#WangenheimHW09</url>
+</article>
+</r>
+<r><article key="journals/software/WangenheimS09" mdate="2017-06-08">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Forrest Shull</author>
+<title>To Game or Not to Game?</title>
+<pages>92-94</pages>
+<year>2009</year>
+<volume>26</volume>
+<journal>IEEE Software</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MS.2009.54</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MS.2009.54</ee>
+<url>db/journals/software/software26.html#WangenheimS09</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurospi/HauckWST08" mdate="2017-06-15">
+<author>Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Richard H. de Souza</author>
+<author>Marcello Thiry</author>
+<title>Process Reference Guides - Support for Improving Software Processes in Alignment with Reference Models and Standards.</title>
+<pages>70-81</pages>
+<year>2008</year>
+<booktitle>EuroSPI</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-85936-9_7</ee>
+<crossref>conf/eurospi/2008</crossref>
+<url>db/conf/eurospi/eurospi2008.html#HauckWST08</url>
+</inproceedings>
+</r>
+<r><article key="journals/software/RichardsonW07" mdate="2017-06-08">
+<author>Ita Richardson</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<title>Guest Editors' Introduction: Why are Small Software Organizations Different?</title>
+<pages>18-22</pages>
+<year>2007</year>
+<volume>24</volume>
+<journal>IEEE Software</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MS.2007.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MS.2007.12</ee>
+<url>db/journals/software/software24.html#RichardsonW07</url>
+</article>
+</r>
+<r><article key="journals/infsof/WangenheimWHS06" mdate="2017-06-06">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>S&#233;rgio Weber</author>
+<author>Jean Carlo Rossa Hauck</author>
+<author>Gisele Trentin da Silva</author>
+<title>Experiences on establishing software processes in small companies.</title>
+<pages>890-900</pages>
+<year>2006</year>
+<volume>48</volume>
+<journal>Information &#38; Software Technology</journal>
+<number>9</number>
+<ee>https://doi.org/10.1016/j.infsof.2005.12.010</ee>
+<url>db/journals/infsof/infsof48.html#WangenheimWHS06</url>
+</article>
+</r>
+<r><article key="journals/software/WangenheimAS06" mdate="2017-05-18">
+<author>Christiane Gresse von Wangenheim</author>
+<author>Alessandra Anacleto</author>
+<author>Clenio F. Salviano</author>
+<title>Helping Small Companies Assess Software Processes.</title>
+<pages>91-98</pages>
+<year>2006</year>
+<volume>23</volume>
+<journal>IEEE Software</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MS.2006.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MS.2006.13</ee>
+<url>db/journals/software/software23.html#WangenheimAS06</url>
+</article>
+</r>
+<r><article key="journals/sopr/WangenheimVS06" mdate="2017-06-08">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Timo Varkoi</author>
+<author>Clenio F. Salviano</author>
+<title>Standard based software process assessments in small companies.</title>
+<pages>329-335</pages>
+<year>2006</year>
+<volume>11</volume>
+<journal>Software Process: Improvement and Practice</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/spip.276</ee>
+<url>db/journals/sopr/sopr11.html#WangenheimVS06</url>
+</article>
+</r>
+<r><book key="books/daglib/0006590" mdate="2017-01-20">
+<author>Christiane Gresse von Wangenheim</author>
+<title>Operationalizing reuse of software measurement planning knowledge.</title>
+<pages>I-XIII, 1-255</pages>
+<publisher>Infix Akademische Verlagsgesellschaft</publisher>
+<school>Kaiserslautern University of Technology, Germany</school>
+<year>2002</year>
+<series href="db/series/diski/index.html">DISKI</series>
+<volume>256</volume>
+<isbn>978-3-89838-256-4</isbn>
+<ee>http://d-nb.info/964807270</ee>
+</book>
+</r>
+<r><article key="journals/ki/Wangenheim02" mdate="2003-01-13">
+<author>Christiane Gresse von Wangenheim</author>
+<title>Operationalisierung der Wiederverwendung von Wissen in der Planung von Software-Messprogrammen.</title>
+<pages>60-62</pages>
+<year>2002</year>
+<volume>16</volume>
+<journal>KI</journal>
+<number>4</number>
+<url>db/journals/ki/ki16.html#Wangenheim02</url>
+</article>
+</r>
+<r><inproceedings key="conf/cbms/WagnerWTWK01" mdate="2017-05-23">
+<author>Harley Wagner</author>
+<author>Aldo von Wangenheim</author>
+<author>Paulo C&#233;sar Trevisol-Bittencourt</author>
+<author>Christiane Gresse von Wangenheim</author>
+<author>Dirk Krechel</author>
+<title>A Digital Deformable Anisotropic Brain Atlas Based on the Talairach Atlas and Recursive Spatial Data Structures.</title>
+<pages>36-41</pages>
+<year>2001</year>
+<crossref>conf/cbms/2001</crossref>
+<booktitle>CBMS</booktitle>
+<ee>https://doi.org/10.1109/CBMS.2001.941694</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CBMS.2001.941694</ee>
+<url>db/conf/cbms/cbms2001.html#WagnerWTWK01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccbr/WangenheimBW01" mdate="2017-06-15">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Andre Bortolon</author>
+<author orcid="0000-0003-4532-1417">Aldo von Wangenheim</author>
+<title>A Hybrid Approach for the Management of FAQ Documents in Latin Languages.</title>
+<pages>204-218</pages>
+<year>2001</year>
+<crossref>conf/iccbr/2001</crossref>
+<booktitle>ICCBR</booktitle>
+<ee>https://doi.org/10.1007/3-540-44593-5_15</ee>
+<url>db/conf/iccbr/iccbr2001.html#WangenheimBW01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lso/WangenheimLWC01" mdate="2017-06-04">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Daniel Lichtnow</author>
+<author orcid="0000-0003-4532-1417">Aldo von Wangenheim</author>
+<author orcid="0000-0002-6627-4210">Eros Comunello</author>
+<title>Supporting Knowledge Management in University Software R&#38;D Groups.</title>
+<pages>52-67</pages>
+<year>2001</year>
+<crossref>conf/lso/2001</crossref>
+<booktitle>LSO</booktitle>
+<ee>https://doi.org/10.1007/3-540-44814-4_7</ee>
+<url>db/conf/lso/lso2001.html#WangenheimLWC01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/WangenheimLW01" mdate="2005-02-21">
+<author>Christiane Gresse von Wangenheim</author>
+<author>Daniel Lichtnow</author>
+<author>Aldo von Wangenheim</author>
+<title>A Hybrid Approach for Corporate Memory Management Systems in Software R&#38;D Organizations.</title>
+<pages>326-330</pages>
+<year>2001</year>
+<crossref>conf/seke/2001</crossref>
+<booktitle>SEKE</booktitle>
+<url>db/conf/seke/seke2001.html#WangenheimLW01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbia/WangenheimR00" mdate="2017-06-15">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Marcos R. Rodrigues</author>
+<title>Case-Based Management of Software Engineering Experienceware.</title>
+<pages>12-22</pages>
+<ee>https://doi.org/10.1007/3-540-44399-1_3</ee>
+<year>2000</year>
+<crossref>conf/sbia/2000</crossref>
+<booktitle>IBERAMIA-SBIA</booktitle>
+<url>db/conf/sbia/sbia2000.html#WangenheimR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icail/BuenoWMHB99" mdate="2015-04-30">
+<author>T&#226;nia C. D'Agostini Bueno</author>
+<author>Christiane Gresse von Wangenheim</author>
+<author>Eduardo da Silva Mattos</author>
+<author>Hugo Cesar Hoeschl</author>
+<author>Ricardo Miranda Barcia</author>
+<title>JurisConsulto: retrieval in jurisprudencial text bases using juridical terminology.</title>
+<pages>147-155</pages>
+<year>1999</year>
+<crossref>conf/icail/1999</crossref>
+<booktitle>ICAIL</booktitle>
+<ee>http://portal.acm.org/citation.cfm?id=323706.323789</ee>
+<url>db/conf/icail/icail1999.html#BuenoWMHB99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccbr/Wangenheim99" mdate="2017-06-04">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<title>REMEX - A Case-Based Approach for Reusing Software Measurement Experienceware.</title>
+<pages>173-187</pages>
+<ee>https://doi.org/10.1007/3-540-48508-2_13</ee>
+<year>1999</year>
+<crossref>conf/iccbr/1999</crossref>
+<booktitle>ICCBR</booktitle>
+<url>db/conf/iccbr/iccbr1999.html#Wangenheim99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/WangenheimAB99" mdate="2017-06-15">
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Klaus-Dieter Althoff</author>
+<author>Ricardo Miranda Barcia</author>
+<title>Goal-Oriented and Similarity-Based Retrieval of Software Engineering Experienceware.</title>
+<pages>118-141</pages>
+<year>1999</year>
+<crossref>conf/seke/1999</crossref>
+<booktitle>SEKE</booktitle>
+<url>db/conf/seke/seke1999.html#WangenheimAB99</url>
+<ee>https://doi.org/10.1007/BFb0101417</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccbr/AlthoffBWT98" mdate="2017-06-15">
+<author>Klaus-Dieter Althoff</author>
+<author>Andreas Birk 0001</author>
+<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author>Carsten Tautz</author>
+<title>CBR for Experimental Software Engineering.</title>
+<pages>235-254</pages>
+<year>1998</year>
+<crossref>conf/iccbr/1998</crossref>
+<booktitle>Case-Based Reasoning Technology</booktitle>
+<ee>https://doi.org/10.1007/3-540-69351-3_9</ee>
+<url>db/conf/iccbr/cbr1998.html#AlthoffBWT98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/metrics/CugolaFFWLMPRS97" mdate="2017-05-21">
+<author>Gianpaolo Cugola</author>
+<author>Alfonso Fuggetta</author>
+<author>Pierfrancesco Fusaro</author>
+<author>Christiane Gresse von Wangenheim</author>
+<author>Luigi Lavazza</author>
+<author>Serena Manca</author>
+<author>Maria Rosaria Pagone</author>
+<author>G&#252;nther Ruhe</author>
+<author>Roberto Soro</author>
+<title>A Case Study Of Evaluating Configuration Management Practices With Goal-Oriented Measurement.</title>
+<pages>144-151</pages>
+<year>1997</year>
+<crossref>conf/metrics/1997</crossref>
+<booktitle>IEEE METRICS</booktitle>
+<ee>https://doi.org/10.1109/METRIC.1997.637175</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/METRIC.1997.637175</ee>
+<url>db/conf/metrics/metrics1997.html#CugolaFFWLMPRS97</url>
+</inproceedings>
+</r>
+<coauthors n="72" nc="1">
+<co c="0"><na f="a/Abran:Alain">Alain Abran</na></co>
+<co c="0"><na f="a/Albino:Danielle_B=_L=">Danielle B. L. Albino</na></co>
+<co c="0"><na f="a/Althoff:Klaus=Dieter">Klaus-Dieter Althoff</na></co>
+<co c="0"><na f="a/Alves:Joao_Marcus">Joao Marcus Alves</na></co>
+<co c="0"><na f="a/Anacleto:Alessandra">Alessandra Anacleto</na></co>
+<co c="0"><na f="b/Barbalho:Rodrigo_Ara=uacute=jo">Rodrigo Ara&#250;jo Barbalho</na></co>
+<co c="0"><na f="b/Barcia:Ricardo_Miranda">Ricardo Miranda Barcia</na></co>
+<co c="0"><na f="b/Birk_0001:Andreas">Andreas Birk 0001</na></co>
+<co c="0"><na f="b/Borgatto:Adriano_Ferreti">Adriano Ferreti Borgatto</na></co>
+<co c="0"><na f="b/Bortolon:Andre">Andre Bortolon</na></co>
+<co c="0"><na f="b/Bueno:T=acirc=nia_C=_D=Agostini">T&#226;nia C. D'Agostini Bueno</na></co>
+<co c="0"><na f="b/Buglione:Luigi">Luigi Buglione</na></co>
+<co c="0"><na f="c/Cancian:Maiara_Heil">Maiara Heil Cancian</na></co>
+<co c="0" n="2"><na f="c/Chaves:Rafael_O=">Rafael O. Chaves</na><na>Rafael Oliveira Chaves</na></co>
+<co c="0"><na f="c/Comunello:Eros">Eros Comunello</na></co>
+<co c="0"><na f="c/Cugola:Gianpaolo">Gianpaolo Cugola</na></co>
+<co c="0" n="2"><na f="f/Favero:Eloi_L=">Eloi L. Favero</na><na>Eloi Luiz Favero</na></co>
+<co c="0"><na f="f/Ferreira:Miriam_Nathalie_F=">Miriam Nathalie F. Ferreira</na></co>
+<co c="0"><na f="f/Fuggetta:Alfonso">Alfonso Fuggetta</na></co>
+<co c="0"><na f="f/Furtado:Julio_Cezar_Costa">Julio Cezar Costa Furtado</na></co>
+<co c="0"><na f="f/Fusaro:Pierfrancesco">Pierfrancesco Fusaro</na></co>
+<co c="0"><na f="g/Giuliano:Isabela">Isabela Giuliano</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Rafael_Queiroz">Rafael Queiroz Gon&#231;alves</na></co>
+<co c="0" n="2"><na f="h/Hauck:Jean_C=_R=">Jean C. R. Hauck</na><na>Jean Carlo Rossa Hauck</na></co>
+<co c="0"><na f="h/Hoeschl:Hugo_Cesar">Hugo Cesar Hoeschl</na></co>
+<co c="0"><na f="k/Kochanski:Djone">Djone Kochanski</na></co>
+<co c="0"><na f="k/Krechel:Dirk">Dirk Krechel</na></co>
+<co c="0"><na f="k/Krone:Caroline">Caroline Krone</na></co>
+<co c="0"><na f="k/K=uuml=hlkamp:Elisa_de_Freitas">Elisa de Freitas K&#252;hlkamp</na></co>
+<co c="0" n="2"><na f="l/Lacerda:Tha=iacute=sa">Tha&#237;sa Lacerda</na><na>Tha&#237;sa Cardoso Lacerda</na></co>
+<co c="0"><na f="l/Lami:Giuseppe">Giuseppe Lami</na></co>
+<co c="0"><na f="l/Lavazza:Luigi">Luigi Lavazza</na></co>
+<co c="0"><na f="l/Lichtnow:Daniel">Daniel Lichtnow</na></co>
+<co c="0"><na f="m/Manca:Serena">Serena Manca</na></co>
+<co c="0"><na f="m/Mattos:Eduardo_da_Silva">Eduardo da Silva Mattos</na></co>
+<co c="0"><na f="m/McCaffery:Fergal">Fergal McCaffery</na></co>
+<co c="0"><na f="n/Nunes:Juliane_Vargas">Juliane Vargas Nunes</na></co>
+<co c="0"><na f="o/Oliveira:Sandro_Ronaldo_Bezerra">Sandro Ronaldo Bezerra Oliveira</na></co>
+<co c="0"><na f="p/Pacheco:Fernando_S=">Fernando S. Pacheco</na></co>
+<co c="0"><na f="p/Pagone:Maria_Rosaria">Maria Rosaria Pagone</na></co>
+<co c="0"><na f="p/Pereira:Andr=eacute=_Marques">Andr&#233; Marques Pereira</na></co>
+<co c="0"><na f="p/Petri:Giani">Giani Petri</na></co>
+<co c="0"><na f="p/Prikladnicki:Rafael">Rafael Prikladnicki</na></co>
+<co c="0"><na f="r/Rabello:Rodrigo_Becker">Rodrigo Becker Rabello</na></co>
+<co c="0"><na f="r/Rabelo:Ricardo_J=">Ricardo J. Rabelo</na></co>
+<co c="0"><na f="r/Resener:Marisete_C=">Marisete C. Resener</na></co>
+<co c="0"><na f="r/Richardson:Ita">Ita Richardson</na></co>
+<co c="-1"><na f="r/Rodrigues:Marcos_R=">Marcos R. Rodrigues</na></co>
+<co c="0"><na f="r/Ruhe:G=uuml=nther">G&#252;nther Ruhe</na></co>
+<co c="0"><na f="s/Salazar:Luiz_Henrique_A=">Luiz Henrique A. Salazar</na></co>
+<co c="0"><na f="s/Salviano:Clenio_F=">Clenio F. Salviano</na></co>
+<co c="0"><na f="s/Santos:Alex">Alex Santos</na></co>
+<co c="0"><na f="s/Savaris:Alexandre">Alexandre Savaris</na></co>
+<co c="0"><na f="s/Savi:Rafael">Rafael Savi</na></co>
+<co c="0"><na f="s/Scheidt:Rafael">Rafael Scheidt</na></co>
+<co c="0"><na f="s/Shull:Forrest">Forrest Shull</na></co>
+<co c="0"><na f="s/Silva:Djoni_Antonio_da">Djoni Antonio da Silva</na></co>
+<co c="0"><na f="s/Silva:Gisele_Trentin_da">Gisele Trentin da Silva</na></co>
+<co c="0"><na f="s/Soro:Roberto">Roberto Soro</na></co>
+<co c="0"><na f="s/Souza:La=iacute=s_de_Oliveira">La&#237;s de Oliveira Souza</na></co>
+<co c="0"><na f="s/Souza:Richard_H=_de">Richard H. de Souza</na></co>
+<co c="0"><na f="t/Tautz:Carsten">Carsten Tautz</na></co>
+<co c="0"><na f="t/Thiry:Marcello">Marcello Thiry</na></co>
+<co c="0"><na f="t/Trevisol=Bittencourt:Paulo_C=eacute=sar">Paulo C&#233;sar Trevisol-Bittencourt</na></co>
+<co c="0"><na f="v/Varkoi:Timo">Timo Varkoi</na></co>
+<co c="0"><na f="w/Wagner:Harley">Harley Wagner</na></co>
+<co c="0"><na f="w/Wangenheim:Aldo_von">Aldo von Wangenheim</na></co>
+<co c="0"><na f="w/Weber:S=eacute=rgio">S&#233;rgio Weber</na></co>
+<co c="0"><na f="w/Witt:Talita_A=">Talita A. Witt</na></co>
+<co c="0"><na f="z/Zanella:Andreia">Andreia Zanella</na></co>
+<co c="0"><na f="z/Zannin:Marlene">Marlene Zannin</na></co>
+<co c="0"><na f="z/Zoucas:Alessandra">Alessandra Zoucas</na></co>
+</coauthors>
+</dblpperson>
+

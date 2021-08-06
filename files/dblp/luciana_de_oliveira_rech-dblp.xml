@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<dblpperson name="Luciana Rech" n="19">
+<person key="homepages/30/3196" mdate="2011-09-08">
+<author>Luciana Rech</author>
+<author>Luciana de Oliveira Rech</author>
+</person>
+<r><inproceedings key="conf/icoin/NeiheiserPRBR018" mdate="2018-05-30">
+<author>Ray Neiheiser</author>
+<author>Daniel Presser</author>
+<author>Luciana Rech</author>
+<author>Manuel Bravo</author>
+<author>Lu&#237;s E. T. Rodrigues</author>
+<author>Miguel Correia 0001</author>
+<title>Fireplug: Flexible and robust N-version geo-replication of graph databases.</title>
+<pages>110-115</pages>
+<year>2018</year>
+<booktitle>ICOIN</booktitle>
+<ee>https://doi.org/10.1109/ICOIN.2018.8343095</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICOIN.2018.8343095</ee>
+<crossref>conf/icoin/2018</crossref>
+<url>db/conf/icoin/icoin2018.html#NeiheiserPRBR018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indin/CasagrandeMMMR18" mdate="2018-10-12">
+<author>R. Casagrande</author>
+<author>R. Moraes</author>
+<author>Carlos Montez</author>
+<author>A. S. Morales</author>
+<author>Luciana Rech</author>
+<title>Interference of IEEE 802.11n Networks upon IEEE 802.15.4-Based WBANs: An Experimental Study.</title>
+<pages>388-393</pages>
+<year>2018</year>
+<booktitle>INDIN</booktitle>
+<ee>https://doi.org/10.1109/INDIN.2018.8471974</ee>
+<crossref>conf/indin/2018</crossref>
+<url>db/conf/indin/indin2018.html#CasagrandeMMMR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/MagalhaesRM17" mdate="2017-07-07">
+<author>Alex Magalh&#227;es</author>
+<author>Luciana Rech</author>
+<author>Ricardo Moraes</author>
+<title>A Soft Real-Time Scheduling Engine for Cost Reduction in Freemium Companies.</title>
+<pages>185-192</pages>
+<year>2017</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2017.8</ee>
+<crossref>conf/isorc/2017</crossref>
+<url>db/conf/isorc/isorc2017.html#MagalhaesRM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/FilhoRLCC16" mdate="2017-12-12">
+<author>Paulo R. Pinho Filho</author>
+<author>Luciana de Oliveira Rech</author>
+<author>Lau Cheuk Lung</author>
+<author orcid="0000-0001-7873-5531">Miguel Correia 0001</author>
+<author>L&#225;saro Jonas Camargos</author>
+<title>Priority-Based State Machine Replication with PRaxos.</title>
+<pages>540-547</pages>
+<year>2016</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2016.63</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AINA.2016.63</ee>
+<crossref>conf/aina/2016</crossref>
+<url>db/conf/aina/aina2016.html#FilhoRLCC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/LuizLR14" mdate="2017-05-21">
+<author>Aldelir Fernando Luiz</author>
+<author>Lau Cheuk Lung</author>
+<author>Luciana de Oliveira Rech</author>
+<title>On the Practicality to Implement Byzantine Fault Tolerant Services Based on Tuple Space.</title>
+<pages>1041-1048</pages>
+<year>2014</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2014.126</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AINA.2014.126</ee>
+<crossref>conf/aina/2014</crossref>
+<url>db/conf/aina/aina2014.html#LuizLR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/depcos/SilvaLMR13" mdate="2017-05-25">
+<author>Marcelo Ribeiro Xavier Silva</author>
+<author>Lau Cheuk Lung</author>
+<author>Leandro Quibem Magnabosco</author>
+<author>Luciana de Oliveira Rech</author>
+<title>Vbam - Byzantine Atomic Multicast in LAN Based on Virtualization Technology.</title>
+<pages>365-374</pages>
+<year>2013</year>
+<booktitle>DepCoS-RELCOMEX</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-00945-2_33</ee>
+<crossref>conf/depcos/2013</crossref>
+<url>db/conf/depcos/depcos2013.html#SilvaLMR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/RosaSRML13" mdate="2017-05-21">
+<author>Jhonatan da Rosa</author>
+<author>Murillo T. de Souza</author>
+<author>Luciana de Oliveira Rech</author>
+<author>Leandro Quibem Magnabosco</author>
+<author>Lau Cheuk Lung</author>
+<title>Co-Evolution of Antagonistic Intelligent Agents Using Genetic Algorithms.</title>
+<pages>692-701</pages>
+<year>2013</year>
+<booktitle>ICCS</booktitle>
+<ee>https://doi.org/10.1016/j.procs.2013.05.233</ee>
+<crossref>conf/iccS/2013</crossref>
+<url>db/conf/iccS/iccS2013.html#RosaSRML13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/SilvaLMR13" mdate="2017-05-25">
+<author>Marcelo Ribeiro Xavier Silva</author>
+<author>Lau Cheuk Lung</author>
+<author>Leandro Quibem Magnabosco</author>
+<author>Luciana de Oliveira Rech</author>
+<title>BAMcast - byzantine fault-tolerant consensus service for Atomic Multicast in large-scale networks.</title>
+<pages>324-329</pages>
+<year>2013</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2013.6754967</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCC.2013.6754967</ee>
+<crossref>conf/iscc/2013</crossref>
+<url>db/conf/iscc/iscc2013.html#SilvaLMR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clei/RibeiroCRL12" mdate="2017-05-21">
+<author>Guilherme O. Ribeiro</author>
+<author>Antonio J. R. de Campos</author>
+<author>Luciana de Oliveira Rech</author>
+<author>Lau Cheuk Lung</author>
+<title>Generating timetables of work scales for companies using genetic algorithms.</title>
+<pages>1-10</pages>
+<year>2012</year>
+<crossref>conf/clei/2012</crossref>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI.2012.6427222</ee>
+<url>db/conf/clei/clei2012.html#RibeiroCRL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/FilgueirasLR12" mdate="2017-05-23">
+<author>Tatiana Pereira Filgueiras</author>
+<author>Lau Cheuk Lung</author>
+<author>Luciana de Oliveira Rech</author>
+<title>Providing Real-Time Scheduling for Mobile Agents in the JADE Platform.</title>
+<pages>8-15</pages>
+<year>2012</year>
+<booktitle>ISORC</booktitle>
+<ee>https://doi.org/10.1109/ISORC.2012.10</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISORC.2012.10</ee>
+<crossref>conf/isorc/2012</crossref>
+<url>db/conf/isorc/isorc2012.html#FilgueirasLR12</url>
+</inproceedings>
+</r>
+<r><article key="journals/wias/RechMO11" mdate="2017-06-09">
+<author>Luciana Rech</author>
+<author orcid="0000-0001-7767-0692">Carlos Montez</author>
+<author>R&#244;mulo Silva de Oliveira</author>
+<title>An adaptive approach for the determination of the itinerary of imprecise mobile agents with timing constraints.</title>
+<pages>257-268</pages>
+<year>2011</year>
+<volume>9</volume>
+<journal>Web Intelligence and Agent Systems</journal>
+<number>3</number>
+<ee>https://doi.org/10.3233/WIA-2011-0218</ee>
+<url>db/journals/wias/wias9.html#RechMO11</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/MagalhaesRLO10" mdate="2017-05-23">
+<author>Alex Magalh&#227;es</author>
+<author>Luciana Rech</author>
+<author>Lau Cheuk Lung</author>
+<author>R&#244;mulo Silva de Oliveira</author>
+<title>Using intelligent mobile agents to dynamically determine itineraries with time constraints.</title>
+<pages>1-8</pages>
+<year>2010</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2010.5641215</ee>
+<crossref>conf/etfa/2010</crossref>
+<url>db/conf/etfa/etfa2010.html#MagalhaesRLO10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip12/MagalhaesLR10" mdate="2018-06-26">
+<author>Alex Magalh&#227;es</author>
+<author>Lau Cheuk Lung</author>
+<author>Luciana Rech</author>
+<title>Decentralized Services Orchestration Using Intelligent Mobile Agents with Deadline Restrictions.</title>
+<pages>246-253</pages>
+<year>2010</year>
+<booktitle>AIAI</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-16239-8_33</ee>
+<crossref>conf/ifip12/2010aiai</crossref>
+<url>db/conf/ifip12/aiai2010.html#MagalhaesLR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispa/QueirozLRJ09" mdate="2017-05-21">
+<author>Wilian Queiroz</author>
+<author>Lau Cheuk Lung</author>
+<author>Luciana de Oliveira Rech</author>
+<author>Luiz A. de Paula Lima Jr.</author>
+<title>Semantically Reliable Multicast Based on the (m-k)-Firm Technique.</title>
+<pages>302-308</pages>
+<year>2009</year>
+<booktitle>ISPA</booktitle>
+<ee>https://doi.org/10.1109/ISPA.2009.109</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISPA.2009.109</ee>
+<crossref>conf/ispa/2009</crossref>
+<url>db/conf/ispa/ispa2009.html#QueirozLRJ09</url>
+</inproceedings>
+</r>
+<r><article key="journals/wias/RechMO08" mdate="2017-06-09">
+<author>Luciana Rech</author>
+<author orcid="0000-0001-7767-0692">Carlos Montez</author>
+<author>R&#244;mulo Silva de Oliveira</author>
+<title>Itinerary determination of imprecise mobile agents with firm deadline.</title>
+<pages>421-439</pages>
+<year>2008</year>
+<volume>6</volume>
+<journal>Web Intelligence and Agent Systems</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/WIA-2008-0149</ee>
+<url>db/journals/wias/wias6.html#RechMO08</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/RechMOCG08" mdate="2017-06-02">
+<author>Luciana Rech</author>
+<author orcid="0000-0001-7767-0692">Carlos Montez</author>
+<author>R&#244;mulo Silva de Oliveira</author>
+<author>F&#225;bio Reis Cecin</author>
+<author>Cl&#225;udio Fernando Resin Geyer</author>
+<title>Determination of the itinerary of imprecise mobile agents using an adaptive approach.</title>
+<pages>1244-1251</pages>
+<year>2008</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2008.4638560</ee>
+<crossref>conf/etfa/2008</crossref>
+<url>db/conf/etfa/etfa2008.html#RechMOCG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/RechMO06" mdate="2017-06-02">
+<author>Luciana Rech</author>
+<author orcid="0000-0001-7767-0692">Carlos Montez</author>
+<author>R&#244;mulo Silva de Oliveira</author>
+<title>A Clone-Pair Approach for the Determination of the Itinerary of Imprecise Mobile Agents with Firm Deadlines.</title>
+<pages>9-15</pages>
+<year>2006</year>
+<crossref>conf/etfa/2006</crossref>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2006.355446</ee>
+<url>db/conf/etfa/etfa2006.html#RechMO06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iri/RechMO06" mdate="2017-06-04">
+<author>Luciana Rech</author>
+<author orcid="0000-0001-7767-0692">Carlos Montez</author>
+<author>R&#244;mulo Silva de Oliveira</author>
+<title>A new model for the itinerary definition of real-time imprecise mobile agents.</title>
+<pages>123-126</pages>
+<year>2006</year>
+<crossref>conf/iri/2006</crossref>
+<booktitle>IRI</booktitle>
+<url>db/conf/iri/iri2006.html#RechMO06</url>
+<ee>https://doi.org/10.1109/IRI.2006.252399</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iat/RechOM05" mdate="2017-06-02">
+<author>Luciana Rech</author>
+<author>R&#244;mulo Silva de Oliveira</author>
+<author orcid="0000-0001-7767-0692">Carlos Montez</author>
+<title>Dynamic Determination of the Itinerary of Mobile Agents with Timing Constraints.</title>
+<pages>45-50</pages>
+<year>2005</year>
+<crossref>conf/iat/2005</crossref>
+<booktitle>IAT</booktitle>
+<ee>https://doi.org/10.1109/IAT.2005.67</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IAT.2005.67</ee>
+<url>db/conf/iat/iat2005.html#RechOM05</url>
+</inproceedings>
+</r>
+<coauthors n="27" nc="1">
+<co c="0"><na f="b/Bravo:Manuel">Manuel Bravo</na></co>
+<co c="0" n="2"><na f="c/Camargos:L=aacute=saro_J=">L&#225;saro J. Camargos</na><na>L&#225;saro Jonas Camargos</na></co>
+<co c="0"><na f="c/Campos:Antonio_J=_R=_de">Antonio J. R. de Campos</na></co>
+<co c="0"><na f="c/Casagrande:R=">R. Casagrande</na></co>
+<co c="0"><na f="c/Cecin:F=aacute=bio_Reis">F&#225;bio Reis Cecin</na></co>
+<co c="0"><na f="c/Correia_0001:Miguel">Miguel Correia 0001</na></co>
+<co c="0"><na f="f/Filgueiras:Tatiana_Pereira">Tatiana Pereira Filgueiras</na></co>
+<co c="0"><na f="f/Filho:Paulo_R=_Pinho">Paulo R. Pinho Filho</na></co>
+<co c="0"><na f="g/Geyer:Cl=aacute=udio_Fernando_Resin">Cl&#225;udio Fernando Resin Geyer</na></co>
+<co c="0"><na f="l/Lima_Jr=:Luiz_A=_de_Paula">Luiz A. de Paula Lima Jr.</na></co>
+<co c="0"><na f="l/Luiz:Aldelir_Fernando">Aldelir Fernando Luiz</na></co>
+<co c="0"><na f="l/Lung:Lau_Cheuk">Lau Cheuk Lung</na></co>
+<co c="0"><na f="m/Magalh=atilde=es:Alex">Alex Magalh&#227;es</na></co>
+<co c="0"><na f="m/Magnabosco:Leandro_Quibem">Leandro Quibem Magnabosco</na></co>
+<co c="0"><na f="m/Montez:Carlos">Carlos Montez</na></co>
+<co c="0"><na f="m/Moraes:R=">R. Moraes</na></co>
+<co c="0"><na f="m/Moraes:Ricardo">Ricardo Moraes</na></co>
+<co c="0"><na f="m/Morales:A=_S=">A. S. Morales</na></co>
+<co c="0"><na f="n/Neiheiser:Ray">Ray Neiheiser</na></co>
+<co c="0"><na f="o/Oliveira:R=ocirc=mulo_Silva_de">R&#244;mulo Silva de Oliveira</na></co>
+<co c="0"><na f="p/Presser:Daniel">Daniel Presser</na></co>
+<co c="0"><na f="q/Queiroz:Wilian">Wilian Queiroz</na></co>
+<co c="0"><na f="r/Ribeiro:Guilherme_O=">Guilherme O. Ribeiro</na></co>
+<co c="0"><na f="r/Rodrigues:Lu=iacute=s_E=_T=">Lu&#237;s E. T. Rodrigues</na></co>
+<co c="0"><na f="r/Rosa:Jhonatan_da">Jhonatan da Rosa</na></co>
+<co c="0"><na f="s/Silva:Marcelo_Ribeiro_Xavier">Marcelo Ribeiro Xavier Silva</na></co>
+<co c="0"><na f="s/Souza:Murillo_T=_de">Murillo T. de Souza</na></co>
+</coauthors>
+</dblpperson>
+

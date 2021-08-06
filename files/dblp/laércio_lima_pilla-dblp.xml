@@ -1,0 +1,742 @@
+<?xml version="1.0"?>
+<dblpperson name="La&#233;rcio Lima Pilla" n="41">
+<person key="homepages/75/2582" mdate="2009-06-09">
+<author>La&#233;rcio Lima Pilla</author>
+</person>
+<r><article key="journals/dke/FurtadoPB18" mdate="2018-06-28">
+<author>Andre Salvaro Furtado</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Vania Bogorny</author>
+<title>A branch and bound strategy for Fast Trajectory Similarity Measuring.</title>
+<pages>16-31</pages>
+<year>2018</year>
+<volume>115</volume>
+<journal>Data Knowl. Eng.</journal>
+<ee>https://doi.org/10.1016/j.datak.2018.01.003</ee>
+<url>db/journals/dke/dke115.html#FurtadoPB18</url>
+</article>
+</r>
+<r><article key="journals/fgcs/RighiGRCAPN18" mdate="2017-12-28">
+<author orcid="0000-0001-5080-7660">Rodrigo da Rosa Righi</author>
+<author>Roberto de Quadros Gomes</author>
+<author>Vinicius Facco Rodrigues</author>
+<author>Cristiano Andr&#233; da Costa</author>
+<author>Ant&#244;nio Marcos Alberti</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<title>MigPF: Towards on self-organizing process rescheduling of Bulk-Synchronous Parallel applications.</title>
+<pages>272-286</pages>
+<year>2018</year>
+<volume>78</volume>
+<journal>Future Generation Comp. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2016.05.004</ee>
+<url>db/journals/fgcs/fgcs78.html#RighiGRCAPN18</url>
+</article>
+</r>
+<r><inproceedings key="conf/pdp/CruzDSNPK18" mdate="2018-07-03">
+<author>Eduardo H. M. Cruz</author>
+<author>Matthias Diener</author>
+<author>Matheus da Silva Serpa</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Israel Koren</author>
+<title>Improving Communication and Load Balancing with Thread Mapping in Manycore Systems.</title>
+<pages>93-100</pages>
+<year>2018</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP2018.2018.00021</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PDP2018.2018.00021</ee>
+<crossref>conf/pdp/2018</crossref>
+<url>db/conf/pdp/pdp2018.html#CruzDSNPK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpca/OliveiraPHFFLCN17" mdate="2017-09-18">
+<author>Daniel Alfonso Gon&#231;alves de Oliveira</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Mauricio Hanzich</author>
+<author>Vinicius Fratin</author>
+<author>Fernando Fernandes</author>
+<author>Caio B. Lunardi</author>
+<author>Jos&#233; Mar&#237;a Cela</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>Luigi Carro</author>
+<author>Paolo Rech</author>
+<title>Radiation-Induced Error Criticality in Modern HPC Parallel Accelerators.</title>
+<pages>577-588</pages>
+<year>2017</year>
+<booktitle>HPCA</booktitle>
+<ee>https://doi.org/10.1109/HPCA.2017.41</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HPCA.2017.41</ee>
+<crossref>conf/hpca/2017</crossref>
+<url>db/conf/hpca/hpca2017.html#OliveiraPHFFLCN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispd/FontanaNLGAPG17" mdate="2017-03-14">
+<author>Tiago Fontana</author>
+<author>Renan Netto</author>
+<author>Vinicius S. Livramento</author>
+<author>Chrystian Guth</author>
+<author>Sheiny Almeida</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Jos&#233; Lu&#237;s G&#252;ntzel</author>
+<title>How Game Engines Can Inspire EDA Tools Development: A use case for an open-source physical design library.</title>
+<pages>25-31</pages>
+<year>2017</year>
+<booktitle>ISPD</booktitle>
+<ee>http://doi.acm.org/10.1145/3036669.3038248</ee>
+<crossref>conf/ispd/2017</crossref>
+<url>db/conf/ispd/ispd2017.html#FontanaNLGAPG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/FontanaANLGPG17" mdate="2017-11-06">
+<author>Tiago Augusto Fontana</author>
+<author>Sheiny Almeida</author>
+<author>Renan Netto</author>
+<author>Vinicius S. Livramento</author>
+<author>Chrystian Guth</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Jos&#233; Lu&#237;s G&#252;ntzel</author>
+<title>Exploiting cache locality to speedup register clustering.</title>
+<pages>191-197</pages>
+<year>2017</year>
+<booktitle>SBCCI</booktitle>
+<ee>http://doi.acm.org/10.1145/3109984.3110005</ee>
+<crossref>conf/sbcci/2017</crossref>
+<url>db/conf/sbcci/sbcci2017.html#FontanaANLGPG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sc/OliveiraPDBQKNR17" mdate="2017-11-09">
+<author>Daniel A. G. de Oliveira</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Nathan DeBardeleben</author>
+<author>Sean Blanchard</author>
+<author>Heather Quinn</author>
+<author>Israel Koren</author>
+<author>Philippe O. A. Navaux</author>
+<author>Paolo Rech</author>
+<title>Experimental and analytical study of Xeon Phi reliability.</title>
+<pages>28:1-28:12</pages>
+<year>2017</year>
+<booktitle>SC</booktitle>
+<ee>http://doi.acm.org/10.1145/3126908.3126960</ee>
+<crossref>conf/sc/2017</crossref>
+<url>db/conf/sc/sc2017.html#OliveiraPDBQKNR17</url>
+</inproceedings>
+</r>
+<r><article key="journals/pc/CruzDAPN16" mdate="2017-06-08">
+<author>Eduardo Henrique Molina da Cruz</author>
+<author orcid="0000-0002-9064-7806">Matthias Diener</author>
+<author>Marco Antonio Zanata Alves</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Philippe O. A. Navaux</author>
+<title>LAPT: A locality-aware page table for thread and data mapping.</title>
+<pages>59-71</pages>
+<year>2016</year>
+<volume>54</volume>
+<journal>Parallel Computing</journal>
+<ee>https://doi.org/10.1016/j.parco.2015.12.001</ee>
+<url>db/journals/pc/pc54.html#CruzDAPN16</url>
+</article>
+</r>
+<r><article key="journals/taco/CruzDPN16" mdate="2017-01-03">
+<author>Eduardo H. M. Cruz</author>
+<author>Matthias Diener</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Philippe O. A. Navaux</author>
+<title>Hardware-Assisted Thread and Data Mapping in Hierarchical Multicore Architectures.</title>
+<pages>28:1-28:28</pages>
+<year>2016</year>
+<volume>13</volume>
+<journal>TACO</journal>
+<number>3</number>
+<ee>http://doi.acm.org/10.1145/2975587</ee>
+<url>db/journals/taco/taco13.html#CruzDPN16</url>
+</article>
+</r>
+<r><article key="journals/tc/OliveiraPSR16" mdate="2017-05-20">
+<author>Daniel Alfonso Gon&#231;alves de Oliveira</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Thiago Santini</author>
+<author>Paolo Rech</author>
+<title>Evaluation and Mitigation of Radiation-Induced Soft Errors in Graphics Processing Units.</title>
+<pages>791-804</pages>
+<year>2016</year>
+<volume>65</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TC.2015.2444855</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2015.2444855</ee>
+<url>db/journals/tc/tc65.html#OliveiraPSR16</url>
+</article>
+</r>
+<r><inproceedings key="conf/carla/PadoinPCNM16" mdate="2017-05-17">
+<author>Edson L. Padoin</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>M&#225;rcio Bastos Castro</author>
+<author>Philippe O. A. Navaux</author>
+<author>Jean-Fran&#231;ois M&#233;haut</author>
+<title>Exploration of Load Balancing Thresholds to Save Energy on Iterative Applications.</title>
+<pages>76-88</pages>
+<year>2016</year>
+<booktitle>CARLA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-57972-6_6</ee>
+<crossref>conf/carla/2016</crossref>
+<url>db/conf/carla/carla2016.html#PadoinPCNM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/CruzDPN16" mdate="2017-05-24">
+<author>Eduardo H. M. Cruz</author>
+<author>Matthias Diener</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Philippe O. A. Navaux</author>
+<title>A Sharing-Aware Memory Management Unit for Online Mapping in Multi-core Architectures.</title>
+<pages>490-501</pages>
+<year>2016</year>
+<booktitle>Euro-Par</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-43659-3_36</ee>
+<crossref>conf/europar/2016</crossref>
+<url>db/conf/europar/europar2016.html#CruzDPN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/NettoGLCPG16" mdate="2017-05-23">
+<author>Renan Netto</author>
+<author>Chrystian Guth</author>
+<author>Vinicius S. Livramento</author>
+<author>M&#225;rcio Castro</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Jos&#233; Lu&#237;s G&#252;ntzel</author>
+<title>Exploiting parallelism to speed up circuit legalization.</title>
+<pages>624-627</pages>
+<year>2016</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2016.7841279</ee>
+<crossref>conf/icecsys/2016</crossref>
+<url>db/conf/icecsys/icecsys2016.html#NettoGLCPG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/MouraTPPCF16" mdate="2017-06-15">
+<author>Rodrigo C. De Moura</author>
+<author>Giovane O. Torres</author>
+<author>Maur&#237;cio L. Pilla</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Amarildo T. da Costa</author>
+<author orcid="0000-0002-8980-6208">Felipe Maia Galv&#227;o Fran&#231;a</author>
+<title>Value Reuse Potential in ARM Architectures.</title>
+<pages>174-181</pages>
+<year>2016</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2016.30</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2016.30</ee>
+<crossref>conf/sbac-pad/2016</crossref>
+<url>db/conf/sbac-pad/sbac-pad2016.html#MouraTPPCF16</url>
+</inproceedings>
+</r>
+<r><article key="journals/iet-cdt/PadoinPCBNM15" mdate="2017-06-06">
+<author>Edson L. Padoin</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author orcid="0000-0002-9992-8540">M&#225;rcio Bastos Castro</author>
+<author>Francieli Zanon Boito</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>Jean-Fran&#231;ois M&#233;haut</author>
+<title>Performance/energy trade-off in scientific computing: the case of ARM big.LITTLE and Intel Sandy Bridge.</title>
+<pages>27-35</pages>
+<year>2015</year>
+<volume>9</volume>
+<journal>IET Computers &#38; Digital Techniques</journal>
+<number>1</number>
+<ee>https://doi.org/10.1049/iet-cdt.2014.0074</ee>
+<url>db/journals/iet-cdt/iet-cdt9.html#PadoinPCBNM15</url>
+</article>
+</r>
+<r><article key="journals/pe/DienerCPDN15" mdate="2017-06-08">
+<author orcid="0000-0002-9064-7806">Matthias Diener</author>
+<author>Eduardo Henrique Molina da Cruz</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Fabrice Dupros</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<title>Characterizing communication and page usage of parallel applications for thread and data mapping.</title>
+<pages>18-36</pages>
+<year>2015</year>
+<volume>88</volume>
+<journal>Perform. Eval.</journal>
+<ee>https://doi.org/10.1016/j.peva.2015.03.001</ee>
+<url>db/journals/pe/pe88.html#DienerCPDN15</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpdc/OliveiraPLCNR15" mdate="2015-06-30">
+<author>Daniel Alfonso Gon&#231;alves de Oliveira</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Caio B. Lunardi</author>
+<author>Luigi Carro</author>
+<author>Philippe O. A. Navaux</author>
+<author>Paolo Rech</author>
+<title>The Path to Exascale: Code Optimizations and Hardening Solutions Reliability.</title>
+<pages>55-62</pages>
+<year>2015</year>
+<booktitle>FTXS@HPDC</booktitle>
+<ee>http://doi.acm.org/10.1145/2751504.2751510</ee>
+<crossref>conf/hpdc/2015ftxs</crossref>
+<url>db/conf/hpdc/ftxs2015.html#OliveiraPLCNR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/CruzDPN15" mdate="2017-05-25">
+<author>Eduardo Henrique Molina da Cruz</author>
+<author>Matthias Diener</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<title>An Efficient Algorithm for Communication-Based Task Mapping.</title>
+<pages>207-214</pages>
+<year>2015</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP.2015.25</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PDP.2015.25</ee>
+<crossref>conf/pdp/2015</crossref>
+<url>db/conf/pdp/pdp2015.html#CruzDPN15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wetice/InacioPD15" mdate="2017-06-05">
+<author orcid="0000-0003-3424-8269">Eduardo Camilo Inacio</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Mario Antonio Ribeiro Dantas</author>
+<title>Understanding the Effect of Multiple Factors on a Parallel File System's Performance.</title>
+<pages>90-92</pages>
+<year>2015</year>
+<booktitle>WETICE</booktitle>
+<ee>https://doi.org/10.1109/WETICE.2015.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WETICE.2015.21</ee>
+<crossref>conf/wetice/2015w</crossref>
+<url>db/conf/wetice/wetice2015w.html#InacioPD15</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/hal/Pilla14" mdate="2017-08-21">
+<author>La&#233;rcio Lima Pilla</author>
+<title>Topology-Aware Load Balancing for Performance Portability over Parallel High Performance Systems. (&#201;quilibrage de charge prenant en compte la topologie des plates-formes de calcul parall&#232;le pour la portabilit&#233; des performances).</title>
+<year>2014</year>
+<school>University of Grenoble, France</school>
+<ee>https://tel.archives-ouvertes.fr/tel-00981136</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_UFRGS:oai:www.lume.ufrgs.br:10183/94763</ee>
+</phdthesis>
+</r>
+<r><article key="journals/fgcs/PillaRCBGNM14" mdate="2017-05-27">
+<author>La&#233;rcio Lima Pilla</author>
+<author>Christiane Pousa Ribeiro</author>
+<author>Pierre Coucheney</author>
+<author>Fran&#231;ois Broquedis</author>
+<author>Bruno Gaujal</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>Jean-Fran&#231;ois M&#233;haut</author>
+<title>A topology-aware load balancing algorithm for clustered hierarchical multi-core machines.</title>
+<pages>191-201</pages>
+<year>2014</year>
+<volume>30</volume>
+<journal>Future Generation Comp. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2013.06.023</ee>
+<url>db/journals/fgcs/fgcs30.html#PillaRCBGNM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/dft/OliveiraRPNC14" mdate="2017-05-17">
+<author>Daniel A. G. de Oliveira</author>
+<author>Paolo Rech</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>Luigi Carro</author>
+<title>GPGPUs ECC efficiency and efficacy.</title>
+<pages>209-215</pages>
+<year>2014</year>
+<booktitle>DFT</booktitle>
+<ee>https://doi.org/10.1109/DFT.2014.6962085</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DFT.2014.6962085</ee>
+<crossref>conf/dft/2014</crossref>
+<url>db/conf/dft/dft2014.html#OliveiraRPNC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/RechPNC14" mdate="2017-05-21">
+<author>Paolo Rech</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>Luigi Carro</author>
+<title>Impact of GPUs Parallelism Management on Safety-Critical and HPC Applications Reliability.</title>
+<pages>455-466</pages>
+<year>2014</year>
+<booktitle>DSN</booktitle>
+<ee>https://doi.org/10.1109/DSN.2014.49</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DSN.2014.49</ee>
+<crossref>conf/dsn/2014</crossref>
+<url>db/conf/dsn/dsn2014.html#RechPNC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/OliveiraLPRNC14" mdate="2017-05-21">
+<author>Daniel A. G. de Oliveira</author>
+<author>Caio B. Lunardi</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Paolo Rech</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>Luigi Carro</author>
+<title>Radiation Sensitivity of High Performance Computing Applications on Kepler-Based GPGPUs.</title>
+<pages>732-737</pages>
+<year>2014</year>
+<booktitle>DSN</booktitle>
+<ee>https://doi.org/10.1109/DSN.2014.75</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DSN.2014.75</ee>
+<crossref>conf/dsn/2014</crossref>
+<url>db/conf/dsn/dsn2014.html#OliveiraLPRNC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hipc/PadoinCPNM14" mdate="2017-05-26">
+<author>Edson L. Padoin</author>
+<author>M&#225;rcio Bastos Castro</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>Jean-Fran&#231;ois M&#233;haut</author>
+<title>Saving energy by exploiting residual imbalances on iterative applications.</title>
+<pages>1-10</pages>
+<year>2014</year>
+<booktitle>HiPC</booktitle>
+<ee>https://doi.org/10.1109/HiPC.2014.7116895</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/HiPC.2014.7116895</ee>
+<crossref>conf/hipc/2014</crossref>
+<url>db/conf/hipc/hipc2014.html#PadoinCPNM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/TesserPDNMM14" mdate="2017-05-25">
+<author>Rafael Keller Tesser</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Fabrice Dupros</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>Jean-Fran&#231;ois M&#233;haut</author>
+<author>Celso L. Mendes</author>
+<title>Improving the Performance of Seismic Wave Simulations with Dynamic Load Balancing.</title>
+<pages>196-203</pages>
+<year>2014</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP.2014.37</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PDP.2014.37</ee>
+<crossref>conf/pdp/2014</crossref>
+<url>db/conf/pdp/pdp2014.html#TesserPDNMM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/CruzDAPN14" mdate="2017-05-17">
+<author>Eduardo Henrique Molina da Cruz</author>
+<author>Matthias Diener</author>
+<author>Marco Antonio Zanata Alves</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<title>Optimizing Memory Locality Using a Locality-Aware Page Table.</title>
+<pages>198-205</pages>
+<year>2014</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2014.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2014.22</ee>
+<crossref>conf/sbac-pad/2014</crossref>
+<url>db/conf/sbac-pad/sbac-pad2014.html#CruzDAPN14</url>
+</inproceedings>
+</r>
+<r><article key="journals/cluster/PadoinPBKVN13" mdate="2017-05-20">
+<author>Edson L. Padoin</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Francieli Zanon Boito</author>
+<author>Rodrigo Virote Kassick</author>
+<author>Pedro Velho</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<title>Evaluating application performance and energy consumption on hybrid CPU+GPU architecture.</title>
+<pages>511-525</pages>
+<year>2013</year>
+<volume>16</volume>
+<journal>Cluster Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10586-012-0219-6</ee>
+<url>db/journals/cluster/cluster16.html#PadoinPBKVN13</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpdc/RechPSNC13" mdate="2017-06-02">
+<author>Paolo Rech</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author orcid="0000-0002-9077-9921">Francesco Silvestri 0001</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author orcid="0000-0002-7402-4780">Luigi Carro</author>
+<title>Neutron sensitivity and software hardening strategies for matrix multiplication and FFT on graphics processing units.</title>
+<pages>13-20</pages>
+<year>2013</year>
+<booktitle>FTXS</booktitle>
+<ee>http://doi.acm.org/10.1145/2465813.2465816</ee>
+<crossref>conf/hpdc/2013ftxs</crossref>
+<url>db/conf/hpdc/ftxs2013.html#RechPSNC13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijitcc/OsthoffBKPNSPGMDW12" mdate="2017-05-18">
+<author>Carla Osthoff</author>
+<author>Francieli Zanon Boito</author>
+<author>Rodrigo Virote Kassick</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>Claudio Schepke</author>
+<author>Jairo Panetta</author>
+<author>Pablo Javier Grunmann</author>
+<author>Nicolas Maillard</author>
+<author>Pedro L. Silva Dias</author>
+<author>Robert L. Walko</author>
+<title>Atmospheric models hybrid OpenMP/MPI implementation multicore cluster evaluation.</title>
+<pages>212-233</pages>
+<year>2012</year>
+<volume>2</volume>
+<journal>IJITCC</journal>
+<number>3</number>
+<ee>https://doi.org/10.1504/IJITCC.2012.050411</ee>
+<url>db/journals/ijitcc/ijitcc2.html#OsthoffBKPNSPGMDW12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icpads/PillaNRCBGM12" mdate="2017-05-26">
+<author>La&#233;rcio Lima Pilla</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>Christiane Pousa Ribeiro</author>
+<author>Pierre Coucheney</author>
+<author>Fran&#231;ois Broquedis</author>
+<author>Bruno Gaujal</author>
+<author>Jean-Fran&#231;ois M&#233;haut</author>
+<title>Asymptotically Optimal Load Balancing for Hierarchical Multi-Core Systems.</title>
+<pages>236-243</pages>
+<year>2012</year>
+<booktitle>ICPADS</booktitle>
+<ee>https://doi.org/10.1109/ICPADS.2012.41</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPADS.2012.41</ee>
+<crossref>conf/icpads/2012</crossref>
+<url>db/conf/icpads/icpads2012.html#PillaNRCBGM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpp/PillaRCMBNBMK12" mdate="2017-06-04">
+<author>La&#233;rcio Lima Pilla</author>
+<author>Christiane Pousa Ribeiro</author>
+<author orcid="0000-0003-4971-7355">Daniel Cordeiro</author>
+<author>Chao Mei</author>
+<author>Abhinav Bhatele</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>Fran&#231;ois Broquedis</author>
+<author>Jean-Fran&#231;ois M&#233;haut</author>
+<author>Laxmikant V. Kal&#233;</author>
+<title>A Hierarchical Approach for Load Balancing on Parallel Multi-core Systems.</title>
+<pages>118-127</pages>
+<year>2012</year>
+<booktitle>ICPP</booktitle>
+<ee>https://doi.org/10.1109/ICPP.2012.9</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPP.2012.9</ee>
+<crossref>conf/icpp/2012</crossref>
+<url>db/conf/icpp/icpp2012.html#PillaRCMBNBMK12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpads/RighiGANP11" mdate="2017-05-26">
+<author>Rodrigo da Rosa Righi</author>
+<author>Lucas Graebin</author>
+<author>Rafael Bohrer &#193;vila</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>La&#233;rcio Lima Pilla</author>
+<title>Combining Multiple Metrics to Control BSP Process Rescheduling in Response to Resource and Application Dynamics.</title>
+<pages>72-79</pages>
+<year>2011</year>
+<booktitle>ICPADS</booktitle>
+<ee>https://doi.org/10.1109/ICPADS.2011.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPADS.2011.44</ee>
+<crossref>conf/icpads/2011</crossref>
+<url>db/conf/icpads/icpads2011.html#RighiGANP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispa/OsthoffGBKPNSPMDW11" mdate="2017-05-21">
+<author>Carla Osthoff</author>
+<author>Pablo Javier Grunmann</author>
+<author>Francieli Zanon Boito</author>
+<author>Rodrigo Kassick</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>Claudio Schepke</author>
+<author>Jairo Panetta</author>
+<author>Nicolas Maillard</author>
+<author>Pedro L. Silva Dias</author>
+<author>Robert L. Walko</author>
+<title>Improving Performance on Atmospheric Models through a Hybrid OpenMP/MPI Implementation.</title>
+<pages>69-74</pages>
+<year>2011</year>
+<booktitle>ISPA</booktitle>
+<ee>https://doi.org/10.1109/ISPA.2011.56</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISPA.2011.56</ee>
+<crossref>conf/ispa/2011</crossref>
+<url>db/conf/ispa/ispa2011.html#OsthoffGBKPNSPMDW11</url>
+</inproceedings>
+</r>
+<r><article key="journals/ppl/RighiPMCN10" mdate="2017-05-17">
+<author>Rodrigo da Rosa Righi</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Nicolas Maillard</author>
+<author>Alexandre Carissimi</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<title>Observing the Impact of Multiple Metrics and Runtime Adaptations on BSP Process Rescheduling.</title>
+<pages>123-144</pages>
+<year>2010</year>
+<volume>20</volume>
+<journal>Parallel Processing Letters</journal>
+<number>2</number>
+<ee>https://doi.org/10.1142/S0129626410000107</ee>
+<url>db/journals/ppl/ppl20.html#RighiPMCN10</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscc/RighiPCNH10" mdate="2017-05-25">
+<author>Rodrigo da Rosa Righi</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Alexandre Carissimi</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>Hans-Ulrich Heiss</author>
+<title>Supporting performance and adaptivity on BSP process rescheduling.</title>
+<pages>701-703</pages>
+<year>2010</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2010.5546532</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCC.2010.5546532</ee>
+<crossref>conf/iscc/2010</crossref>
+<url>db/conf/iscc/iscc2010.html#RighiPCNH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vecpar/RighiPCNH10" mdate="2017-05-26">
+<author>Rodrigo da Rosa Righi</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Alexandre Carissimi</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>Hans-Ulrich Heiss</author>
+<title>Applying Process Migration on a BSP-Based LU Decomposition Application.</title>
+<pages>314-326</pages>
+<year>2010</year>
+<booktitle>VECPAR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-19328-6_30</ee>
+<crossref>conf/vecpar/2010</crossref>
+<url>db/conf/vecpar/vecpar2010.html#RighiPCNH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpcc/RighiPCNH09" mdate="2017-05-23">
+<author>Rodrigo da Rosa Righi</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Alexandre Carissimi</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>Hans-Ulrich Heiss</author>
+<title>MigBSP: A Novel Migration Model for Bulk-Synchronous Parallel Processes Rescheduling.</title>
+<pages>585-590</pages>
+<year>2009</year>
+<booktitle>HPCC</booktitle>
+<ee>https://doi.org/10.1109/HPCC.2009.54</ee>
+<crossref>conf/hpcc/2009</crossref>
+<url>db/conf/hpcc/hpcc2009.html#RighiPCNH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccS/RighiPCNH09" mdate="2018-06-26">
+<author>Rodrigo da Rosa Righi</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Alexandre Carissimi</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<author>Hans-Ulrich Heiss</author>
+<title>Applying Processes Rescheduling over Irregular BSP Application.</title>
+<pages>213-223</pages>
+<year>2009</year>
+<booktitle>ICCS (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-01970-8_22</ee>
+<crossref>conf/iccS/2009-1</crossref>
+<url>db/conf/iccS/iccS2009-1.html#RighiPCNH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cse/RighiPCMN08" mdate="2017-05-24">
+<author>Rodrigo da Rosa Righi</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Alexandre Carissimi</author>
+<author>Nicolas Maillard</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<title>ICE: Managing Multiple Clusters Using Web Services.</title>
+<pages>64-71</pages>
+<year>2008</year>
+<booktitle>CSE</booktitle>
+<ee>https://doi.org/10.1109/CSE.2008.61</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSE.2008.61</ee>
+<crossref>conf/cse/2008</crossref>
+<url>db/conf/cse/cse2008.html#RighiPCMN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbac-pad/RighiPCN08" mdate="2017-05-17">
+<author>Rodrigo da Rosa Righi</author>
+<author>La&#233;rcio Lima Pilla</author>
+<author>Alexandre Carissimi</author>
+<author>Philippe Olivier Alexandre Navaux</author>
+<title>Controlling Processes Reassignment in BSP Applications.</title>
+<pages>37-44</pages>
+<year>2008</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/SBAC-PAD.2008.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBAC-PAD.2008.16</ee>
+<crossref>conf/sbac-pad/2008</crossref>
+<url>db/conf/sbac-pad/sbac-pad2008.html#RighiPCN08</url>
+</inproceedings>
+</r>
+<coauthors n="67" nc="2">
+<co c="0"><na f="a/Alberti:Ant=ocirc=nio_Marcos">Ant&#244;nio Marcos Alberti</na></co>
+<co c="0"><na f="a/Almeida:Sheiny">Sheiny Almeida</na></co>
+<co c="0"><na f="a/Alves:Marco_Antonio_Zanata">Marco Antonio Zanata Alves</na></co>
+<co c="0"><na f="=/=Aacute=vila:Rafael_Bohrer">Rafael Bohrer &#193;vila</na></co>
+<co c="0"><na f="b/Bhatele:Abhinav">Abhinav Bhatele</na></co>
+<co c="0"><na f="b/Blanchard:Sean">Sean Blanchard</na></co>
+<co c="1"><na f="b/Bogorny:Vania">Vania Bogorny</na></co>
+<co c="0"><na f="b/Boito:Francieli_Zanon">Francieli Zanon Boito</na></co>
+<co c="0"><na f="b/Broquedis:Fran=ccedil=ois">Fran&#231;ois Broquedis</na></co>
+<co c="0"><na f="c/Carissimi:Alexandre">Alexandre Carissimi</na></co>
+<co c="0"><na f="c/Carro:Luigi">Luigi Carro</na></co>
+<co c="0" n="2"><na f="c/Castro:M=aacute=rcio_Bastos">M&#225;rcio Bastos Castro</na><na>M&#225;rcio Castro</na></co>
+<co c="0"><na f="c/Cela:Jos=eacute=_Mar=iacute=a">Jos&#233; Mar&#237;a Cela</na></co>
+<co c="0"><na f="c/Cordeiro:Daniel">Daniel Cordeiro</na></co>
+<co c="0"><na f="c/Costa:Amarildo_T=_da">Amarildo T. da Costa</na></co>
+<co c="0"><na f="c/Costa:Cristiano_Andr=eacute=_da">Cristiano Andr&#233; da Costa</na></co>
+<co c="0"><na f="c/Coucheney:Pierre">Pierre Coucheney</na></co>
+<co c="0" n="2"><na f="c/Cruz:Eduardo_Henrique_Molina_da">Eduardo Henrique Molina da Cruz</na><na>Eduardo H. M. Cruz</na></co>
+<co c="0" n="2"><na f="d/Dantas:Mario_A=_R=">Mario A. R. Dantas</na><na>Mario Antonio Ribeiro Dantas</na></co>
+<co c="0"><na f="d/DeBardeleben:Nathan">Nathan DeBardeleben</na></co>
+<co c="0"><na f="d/Dias:Pedro_L=_Silva">Pedro L. Silva Dias</na></co>
+<co c="0"><na f="d/Diener:Matthias">Matthias Diener</na></co>
+<co c="0"><na f="d/Dupros:Fabrice">Fabrice Dupros</na></co>
+<co c="0"><na f="f/Fernandes:Fernando">Fernando Fernandes</na></co>
+<co c="0" n="2"><na f="f/Fontana:Tiago">Tiago Fontana</na><na>Tiago Augusto Fontana</na></co>
+<co c="0" n="2"><na f="f/Fran=ccedil=a:Felipe_M=_G=">Felipe M. G. Fran&#231;a</na><na>Felipe Maia Galv&#227;o Fran&#231;a</na></co>
+<co c="0"><na f="f/Fratin:Vinicius">Vinicius Fratin</na></co>
+<co c="1"><na f="f/Furtado:Andre_Salvaro">Andre Salvaro Furtado</na></co>
+<co c="0"><na f="g/Gaujal:Bruno">Bruno Gaujal</na></co>
+<co c="0"><na f="g/Gomes:Roberto_de_Quadros">Roberto de Quadros Gomes</na></co>
+<co c="0"><na f="g/Graebin:Lucas">Lucas Graebin</na></co>
+<co c="0"><na f="g/Grunmann:Pablo_Javier">Pablo Javier Grunmann</na></co>
+<co c="0" n="2"><na f="g/G=uuml=ntzel:Jos=eacute=_Lu=iacute=s_Almada">Jos&#233; Lu&#237;s Almada G&#252;ntzel</na><na>Jos&#233; Lu&#237;s G&#252;ntzel</na></co>
+<co c="0"><na f="g/Guth:Chrystian">Chrystian Guth</na></co>
+<co c="0"><na f="h/Hanzich:Mauricio">Mauricio Hanzich</na></co>
+<co c="0" n="2"><na f="h/Hei=szlig=:Hans=Ulrich">Hans-Ulrich Hei&#223;</na><na>Hans-Ulrich Heiss</na></co>
+<co c="0"><na f="i/Inacio:Eduardo_Camilo">Eduardo Camilo Inacio</na></co>
+<co c="0"><na f="k/Kal=eacute=:Laxmikant_V=">Laxmikant V. Kal&#233;</na></co>
+<co c="0" n="2"><na f="k/Kassick:Rodrigo">Rodrigo Kassick</na><na>Rodrigo Virote Kassick</na></co>
+<co c="0"><na f="k/Koren:Israel">Israel Koren</na></co>
+<co c="0"><na f="l/Livramento:Vinicius_S=">Vinicius S. Livramento</na></co>
+<co c="0"><na f="l/Lunardi:Caio_B=">Caio B. Lunardi</na></co>
+<co c="0"><na f="m/Maillard:Nicolas">Nicolas Maillard</na></co>
+<co c="0"><na f="m/M=eacute=haut:Jean=Fran=ccedil=ois">Jean-Fran&#231;ois M&#233;haut</na></co>
+<co c="0"><na f="m/Mei:Chao">Chao Mei</na></co>
+<co c="0"><na f="m/Mendes:Celso_L=">Celso L. Mendes</na></co>
+<co c="0"><na f="m/Moura:Rodrigo_C=_De">Rodrigo C. De Moura</na></co>
+<co c="0" n="2"><na f="n/Navaux:Philippe_Olivier_Alexandre">Philippe Olivier Alexandre Navaux</na><na>Philippe O. A. Navaux</na></co>
+<co c="0"><na f="n/Netto:Renan">Renan Netto</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Daniel_A=_G=_de">Daniel A. G. de Oliveira</na><na>Daniel Alfonso Gon&#231;alves de Oliveira</na></co>
+<co c="0"><na f="o/Osthoff:Carla">Carla Osthoff</na></co>
+<co c="0"><na f="p/Padoin:Edson_L=">Edson L. Padoin</na></co>
+<co c="0"><na f="p/Panetta:Jairo">Jairo Panetta</na></co>
+<co c="0"><na f="p/Pilla:Maur=iacute=cio_L=">Maur&#237;cio L. Pilla</na></co>
+<co c="0" n="2"><na f="q/Quinn:Heather_M=">Heather M. Quinn</na><na>Heather Quinn</na></co>
+<co c="0"><na f="r/Rech:Paolo">Paolo Rech</na></co>
+<co c="0"><na f="r/Ribeiro:Christiane_Pousa">Christiane Pousa Ribeiro</na></co>
+<co c="0"><na f="r/Righi:Rodrigo_da_Rosa">Rodrigo da Rosa Righi</na></co>
+<co c="0"><na f="r/Rodrigues:Vinicius_Facco">Vinicius Facco Rodrigues</na></co>
+<co c="0"><na f="s/Santini:Thiago">Thiago Santini</na></co>
+<co c="0"><na f="s/Schepke:Claudio">Claudio Schepke</na></co>
+<co c="0"><na f="s/Serpa:Matheus_da_Silva">Matheus da Silva Serpa</na></co>
+<co c="0"><na f="s/Silvestri_0001:Francesco">Francesco Silvestri 0001</na></co>
+<co c="0"><na f="t/Tesser:Rafael_Keller">Rafael Keller Tesser</na></co>
+<co c="0"><na f="t/Torres:Giovane_O=">Giovane O. Torres</na></co>
+<co c="0"><na f="v/Velho:Pedro">Pedro Velho</na></co>
+<co c="0"><na f="w/Walko:Robert_L=">Robert L. Walko</na></co>
+</coauthors>
+</dblpperson>
+

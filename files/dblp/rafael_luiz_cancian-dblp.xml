@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<dblpperson name="Rafael Luiz Cancian" n="7">
+<person key="homepages/71/6603" mdate="2009-06-10">
+<author>Rafael Luiz Cancian</author>
+</person>
+<r><phdthesis key="phd/ndltd/Cancian11" mdate="2018-07-23">
+<author>Rafael Luiz Cancian</author>
+<title>Um Modelo evolucion&#225;rio de otimiza&#231;&#227;o multiobjetivo para explora&#231;&#227;o do espa&#231;o de projeto em sistemas embarcados.</title>
+<year>2011</year>
+<school>Federal University of Santa Catarina, Brazil</school>
+<ee>http://repositorio.ufsc.br/xmlui/handle/123456789/94763</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:repositorio.ufsc.br:123456789/94763</ee>
+<note type="source">ndltd.org (oai:repositorio.ufsc.br:123456789/94763)</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/cse/MarcondesCSF09" mdate="2017-05-24">
+<author>Hugo Marcondes</author>
+<author>Rafael Luiz Cancian</author>
+<author>Marcelo Ricardo Stemmer</author>
+<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>On the Design of Flexible Real-Time Schedulers for Embedded Systems.</title>
+<pages>382-387</pages>
+<year>2009</year>
+<booktitle>CSE (2)</booktitle>
+<ee>https://doi.org/10.1109/CSE.2009.407</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSE.2009.407</ee>
+<crossref>conf/cse/2009</crossref>
+<url>db/conf/cse/cse2009-2.html#MarcondesCSF09</url>
+</inproceedings>
+</r>
+<r><article key="journals/jot/CancianSSF07" mdate="2017-05-26">
+<author>Rafael Luiz Cancian</author>
+<author>Marcelo Ricardo Stemmer</author>
+<author>Alexandre Schulter</author>
+<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>A Tool for Supporting and Automating the Development of Component-based Embedded Systems.</title>
+<pages>399-416</pages>
+<year>2007</year>
+<volume>6</volume>
+<journal>Journal of Object Technology</journal>
+<number>9</number>
+<ee>https://doi.org/10.5381/jot.2007.6.9.a20</ee>
+<url>db/journals/jot/jot6.html#CancianSSF07</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/CancianSF07" mdate="2017-05-23">
+<author>Rafael Luiz Cancian</author>
+<author>Marcelo Ricardo Stemmer</author>
+<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>New developments in EPOS tools for configuring and generating embedded systems.</title>
+<pages>776-779</pages>
+<year>2007</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/EFTA.2007.4416855</ee>
+<crossref>conf/etfa/2007</crossref>
+<url>db/conf/etfa/etfa2007.html#CancianSF07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/SantosMFC06" mdate="2017-05-23">
+<author>Danillo Moura Santos</author>
+<author>Roberto de Matos</author>
+<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author>Rafael Luiz Cancian</author>
+<title>Application-Oriented System Design as an Embedded Systems Development Strategy: a critical analysis.</title>
+<pages>615-618</pages>
+<year>2006</year>
+<crossref>conf/etfa/2006</crossref>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2006.355370</ee>
+<url>db/conf/etfa/etfa2006.html#SantosMFC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsrt/CancianF02" mdate="2017-05-26">
+<author>Rafael Luiz Cancian</author>
+<author>Lu&#237;s Fernando Friedrich</author>
+<title>Performance Evaluation of Real Time Schedulers for a Multicomputer.</title>
+<pages>71-76</pages>
+<year>2002</year>
+<crossref>conf/dsrt/2002</crossref>
+<booktitle>DS-RT</booktitle>
+<ee>https://doi.org/10.1109/DISRTA.2002.1166891</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DISRTA.2002.1166891</ee>
+<url>db/conf/dsrt/dsrt2002.html#CancianF02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispass/FriedrichCOC00" mdate="2017-05-23">
+<author>Lu&#237;s Fernando Friedrich</author>
+<author>Rafael Luiz Cancian</author>
+<author>R&#244;mulo Silva de Oliveira</author>
+<author>Thadeu B. Corso</author>
+<title>Performance evaluation of real-time scheduling on a multicomputer architecture.</title>
+<pages>28-33</pages>
+<year>2000</year>
+<booktitle>ISPASS</booktitle>
+<ee>https://doi.org/10.1109/ISPASS.2000.842277</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISPASS.2000.842277</ee>
+<url>db/conf/ispass/ispass2000.html#FriedrichCOC00</url>
+</inproceedings>
+</r>
+<coauthors n="9" nc="2">
+<co c="1"><na f="c/Corso:Thadeu_B=">Thadeu B. Corso</na></co>
+<co c="1"><na f="f/Friedrich:Lu=iacute=s_Fernando">Lu&#237;s Fernando Friedrich</na></co>
+<co c="0"><na f="f/Fr=ouml=hlich:Ant=ocirc=nio_Augusto">Ant&#244;nio Augusto Fr&#246;hlich</na></co>
+<co c="0"><na f="m/Marcondes:Hugo">Hugo Marcondes</na></co>
+<co c="0"><na f="m/Matos:Roberto_de">Roberto de Matos</na></co>
+<co c="1"><na f="o/Oliveira:R=ocirc=mulo_Silva_de">R&#244;mulo Silva de Oliveira</na></co>
+<co c="0"><na f="s/Santos:Danillo_Moura">Danillo Moura Santos</na></co>
+<co c="0"><na f="s/Schulter:Alexandre">Alexandre Schulter</na></co>
+<co c="0"><na f="s/Stemmer:Marcelo_Ricardo">Marcelo Ricardo Stemmer</na></co>
+</coauthors>
+</dblpperson>
+

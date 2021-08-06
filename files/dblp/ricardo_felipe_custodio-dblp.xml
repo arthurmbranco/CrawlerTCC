@@ -1,0 +1,414 @@
+<?xml version="1.0"?>
+<dblpperson name="Ricardo Felipe Cust&#243;dio" n="26">
+<person key="homepages/95/6830" mdate="2009-06-10">
+<author>Ricardo Felipe Cust&#243;dio</author>
+</person>
+<r><article key="journals/ipl/NiehuesCP18" mdate="2018-01-16">
+<author>Lucas Boppre Niehues</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<author>Daniel Panario</author>
+<title>Fast modular reduction and squaring in <i>GF</i>(2<sup><i>m</i></sup>).</title>
+<pages>33-38</pages>
+<year>2018</year>
+<volume>132</volume>
+<journal>Inf. Process. Lett.</journal>
+<ee>https://doi.org/10.1016/j.ipl.2017.12.002</ee>
+<url>db/journals/ipl/ipl132.html#NiehuesCP18</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-00432" mdate="2018-08-13">
+<author>Gustavo Banegas</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<author>Daniel Panario</author>
+<title>A new class of irreducible pentanomials for polynomial based multipliers in binary fields.</title>
+<year>2018</year>
+<volume>abs/1806.00432</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.00432</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-00432</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/iacr/BanegasCP18" mdate="2018-08-14">
+<author>Gustavo Banegas</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<author>Daniel Panario</author>
+<title>A new class of irreducible pentanomials for polynomial based multipliers in binary fields.</title>
+<pages>554</pages>
+<year>2018</year>
+<volume>2018</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">https://eprint.iacr.org/2018/554</ee>
+<url>db/journals/iacr/iacr2018.html#BanegasCP18</url>
+</article>
+</r>
+<r><article key="journals/ijguc/BrocardoRDCT17" mdate="2017-05-28">
+<author>Marcelo Luiz Brocardo</author>
+<author>Carlos Roberto De Rolt</author>
+<author>Julio Da Silva Dias</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<author>Issa Traor&#233;</author>
+<title>Privacy information in a positive credit system.</title>
+<pages>61-69</pages>
+<year>2017</year>
+<volume>8</volume>
+<journal>IJGUC</journal>
+<number>1</number>
+<ee>https://doi.org/10.1504/IJGUC.2017.10003005</ee>
+<url>db/journals/ijguc/ijguc8.html#BrocardoRDCT17</url>
+</article>
+</r>
+<r><article key="journals/ijisec/MartinaSCPC15" mdate="2017-09-16">
+<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
+<author>Eduardo dos Santos</author>
+<author>Marcelo Carlomagno Carlos</author>
+<author>Geraint Price</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>An adaptive threat model for security ceremonies.</title>
+<pages>103-121</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>Int. J. Inf. Sec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10207-014-0253-x</ee>
+<url>db/journals/ijisec/ijisec14.html#MartinaSCPC15</url>
+</article>
+</r>
+<r><article key="journals/ipl/IdalinoMCP15" mdate="2017-05-26">
+<author>Tha&#237;s Bardini Idalino</author>
+<author>Lucia Moura</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<author>Daniel Panario</author>
+<title>Locating modifications in signed data for partial data integrity.</title>
+<pages>731-737</pages>
+<year>2015</year>
+<volume>115</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.ipl.2015.02.014</ee>
+<url>db/journals/ipl/ipl115.html#IdalinoMCP15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cisis/BrocardoCRDT15" mdate="2017-05-25">
+<author>Marcelo Luiz Brocardo</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<author>Carlos Roberto De Rolt</author>
+<author>Julio Da Silva Dias</author>
+<author>Issa Traor&#233;</author>
+<title>Sharing Privacy Information in Credit Analysis Environment.</title>
+<pages>491-496</pages>
+<year>2015</year>
+<booktitle>CISIS</booktitle>
+<ee>https://doi.org/10.1109/CISIS.2015.72</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CISIS.2015.72</ee>
+<crossref>conf/cisis/2015</crossref>
+<url>db/conf/cisis/cisis2015.html#BrocardoCRDT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europki/WerlangCV13" mdate="2017-05-19">
+<author>Felipe Carlos Werlang</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<author>Mart&#237;n A. Gagliotti Vigil</author>
+<title>A User-Centric Digital Signature Scheme.</title>
+<pages>152-169</pages>
+<year>2013</year>
+<booktitle>EuroPKI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-53997-8_10</ee>
+<crossref>conf/europki/2013</crossref>
+<url>db/conf/europki/europki2013.html#WerlangCV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/CarlosMPC13" mdate="2013-05-03">
+<author>Marcelo Carlomagno Carlos</author>
+<author>Jean Everson Martina</author>
+<author>Geraint Price</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>An updated threat model for security ceremonies.</title>
+<pages>1836-1843</pages>
+<year>2013</year>
+<booktitle>SAC</booktitle>
+<ee>http://doi.acm.org/10.1145/2480362.2480705</ee>
+<crossref>conf/sac/2013</crossref>
+<url>db/conf/sac/sac2013.html#CarlosMPC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/SouzaLC13" mdate="2017-05-23">
+<author>Rick Lopes de Souza</author>
+<author>Lau Cheuk Lung</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>Multi-factor Authentication in Key Management Systems.</title>
+<pages>746-752</pages>
+<year>2013</year>
+<booktitle>TrustCom/ISPA/IUCC</booktitle>
+<ee>https://doi.org/10.1109/TrustCom.2013.90</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TrustCom.2013.90</ee>
+<crossref>conf/trustcom/2013</crossref>
+<url>db/conf/trustcom/trustcom2013.html#SouzaLC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europki/VigilMCV12" mdate="2017-05-19">
+<author>Mart&#237;n A. Gagliotti Vigil</author>
+<author>Cristian Thiago Moecke</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<author>Melanie Volkamer</author>
+<title>The Notary Based PKI - A Lightweight PKI for Long-Term Signatures on Documents.</title>
+<pages>85-97</pages>
+<year>2012</year>
+<booktitle>EuroPKI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40012-4_6</ee>
+<crossref>conf/europki/2012</crossref>
+<url>db/conf/europki/europki2012.html#VigilMCV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/secrypt/CarlosMPC12" mdate="2013-03-07">
+<author>Marcelo Carlomagno Carlos</author>
+<author>Jean Everson Martina</author>
+<author>Geraint Price</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>A Proposed Framework for Analysing Security Ceremonies.</title>
+<pages>440-445</pages>
+<year>2012</year>
+<booktitle>SECRYPT</booktitle>
+<crossref>conf/secrypt/2012</crossref>
+<url>db/conf/secrypt/secrypt2012.html#CarlosMPC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trustcom/SantosMC12" mdate="2017-09-16">
+<author>Eduardo dos Santos</author>
+<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>Towards a Formal Verification of a Multi-factor Authentication Protocol Using Automated Theorem Provers.</title>
+<pages>84-91</pages>
+<year>2012</year>
+<booktitle>TrustCom</booktitle>
+<ee>https://doi.org/10.1109/TrustCom.2012.278</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TrustCom.2012.278</ee>
+<crossref>conf/trustcom/2012</crossref>
+<url>db/conf/trustcom/trustcom2012.html#SantosMC12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lcn/CostaPVMC11" mdate="2017-06-04">
+<author>Robson Costa</author>
+<author orcid="0000-0002-6386-9753">Paulo Portugal</author>
+<author orcid="0000-0003-3115-0901">Francisco Vasques</author>
+<author>Ricardo Moraes</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>A coordination layer to handle real-time communication in Wi-Fi networks with uncontrolled traffic sources.</title>
+<pages>263-266</pages>
+<year>2011</year>
+<booktitle>LCN</booktitle>
+<ee>https://doi.org/10.1109/LCN.2011.6115204</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/LCN.2011.6115204</ee>
+<crossref>conf/lcn/2011</crossref>
+<url>db/conf/lcn/lcn2011.html#CostaPVMC11</url>
+</inproceedings>
+</r>
+<r><article key="journals/ejwcn/MoraesPVC10" mdate="2017-06-05">
+<author>Ricardo Moraes</author>
+<author orcid="0000-0002-6386-9753">Paulo Portugal</author>
+<author orcid="0000-0003-3115-0901">Francisco Vasques</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>Assessment of the IEEE 802.11e EDCA Protocol Limitations when Dealing with Real-Time Communication.</title>
+<year>2010</year>
+<volume>2010</volume>
+<journal>EURASIP J. Wireless Comm. and Networking</journal>
+<ee>https://doi.org/10.1155/2010/351480</ee>
+<url>db/journals/ejwcn/ejwcn2010.html#MoraesPVC10</url>
+</article>
+</r>
+<r><article key="journals/jnsm/ArantesWCC10" mdate="2017-05-20">
+<author>Juliana Amaral Arantes</author>
+<author>Carlos Becker Westphall</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<author>Shirlei Aparecida de Chaves</author>
+<title>Analytical Model to Evaluate the Performance of Mobile Agents in a Generic Network Topology.</title>
+<pages>357-373</pages>
+<year>2010</year>
+<volume>18</volume>
+<journal>J. Network Syst. Manage.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10922-010-9173-x</ee>
+<url>db/journals/jnsm/jnsm18.html#ArantesWCC10</url>
+</article>
+</r>
+<r><inproceedings key="conf/europki/RamosSLKC10" mdate="2017-05-19">
+<author>Thiago Ac&#243;rdi Ramos</author>
+<author>Nelson da Silva</author>
+<author>Lau Cheuk Lung</author>
+<author>Jonathan Gehard Kohler</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>An Infrastructure for Long-Term Archiving of Authenticated and Sensitive Electronic Documents.</title>
+<pages>193-207</pages>
+<year>2010</year>
+<booktitle>EuroPKI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-22633-5_14</ee>
+<crossref>conf/europki/2010</crossref>
+<url>db/conf/europki/europki2010.html#RamosSLKC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wote/AraujoCG10" mdate="2018-03-23">
+<author>Roberto Ara&#250;jo 0001</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<author>Jeroen van de Graaf</author>
+<title>A Verifiable Voting Protocol Based on Farnel.</title>
+<pages>274-288</pages>
+<year>2010</year>
+<booktitle>Towards Trustworthy Elections</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12980-3_17</ee>
+<crossref>conf/wote/2010lncs</crossref>
+<url>db/conf/wote/lncs6000.html#AraujoCG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cse/MartinaSC09" mdate="2017-05-24">
+<author>Jean Everson Martina</author>
+<author>T&#250;lio Cicero Salvaro de Souza</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>Ceremonies Formal Analysis in PKI's Context.</title>
+<pages>392-398</pages>
+<year>2009</year>
+<booktitle>CSE (3)</booktitle>
+<ee>https://doi.org/10.1109/CSE.2009.324</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSE.2009.324</ee>
+<crossref>conf/cse/2009</crossref>
+<url>db/conf/cse/cse2009-3.html#MartinaSC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etfa/SemprebomMMVC09" mdate="2017-06-02">
+<author>Tiago Semprebom</author>
+<author orcid="0000-0001-7767-0692">Carlos Montez</author>
+<author>Ricardo Moraes</author>
+<author orcid="0000-0003-3115-0901">Francisco Vasques</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>Distributed DBP: A (m, k)-firm based Distributed Approach for QoS Provision in IEEE 802.15.4 Networks.</title>
+<pages>1-8</pages>
+<year>2009</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2009.5347094</ee>
+<crossref>conf/etfa/2009</crossref>
+<url>db/conf/etfa/etfa2009.html#SemprebomMMVC09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/PereiraFC08" mdate="2017-05-21">
+<author>Fernando Carlos Pereira</author>
+<author>Joni da Silva Fraga</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>Self-Adaptable and Intrusion Tolerant Certificate Authority for Mobile Ad Hoc Networks.</title>
+<pages>705-712</pages>
+<year>2008</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2008.141</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AINA.2008.141</ee>
+<crossref>conf/aina/2008</crossref>
+<url>db/conf/aina/aina2008.html#PereiraFC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europki/CustodioVRPF08" mdate="2017-05-19">
+<author>Ricardo Felipe Cust&#243;dio</author>
+<author>Mart&#237;n A. Gagliotti Vigil</author>
+<author>Juliano Romani</author>
+<author>Fernando Carlos Pereira</author>
+<author>Joni da Silva Fraga</author>
+<title>Optimized Certificates - A New Proposal for Efficient Electronic Document Signature Validation.</title>
+<pages>49-59</pages>
+<year>2008</year>
+<booktitle>EuroPKI</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-69485-4_4</ee>
+<crossref>conf/europki/2008</crossref>
+<url>db/conf/europki/europki2008.html#CustodioVRPF08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/idtrust/SouzaMC08" mdate="2017-09-16">
+<author>T&#250;lio Cicero Salvaro de Souza</author>
+<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>Audit and backup procedures for hardware security modules.</title>
+<pages>89-97</pages>
+<year>2008</year>
+<booktitle>IDtrust</booktitle>
+<ee>http://doi.acm.org/10.1145/1373290.1373302</ee>
+<crossref>conf/idtrust/2008</crossref>
+<url>db/conf/idtrust/idtrust2008.html#SouzaMC08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europki/MartinaSC07" mdate="2017-09-16">
+<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
+<author>T&#250;lio Cicero Salvaro de Souza</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<title>OpenHSM: An Open Key Life Cycle Protocol for Public Key Infrastructure's Hardware Security Modules.</title>
+<pages>220-235</pages>
+<year>2007</year>
+<crossref>conf/europki/2007</crossref>
+<booktitle>EuroPKI</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73408-6_16</ee>
+<url>db/conf/europki/europki2007.html#MartinaSC07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/AraujoCG07" mdate="2018-08-14">
+<author>Roberto Ara&#250;jo 0001</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<author>Jeroen van de Graaf</author>
+<title>A Verifiable Voting Protocol based on Farnel.</title>
+<pages>252</pages>
+<year>2007</year>
+<volume>2007</volume>
+<journal>IACR Cryptology ePrint Archive</journal>
+<ee type="oa">http://eprint.iacr.org/2007/252</ee>
+<url>db/journals/iacr/iacr2007.html#AraujoCG07</url>
+</article>
+</r>
+<r><inproceedings key="conf/lanoms/DiasDCR03" mdate="2015-08-18">
+<author>J&#250;lio S. Dias</author>
+<author>Denise B. Dem&#233;trio</author>
+<author>Ricardo Felipe Cust&#243;dio</author>
+<author>Carlos Roberto De Rolt</author>
+<title>Reliable Clock Synchronization for Eletronic Documents.</title>
+<pages>13-20</pages>
+<year>2003</year>
+<booktitle>LANOMS</booktitle>
+<ee>http://www.lanoms.org/2005/anaiscd/2003/1-2.pdf</ee>
+<crossref>conf/lanoms/2003</crossref>
+<url>db/conf/lanoms/lanoms2003.html#DiasDCR03</url>
+</inproceedings>
+</r>
+<coauthors n="39" nc="3">
+<co c="0"><na f="a/Arantes:Juliana_Amaral">Juliana Amaral Arantes</na></co>
+<co c="2"><na f="a/Ara=uacute=jo_0001:Roberto">Roberto Ara&#250;jo 0001</na></co>
+<co c="0"><na f="b/Banegas:Gustavo">Gustavo Banegas</na></co>
+<co c="1"><na f="b/Brocardo:Marcelo_Luiz">Marcelo Luiz Brocardo</na></co>
+<co c="0"><na f="c/Carlos:Marcelo_Carlomagno">Marcelo Carlomagno Carlos</na></co>
+<co c="0"><na f="c/Chaves:Shirlei_Aparecida_de">Shirlei Aparecida de Chaves</na></co>
+<co c="0"><na f="c/Costa:Robson">Robson Costa</na></co>
+<co c="1"><na f="d/Dem=eacute=trio:Denise_B=">Denise B. Dem&#233;trio</na></co>
+<co c="1"><na f="d/Dias:Julio_Da_Silva">Julio Da Silva Dias</na></co>
+<co c="1"><na f="d/Dias:J=uacute=lio_S=">J&#250;lio S. Dias</na></co>
+<co c="0"><na f="f/Fraga:Joni_da_Silva">Joni da Silva Fraga</na></co>
+<co c="2"><na f="g/Graaf:Jeroen_van_de">Jeroen van de Graaf</na></co>
+<co c="0"><na f="i/Idalino:Tha=iacute=s_Bardini">Tha&#237;s Bardini Idalino</na></co>
+<co c="0"><na f="k/Kohler:Jonathan_Gehard">Jonathan Gehard Kohler</na></co>
+<co c="0"><na f="l/Lung:Lau_Cheuk">Lau Cheuk Lung</na></co>
+<co c="0"><na f="m/Martina:Jean_Everson">Jean Everson Martina</na></co>
+<co c="0"><na f="m/Moecke:Cristian_Thiago">Cristian Thiago Moecke</na></co>
+<co c="0"><na f="m/Montez:Carlos">Carlos Montez</na></co>
+<co c="0"><na f="m/Moraes:Ricardo">Ricardo Moraes</na></co>
+<co c="0"><na f="m/Moura:Lucia">Lucia Moura</na></co>
+<co c="0"><na f="n/Niehues:Lucas_Boppre">Lucas Boppre Niehues</na></co>
+<co c="0"><na f="p/Panario:Daniel">Daniel Panario</na></co>
+<co c="0"><na f="p/Pereira:Fernando_Carlos">Fernando Carlos Pereira</na></co>
+<co c="0"><na f="p/Portugal:Paulo">Paulo Portugal</na></co>
+<co c="0"><na f="p/Price:Geraint">Geraint Price</na></co>
+<co c="0"><na f="r/Ramos:Thiago_Ac=oacute=rdi">Thiago Ac&#243;rdi Ramos</na></co>
+<co c="1"><na f="r/Rolt:Carlos_Roberto_De">Carlos Roberto De Rolt</na></co>
+<co c="0"><na f="r/Romani:Juliano">Juliano Romani</na></co>
+<co c="0"><na f="s/Santos:Eduardo_dos">Eduardo dos Santos</na></co>
+<co c="0"><na f="s/Semprebom:Tiago">Tiago Semprebom</na></co>
+<co c="0"><na f="s/Silva:Nelson_da">Nelson da Silva</na></co>
+<co c="0"><na f="s/Souza:Rick_Lopes_de">Rick Lopes de Souza</na></co>
+<co c="0"><na f="s/Souza:T=uacute=lio_Cicero_Salvaro_de">T&#250;lio Cicero Salvaro de Souza</na></co>
+<co c="1"><na f="t/Traor=eacute=:Issa">Issa Traor&#233;</na></co>
+<co c="0"><na f="v/Vasques:Francisco">Francisco Vasques</na></co>
+<co c="0"><na f="v/Vigil:Mart=iacute=n_A=_Gagliotti">Mart&#237;n A. Gagliotti Vigil</na></co>
+<co c="0"><na f="v/Volkamer:Melanie">Melanie Volkamer</na></co>
+<co c="0"><na f="w/Werlang:Felipe_Carlos">Felipe Carlos Werlang</na></co>
+<co c="0"><na f="w/Westphall:Carlos_Becker">Carlos Becker Westphall</na></co>
+</coauthors>
+</dblpperson>
+

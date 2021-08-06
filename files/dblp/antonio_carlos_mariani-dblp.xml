@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<dblpperson name="Antonio Carlos Mariani" n="2">
+<person key="homepages/33/4749" mdate="2009-06-10">
+<author>Antonio Carlos Mariani</author>
+</person>
+<r><inproceedings key="conf/ifip3-2/WazlawickM02" mdate="2003-03-19">
+<author>Raul Sidnei Wazlawick</author>
+<author>Antonio Carlos Mariani</author>
+<title>Programming Strategies using an Actor-Based Environment.</title>
+<pages>63-68</pages>
+<year>2002</year>
+<crossref>conf/ifip3-2/2002</crossref>
+<booktitle>Informatics Curricula and Teaching Methods</booktitle>
+<url>db/conf/ifip3-2/ifip3-2-2002.html#WazlawickM02</url>
+</inproceedings>
+</r>
+<r><article key="journals/presence/WazlawickRRCSSMKKF01" mdate="2017-06-08">
+<author orcid="0000-0003-4293-1359">Raul Sidnei Wazlawick</author>
+<author orcid="0000-0002-4236-529X">Marta C. Rosatelli</author>
+<author>Edla M. F. Ramos</author>
+<author>Walter de Abreu Cybis</author>
+<author>Bernd H. Storb</author>
+<author>Vera R. N. Schuhmacher</author>
+<author>Antonio Carlos Mariani</author>
+<author>Tereza G. Kirner</author>
+<author>Claudio Kirner</author>
+<author>L&#233;a Da Cruz Fagundes</author>
+<title>Providing More Interactivity to Virtual Museums: A Proposal for a VR Authoring Tool.</title>
+<pages>647-656</pages>
+<year>2001</year>
+<volume>10</volume>
+<journal>Presence</journal>
+<number>6</number>
+<url>db/journals/presence/presence10.html#WazlawickRRCSSMKKF01</url>
+<ee>https://doi.org/10.1162/105474601753272880</ee>
+</article>
+</r>
+<coauthors n="9" nc="1">
+<co c="0"><na f="c/Cybis:Walter_de_Abreu">Walter de Abreu Cybis</na></co>
+<co c="0"><na f="f/Fagundes:L=eacute=a_Da_Cruz">L&#233;a Da Cruz Fagundes</na></co>
+<co c="0"><na f="k/Kirner:Claudio">Claudio Kirner</na></co>
+<co c="0"><na f="k/Kirner:Tereza_G=">Tereza G. Kirner</na></co>
+<co c="0"><na f="r/Ramos:Edla_M=_F=">Edla M. F. Ramos</na></co>
+<co c="0" n="2"><na f="r/Rosatelli:Marta_Costa">Marta Costa Rosatelli</na><na>Marta C. Rosatelli</na></co>
+<co c="0"><na f="s/Schuhmacher:Vera_R=_N=">Vera R. N. Schuhmacher</na></co>
+<co c="0"><na f="s/Storb:Bernd_H=">Bernd H. Storb</na></co>
+<co c="0"><na f="w/Wazlawick:Raul_Sidnei">Raul Sidnei Wazlawick</na></co>
+</coauthors>
+</dblpperson>
+

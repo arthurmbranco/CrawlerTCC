@@ -1,0 +1,521 @@
+<?xml version="1.0"?>
+<dblpperson name="Cristina Meinhardt" n="34">
+<person key="homepages/38/1116" mdate="2015-10-31">
+<author>Cristina Meinhardt</author>
+<note type="affiliation">Federal University of Rio Grande, Brazil</note>
+<url>https://www.linkedin.com/pub/cristina-meinhardt/8/4b6/262</url>
+</person>
+<r><inproceedings key="conf/lascas/SchvittzPMFNRB18" mdate="2018-07-12">
+<author>R. B. Schvittz</author>
+<author>M. Pontes</author>
+<author>Cristina Meinhardt</author>
+<author>Denis Teixeira Franco</author>
+<author>Lirida A. B. Naviner</author>
+<author>L. S. da Rosa</author>
+<author>Paulo F. Butzen</author>
+<title>Reliability evaluation of circuits designed in multi- and single-stage versions.</title>
+<pages>1-4</pages>
+<year>2018</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS.2018.8399927</ee>
+<crossref>conf/lascas/2018</crossref>
+<url>db/conf/lascas/lascas2018.html#SchvittzPMFNRB18</url>
+</inproceedings>
+</r>
+<r><article key="journals/mr/BartraAMVR17" mdate="2017-12-21">
+<author>Walter E. Calienes Bartra</author>
+<author>Y. Q. de Aguiar</author>
+<author>Cristina Meinhardt</author>
+<author>Andrei Vladimirescu</author>
+<author>Ricardo Augusto da Luz Reis</author>
+<title>Evaluation of heavy-ion impact in bulk and FDSOI devices under ZTC condition.</title>
+<pages>655-659</pages>
+<year>2017</year>
+<volume>76-77</volume>
+<journal>Microelectronics Reliability</journal>
+<ee>https://doi.org/10.1016/j.microrel.2017.06.063</ee>
+<url>db/journals/mr/mr76.html#BartraAMVR17</url>
+</article>
+</r>
+<r><article key="journals/mr/AguiarAHMKR17" mdate="2017-12-28">
+<author orcid="0000-0003-4416-2610">Y. Q. de Aguiar</author>
+<author>Laurent Artola</author>
+<author>Guillaume Hubert</author>
+<author>Cristina Meinhardt</author>
+<author orcid="0000-0001-5767-8582">Fernanda Lima Kastensmidt</author>
+<author>Ricardo Augusto da Luz Reis</author>
+<title>Evaluation of radiation-induced soft error in majority voters designed in 7 nm FinFET technology.</title>
+<pages>660-664</pages>
+<year>2017</year>
+<volume>76-77</volume>
+<journal>Microelectronics Reliability</journal>
+<ee>https://doi.org/10.1016/j.microrel.2017.06.077</ee>
+<url>db/journals/mr/mr76.html#AguiarAHMKR17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icecsys/AguiarZMR17" mdate="2018-02-20">
+<author>Ygor Q. Aguiar</author>
+<author>Alexandra L. Zimpeck</author>
+<author>Cristina Meinhardt</author>
+<author>Ricardo A. L. Reis</author>
+<title>Temperature dependence and ZTC bias point evaluation of sub 20nm bulk multigate devices.</title>
+<pages>270-273</pages>
+<year>2017</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2017.8291999</ee>
+<crossref>conf/icecsys/2017</crossref>
+<url>db/conf/icecsys/icecsys2017.html#AguiarZMR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/AguiarKMR17" mdate="2018-02-20">
+<author>Y. Q. de Aguiar</author>
+<author>Fernanda Lima Kastensmidt</author>
+<author>Cristina Meinhardt</author>
+<author>Ricardo A. L. Reis</author>
+<title>SET response of FinFET-based majority voter circuits under work-function fluctuation.</title>
+<pages>282-285</pages>
+<year>2017</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2017.8292064</ee>
+<crossref>conf/icecsys/2017</crossref>
+<url>db/conf/icecsys/icecsys2017.html#AguiarKMR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/ToledoZRM17" mdate="2018-02-20">
+<author>Samuel Presa Toledo</author>
+<author>Alexandra L. Zimpeck</author>
+<author>Ricardo Reis</author>
+<author>Cristina Meinhardt</author>
+<title>Impact of schmitt trigger inverters on process variability robustness of 1-Bit full adders.</title>
+<pages>290-293</pages>
+<year>2017</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2017.8292012</ee>
+<crossref>conf/icecsys/2017</crossref>
+<url>db/conf/icecsys/icecsys2017.html#ToledoZRM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/UlloaLM17" mdate="2018-02-20">
+<author>Giane Ulloa</author>
+<author>Vinicius Lucena</author>
+<author>Cristina Meinhardt</author>
+<title>Comparing 32nm full adder TMR and DTMR architectures.</title>
+<pages>294-297</pages>
+<year>2017</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2017.8292029</ee>
+<crossref>conf/icecsys/2017</crossref>
+<url>db/conf/icecsys/icecsys2017.html#UlloaLM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ZimpeckAMR17" mdate="2017-10-07">
+<author>Alexandra L. Zimpeck</author>
+<author>Ygor Aguiar</author>
+<author>Cristina Meinhardt</author>
+<author>Ricardo Reis</author>
+<title>Robustness of Sub-22nm multigate devices against physical variability.</title>
+<pages>1-4</pages>
+<year>2017</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2017.8050441</ee>
+<crossref>conf/iscas/2017</crossref>
+<url>db/conf/iscas/iscas2017.html#ZimpeckAMR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/AguiarMR17" mdate="2018-07-16">
+<author>Ygor Q. de Aguiar</author>
+<author>Cristina Meinhardt</author>
+<author>Ricardo A. L. Reis</author>
+<title>Radiation sensitivity of XOR topologies in multigate technologies under voltage variability.</title>
+<pages>1-4</pages>
+<year>2017</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS.2017.7948075</ee>
+<crossref>conf/lascas/2017</crossref>
+<url>db/conf/lascas/lascas2017.html#AguiarMR17</url>
+</inproceedings>
+</r>
+<r><article key="journals/mr/AguiarZMR16" mdate="2017-12-28">
+<author orcid="0000-0003-4416-2610">Y. Q. de Aguiar</author>
+<author>Alexandra L. Zimpeck</author>
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Ricardo Augusto da Luz Reis</author>
+<title>Permanent and single event transient faults reliability evaluation EDA tool.</title>
+<pages>63-67</pages>
+<year>2016</year>
+<volume>64</volume>
+<journal>Microelectronics Reliability</journal>
+<ee>https://doi.org/10.1016/j.microrel.2016.07.072</ee>
+<url>db/journals/mr/mr64.html#AguiarZMR16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icecsys/ZimpeckAMR16" mdate="2017-05-23">
+<author>Alexandra L. Zimpeck</author>
+<author>Ygor Aguiar</author>
+<author>Cristina Meinhardt</author>
+<author>Ricardo Reis</author>
+<title>Geometric variability impact on 7nm Trigate combinational cells.</title>
+<pages>9-12</pages>
+<year>2016</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2016.7841119</ee>
+<crossref>conf/icecsys/2016</crossref>
+<url>db/conf/icecsys/icecsys2016.html#ZimpeckAMR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/SilvaBM16" mdate="2017-05-23">
+<author>Fabio G. R. G. da Silva</author>
+<author>Paulo F. Butzen</author>
+<author>Cristina Meinhardt</author>
+<title>PVT variability analysis of FinFET and CMOS XOR circuits at 16nm.</title>
+<pages>528-531</pages>
+<year>2016</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2016.7841255</ee>
+<crossref>conf/icecsys/2016</crossref>
+<url>db/conf/icecsys/icecsys2016.html#SilvaBM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscas/ZimpeckMPR16" mdate="2017-06-15">
+<author>Alexandra L. Zimpeck</author>
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Gracieli Posser</author>
+<author>Ricardo Augusto da Luz Reis</author>
+<title>FinFET cells with different transistor sizing techniques against PVT variations.</title>
+<pages>45-48</pages>
+<year>2016</year>
+<booktitle>ISCAS</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2016.7527166</ee>
+<crossref>conf/iscas/2016</crossref>
+<url>db/conf/iscas/iscas2016.html#ZimpeckMPR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latw/SchivittzFMB16" mdate="2017-06-15">
+<author>Rafael B. Schivittz</author>
+<author>Denis Teixeira Franco</author>
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Paulo F. Butzen</author>
+<title>A probabilistic model for stuck-on faults in combinational logic gates.</title>
+<pages>39-44</pages>
+<year>2016</year>
+<booktitle>LATS</booktitle>
+<ee>https://doi.org/10.1109/LATW.2016.7483337</ee>
+<crossref>conf/latw/2016</crossref>
+<url>db/conf/latw/lats2016.html#SchivittzFMB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latw/LieblMB16" mdate="2017-06-15">
+<author>Eduardo Liebl</author>
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Paulo F. Butzen</author>
+<title>Reliability analysis of majority voters under permanent faults.</title>
+<pages>180</pages>
+<year>2016</year>
+<booktitle>LATS</booktitle>
+<ee>https://doi.org/10.1109/LATW.2016.7483360</ee>
+<crossref>conf/latw/2016</crossref>
+<url>db/conf/latw/lats2016.html#LieblMB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/patmos/AmesZOTM16" mdate="2017-05-26">
+<author>Stephanie O. Ames</author>
+<author>Vinicius Zanandrea</author>
+<author>Ingrid F. V. Oliveira</author>
+<author>Samuel P. Toledo</author>
+<author>Cristina Meinhardt</author>
+<title>Investigating PVT variability effects on full adders.</title>
+<pages>155-161</pages>
+<year>2016</year>
+<booktitle>PATMOS</booktitle>
+<ee>https://doi.org/10.1109/PATMOS.2016.7833681</ee>
+<crossref>conf/patmos/2016</crossref>
+<url>db/conf/patmos/patmos2016.html#AmesZOTM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcci/SchivittzFFNMB16" mdate="2017-06-15">
+<author>Rafael B. Schivittz</author>
+<author>Rafael Fritz</author>
+<author>Denis Teixeira Franco</author>
+<author>Lirida A. B. Naviner</author>
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Paulo F. Butzen</author>
+<title>Inserting permanent fault input dependence on PTM to improve robustness evaluation.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>SBCCI</booktitle>
+<ee>https://doi.org/10.1109/SBCCI.2016.7724070</ee>
+<crossref>conf/sbcci/2016</crossref>
+<url>db/conf/sbcci/sbcci2016.html#SchivittzFFNMB16</url>
+</inproceedings>
+</r>
+<r><article key="journals/mr/ZimpeckMR15" mdate="2017-06-14">
+<author>Alexandra L. Zimpeck</author>
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Ricardo Augusto da Luz Reis</author>
+<title>Impact of PVT variability on 20 nm FinFET standard cells.</title>
+<pages>1379-1383</pages>
+<year>2015</year>
+<volume>55</volume>
+<journal>Microelectronics Reliability</journal>
+<number>9-10</number>
+<ee>https://doi.org/10.1016/j.microrel.2015.06.039</ee>
+<url>db/journals/mr/mr55.html#ZimpeckMR15</url>
+</article>
+</r>
+<r><inproceedings key="conf/icecsys/ZimpeckMPR15" mdate="2017-06-15">
+<author>Alexandra L. Zimpeck</author>
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Gracieli Posser</author>
+<author>Ricardo Reis</author>
+<title>Process variability in FinFET standard cells with different transistor sizing techniques.</title>
+<pages>121-124</pages>
+<year>2015</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2015.7440264</ee>
+<crossref>conf/icecsys/2015</crossref>
+<url>db/conf/icecsys/icecsys2015.html#ZimpeckMPR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/SchivittzMB15" mdate="2017-06-15">
+<author>Rafael B. Schivittz</author>
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Paulo F. Butzen</author>
+<title>An evaluation of BTI degradation of 32nm standard cells.</title>
+<pages>661-664</pages>
+<year>2015</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2015.7440403</ee>
+<crossref>conf/icecsys/2015</crossref>
+<url>db/conf/icecsys/icecsys2015.html#SchivittzMB15</url>
+</inproceedings>
+</r>
+<r><article key="journals/mr/MeinhardtZR14" mdate="2017-06-14">
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Alexandra L. Zimpeck</author>
+<author>Ricardo A. L. Reis</author>
+<title>Predictive evaluation of electrical characteristics of sub-22 nm FinFET technologies under device geometry variations.</title>
+<pages>2319-2324</pages>
+<year>2014</year>
+<volume>54</volume>
+<journal>Microelectronics Reliability</journal>
+<number>9-10</number>
+<ee>https://doi.org/10.1016/j.microrel.2014.07.023</ee>
+<url>db/journals/mr/mr54.html#MeinhardtZR14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icecsys/MeinhardtZR14" mdate="2017-06-15">
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Alexandra L. Zimpeck</author>
+<author>Ricardo Augusto da Luz Reis</author>
+<title>Impact of gate workfunction fluctuation on FinFET standard cells.</title>
+<pages>574-577</pages>
+<year>2014</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2014.7050050</ee>
+<crossref>conf/icecsys/2014</crossref>
+<url>db/conf/icecsys/icecsys2014.html#MeinhardtZR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/PosserBMR14" mdate="2017-06-15">
+<author>Gracieli Posser</author>
+<author>Jozeanne Belomo</author>
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Ricardo Augusto da Luz Reis</author>
+<title>Perfomance Improvement with Dedicated Transistor Sizing for MOSFET and FinFET Devices.</title>
+<pages>418-423</pages>
+<year>2014</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2014.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2014.13</ee>
+<crossref>conf/isvlsi/2014</crossref>
+<url>db/conf/isvlsi/isvlsi2014.html#PosserBMR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/MeinhardtR14" mdate="2017-06-15">
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Ricardo Reis</author>
+<title>Comparing high-performance cells in CMOS bulk and FinFET technologies.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS.2014.6820310</ee>
+<crossref>conf/lascas/2014</crossref>
+<url>db/conf/lascas/lascas2014.html#MeinhardtR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lascas/TerresMBR14" mdate="2017-06-15">
+<author>Marco Terres</author>
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Guilherme Bontorin</author>
+<author>Ricardo Reis</author>
+<title>Exploring more efficient architectures for Multiple Dynamic Supply Voltage designs.</title>
+<pages>1-4</pages>
+<year>2014</year>
+<booktitle>LASCAS</booktitle>
+<ee>https://doi.org/10.1109/LASCAS.2014.6820313</ee>
+<crossref>conf/lascas/2014</crossref>
+<url>db/conf/lascas/lascas2014.html#TerresMBR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/patmos/ZimpeckMR14" mdate="2017-06-15">
+<author>Alexandra L. Zimpeck</author>
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Ricardo Reis</author>
+<title>Evaluating the impact of environment and physical variability on the ION current of 20nm FinFET devices.</title>
+<pages>1-8</pages>
+<year>2014</year>
+<booktitle>PATMOS</booktitle>
+<ee>https://doi.org/10.1109/PATMOS.2014.6951859</ee>
+<crossref>conf/patmos/2014</crossref>
+<url>db/conf/patmos/patmos2014.html#ZimpeckMR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/TerresMBR13" mdate="2017-06-15">
+<author>Marco Terres</author>
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Guilherme Bontorin</author>
+<author>Ricardo Reis</author>
+<title>A novel approach to reduce power consumption in level shifter for Multiple Dynamic Supply Voltage.</title>
+<pages>715-718</pages>
+<year>2013</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2013.6815514</ee>
+<crossref>conf/icecsys/2013</crossref>
+<url>db/conf/icecsys/icecsys2013.html#TerresMBR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/MeinhardtR13" mdate="2017-06-15">
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Ricardo Reis</author>
+<title>A yield-driven regular layout synthesis.</title>
+<pages>221-222</pages>
+<year>2013</year>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2013.6654649</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2013.6654649</ee>
+<crossref>conf/isvlsi/2013</crossref>
+<url>db/conf/isvlsi/isvlsi2013.html#MeinhardtR13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tie/ViolanteMRR11" mdate="2017-06-14">
+<author>Massimo Violante</author>
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Ricardo Reis</author>
+<author orcid="0000-0003-2899-7669">Matteo Sonza Reorda</author>
+<title>A Low-Cost Solution for Deploying Processor Cores in Harsh Environments.</title>
+<pages>2617-2626</pages>
+<year>2011</year>
+<volume>58</volume>
+<journal>IEEE Trans. Industrial Electronics</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TIE.2011.2134054</ee>
+<url>db/journals/tie/tie58.html#ViolanteMRR11</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/ReordaVMR09" mdate="2017-05-23">
+<author>Matteo Sonza Reorda</author>
+<author>Massimo Violante</author>
+<author>Cristina Meinhardt</author>
+<author>Ricardo Reis</author>
+<title>A low-cost SEE mitigation solution for soft-processors embedded in Systems on Pogrammable Chips.</title>
+<pages>352-357</pages>
+<year>2009</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2009.5090687</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1874704</ee>
+<crossref>conf/date/2009</crossref>
+<url>db/conf/date/date2009.html#ReordaVMR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dft/ReordaVMR09" mdate="2017-06-15">
+<author orcid="0000-0003-2899-7669">Matteo Sonza Reorda</author>
+<author>Massimo Violante</author>
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Ricardo Reis</author>
+<title>An On-board Data-Handling Computer for Deep-Space Exploration Built Using Commercial-Off-the-Shelf SRAM-Based FPGAs.</title>
+<pages>254-262</pages>
+<year>2009</year>
+<booktitle>DFT</booktitle>
+<ee>https://doi.org/10.1109/DFT.2009.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DFT.2009.35</ee>
+<crossref>conf/dft/2009</crossref>
+<url>db/conf/dft/dft2009.html#ReordaVMR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/MeinhardtRT07" mdate="2017-06-15">
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Ricardo Reis</author>
+<author>Reginaldo Tavares</author>
+<title>Logic and Physical Synthesis of Cell Arrays.</title>
+<pages>1292-1295</pages>
+<year>2007</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2007.4511234</ee>
+<crossref>conf/icecsys/2007</crossref>
+<url>db/conf/icecsys/icecsys2007.html#MeinhardtRT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icecsys/TavaresMR06" mdate="2017-06-15">
+<author>Reginaldo Tavares</author>
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Ricardo Reis</author>
+<title>orBDDs Direct Mapping for Structured Logic Circuits.</title>
+<pages>1057-1060</pages>
+<year>2006</year>
+<booktitle>ICECS</booktitle>
+<ee>https://doi.org/10.1109/ICECS.2006.379620</ee>
+<crossref>conf/icecsys/2006</crossref>
+<url>db/conf/icecsys/icecsys2006.html#TavaresMR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isvlsi/MenezesMRT06" mdate="2017-06-15">
+<author>Claudio Menezes</author>
+<author orcid="0000-0003-1088-1000">Cristina Meinhardt</author>
+<author>Ricardo Reis</author>
+<author>Reginaldo Tavares</author>
+<title>A Regular Layout Approach for ASICs.</title>
+<pages>424-425</pages>
+<year>2006</year>
+<crossref>conf/isvlsi/2006</crossref>
+<booktitle>ISVLSI</booktitle>
+<ee>https://doi.org/10.1109/ISVLSI.2006.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISVLSI.2006.11</ee>
+<url>db/conf/isvlsi/isvlsi2006.html#MenezesMRT06</url>
+</inproceedings>
+</r>
+<coauthors n="32" nc="2">
+<co c="0" n="4"><na f="a/Aguiar:Ygor">Ygor Aguiar</na><na>Ygor Q. Aguiar</na><na>Y. Q. de Aguiar</na><na>Ygor Q. de Aguiar</na></co>
+<co c="0"><na f="a/Ames:Stephanie_O=">Stephanie O. Ames</na></co>
+<co c="0"><na f="a/Artola:Laurent">Laurent Artola</na></co>
+<co c="0"><na f="b/Bartra:Walter_E=_Calienes">Walter E. Calienes Bartra</na></co>
+<co c="0"><na f="b/Belomo:Jozeanne">Jozeanne Belomo</na></co>
+<co c="0"><na f="b/Bontorin:Guilherme">Guilherme Bontorin</na></co>
+<co c="0"><na f="b/Butzen:Paulo_F=">Paulo F. Butzen</na></co>
+<co c="0"><na f="f/Franco:Denis_Teixeira">Denis Teixeira Franco</na></co>
+<co c="0"><na f="f/Fritz:Rafael">Rafael Fritz</na></co>
+<co c="0"><na f="h/Hubert:Guillaume">Guillaume Hubert</na></co>
+<co c="0"><na f="k/Kastensmidt:Fernanda_Lima">Fernanda Lima Kastensmidt</na></co>
+<co c="0"><na f="l/Liebl:Eduardo">Eduardo Liebl</na></co>
+<co c="1"><na f="l/Lucena:Vinicius">Vinicius Lucena</na></co>
+<co c="0"><na f="m/Menezes:Claudio">Claudio Menezes</na></co>
+<co c="0"><na f="n/Naviner:Lirida_A=_B=">Lirida A. B. Naviner</na></co>
+<co c="0"><na f="o/Oliveira:Ingrid_F=_V=">Ingrid F. V. Oliveira</na></co>
+<co c="0"><na f="p/Pontes:M=">M. Pontes</na></co>
+<co c="0"><na f="p/Posser:Gracieli">Gracieli Posser</na></co>
+<co c="0" n="3"><na f="r/Reis:Ricardo_Augusto_da_Luz">Ricardo Augusto da Luz Reis</na><na>Ricardo A. L. Reis</na><na>Ricardo Reis</na></co>
+<co c="0"><na f="r/Reorda:Matteo_Sonza">Matteo Sonza Reorda</na></co>
+<co c="0"><na f="r/Rosa:L=_S=_da">L. S. da Rosa</na></co>
+<co c="0"><na f="s/Schivittz:Rafael_B=">Rafael B. Schivittz</na></co>
+<co c="0"><na f="s/Schvittz:R=_B=">R. B. Schvittz</na></co>
+<co c="0"><na f="s/Silva:Fabio_G=_R=_G=_da">Fabio G. R. G. da Silva</na></co>
+<co c="0"><na f="t/Tavares:Reginaldo">Reginaldo Tavares</na></co>
+<co c="0"><na f="t/Terres:Marco">Marco Terres</na></co>
+<co c="0" n="2"><na f="t/Toledo:Samuel_P=">Samuel P. Toledo</na><na>Samuel Presa Toledo</na></co>
+<co c="1"><na f="u/Ulloa:Giane">Giane Ulloa</na></co>
+<co c="0"><na f="v/Violante:Massimo">Massimo Violante</na></co>
+<co c="0"><na f="v/Vladimirescu:Andrei">Andrei Vladimirescu</na></co>
+<co c="0"><na f="z/Zanandrea:Vinicius">Vinicius Zanandrea</na></co>
+<co c="0"><na f="z/Zimpeck:Alexandra_L=">Alexandra L. Zimpeck</na></co>
+</coauthors>
+</dblpperson>
+
