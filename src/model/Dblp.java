@@ -32,7 +32,6 @@ public class Dblp {
 	static NodeList autores;
 	static Node rootDBLP;
 	static Node rootLattes;
-	static int id = 0;
 	static int idProf;
 	static ResultSet myRs;
 	static info.debatty.java.stringsimilarity.MetricLCS lcs = new info.debatty.java.stringsimilarity.MetricLCS();
@@ -480,7 +479,6 @@ public class Dblp {
 	
 	public static void inserir(Connection conn) {
 		 Element t = (Element) rootDBLP;
-		 id++;
 		 String key = t.getAttribute("key");
 		 String mdate = t.getAttribute("mdate");
 		 DateFormat df = new SimpleDateFormat("yyyy-MM-dd");
@@ -565,25 +563,24 @@ public class Dblp {
 			isbn2 = isbn.getTextContent();
 		}
 		try {
-			PreparedStatement stmt = conn.prepareStatement("INSERT INTO dblp (id, _event, title, authors, pages, _year, volume, journal, _number, ee, url, _key, _mdate, booktitle, publisher, isbn, crossref, id_prof) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
-			stmt.setInt(1, id);
-			stmt.setString(2, event);
-			stmt.setString(3,  titulo.getTextContent());
-			stmt.setString(4, autores1);
-			stmt.setString(5, paginas);
-			stmt.setInt(6, year2);
-			stmt.setString(7, volume2);
-			stmt.setString(8, journal2);
-			stmt.setString(9, number2);
-			stmt.setString(10, ee2);
-			stmt.setString(11, url2);
-			stmt.setString(12, key);
-			stmt.setDate(13, sqlDate);
-			stmt.setString(14, booktitle2);
-			stmt.setString(15, publisher2);
-			stmt.setString(16, isbn2);
-			stmt.setString(17, crossref2);
-			stmt.setInt(18, idProf);
+			PreparedStatement stmt = conn.prepareStatement("INSERT INTO dblp (_event, title, authors, pages, _year, volume, journal, _number, ee, url, _key, _mdate, booktitle, publisher, isbn, crossref, id_prof) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+			stmt.setString(1, event);
+			stmt.setString(2,  titulo.getTextContent());
+			stmt.setString(3, autores1);
+			stmt.setString(4, paginas);
+			stmt.setInt(5, year2);
+			stmt.setString(6, volume2);
+			stmt.setString(7, journal2);
+			stmt.setString(8, number2);
+			stmt.setString(9, ee2);
+			stmt.setString(10, url2);
+			stmt.setString(11, key);
+			stmt.setDate(12, sqlDate);
+			stmt.setString(13, booktitle2);
+			stmt.setString(14, publisher2);
+			stmt.setString(15, isbn2);
+			stmt.setString(16, crossref2);
+			stmt.setInt(17, idProf);
 			stmt.executeUpdate();
 			conn.commit();
 		 

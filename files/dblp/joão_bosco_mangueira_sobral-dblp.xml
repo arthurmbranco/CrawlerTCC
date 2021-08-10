@@ -1,27 +1,72 @@
 <?xml version="1.0"?>
-<dblpperson name="Jo&#227;o Bosco M. Sobral" n="16">
+<dblpperson name="Jo&#227;o Bosco M. Sobral" pid="41/961" n="19">
 <person key="homepages/41/961" mdate="2015-06-03">
-<author>Jo&#227;o Bosco M. Sobral</author>
-<author>Jo&#227;o Bosco Mangueira Sobral</author>
+<author pid="41/961">Jo&#227;o Bosco M. Sobral</author>
+<author pid="41/961">Jo&#227;o Bosco Mangueira Sobral</author>
 </person>
-<r><article key="journals/cleiej/PereiraSW15" mdate="2018-04-17">
-<author>Andr&#233; Albino Pereira</author>
-<author>Jo&#227;o Bosco M. Sobral</author>
-<author>Carla M. Westphall</author>
+<r><article key="journals/cn/SouzaWMSV20" mdate="2021-07-25">
+<author orcid="0000-0002-9453-3240" pid="274/9872">Cristiano Antonio de Souza</author>
+<author orcid="0000-0002-5391-7942" pid="b/CarlosBeckerWestphall">Carlos Becker Westphall</author>
+<author pid="70/1562">Renato B. Machado</author>
+<author pid="41/961">Jo&#227;o Bosco Mangueira Sobral</author>
+<author pid="274/9760">Gustavo dos Santos Vieira</author>
+<title>Hybrid approach to intrusion detection in fog-based IoT environments.</title>
+<pages>107417</pages>
+<year>2020</year>
+<volume>180</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2020.107417</ee>
+<url>db/journals/cn/cn180.html#SouzaWMSV20</url>
+</article>
+</r>
+<r><article key="journals/sj/VieiraKSWL20" mdate="2020-09-11">
+<author orcid="0000-0002-4724-3961" pid="80/1059">Kleber Vieira</author>
+<author orcid="0000-0001-7136-3253" pid="79/1764">Fernando Luiz Koch</author>
+<author orcid="0000-0002-8714-5434" pid="41/961">Jo&#227;o Bosco M. Sobral</author>
+<author orcid="0000-0002-5391-7942" pid="b/CarlosBeckerWestphall">Carlos Becker Westphall</author>
+<author orcid="0000-0001-7730-2224" pid="230/4112">Jorge Lopes de Souza Leao</author>
+<title>Autonomic Intrusion Detection and Response Using Big Data.</title>
+<pages>1984-1991</pages>
+<year>2020</year>
+<volume>14</volume>
+<journal>IEEE Syst. J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/JSYST.2019.2945555</ee>
+<url>db/journals/sj/sj14.html#VieiraKSWL20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-05407" mdate="2018-11-24">
+<author pid="80/1059">Kleber Vieira</author>
+<author pid="79/1764">Fernando Koch</author>
+<author pid="41/961">Jo&#227;o Bosco Mangueira Sobral</author>
+<author pid="b/CarlosBeckerWestphall">Carlos Becker Westphall</author>
+<author pid="230/4112">Jorge Lopes de Souza Leao</author>
+<title>Autonomic Intrusion Response in Distributed Computing using Big Data.</title>
+<year>2018</year>
+<volume>abs/1811.05407</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.05407</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-05407</url>
+</article>
+</r>
+<r><article key="journals/cleiej/PereiraSW15" mdate="2019-05-21">
+<author pid="177/3628">Andr&#233; Albino Pereira</author>
+<author pid="41/961">Jo&#227;o Bosco M. Sobral</author>
+<author pid="w/CarlaMerkleWestphall">Carla M. Westphall</author>
 <title>Towards Scalability for Federated Identity Systems for Cloud-Based Environments.</title>
 <pages>2</pages>
 <year>2015</year>
 <volume>18</volume>
 <journal>CLEI Electron. J.</journal>
 <number>3</number>
-<ee>http://www2.clei.org/cleiej/paper.php?id=343</ee>
+<ee type="oa">https://doi.org/10.19153/cleiej.18.3.2</ee>
 <url>db/journals/cleiej/cleiej18.html#PereiraSW15</url>
 </article>
 </r>
 <r><inproceedings key="conf/ntms/PereiraSW14" mdate="2017-05-24">
-<author>Andr&#233; Albino Pereira</author>
-<author>Jo&#227;o Bosco M. Sobral</author>
-<author>Carla M. Westphall</author>
+<author pid="177/3628">Andr&#233; Albino Pereira</author>
+<author pid="41/961">Jo&#227;o Bosco M. Sobral</author>
+<author pid="w/CarlaMerkleWestphall">Carla M. Westphall</author>
 <title>Towards Scalability for Federated Identity Systems for Cloud-Based Environments.</title>
 <pages>1-5</pages>
 <year>2014</year>
@@ -31,12 +76,12 @@
 <url>db/conf/ntms/ntms2014.html#PereiraSW14</url>
 </inproceedings>
 </r>
-<r><article key="journals/sensors/GuardalbenGBSC11" mdate="2018-08-14">
-<author orcid="0000-0003-4296-3115">Lucas Guardalben</author>
-<author orcid="0000-0001-7573-6272">Luis Javier Garc&#237;a-Villalba</author>
-<author>F&#225;bio Buiati</author>
-<author>Jo&#227;o Bosco Mangueira Sobral</author>
-<author>Eduardo Camponogara</author>
+<r><article key="journals/sensors/GuardalbenGBSC11" mdate="2021-04-09">
+<author orcid="0000-0003-4296-3115" pid="27/1247">Lucas Guardalben</author>
+<author orcid="0000-0001-7573-6272" pid="g/LJavierGarciaVillalba">Luis Javier Garc&#237;a-Villalba</author>
+<author pid="23/1253">F&#225;bio Buiati</author>
+<author pid="41/961">Jo&#227;o Bosco Mangueira Sobral</author>
+<author orcid="0000-0002-0236-0689" pid="13/493">Eduardo Camponogara</author>
 <title>Self-Configuration and Self-Optimization Process in Heterogeneous Wireless Networks.</title>
 <pages>425-454</pages>
 <year>2011</year>
@@ -44,14 +89,15 @@
 <journal>Sensors</journal>
 <number>1</number>
 <ee type="oa">https://doi.org/10.3390/s110100425</ee>
+<ee>https://www.wikidata.org/entity/Q40907677</ee>
 <url>db/journals/sensors/sensors11.html#GuardalbenGBSC11</url>
 </article>
 </r>
 <r><inproceedings key="conf/globecom/BoukercheGSN08" mdate="2017-06-02">
-<author>Azzedine Boukerche</author>
-<author orcid="0000-0003-4296-3115">Lucas Guardalben</author>
-<author>Jo&#227;o Bosco M. Sobral</author>
-<author>Mirela Sechi Moretti Annoni Notare</author>
+<author pid="b/AzzedineBoukerche">Azzedine Boukerche</author>
+<author orcid="0000-0003-4296-3115" pid="27/1247">Lucas Guardalben</author>
+<author pid="41/961">Jo&#227;o Bosco M. Sobral</author>
+<author pid="98/4030">Mirela Sechi Moretti Annoni Notare</author>
 <title>A Self-X Approach for OLSR Routing Protocol in Large-Scale Wireless Mesh Networks.</title>
 <pages>778-783</pages>
 <year>2008</year>
@@ -61,24 +107,25 @@
 <url>db/conf/globecom/globecom2008.html#BoukercheGSN08</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/lcn/BoukercheGSN08" mdate="2017-06-04">
-<author>Azzedine Boukerche</author>
-<author orcid="0000-0003-4296-3115">Lucas Guardalben</author>
-<author>Jo&#227;o Bosco M. Sobral</author>
-<author>Mirela Sechi Moretti Annoni Notare</author>
+<r><inproceedings key="conf/lcn/BoukercheGSN08" mdate="2019-02-13">
+<author pid="b/AzzedineBoukerche">Azzedine Boukerche</author>
+<author orcid="0000-0003-4296-3115" pid="27/1247">Lucas Guardalben</author>
+<author pid="41/961">Jo&#227;o Bosco M. Sobral</author>
+<author pid="98/4030">Mirela Sechi Moretti Annoni Notare</author>
 <title>A performance evaluation of OLSR and AODV routing protocols using a self-configuration mechanism for heterogeneous wireless mesh networks.</title>
 <pages>697-704</pages>
 <year>2008</year>
 <booktitle>LCN</booktitle>
 <ee>https://doi.org/10.1109/LCN.2008.4664267</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/LCN.2008.4664267</ee>
 <crossref>conf/lcn/2008</crossref>
 <url>db/conf/lcn/lcn2008.html#BoukercheGSN08</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/noms/LimaDS08" mdate="2017-05-19">
-<author>I. V. M. de Lima</author>
-<author>Joelson A. Degaspari</author>
-<author>Jo&#227;o Bosco M. Sobral</author>
+<author pid="52/1059">I. V. M. de Lima</author>
+<author pid="15/5324">Joelson A. Degaspari</author>
+<author pid="41/961">Jo&#227;o Bosco M. Sobral</author>
 <title>Intrusion detection through artificial neural networks.</title>
 <pages>867-870</pages>
 <year>2008</year>
@@ -88,42 +135,42 @@
 <url>db/conf/noms/noms2008.html#LimaDS08</url>
 </inproceedings>
 </r>
-<r><article key="journals/comcom/BoukercheaJSN07" mdate="2017-05-26">
-<author>Azzedine Boukerche</author>
-<author>Renato B. Machado</author>
-<author>Kathia Regina L. Juc&#225;</author>
-<author>Jo&#227;o Bosco M. Sobral</author>
-<author>Mirela Sechi Moretti Annoni Notare</author>
+<r><article key="journals/comcom/BoukercheaJSN07" mdate="2020-02-20">
+<author pid="b/AzzedineBoukerche">Azzedine Boukerche</author>
+<author orcid="0000-0003-0856-5391" pid="70/1562">Renato B. Machado</author>
+<author pid="84/2724">Kathia Regina L. Juc&#225;</author>
+<author pid="41/961">Jo&#227;o Bosco M. Sobral</author>
+<author pid="98/4030">Mirela Sechi Moretti Annoni Notare</author>
 <title>An agent based and biological inspired real-time intrusion detection and security model for computer network operations.</title>
 <pages>2649-2660</pages>
 <year>2007</year>
 <volume>30</volume>
-<journal>Computer Communications</journal>
+<journal>Comput. Commun.</journal>
 <number>13</number>
 <ee>https://doi.org/10.1016/j.comcom.2007.03.008</ee>
 <url>db/journals/comcom/comcom30.html#BoukercheaJSN07</url>
 </article>
 </r>
-<r><inproceedings key="conf/mswim/CampioloCS07" mdate="2008-12-10">
-<author>Rodrigo Campiolo</author>
-<author>Vivian Cremer</author>
-<author>Jo&#227;o Bosco M. Sobral</author>
+<r><inproceedings key="conf/mswim/CampioloCS07" mdate="2018-11-06">
+<author pid="53/4307">Rodrigo Campiolo</author>
+<author pid="46/3342">Vivian Cremer</author>
+<author pid="41/961">Jo&#227;o Bosco M. Sobral</author>
 <title>On modeling for pervasive computing environments.</title>
 <pages>240-243</pages>
 <year>2007</year>
 <booktitle>MSWiM</booktitle>
-<ee>http://doi.acm.org/10.1145/1298126.1298168</ee>
+<ee>https://doi.org/10.1145/1298126.1298168</ee>
 <crossref>conf/mswim/2007</crossref>
 <url>db/conf/mswim/mswim2007.html#CampioloCS07</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/icpads/PretiCSJNB05" mdate="2017-05-26">
-<author>Jo&#227;o Paulo Delgado Preti</author>
-<author>Fernando M. B. M. de Castilho</author>
-<author>Jo&#227;o Bosco M. Sobral</author>
-<author>Kathia Regina L. Juc&#225;</author>
-<author>Mirela Sechi Moretti Annoni Notare</author>
-<author>Azzedine Boukerche</author>
+<author pid="134/9378">Jo&#227;o Paulo Delgado Preti</author>
+<author pid="65/6420">Fernando M. B. M. de Castilho</author>
+<author pid="41/961">Jo&#227;o Bosco M. Sobral</author>
+<author pid="84/2724">Kathia Regina L. Juc&#225;</author>
+<author pid="98/4030">Mirela Sechi Moretti Annoni Notare</author>
+<author pid="b/AzzedineBoukerche">Azzedine Boukerche</author>
 <title>On the Use of Fuzzy Logic to Enhance Mobile Agents in Distributed E-Commerce.</title>
 <pages>525-528</pages>
 <year>2005</year>
@@ -135,11 +182,11 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/ipps/MachadoBSJN05" mdate="2017-05-24">
-<author>Renato B. Machado</author>
-<author>Azzedine Boukerche</author>
-<author>Jo&#227;o Bosco M. Sobral</author>
-<author>Kathia Regina L. Juc&#225;</author>
-<author>Mirela Sechi Moretti Annoni Notare</author>
+<author pid="70/1562">Renato B. Machado</author>
+<author pid="b/AzzedineBoukerche">Azzedine Boukerche</author>
+<author pid="41/961">Jo&#227;o Bosco M. Sobral</author>
+<author pid="84/2724">Kathia Regina L. Juc&#225;</author>
+<author pid="98/4030">Mirela Sechi Moretti Annoni Notare</author>
 <title>A Hybrid Artificial Immune and Mobile Agent Intrusion Detection Based Model for Computer Network Operations.</title>
 <year>2005</year>
 <crossref>conf/ipps/2005</crossref>
@@ -150,10 +197,10 @@
 </inproceedings>
 </r>
 <r><incollection publtype="encyclopedia" key="reference/crc/BoukercheJNS05" mdate="2017-07-12">
-<author>Azzedine Boukerche</author>
-<author>Kathia Regina Lemos Juc&#225;</author>
-<author>Mirela Sechi Moretti Annoni Notare</author>
-<author>Jo&#227;o Bosco Mangueira Sobral</author>
+<author pid="b/AzzedineBoukerche">Azzedine Boukerche</author>
+<author pid="84/2724">Kathia Regina Lemos Juc&#225;</author>
+<author pid="98/4030">Mirela Sechi Moretti Annoni Notare</author>
+<author pid="41/961">Jo&#227;o Bosco Mangueira Sobral</author>
 <title>Biological Inspired Based Intrusion Detection Models for Mobile Telecommunication Systems.</title>
 <year>2005</year>
 <crossref>reference/crc/2005bioi</crossref>
@@ -162,28 +209,28 @@
 <url>db/reference/crc/bioi2005.html#BoukercheJNS05</url>
 </incollection>
 </r>
-<r><article key="journals/pc/BoukercheJSN04" mdate="2017-05-27">
-<author>Azzedine Boukerche</author>
-<author>Kathia Regina L. Juc&#225;</author>
-<author>Jo&#227;o Bosco M. Sobral</author>
-<author>Mirela Sechi Moretti Annoni Notare</author>
+<r><article key="journals/pc/BoukercheJSN04" mdate="2020-02-22">
+<author pid="b/AzzedineBoukerche">Azzedine Boukerche</author>
+<author pid="84/2724">Kathia Regina L. Juc&#225;</author>
+<author pid="41/961">Jo&#227;o Bosco M. Sobral</author>
+<author pid="98/4030">Mirela Sechi Moretti Annoni Notare</author>
 <title>An artificial immune based intrusion detection model for computer and telecommunication systems.</title>
 <pages>629-646</pages>
 <year>2004</year>
 <volume>30</volume>
-<journal>Parallel Computing</journal>
+<journal>Parallel Comput.</journal>
 <number>5-6</number>
 <ee>https://doi.org/10.1016/j.parco.2003.12.008</ee>
 <url>db/journals/pc/pc30.html#BoukercheJSN04</url>
 </article>
 </r>
 <r><inproceedings key="conf/iceis/LimaCPFSY03" mdate="2017-02-02">
-<author>Joubert de Castro Lima</author>
-<author>Tiago Garcia de Senna Carneiro</author>
-<author>Rodrigo Martins Pagliares</author>
-<author>J&#250;lio C&#233;sar Ferreira</author>
-<author>Jo&#227;o Bosco M. Sobral</author>
-<author>Edgar Toshiro Yano</author>
+<author pid="l/JdCLima">Joubert de Castro Lima</author>
+<author pid="07/4662">Tiago Garcia de Senna Carneiro</author>
+<author pid="79/2360">Rodrigo Martins Pagliares</author>
+<author pid="60/1456">J&#250;lio C&#233;sar Ferreira</author>
+<author pid="41/961">Jo&#227;o Bosco M. Sobral</author>
+<author pid="58/3362">Edgar Toshiro Yano</author>
 <title>Archcollect: A Set of Components Towards Web Users' Interactions.</title>
 <pages>308-316</pages>
 <year>2003</year>
@@ -193,10 +240,10 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/ipps/JucaBSN03" mdate="2017-05-24">
-<author>Kathia Regina L. Juc&#225;</author>
-<author>Azzedine Boukerche</author>
-<author>Jo&#227;o Bosco M. Sobral</author>
-<author>Mirela Sechi Moretti Annoni Notare</author>
+<author pid="84/2724">Kathia Regina L. Juc&#225;</author>
+<author pid="b/AzzedineBoukerche">Azzedine Boukerche</author>
+<author pid="41/961">Jo&#227;o Bosco M. Sobral</author>
+<author pid="98/4030">Mirela Sechi Moretti Annoni Notare</author>
 <title>Human Immune Anomaly and Misuse Based Detection for Computer System Operations: PART II.</title>
 <pages>146</pages>
 <year>2003</year>
@@ -208,9 +255,9 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/ipps/JucaBS02" mdate="2017-05-24">
-<author>Kathia Regina L. Juc&#225;</author>
-<author>Azzedine Boukerche</author>
-<author>Jo&#227;o Bosco M. Sobral</author>
+<author pid="84/2724">Kathia Regina L. Juc&#225;</author>
+<author pid="b/AzzedineBoukerche">Azzedine Boukerche</author>
+<author pid="41/961">Jo&#227;o Bosco M. Sobral</author>
 <title>Intrusion Detection Based on the Immune Human System.</title>
 <year>2002</year>
 <crossref>conf/ipps/2002</crossref>
@@ -221,9 +268,9 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/pdpta/LorenetSW99" mdate="2004-04-20">
-<author>Vera L&#250;cia Lorenet</author>
-<author>Jo&#227;o Bosco M. Sobral</author>
-<author>Carlos Becker Westphall</author>
+<author pid="78/3694">Vera L&#250;cia Lorenet</author>
+<author pid="41/961">Jo&#227;o Bosco M. Sobral</author>
+<author pid="b/CarlosBeckerWestphall">Carlos Becker Westphall</author>
 <title>TMN Distributed Management with CORBA: A Experience in Alarm Surveillance.</title>
 <pages>2692-2698</pages>
 <year>1999</year>
@@ -232,30 +279,35 @@
 <url>db/conf/pdpta/pdpta1999-6.html#LorenetSW99</url>
 </inproceedings>
 </r>
-<coauthors n="23" nc="4">
-<co c="0"><na f="b/Boukerche:Azzedine">Azzedine Boukerche</na></co>
-<co c="0"><na f="b/Buiati:F=aacute=bio">F&#225;bio Buiati</na></co>
-<co c="2"><na f="c/Campiolo:Rodrigo">Rodrigo Campiolo</na></co>
-<co c="0"><na f="c/Camponogara:Eduardo">Eduardo Camponogara</na></co>
-<co c="1"><na f="c/Carneiro:Tiago_Garcia_de_Senna">Tiago Garcia de Senna Carneiro</na></co>
-<co c="0"><na f="c/Castilho:Fernando_M=_B=_M=_de">Fernando M. B. M. de Castilho</na></co>
-<co c="2"><na f="c/Cremer:Vivian">Vivian Cremer</na></co>
-<co c="3"><na f="d/Degaspari:Joelson_A=">Joelson A. Degaspari</na></co>
-<co c="1"><na f="f/Ferreira:J=uacute=lio_C=eacute=sar">J&#250;lio C&#233;sar Ferreira</na></co>
-<co c="0" n="2"><na f="g/Garc=iacute=a=Villalba:L=_Javier">L. Javier Garc&#237;a-Villalba</na><na>Luis Javier Garc&#237;a-Villalba</na></co>
-<co c="0"><na f="g/Guardalben:Lucas">Lucas Guardalben</na></co>
-<co c="0" n="2"><na f="j/Juc=aacute=:Kathia_Regina_L=">Kathia Regina L. Juc&#225;</na><na>Kathia Regina Lemos Juc&#225;</na></co>
-<co c="3"><na f="l/Lima:I=_V=_M=_de">I. V. M. de Lima</na></co>
-<co c="1"><na f="l/Lima:Joubert_de_Castro">Joubert de Castro Lima</na></co>
-<co c="0"><na f="l/Lorenet:Vera_L=uacute=cia">Vera L&#250;cia Lorenet</na></co>
-<co c="0"><na f="m/Machado:Renato_B=">Renato B. Machado</na></co>
-<co c="0"><na f="n/Notare:Mirela_Sechi_Moretti_Annoni">Mirela Sechi Moretti Annoni Notare</na></co>
-<co c="1"><na f="p/Pagliares:Rodrigo_Martins">Rodrigo Martins Pagliares</na></co>
-<co c="0"><na f="p/Pereira:Andr=eacute=_Albino">Andr&#233; Albino Pereira</na></co>
-<co c="0"><na f="p/Preti:Jo=atilde=o_Paulo_Delgado">Jo&#227;o Paulo Delgado Preti</na></co>
-<co c="0" n="2"><na f="w/Westphall:Carla_Merkle">Carla Merkle Westphall</na><na>Carla M. Westphall</na></co>
-<co c="0"><na f="w/Westphall:Carlos_Becker">Carlos Becker Westphall</na></co>
-<co c="1"><na f="y/Yano:Edgar_Toshiro">Edgar Toshiro Yano</na></co>
+<coauthors n="28" nc="4">
+<co c="0"><na f="b/Boukerche:Azzedine" pid="b/AzzedineBoukerche">Azzedine Boukerche</na></co>
+<co c="0"><na f="b/Buiati:F=aacute=bio" pid="23/1253">F&#225;bio Buiati</na></co>
+<co c="2"><na f="c/Campiolo:Rodrigo" pid="53/4307">Rodrigo Campiolo</na></co>
+<co c="0"><na f="c/Camponogara:Eduardo" pid="13/493">Eduardo Camponogara</na></co>
+<co c="1"><na f="c/Carneiro:Tiago_Garcia_de_Senna" pid="07/4662">Tiago Garcia de Senna Carneiro</na></co>
+<co c="0"><na f="c/Castilho:Fernando_M=_B=_M=_de" pid="65/6420">Fernando M. B. M. de Castilho</na></co>
+<co c="2"><na f="c/Cremer:Vivian" pid="46/3342">Vivian Cremer</na></co>
+<co c="3"><na f="d/Degaspari:Joelson_A=" pid="15/5324">Joelson A. Degaspari</na></co>
+<co c="1"><na f="f/Ferreira:J=uacute=lio_C=eacute=sar" pid="60/1456">J&#250;lio C&#233;sar Ferreira</na></co>
+<co c="0" n="2"><na f="g/Garc=iacute=a=Villalba:L=_Javier" pid="g/LJavierGarciaVillalba">L. Javier Garc&#237;a-Villalba</na><na>Luis Javier Garc&#237;a-Villalba</na></co>
+<co c="0"><na f="g/Guardalben:Lucas" pid="27/1247">Lucas Guardalben</na></co>
+<co c="0" n="2"><na f="j/Juc=aacute=:Kathia_Regina_L=" pid="84/2724">Kathia Regina L. Juc&#225;</na><na>Kathia Regina Lemos Juc&#225;</na></co>
+<co c="0" n="2"><na f="k/Koch:Fernando_Luiz" pid="79/1764">Fernando Luiz Koch</na><na>Fernando Koch</na></co>
+<co c="0"><na f="l/Leao:Jorge_Lopes_de_Souza" pid="230/4112">Jorge Lopes de Souza Leao</na></co>
+<co c="3"><na f="l/Lima:I=_V=_M=_de" pid="52/1059">I. V. M. de Lima</na></co>
+<co c="1"><na f="l/Lima:Joubert_de_Castro" pid="l/JdCLima">Joubert de Castro Lima</na></co>
+<co c="0"><na f="l/Lorenet:Vera_L=uacute=cia" pid="78/3694">Vera L&#250;cia Lorenet</na></co>
+<co c="0"><na f="m/Machado:Renato_B=" pid="70/1562">Renato B. Machado</na></co>
+<co c="0"><na f="n/Notare:Mirela_Sechi_Moretti_Annoni" pid="98/4030">Mirela Sechi Moretti Annoni Notare</na></co>
+<co c="1"><na f="p/Pagliares:Rodrigo_Martins" pid="79/2360">Rodrigo Martins Pagliares</na></co>
+<co c="0"><na f="p/Pereira:Andr=eacute=_Albino" pid="177/3628">Andr&#233; Albino Pereira</na></co>
+<co c="0"><na f="p/Preti:Jo=atilde=o_Paulo_Delgado" pid="134/9378">Jo&#227;o Paulo Delgado Preti</na></co>
+<co c="0"><na f="s/Souza:Cristiano_Antonio_de" pid="274/9872">Cristiano Antonio de Souza</na></co>
+<co c="0"><na f="v/Vieira:Gustavo_dos_Santos" pid="274/9760">Gustavo dos Santos Vieira</na></co>
+<co c="0"><na f="v/Vieira:Kleber" pid="80/1059">Kleber Vieira</na></co>
+<co c="0" n="2"><na f="w/Westphall:Carla_Merkle" pid="w/CarlaMerkleWestphall">Carla Merkle Westphall</na><na>Carla M. Westphall</na></co>
+<co c="0"><na f="w/Westphall:Carlos_Becker" pid="b/CarlosBeckerWestphall">Carlos Becker Westphall</na></co>
+<co c="1"><na f="y/Yano:Edgar_Toshiro" pid="58/3362">Edgar Toshiro Yano</na></co>
 </coauthors>
 </dblpperson>
 

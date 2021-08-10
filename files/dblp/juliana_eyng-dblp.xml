@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<dblpperson name="Juliana Eyng" n="1">
+<dblpperson name="Juliana Eyng" pid="204/2752" n="1">
 <person key="homepages/204/2752" mdate="2017-08-15">
-<author>Juliana Eyng</author>
+<author pid="204/2752">Juliana Eyng</author>
 </person>
 <r><phdthesis key="phd/ndltd/Eyng12" mdate="2018-07-14">
-<author>Juliana Eyng</author>
+<author pid="204/2752">Juliana Eyng</author>
 <title>Programa&#231;&#227;o paralela aplicada ao m&#233;todo N-Scheme para solu&#231;&#227;o de problemas com o m&#233;todo de elementos finitos.</title>
 <year>2012</year>
 <school>Federal University of Santa Catarina, Florian&#243;polis, Brazil</school>

@@ -1,25 +1,25 @@
 <?xml version="1.0"?>
-<dblpperson name="Vera do Carmo C. de Vargas" n="1">
+<dblpperson name="Vera do Carmo C. de Vargas" pid="162/5558" n="1">
 <person key="homepages/162/5558" mdate="2015-05-17">
-<author>Vera do Carmo C. de Vargas</author>
+<author pid="162/5558">Vera do Carmo C. de Vargas</author>
 </person>
-<r><article key="journals/candie/VargasLS04" mdate="2017-05-18">
-<author>Vera do Carmo C. de Vargas</author>
-<author>Luis Felipe Dias Lopes</author>
-<author>Adriano Mendon&#231;a Souza</author>
+<r><article key="journals/candie/VargasLS04" mdate="2020-02-20">
+<author pid="162/5558">Vera do Carmo C. de Vargas</author>
+<author pid="162/5550">Luis Felipe Dias Lopes</author>
+<author pid="136/0389">Adriano Mendon&#231;a Souza</author>
 <title>Comparative study of the performance of the CuSum and EWMA control charts.</title>
 <pages>707-724</pages>
 <year>2004</year>
 <volume>46</volume>
-<journal>Computers &#38; Industrial Engineering</journal>
+<journal>Comput. Ind. Eng.</journal>
 <number>4</number>
 <ee>https://doi.org/10.1016/j.cie.2004.05.025</ee>
 <url>db/journals/candie/candie46.html#VargasLS04</url>
 </article>
 </r>
 <coauthors n="2" nc="1">
-<co c="0"><na f="l/Lopes:Luis_Felipe_Dias">Luis Felipe Dias Lopes</na></co>
-<co c="0"><na f="s/Souza:Adriano_Mendon=ccedil=a">Adriano Mendon&#231;a Souza</na></co>
+<co c="0"><na f="l/Lopes:Luis_Felipe_Dias" pid="162/5550">Luis Felipe Dias Lopes</na></co>
+<co c="0"><na f="s/Souza:Adriano_Mendon=ccedil=a" pid="136/0389">Adriano Mendon&#231;a Souza</na></co>
 </coauthors>
 </dblpperson>
 

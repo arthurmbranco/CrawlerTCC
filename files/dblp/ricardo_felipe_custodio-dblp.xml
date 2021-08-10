@@ -1,12 +1,92 @@
 <?xml version="1.0"?>
-<dblpperson name="Ricardo Felipe Cust&#243;dio" n="26">
+<dblpperson name="Ricardo Felipe Cust&#243;dio" pid="95/6830" n="34">
 <person key="homepages/95/6830" mdate="2009-06-10">
-<author>Ricardo Felipe Cust&#243;dio</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
 </person>
+<r><article key="journals/sensors/GironMC21" mdate="2021-08-02">
+<author orcid="0000-0001-7668-7505" pid="177/2519">Alexandre Augusto Giron</author>
+<author pid="24/765">Jean Everson Martina</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<title>Steganographic Analysis of Blockchains.</title>
+<pages>4078</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Sensors</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.3390/s21124078</ee>
+<url>db/journals/sensors/sensors21.html#GironMC21</url>
+</article>
+</r>
+<r><inproceedings key="conf/acns/GironMC20" mdate="2020-10-28">
+<author pid="177/2519">Alexandre Augusto Giron</author>
+<author pid="24/765">Jean Everson Martina</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<title>Bitcoin Blockchain Steganographic Analysis.</title>
+<pages>41-57</pages>
+<year>2020</year>
+<booktitle>ACNS Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-61638-0_3</ee>
+<crossref>conf/acns/2020w</crossref>
+<url>db/conf/acns/acns2020w.html#GironMC20</url>
+</inproceedings>
+</r>
+<r><article key="journals/jce/BanegasCP19" mdate="2020-07-09">
+<author pid="150/9441">Gustavo Banegas</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="71/2552">Daniel Panario</author>
+<title>A new class of irreducible pentanomials for polynomial-based multipliers in binary fields.</title>
+<pages>359-373</pages>
+<year>2019</year>
+<volume>9</volume>
+<journal>J. Cryptogr. Eng.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s13389-018-0197-6</ee>
+<url>db/journals/jce/jce9.html#BanegasCP19</url>
+</article>
+</r>
+<r><inproceedings key="conf/africacrypt/ZamboninBC19" mdate="2020-09-05">
+<author orcid="0000-0002-6962-9347" pid="230/1832">Gustavo Zambonin</author>
+<author pid="243/7912">Matheus S. P. Bittencourt</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<title>Handling Vinegar Variables to Shorten Rainbow Key Pairs.</title>
+<pages>391-408</pages>
+<year>2019</year>
+<booktitle>AFRICACRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-23696-0_20</ee>
+<crossref>conf/africacrypt/2019</crossref>
+<url>db/conf/africacrypt/africacrypt2019.html#ZamboninBC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincrypt/MartinsBC19" mdate="2019-09-12">
+<author pid="230/1770">Douglas Marcelino Beppler Martins</author>
+<author pid="150/9441">Gustavo Banegas</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<title>Don't Forget Your Roots: Constant-Time Root Finding over \mathbb F_2^m F 2 m.</title>
+<pages>109-129</pages>
+<year>2019</year>
+<booktitle>LATINCRYPT</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-30530-7_6</ee>
+<crossref>conf/latincrypt/2019</crossref>
+<url>db/conf/latincrypt/latincrypt2019.html#MartinsBC19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/iacr/MartinsBC19" mdate="2020-05-11">
+<author pid="230/1770">Douglas Marcelino Beppler Martins</author>
+<author pid="150/9441">Gustavo Banegas</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<title>Don't forget your roots: constant-time root finding over &#54589;<sub>2<sup>m</sup></sub>.</title>
+<pages>797</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>IACR Cryptol. ePrint Arch.</journal>
+<ee type="oa">https://eprint.iacr.org/2019/797</ee>
+<url>db/journals/iacr/iacr2019.html#MartinsBC19</url>
+</article>
+</r>
 <r><article key="journals/ipl/NiehuesCP18" mdate="2018-01-16">
-<author>Lucas Boppre Niehues</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
-<author>Daniel Panario</author>
+<author pid="212/6939">Lucas Boppre Niehues</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="71/2552">Daniel Panario</author>
 <title>Fast modular reduction and squaring in <i>GF</i>(2<sup><i>m</i></sup>).</title>
 <pages>33-38</pages>
 <year>2018</year>
@@ -16,10 +96,43 @@
 <url>db/journals/ipl/ipl132.html#NiehuesCP18</url>
 </article>
 </r>
+<r><inproceedings key="conf/iscc/PerinZMCM18" mdate="2019-10-19">
+<author pid="230/1914">Lucas Pandolfo Perin</author>
+<author orcid="0000-0002-6962-9347" pid="230/1832">Gustavo Zambonin</author>
+<author pid="230/1770">Douglas Marcelino Beppler Martins</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="24/765">Jean Everson Martina</author>
+<title>Tuning the Winternitz hash-based digital signature scheme.</title>
+<pages>537-542</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538642</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538642</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#PerinZMCM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscc/SouzaVCCMP18" mdate="2018-12-23">
+<author pid="139/3366">Rick Lopes de Souza</author>
+<author pid="61/6341">Mart&#237;n A. Gagliotti Vigil</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="123/4672">Florian Caullery</author>
+<author pid="30/6066">Lucia Moura</author>
+<author pid="71/2552">Daniel Panario</author>
+<title>Secret Sharing Schemes with Hidden Sets.</title>
+<pages>713-718</pages>
+<year>2018</year>
+<booktitle>ISCC</booktitle>
+<ee>https://doi.org/10.1109/ISCC.2018.8538542</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISCC.2018.8538542</ee>
+<crossref>conf/iscc/2018</crossref>
+<url>db/conf/iscc/iscc2018.html#SouzaVCCMP18</url>
+</inproceedings>
+</r>
 <r><article publtype="informal" key="journals/corr/abs-1806-00432" mdate="2018-08-13">
-<author>Gustavo Banegas</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
-<author>Daniel Panario</author>
+<author pid="150/9441">Gustavo Banegas</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="71/2552">Daniel Panario</author>
 <title>A new class of irreducible pentanomials for polynomial based multipliers in binary fields.</title>
 <year>2018</year>
 <volume>abs/1806.00432</volume>
@@ -28,41 +141,41 @@
 <url>db/journals/corr/corr1806.html#abs-1806-00432</url>
 </article>
 </r>
-<r><article publtype="informal" key="journals/iacr/BanegasCP18" mdate="2018-08-14">
-<author>Gustavo Banegas</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
-<author>Daniel Panario</author>
+<r><article publtype="informal" key="journals/iacr/BanegasCP18" mdate="2020-05-11">
+<author pid="150/9441">Gustavo Banegas</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="71/2552">Daniel Panario</author>
 <title>A new class of irreducible pentanomials for polynomial based multipliers in binary fields.</title>
 <pages>554</pages>
 <year>2018</year>
 <volume>2018</volume>
-<journal>IACR Cryptology ePrint Archive</journal>
+<journal>IACR Cryptol. ePrint Arch.</journal>
 <ee type="oa">https://eprint.iacr.org/2018/554</ee>
 <url>db/journals/iacr/iacr2018.html#BanegasCP18</url>
 </article>
 </r>
-<r><article key="journals/ijguc/BrocardoRDCT17" mdate="2017-05-28">
-<author>Marcelo Luiz Brocardo</author>
-<author>Carlos Roberto De Rolt</author>
-<author>Julio Da Silva Dias</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
-<author>Issa Traor&#233;</author>
+<r><article key="journals/ijguc/BrocardoRDCT17" mdate="2020-08-25">
+<author pid="147/1052">Marcelo Luiz Brocardo</author>
+<author pid="164/8098">Carlos Roberto De Rolt</author>
+<author pid="166/8912">Julio Da Silva Dias</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="10/1711">Issa Traor&#233;</author>
 <title>Privacy information in a positive credit system.</title>
 <pages>61-69</pages>
 <year>2017</year>
 <volume>8</volume>
-<journal>IJGUC</journal>
+<journal>Int. J. Grid Util. Comput.</journal>
 <number>1</number>
 <ee>https://doi.org/10.1504/IJGUC.2017.10003005</ee>
 <url>db/journals/ijguc/ijguc8.html#BrocardoRDCT17</url>
 </article>
 </r>
 <r><article key="journals/ijisec/MartinaSCPC15" mdate="2017-09-16">
-<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
-<author>Eduardo dos Santos</author>
-<author>Marcelo Carlomagno Carlos</author>
-<author>Geraint Price</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
+<author orcid="0000-0003-4104-1741" pid="24/765">Jean Everson Martina</author>
+<author pid="119/3505">Eduardo dos Santos</author>
+<author pid="118/1027">Marcelo Carlomagno Carlos</author>
+<author pid="10/1506">Geraint Price</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
 <title>An adaptive threat model for security ceremonies.</title>
 <pages>103-121</pages>
 <year>2015</year>
@@ -74,10 +187,10 @@
 </article>
 </r>
 <r><article key="journals/ipl/IdalinoMCP15" mdate="2017-05-26">
-<author>Tha&#237;s Bardini Idalino</author>
-<author>Lucia Moura</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
-<author>Daniel Panario</author>
+<author pid="165/1107">Tha&#237;s Bardini Idalino</author>
+<author pid="30/6066">Lucia Moura</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="71/2552">Daniel Panario</author>
 <title>Locating modifications in signed data for partial data integrity.</title>
 <pages>731-737</pages>
 <year>2015</year>
@@ -89,11 +202,11 @@
 </article>
 </r>
 <r><inproceedings key="conf/cisis/BrocardoCRDT15" mdate="2017-05-25">
-<author>Marcelo Luiz Brocardo</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
-<author>Carlos Roberto De Rolt</author>
-<author>Julio Da Silva Dias</author>
-<author>Issa Traor&#233;</author>
+<author pid="147/1052">Marcelo Luiz Brocardo</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="164/8098">Carlos Roberto De Rolt</author>
+<author pid="166/8912">Julio Da Silva Dias</author>
+<author pid="10/1711">Issa Traor&#233;</author>
 <title>Sharing Privacy Information in Credit Analysis Environment.</title>
 <pages>491-496</pages>
 <year>2015</year>
@@ -104,10 +217,10 @@
 <url>db/conf/cisis/cisis2015.html#BrocardoCRDT15</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/europki/WerlangCV13" mdate="2017-05-19">
-<author>Felipe Carlos Werlang</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
-<author>Mart&#237;n A. Gagliotti Vigil</author>
+<r><inproceedings key="conf/europki/WerlangCV13" mdate="2019-10-19">
+<author pid="140/2142">Felipe Carlos Werlang</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author orcid="0000-0001-8379-4309" pid="61/6341">Mart&#237;n A. Gagliotti Vigil</author>
 <title>A User-Centric Digital Signature Scheme.</title>
 <pages>152-169</pages>
 <year>2013</year>
@@ -117,24 +230,24 @@
 <url>db/conf/europki/europki2013.html#WerlangCV13</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sac/CarlosMPC13" mdate="2013-05-03">
-<author>Marcelo Carlomagno Carlos</author>
-<author>Jean Everson Martina</author>
-<author>Geraint Price</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
+<r><inproceedings key="conf/sac/CarlosMPC13" mdate="2018-11-06">
+<author pid="118/1027">Marcelo Carlomagno Carlos</author>
+<author pid="24/765">Jean Everson Martina</author>
+<author pid="10/1506">Geraint Price</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
 <title>An updated threat model for security ceremonies.</title>
 <pages>1836-1843</pages>
 <year>2013</year>
 <booktitle>SAC</booktitle>
-<ee>http://doi.acm.org/10.1145/2480362.2480705</ee>
+<ee>https://doi.org/10.1145/2480362.2480705</ee>
 <crossref>conf/sac/2013</crossref>
 <url>db/conf/sac/sac2013.html#CarlosMPC13</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/trustcom/SouzaLC13" mdate="2017-05-23">
-<author>Rick Lopes de Souza</author>
-<author>Lau Cheuk Lung</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
+<author pid="139/3366">Rick Lopes de Souza</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
 <title>Multi-factor Authentication in Key Management Systems.</title>
 <pages>746-752</pages>
 <year>2013</year>
@@ -145,11 +258,11 @@
 <url>db/conf/trustcom/trustcom2013.html#SouzaLC13</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/europki/VigilMCV12" mdate="2017-05-19">
-<author>Mart&#237;n A. Gagliotti Vigil</author>
-<author>Cristian Thiago Moecke</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
-<author>Melanie Volkamer</author>
+<r><inproceedings key="conf/europki/VigilMCV12" mdate="2019-10-19">
+<author orcid="0000-0001-8379-4309" pid="61/6341">Mart&#237;n A. Gagliotti Vigil</author>
+<author pid="128/5036">Cristian Thiago Moecke</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="v/MelanieVolkamer">Melanie Volkamer</author>
 <title>The Notary Based PKI - A Lightweight PKI for Long-Term Signatures on Documents.</title>
 <pages>85-97</pages>
 <year>2012</year>
@@ -160,10 +273,10 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/secrypt/CarlosMPC12" mdate="2013-03-07">
-<author>Marcelo Carlomagno Carlos</author>
-<author>Jean Everson Martina</author>
-<author>Geraint Price</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
+<author pid="118/1027">Marcelo Carlomagno Carlos</author>
+<author pid="24/765">Jean Everson Martina</author>
+<author pid="10/1506">Geraint Price</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
 <title>A Proposed Framework for Analysing Security Ceremonies.</title>
 <pages>440-445</pages>
 <year>2012</year>
@@ -173,9 +286,9 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/trustcom/SantosMC12" mdate="2017-09-16">
-<author>Eduardo dos Santos</author>
-<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
+<author pid="119/3505">Eduardo dos Santos</author>
+<author orcid="0000-0003-4104-1741" pid="24/765">Jean Everson Martina</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
 <title>Towards a Formal Verification of a Multi-factor Authentication Protocol Using Automated Theorem Provers.</title>
 <pages>84-91</pages>
 <year>2012</year>
@@ -186,12 +299,12 @@
 <url>db/conf/trustcom/trustcom2012.html#SantosMC12</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/lcn/CostaPVMC11" mdate="2017-06-04">
-<author>Robson Costa</author>
-<author orcid="0000-0002-6386-9753">Paulo Portugal</author>
-<author orcid="0000-0003-3115-0901">Francisco Vasques</author>
-<author>Ricardo Moraes</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
+<r><inproceedings key="conf/lcn/CostaPVMC11" mdate="2020-09-28">
+<author pid="53/10165">Robson Costa</author>
+<author orcid="0000-0002-6386-9753" pid="61/967">Paulo Portugal</author>
+<author orcid="0000-0003-3115-0901" pid="04/6871">Francisco Vasques</author>
+<author orcid="0000-0003-0028-5213" pid="184/5911">Ricardo de Moraes</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
 <title>A coordination layer to handle real-time communication in Wi-Fi networks with uncontrolled traffic sources.</title>
 <pages>263-266</pages>
 <year>2011</year>
@@ -202,40 +315,41 @@
 <url>db/conf/lcn/lcn2011.html#CostaPVMC11</url>
 </inproceedings>
 </r>
-<r><article key="journals/ejwcn/MoraesPVC10" mdate="2017-06-05">
-<author>Ricardo Moraes</author>
-<author orcid="0000-0002-6386-9753">Paulo Portugal</author>
-<author orcid="0000-0003-3115-0901">Francisco Vasques</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
+<r><article key="journals/ejwcn/MoraesPVC10" mdate="2020-09-28">
+<author orcid="0000-0003-0028-5213" pid="184/5911">Ricardo de Moraes</author>
+<author orcid="0000-0002-6386-9753" pid="61/967">Paulo Portugal</author>
+<author orcid="0000-0003-3115-0901" pid="04/6871">Francisco Vasques</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
 <title>Assessment of the IEEE 802.11e EDCA Protocol Limitations when Dealing with Real-Time Communication.</title>
 <year>2010</year>
 <volume>2010</volume>
-<journal>EURASIP J. Wireless Comm. and Networking</journal>
-<ee>https://doi.org/10.1155/2010/351480</ee>
+<journal>EURASIP J. Wirel. Commun. Netw.</journal>
+<ee type="oa">https://doi.org/10.1155/2010/351480</ee>
+<ee>https://www.wikidata.org/entity/Q59253963</ee>
 <url>db/journals/ejwcn/ejwcn2010.html#MoraesPVC10</url>
 </article>
 </r>
-<r><article key="journals/jnsm/ArantesWCC10" mdate="2017-05-20">
-<author>Juliana Amaral Arantes</author>
-<author>Carlos Becker Westphall</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
-<author>Shirlei Aparecida de Chaves</author>
+<r><article key="journals/jnsm/ArantesWCC10" mdate="2021-07-25">
+<author pid="95/9049">Juliana Amaral Arantes</author>
+<author orcid="0000-0002-5391-7942" pid="b/CarlosBeckerWestphall">Carlos Becker Westphall</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="89/9049">Shirlei Aparecida de Chaves</author>
 <title>Analytical Model to Evaluate the Performance of Mobile Agents in a Generic Network Topology.</title>
 <pages>357-373</pages>
 <year>2010</year>
 <volume>18</volume>
-<journal>J. Network Syst. Manage.</journal>
+<journal>J. Netw. Syst. Manag.</journal>
 <number>4</number>
 <ee>https://doi.org/10.1007/s10922-010-9173-x</ee>
 <url>db/journals/jnsm/jnsm18.html#ArantesWCC10</url>
 </article>
 </r>
 <r><inproceedings key="conf/europki/RamosSLKC10" mdate="2017-05-19">
-<author>Thiago Ac&#243;rdi Ramos</author>
-<author>Nelson da Silva</author>
-<author>Lau Cheuk Lung</author>
-<author>Jonathan Gehard Kohler</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
+<author pid="82/10003">Thiago Ac&#243;rdi Ramos</author>
+<author pid="85/10003">Nelson da Silva</author>
+<author pid="65/85">Lau Cheuk Lung</author>
+<author pid="86/10003">Jonathan Gehard Kohler</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
 <title>An Infrastructure for Long-Term Archiving of Authenticated and Sensitive Electronic Documents.</title>
 <pages>193-207</pages>
 <year>2010</year>
@@ -246,9 +360,9 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/wote/AraujoCG10" mdate="2018-03-23">
-<author>Roberto Ara&#250;jo 0001</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
-<author>Jeroen van de Graaf</author>
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="27/6925">Jeroen van de Graaf</author>
 <title>A Verifiable Voting Protocol Based on Farnel.</title>
 <pages>274-288</pages>
 <year>2010</year>
@@ -259,9 +373,9 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/cse/MartinaSC09" mdate="2017-05-24">
-<author>Jean Everson Martina</author>
-<author>T&#250;lio Cicero Salvaro de Souza</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
+<author pid="24/765">Jean Everson Martina</author>
+<author pid="08/6335">T&#250;lio Cicero Salvaro de Souza</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
 <title>Ceremonies Formal Analysis in PKI's Context.</title>
 <pages>392-398</pages>
 <year>2009</year>
@@ -272,12 +386,12 @@
 <url>db/conf/cse/cse2009-3.html#MartinaSC09</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/etfa/SemprebomMMVC09" mdate="2017-06-02">
-<author>Tiago Semprebom</author>
-<author orcid="0000-0001-7767-0692">Carlos Montez</author>
-<author>Ricardo Moraes</author>
-<author orcid="0000-0003-3115-0901">Francisco Vasques</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
+<r><inproceedings key="conf/etfa/SemprebomMMVC09" mdate="2020-09-28">
+<author pid="34/436">Tiago Semprebom</author>
+<author orcid="0000-0001-7767-0692" pid="81/1303">Carlos Montez</author>
+<author orcid="0000-0003-0028-5213" pid="184/5911">Ricardo de Moraes</author>
+<author orcid="0000-0003-3115-0901" pid="04/6871">Francisco Vasques</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
 <title>Distributed DBP: A (m, k)-firm based Distributed Approach for QoS Provision in IEEE 802.15.4 Networks.</title>
 <pages>1-8</pages>
 <year>2009</year>
@@ -288,9 +402,9 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/aina/PereiraFC08" mdate="2017-05-21">
-<author>Fernando Carlos Pereira</author>
-<author>Joni da Silva Fraga</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
+<author pid="80/4695">Fernando Carlos Pereira</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
 <title>Self-Adaptable and Intrusion Tolerant Certificate Authority for Mobile Ad Hoc Networks.</title>
 <pages>705-712</pages>
 <year>2008</year>
@@ -302,11 +416,11 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/europki/CustodioVRPF08" mdate="2017-05-19">
-<author>Ricardo Felipe Cust&#243;dio</author>
-<author>Mart&#237;n A. Gagliotti Vigil</author>
-<author>Juliano Romani</author>
-<author>Fernando Carlos Pereira</author>
-<author>Joni da Silva Fraga</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="61/6341">Mart&#237;n A. Gagliotti Vigil</author>
+<author pid="90/3374">Juliano Romani</author>
+<author pid="80/4695">Fernando Carlos Pereira</author>
+<author pid="257/5489">Joni da Silva Fraga</author>
 <title>Optimized Certificates - A New Proposal for Efficient Electronic Document Signature Validation.</title>
 <pages>49-59</pages>
 <year>2008</year>
@@ -316,23 +430,23 @@
 <url>db/conf/europki/europki2008.html#CustodioVRPF08</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/idtrust/SouzaMC08" mdate="2017-09-16">
-<author>T&#250;lio Cicero Salvaro de Souza</author>
-<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
+<r><inproceedings key="conf/idtrust/SouzaMC08" mdate="2018-11-06">
+<author pid="08/6335">T&#250;lio Cicero Salvaro de Souza</author>
+<author orcid="0000-0003-4104-1741" pid="24/765">Jean Everson Martina</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
 <title>Audit and backup procedures for hardware security modules.</title>
 <pages>89-97</pages>
 <year>2008</year>
 <booktitle>IDtrust</booktitle>
-<ee>http://doi.acm.org/10.1145/1373290.1373302</ee>
+<ee>https://doi.org/10.1145/1373290.1373302</ee>
 <crossref>conf/idtrust/2008</crossref>
 <url>db/conf/idtrust/idtrust2008.html#SouzaMC08</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/europki/MartinaSC07" mdate="2017-09-16">
-<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
-<author>T&#250;lio Cicero Salvaro de Souza</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
+<author orcid="0000-0003-4104-1741" pid="24/765">Jean Everson Martina</author>
+<author pid="08/6335">T&#250;lio Cicero Salvaro de Souza</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
 <title>OpenHSM: An Open Key Life Cycle Protocol for Public Key Infrastructure's Hardware Security Modules.</title>
 <pages>220-235</pages>
 <year>2007</year>
@@ -342,73 +456,79 @@
 <url>db/conf/europki/europki2007.html#MartinaSC07</url>
 </inproceedings>
 </r>
-<r><article publtype="informal" key="journals/iacr/AraujoCG07" mdate="2018-08-14">
-<author>Roberto Ara&#250;jo 0001</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
-<author>Jeroen van de Graaf</author>
+<r><article publtype="informal" key="journals/iacr/AraujoCG07" mdate="2020-05-11">
+<author pid="145/5123">Roberto Ara&#250;jo 0001</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="27/6925">Jeroen van de Graaf</author>
 <title>A Verifiable Voting Protocol based on Farnel.</title>
 <pages>252</pages>
 <year>2007</year>
 <volume>2007</volume>
-<journal>IACR Cryptology ePrint Archive</journal>
+<journal>IACR Cryptol. ePrint Arch.</journal>
 <ee type="oa">http://eprint.iacr.org/2007/252</ee>
 <url>db/journals/iacr/iacr2007.html#AraujoCG07</url>
 </article>
 </r>
-<r><inproceedings key="conf/lanoms/DiasDCR03" mdate="2015-08-18">
-<author>J&#250;lio S. Dias</author>
-<author>Denise B. Dem&#233;trio</author>
-<author>Ricardo Felipe Cust&#243;dio</author>
-<author>Carlos Roberto De Rolt</author>
+<r><inproceedings key="conf/lanoms/DiasDCR03" mdate="2020-03-12">
+<author pid="59/10166">J&#250;lio S. Dias</author>
+<author pid="23/10167">Denise B. Dem&#233;trio</author>
+<author pid="95/6830">Ricardo Felipe Cust&#243;dio</author>
+<author pid="164/8098">Carlos Roberto De Rolt</author>
 <title>Reliable Clock Synchronization for Eletronic Documents.</title>
 <pages>13-20</pages>
 <year>2003</year>
 <booktitle>LANOMS</booktitle>
-<ee>http://www.lanoms.org/2005/anaiscd/2003/1-2.pdf</ee>
+<ee type="oa">http://www.lanoms.org/2005/anaiscd/2003/1-2.pdf</ee>
 <crossref>conf/lanoms/2003</crossref>
 <url>db/conf/lanoms/lanoms2003.html#DiasDCR03</url>
 </inproceedings>
 </r>
-<coauthors n="39" nc="3">
-<co c="0"><na f="a/Arantes:Juliana_Amaral">Juliana Amaral Arantes</na></co>
-<co c="2"><na f="a/Ara=uacute=jo_0001:Roberto">Roberto Ara&#250;jo 0001</na></co>
-<co c="0"><na f="b/Banegas:Gustavo">Gustavo Banegas</na></co>
-<co c="1"><na f="b/Brocardo:Marcelo_Luiz">Marcelo Luiz Brocardo</na></co>
-<co c="0"><na f="c/Carlos:Marcelo_Carlomagno">Marcelo Carlomagno Carlos</na></co>
-<co c="0"><na f="c/Chaves:Shirlei_Aparecida_de">Shirlei Aparecida de Chaves</na></co>
-<co c="0"><na f="c/Costa:Robson">Robson Costa</na></co>
-<co c="1"><na f="d/Dem=eacute=trio:Denise_B=">Denise B. Dem&#233;trio</na></co>
-<co c="1"><na f="d/Dias:Julio_Da_Silva">Julio Da Silva Dias</na></co>
-<co c="1"><na f="d/Dias:J=uacute=lio_S=">J&#250;lio S. Dias</na></co>
-<co c="0"><na f="f/Fraga:Joni_da_Silva">Joni da Silva Fraga</na></co>
-<co c="2"><na f="g/Graaf:Jeroen_van_de">Jeroen van de Graaf</na></co>
-<co c="0"><na f="i/Idalino:Tha=iacute=s_Bardini">Tha&#237;s Bardini Idalino</na></co>
-<co c="0"><na f="k/Kohler:Jonathan_Gehard">Jonathan Gehard Kohler</na></co>
-<co c="0"><na f="l/Lung:Lau_Cheuk">Lau Cheuk Lung</na></co>
-<co c="0"><na f="m/Martina:Jean_Everson">Jean Everson Martina</na></co>
-<co c="0"><na f="m/Moecke:Cristian_Thiago">Cristian Thiago Moecke</na></co>
-<co c="0"><na f="m/Montez:Carlos">Carlos Montez</na></co>
-<co c="0"><na f="m/Moraes:Ricardo">Ricardo Moraes</na></co>
-<co c="0"><na f="m/Moura:Lucia">Lucia Moura</na></co>
-<co c="0"><na f="n/Niehues:Lucas_Boppre">Lucas Boppre Niehues</na></co>
-<co c="0"><na f="p/Panario:Daniel">Daniel Panario</na></co>
-<co c="0"><na f="p/Pereira:Fernando_Carlos">Fernando Carlos Pereira</na></co>
-<co c="0"><na f="p/Portugal:Paulo">Paulo Portugal</na></co>
-<co c="0"><na f="p/Price:Geraint">Geraint Price</na></co>
-<co c="0"><na f="r/Ramos:Thiago_Ac=oacute=rdi">Thiago Ac&#243;rdi Ramos</na></co>
-<co c="1"><na f="r/Rolt:Carlos_Roberto_De">Carlos Roberto De Rolt</na></co>
-<co c="0"><na f="r/Romani:Juliano">Juliano Romani</na></co>
-<co c="0"><na f="s/Santos:Eduardo_dos">Eduardo dos Santos</na></co>
-<co c="0"><na f="s/Semprebom:Tiago">Tiago Semprebom</na></co>
-<co c="0"><na f="s/Silva:Nelson_da">Nelson da Silva</na></co>
-<co c="0"><na f="s/Souza:Rick_Lopes_de">Rick Lopes de Souza</na></co>
-<co c="0"><na f="s/Souza:T=uacute=lio_Cicero_Salvaro_de">T&#250;lio Cicero Salvaro de Souza</na></co>
-<co c="1"><na f="t/Traor=eacute=:Issa">Issa Traor&#233;</na></co>
-<co c="0"><na f="v/Vasques:Francisco">Francisco Vasques</na></co>
-<co c="0"><na f="v/Vigil:Mart=iacute=n_A=_Gagliotti">Mart&#237;n A. Gagliotti Vigil</na></co>
-<co c="0"><na f="v/Volkamer:Melanie">Melanie Volkamer</na></co>
-<co c="0"><na f="w/Werlang:Felipe_Carlos">Felipe Carlos Werlang</na></co>
-<co c="0"><na f="w/Westphall:Carlos_Becker">Carlos Becker Westphall</na></co>
+<coauthors n="45" nc="3">
+<co c="0"><na f="a/Arantes:Juliana_Amaral" pid="95/9049">Juliana Amaral Arantes</na></co>
+<co c="2"><na f="a/Ara=uacute=jo_0001:Roberto" pid="145/5123">Roberto Ara&#250;jo 0001</na></co>
+<co c="0"><na f="b/Banegas:Gustavo" pid="150/9441">Gustavo Banegas</na></co>
+<co c="0"><na f="b/Bittencourt:Matheus_S=_P=" pid="243/7912">Matheus S. P. Bittencourt</na></co>
+<co c="1"><na f="b/Brocardo:Marcelo_Luiz" pid="147/1052">Marcelo Luiz Brocardo</na></co>
+<co c="0"><na f="c/Carlos:Marcelo_Carlomagno" pid="118/1027">Marcelo Carlomagno Carlos</na></co>
+<co c="0"><na f="c/Caullery:Florian" pid="123/4672">Florian Caullery</na></co>
+<co c="0"><na f="c/Chaves:Shirlei_Aparecida_de" pid="89/9049">Shirlei Aparecida de Chaves</na></co>
+<co c="0"><na f="c/Costa:Robson" pid="53/10165">Robson Costa</na></co>
+<co c="1"><na f="d/Dem=eacute=trio:Denise_B=" pid="23/10167">Denise B. Dem&#233;trio</na></co>
+<co c="1"><na f="d/Dias:Julio_Da_Silva" pid="166/8912">Julio Da Silva Dias</na></co>
+<co c="1"><na f="d/Dias:J=uacute=lio_S=" pid="59/10166">J&#250;lio S. Dias</na></co>
+<co c="0"><na f="f/Fraga:Joni_da_Silva" pid="257/5489">Joni da Silva Fraga</na></co>
+<co c="0" n="2"><na f="g/Giron:Alexandre_A=" pid="177/2519">Alexandre A. Giron</na><na>Alexandre Augusto Giron</na></co>
+<co c="2"><na f="g/Graaf:Jeroen_van_de" pid="27/6925">Jeroen van de Graaf</na></co>
+<co c="0"><na f="i/Idalino:Tha=iacute=s_Bardini" pid="165/1107">Tha&#237;s Bardini Idalino</na></co>
+<co c="0"><na f="k/Kohler:Jonathan_Gehard" pid="86/10003">Jonathan Gehard Kohler</na></co>
+<co c="0"><na f="l/Lung:Lau_Cheuk" pid="65/85">Lau Cheuk Lung</na></co>
+<co c="0"><na f="m/Martina:Jean_Everson" pid="24/765">Jean Everson Martina</na></co>
+<co c="0"><na f="m/Martins:Douglas_Marcelino_Beppler" pid="230/1770">Douglas Marcelino Beppler Martins</na></co>
+<co c="0"><na f="m/Moecke:Cristian_Thiago" pid="128/5036">Cristian Thiago Moecke</na></co>
+<co c="0"><na f="m/Montez:Carlos" pid="81/1303">Carlos Montez</na></co>
+<co c="0"><na f="m/Moraes:Ricardo_de" pid="184/5911">Ricardo de Moraes</na></co>
+<co c="0"><na f="m/Moura:Lucia" pid="30/6066">Lucia Moura</na></co>
+<co c="0"><na f="n/Niehues:Lucas_Boppre" pid="212/6939">Lucas Boppre Niehues</na></co>
+<co c="0"><na f="p/Panario:Daniel" pid="71/2552">Daniel Panario</na></co>
+<co c="0"><na f="p/Pereira:Fernando_Carlos" pid="80/4695">Fernando Carlos Pereira</na></co>
+<co c="0"><na f="p/Perin:Lucas_Pandolfo" pid="230/1914">Lucas Pandolfo Perin</na></co>
+<co c="0"><na f="p/Portugal:Paulo" pid="61/967">Paulo Portugal</na></co>
+<co c="0"><na f="p/Price:Geraint" pid="10/1506">Geraint Price</na></co>
+<co c="0"><na f="r/Ramos:Thiago_Ac=oacute=rdi" pid="82/10003">Thiago Ac&#243;rdi Ramos</na></co>
+<co c="1"><na f="r/Rolt:Carlos_Roberto_De" pid="164/8098">Carlos Roberto De Rolt</na></co>
+<co c="0"><na f="r/Romani:Juliano" pid="90/3374">Juliano Romani</na></co>
+<co c="0"><na f="s/Santos:Eduardo_dos" pid="119/3505">Eduardo dos Santos</na></co>
+<co c="0"><na f="s/Semprebom:Tiago" pid="34/436">Tiago Semprebom</na></co>
+<co c="0"><na f="s/Silva:Nelson_da" pid="85/10003">Nelson da Silva</na></co>
+<co c="0"><na f="s/Souza:Rick_Lopes_de" pid="139/3366">Rick Lopes de Souza</na></co>
+<co c="0"><na f="s/Souza:T=uacute=lio_Cicero_Salvaro_de" pid="08/6335">T&#250;lio Cicero Salvaro de Souza</na></co>
+<co c="1"><na f="t/Traor=eacute=:Issa" pid="10/1711">Issa Traor&#233;</na></co>
+<co c="0"><na f="v/Vasques:Francisco" pid="04/6871">Francisco Vasques</na></co>
+<co c="0"><na f="v/Vigil:Mart=iacute=n_A=_Gagliotti" pid="61/6341">Mart&#237;n A. Gagliotti Vigil</na></co>
+<co c="0"><na f="v/Volkamer:Melanie" pid="v/MelanieVolkamer">Melanie Volkamer</na></co>
+<co c="0"><na f="w/Werlang:Felipe_Carlos" pid="140/2142">Felipe Carlos Werlang</na></co>
+<co c="0"><na f="w/Westphall:Carlos_Becker" pid="b/CarlosBeckerWestphall">Carlos Becker Westphall</na></co>
+<co c="0"><na f="z/Zambonin:Gustavo" pid="230/1832">Gustavo Zambonin</na></co>
 </coauthors>
 </dblpperson>
 

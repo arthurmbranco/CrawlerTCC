@@ -1,54 +1,84 @@
 <?xml version="1.0"?>
-<dblpperson name="Roberto Willrich" n="26">
+<dblpperson name="Roberto Willrich" pid="74/6170" n="28">
 <person key="homepages/74/6170" mdate="2009-06-10">
-<author>Roberto Willrich</author>
+<author pid="74/6170">Roberto Willrich</author>
 </person>
-<r><inproceedings key="conf/webmedia/SacentiWF18" mdate="2018-10-01">
-<author>Juarez A. P. Sacenti</author>
-<author>Roberto Willrich</author>
-<author>Renato Fileto</author>
+<r><article key="journals/jis/WillrichMFS20" mdate="2021-04-08">
+<author pid="74/6170">Roberto Willrich</author>
+<author pid="70/7641">Adiel Mittmann</author>
+<author pid="35/2350">Renato Fileto</author>
+<author pid="119/7940">Alckmar Luiz dos Santos</author>
+<title>Capture and visualisation of text understanding through semantic annotations and semantic networks for teaching and learning.</title>
+<year>2020</year>
+<volume>46</volume>
+<journal>J. Inf. Sci.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1177/0165551519849514</ee>
+<url>db/journals/jis/jis46.html#WillrichMFS20</url>
+</article>
+</r>
+<r><article key="journals/jidm/BraynerHWKS18" mdate="2020-09-02">
+<author pid="b/AngeloBrayner">Angelo Brayner</author>
+<author pid="20/1662">Maristela Holanda</author>
+<author pid="74/6170">Roberto Willrich</author>
+<author pid="56/2916">Thales Sehn K&#246;rting</author>
+<author pid="s/CelsoAlbertoSaibelSantos">Celso A. S. Santos</author>
+<title>Frontmatter.</title>
+<pages>196</pages>
+<year>2018</year>
+<volume>9</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>3</number>
+<ee>https://periodicos.ufmg.br/index.php/jidm/article/view/12117</ee>
+<url>db/journals/jidm/jidm9.html#BraynerHWKS18</url>
+</article>
+</r>
+<r><inproceedings key="conf/webmedia/SacentiWF18" mdate="2018-11-21">
+<author pid="153/4205">Juarez A. P. Sacenti</author>
+<author pid="74/6170">Roberto Willrich</author>
+<author pid="35/2350">Renato Fileto</author>
 <title>Hybrid Recommender System Based on Multi-Hierarchical Ontologies.</title>
 <pages>149-156</pages>
 <year>2018</year>
 <booktitle>WebMedia</booktitle>
-<ee>http://doi.acm.org/10.1145/3243082.3243106</ee>
+<ee>https://doi.org/10.1145/3243082.3243106</ee>
 <crossref>conf/webmedia/2018</crossref>
 <url>db/conf/webmedia/webmedia2018.html#SacentiWF18</url>
 </inproceedings>
 </r>
-<r><article key="journals/jidm/JuniorCWM17" mdate="2017-12-12">
-<author>Caetano Traina Junior</author>
-<author>Robson L. F. Cordeiro</author>
-<author>Roberto Willrich</author>
-<author>Javam C. Machado</author>
+<r><article key="journals/jidm/JuniorCWM17" mdate="2021-07-07">
+<author pid="t/CaetanoTrainaJr">Caetano Traina Junior</author>
+<author pid="84/5092">Robson L. F. Cordeiro</author>
+<author pid="74/6170">Roberto Willrich</author>
+<author pid="12/3896">Javam C. Machado</author>
 <title>Editorial.</title>
 <pages>178-179</pages>
 <year>2017</year>
 <volume>8</volume>
-<journal>JIDM</journal>
+<journal>J. Inf. Data Manag.</journal>
 <number>3</number>
-<ee>https://seer.lcc.ufmg.br/index.php/jidm/article/view/9834/7610</ee>
+<ee>https://periodicos.ufmg.br/index.php/jidm/article/view/395</ee>
 <url>db/journals/jidm/jidm8.html#JuniorCWM17</url>
 </article>
 </r>
-<r><inproceedings key="conf/webmedia/FernandesSW17" mdate="2017-10-29">
-<author>Bruno Bandeira Fernandes</author>
-<author>Juarez A. P. Sacenti</author>
-<author>Roberto Willrich</author>
+<r><inproceedings key="conf/webmedia/FernandesSW17" mdate="2018-11-06">
+<author pid="207/7002">Bruno Bandeira Fernandes</author>
+<author pid="153/4205">Juarez A. P. Sacenti</author>
+<author pid="74/6170">Roberto Willrich</author>
 <title>Using Implicit Feedback for Neighbors Selection: Alleviating the Sparsity Problem in Collaborative Recommendation Systems.</title>
 <pages>341-348</pages>
 <year>2017</year>
 <booktitle>WebMedia</booktitle>
-<ee>http://doi.acm.org/10.1145/3126858.3126896</ee>
+<ee>https://doi.org/10.1145/3126858.3126896</ee>
 <crossref>conf/webmedia/2017</crossref>
 <url>db/conf/webmedia/webmedia2017.html#FernandesSW17</url>
 </inproceedings>
 </r>
 <r><proceedings key="conf/webmedia/2017" mdate="2017-10-29">
-<editor>Valter Roesler</editor>
-<editor>Jos&#233; Valdeni de Lima</editor>
-<editor>Celso Alberto Saibel Santos</editor>
-<editor>Roberto Willrich</editor>
+<editor pid="04/348">Valter Roesler</editor>
+<editor pid="l/JVdeLima">Jos&#233; Valdeni de Lima</editor>
+<editor pid="s/CelsoAlbertoSaibelSantos">Celso Alberto Saibel Santos</editor>
+<editor pid="74/6170">Roberto Willrich</editor>
 <title>Proceedings of the 23rd Brazillian Symposium on Multimedia and the Web, Webmedia 2017, Gramado, Brazil, October 17 - 20, 2017</title>
 <booktitle>Webmedia</booktitle>
 <publisher>ACM</publisher>
@@ -58,67 +88,67 @@
 <url>db/conf/webmedia/webmedia2017.html</url>
 </proceedings>
 </r>
-<r><proceedings key="conf/webmedia/2016" mdate="2016-11-22">
-<editor>F&#225;bio de Jesus Lima Gomes</editor>
-<editor>Ricardo de Andrade Lira Rabelo</editor>
-<editor>Carlos de Salles Soares Neto</editor>
-<editor>Roberto Willrich</editor>
-<editor>C&#233;sar Augusto Camillo Teixeira</editor>
-<editor>Jussara Marques de Almeida</editor>
-<editor>Windson Viana de Carvalho</editor>
+<r><proceedings key="conf/webmedia/2016" mdate="2018-11-06">
+<editor pid="33/932">F&#225;bio de Jesus Lima Gomes</editor>
+<editor pid="117/4596">Ricardo de Andrade Lira Rabelo</editor>
+<editor pid="10/1363">Carlos de Salles Soares Neto</editor>
+<editor pid="74/6170">Roberto Willrich</editor>
+<editor pid="t/CACTeixeira">C&#233;sar Augusto Camillo Teixeira</editor>
+<editor pid="34/5480">Jussara Marques de Almeida</editor>
+<editor pid="54/4813">Windson Viana de Carvalho</editor>
 <title>Proceedings of the 22nd Brazilian Symposium on Multimedia and the Web, Webmedia 2016, Teresina, Piau&#237; State, Brazil, November 8-11, 2016</title>
 <booktitle>WebMedia</booktitle>
 <publisher>ACM</publisher>
 <year>2016</year>
 <isbn>978-1-4503-4512-5</isbn>
-<ee>http://doi.acm.org/10.1145/2976796</ee>
+<ee>https://doi.org/10.1145/2976796</ee>
 <url>db/conf/webmedia/webmedia2016.html</url>
 </proceedings>
 </r>
-<r><inproceedings key="conf/webmedia/SallesW15" mdate="2015-11-04">
-<author>Anderson Salles</author>
-<author>Roberto Willrich</author>
+<r><inproceedings key="conf/webmedia/SallesW15" mdate="2018-11-06">
+<author pid="170/1735">Anderson Salles</author>
+<author pid="74/6170">Roberto Willrich</author>
 <title>Recommending Web Service Based on Ontologies for Digital Repositories.</title>
 <pages>65-72</pages>
 <year>2015</year>
 <booktitle>WebMedia</booktitle>
-<ee>http://doi.acm.org/10.1145/2820426.2820432</ee>
+<ee>https://doi.org/10.1145/2820426.2820432</ee>
 <crossref>conf/webmedia/2015</crossref>
 <url>db/conf/webmedia/webmedia2015.html#SallesW15</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/webmedia/VetterW14" mdate="2015-01-03">
-<author>Murilo Vetter</author>
-<author>Roberto Willrich</author>
+<r><inproceedings key="conf/webmedia/VetterW14" mdate="2018-11-06">
+<author pid="42/4362">Murilo Vetter</author>
+<author pid="74/6170">Roberto Willrich</author>
 <title>System of Quality monitoring for IP Telephony Services.</title>
 <pages>239-246</pages>
 <year>2014</year>
 <booktitle>WebMedia</booktitle>
-<ee>http://doi.acm.org/10.1145/2664551.2664554</ee>
+<ee>https://doi.org/10.1145/2664551.2664554</ee>
 <crossref>conf/webmedia/2014</crossref>
 <url>db/conf/webmedia/webmedia2014.html#VetterW14</url>
 </inproceedings>
 </r>
-<r><article key="journals/jbcs/JuniorPWS13" mdate="2018-06-26">
-<author>Jos&#233; C&#233; J&#250;nior</author>
-<author>Achilles Colombo Prud&#234;ncio</author>
-<author>Roberto Willrich</author>
-<author>Madalena P. da Silva</author>
+<r><article key="journals/jbcs/JuniorPWS13" mdate="2020-05-20">
+<author pid="133/5946">Jos&#233; C&#233; J&#250;nior</author>
+<author pid="133/5981">Achilles Colombo Prud&#234;ncio</author>
+<author pid="74/6170">Roberto Willrich</author>
+<author pid="21/3058">Madalena Pereira da Silva</author>
 <title>A semantic approach for QoS specification of communication services using QoE parameters.</title>
 <pages>207-221</pages>
 <year>2013</year>
 <volume>19</volume>
-<journal>J. Braz. Comp. Soc.</journal>
+<journal>J. Braz. Comput. Soc.</journal>
 <number>3</number>
 <ee type="oa">https://doi.org/10.1007/s13173-012-0094-2</ee>
 <url>db/journals/jbcs/jbcs19.html#JuniorPWS13</url>
 </article>
 </r>
 <r><inproceedings key="conf/criwg/GonzalezIWS13" mdate="2017-06-02">
-<author>Andr&#233; Lins Gonzalez</author>
-<author>Diego Izidoro</author>
-<author>Roberto Willrich</author>
-<author orcid="0000-0002-3287-5843">Celso A. S. Santos</author>
+<author pid="136/2627">Andr&#233; Lins Gonzalez</author>
+<author pid="136/2622">Diego Izidoro</author>
+<author pid="74/6170">Roberto Willrich</author>
+<author orcid="0000-0002-3287-5843" pid="s/CelsoAlbertoSaibelSantos">Celso A. S. Santos</author>
 <title>OurMap: Representing Crowdsourced Annotations on Geospatial Coordinates as Linked Open Data.</title>
 <pages>77-93</pages>
 <year>2013</year>
@@ -128,27 +158,27 @@
 <url>db/conf/criwg/criwg2013.html#GonzalezIWS13</url>
 </inproceedings>
 </r>
-<r><article key="journals/tsmc/Lima-GomesHWLC11" mdate="2017-06-09">
-<author>Roberta Lima-Gomes</author>
-<author>Guillermo de Jes&#250;s Hoyos-Rivera</author>
-<author>Roberto Willrich</author>
-<author orcid="0000-0001-7268-4999">Christopher Viana Lima</author>
-<author>Jean-Pierre Courtiat</author>
+<r><article key="journals/tsmc/Lima-GomesHWLC11" mdate="2020-05-25">
+<author pid="78/1819">Roberta Lima-Gomes</author>
+<author pid="73/2766">Guillermo de Jes&#250;s Hoyos-Rivera</author>
+<author pid="74/6170">Roberto Willrich</author>
+<author orcid="0000-0001-7268-4999" pid="36/2396">Christopher Viana Lima</author>
+<author pid="62/2258">Jean-Pierre Courtiat</author>
 <title>A Loosely Coupled Integration Environment for Collaborative Applications.</title>
 <pages>905-916</pages>
 <year>2011</year>
 <volume>41</volume>
-<journal>IEEE Trans. Systems, Man, and Cybernetics, Part A</journal>
+<journal>IEEE Trans. Syst. Man Cybern. Part A</journal>
 <number>5</number>
 <ee>https://doi.org/10.1109/TSMCA.2011.2105866</ee>
 <url>db/journals/tsmc/tsmca41.html#Lima-GomesHWLC11</url>
 </article>
 </r>
 <r><inproceedings key="conf/nca/PrudencioWDT09" mdate="2017-05-23">
-<author>Achilles Colombo Prud&#234;ncio</author>
-<author>Roberto Willrich</author>
-<author>Michel Diaz</author>
-<author>Sa&#239;d Tazi 0001</author>
+<author pid="133/5981">Achilles Colombo Prud&#234;ncio</author>
+<author pid="74/6170">Roberto Willrich</author>
+<author pid="35/4935">Michel Diaz</author>
+<author pid="19/6454-1">Sa&#239;d Tazi 0001</author>
 <title>Quality of Service Specifications: A Semantic Approach.</title>
 <pages>219-226</pages>
 <year>2009</year>
@@ -160,10 +190,10 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/wcce/RochaWFT09" mdate="2018-06-26">
-<author>Tiago Rios da Rocha</author>
-<author>Roberto Willrich</author>
-<author>Renato Fileto</author>
-<author>Sa&#239;d Tazi 0001</author>
+<author pid="45/7349">Tiago Rios da Rocha</author>
+<author pid="74/6170">Roberto Willrich</author>
+<author pid="35/2350">Renato Fileto</author>
+<author pid="19/6454-1">Sa&#239;d Tazi 0001</author>
 <title>Supporting Collaborative Learning Activities with a Digital Library and Annotations.</title>
 <pages>349-358</pages>
 <year>2009</year>
@@ -173,25 +203,25 @@
 <url>db/conf/wcce/wcce2009.html#RochaWFT09</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/webmedia/FurtadoWFST09" mdate="2015-04-02">
-<author>Carlos A. Furtado</author>
-<author>Roberto Willrich</author>
-<author>Renato Fileto</author>
-<author>Fernando de L. Siqueira</author>
-<author>Sa&#239;d Tazi 0001</author>
+<r><inproceedings key="conf/webmedia/FurtadoWFST09" mdate="2018-11-06">
+<author pid="128/2831">Carlos A. Furtado</author>
+<author pid="74/6170">Roberto Willrich</author>
+<author pid="35/2350">Renato Fileto</author>
+<author pid="128/2824">Fernando de L. Siqueira</author>
+<author pid="19/6454-1">Sa&#239;d Tazi 0001</author>
 <title>Custom ordering on digital library information retrieval.</title>
 <pages>28</pages>
 <year>2009</year>
 <booktitle>WebMedia</booktitle>
-<ee>http://doi.acm.org/10.1145/1858477.1858505</ee>
+<ee>https://doi.org/10.1145/1858477.1858505</ee>
 <crossref>conf/webmedia/2009</crossref>
 <url>db/conf/webmedia/webmedia2009.html#FurtadoWFST09</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/nca/RoyerWD08" mdate="2017-05-23">
-<author>Julio Cesar Royer</author>
-<author>Roberto Willrich</author>
-<author>Michel Diaz</author>
+<author pid="15/6910">Julio Cesar Royer</author>
+<author pid="74/6170">Roberto Willrich</author>
+<author pid="35/4935">Michel Diaz</author>
 <title>User Profile-Based Authorization Policies for Network QoS Services.</title>
 <pages>68-75</pages>
 <year>2008</year>
@@ -203,10 +233,10 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/wetice/LimaWGC07" mdate="2008-08-27">
-<author>Christopher Viana Lima</author>
-<author>Roberto Willrich</author>
-<author>Roberta Lima-Gomes</author>
-<author>Jean-Pierre Courtiat</author>
+<author pid="36/2396">Christopher Viana Lima</author>
+<author pid="74/6170">Roberto Willrich</author>
+<author pid="78/1819">Roberta Lima-Gomes</author>
+<author pid="62/2258">Jean-Pierre Courtiat</author>
 <title>An Extensible Co-browsing Environment with Conference Support.</title>
 <pages>204-205</pages>
 <year>2007</year>
@@ -216,39 +246,39 @@
 <url>db/conf/wetice/wetice2007.html#LimaWGC07</url>
 </inproceedings>
 </r>
-<r><article key="journals/tsmc/Hoyos-RiveraLWC06" mdate="2017-05-17">
-<author>Guillermo de Jes&#250;s Hoyos-Rivera</author>
-<author>Roberta Lima-Gomes</author>
-<author>Roberto Willrich</author>
-<author>Jean-Pierre Courtiat</author>
+<r><article key="journals/tsmc/Hoyos-RiveraLWC06" mdate="2020-05-25">
+<author pid="73/2766">Guillermo de Jes&#250;s Hoyos-Rivera</author>
+<author pid="78/1819">Roberta Lima-Gomes</author>
+<author pid="74/6170">Roberto Willrich</author>
+<author pid="62/2258">Jean-Pierre Courtiat</author>
 <title>CoLab: A New Paradigm and Tool for Collaboratively Browsing the Web.</title>
 <pages>1074-1085</pages>
 <year>2006</year>
 <volume>36</volume>
-<journal>IEEE Trans. Systems, Man, and Cybernetics, Part A</journal>
+<journal>IEEE Trans. Syst. Man Cybern. Part A</journal>
 <number>6</number>
 <ee>https://doi.org/10.1109/TSMCA.2006.883173</ee>
 <url>db/journals/tsmc/tsmca36.html#Hoyos-RiveraLWC06</url>
 </article>
 </r>
-<r><inproceedings key="conf/webmedia/WillrichSLDP06" mdate="2017-06-05">
-<author>Roberto Willrich</author>
-<author>Rafael de Moura Speroni</author>
-<author orcid="0000-0001-7268-4999">Christopher Viana Lima</author>
-<author>Andr&#233; Luiz de Oliveira Diaz</author>
-<author>S&#233;rgio Murilo Penedo</author>
+<r><inproceedings key="conf/webmedia/WillrichSLDP06" mdate="2018-11-06">
+<author pid="74/6170">Roberto Willrich</author>
+<author pid="78/5856">Rafael de Moura Speroni</author>
+<author orcid="0000-0001-7268-4999" pid="36/2396">Christopher Viana Lima</author>
+<author pid="25/652">Andr&#233; Luiz de Oliveira Diaz</author>
+<author pid="91/6686">S&#233;rgio Murilo Penedo</author>
 <title>Adaptive information retrieval system applied to digital libraries.</title>
 <pages>165-173</pages>
 <year>2006</year>
 <crossref>conf/webmedia/2006</crossref>
 <booktitle>WebMedia</booktitle>
-<ee>http://doi.acm.org/10.1145/1186595.1186616</ee>
+<ee>https://doi.org/10.1145/1186595.1186616</ee>
 <url>db/conf/webmedia/webmedia2006.html#WillrichSLDP06</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/wetice/Hoyos-RiveraW05" mdate="2017-05-26">
-<author>Guillermo de Jes&#250;s Hoyos-Rivera</author>
-<author>Roberto Willrich</author>
+<author pid="73/2766">Guillermo de Jes&#250;s Hoyos-Rivera</author>
+<author pid="74/6170">Roberto Willrich</author>
 <title>Collaborative Web Browsing Tool supporting Audio/Video Interactive Presentations.</title>
 <pages>78-86</pages>
 <year>2005</year>
@@ -259,12 +289,12 @@
 <url>db/conf/wetice/wetice2005.html#Hoyos-RiveraW05</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/iscc/DiasCFWC03" mdate="2017-05-25">
-<author>Roberto Alexandre Dias</author>
-<author>Eduardo Camponogara</author>
-<author>Jean-Marie Farines</author>
-<author>Roberto Willrich</author>
-<author>Adriano Campestrini</author>
+<r><inproceedings key="conf/iscc/DiasCFWC03" mdate="2021-04-09">
+<author pid="98/1478">Roberto Alexandre Dias</author>
+<author orcid="0000-0002-0236-0689" pid="13/493">Eduardo Camponogara</author>
+<author pid="37/5635">Jean-Marie Farines</author>
+<author pid="74/6170">Roberto Willrich</author>
+<author pid="15/5130">Adriano Campestrini</author>
 <title>Implementing Traffic Engineering in MPLS-Based IP Networks with Lagrangean Relaxation.</title>
 <pages>373-378</pages>
 <ee>https://doi.org/10.1109/ISCC.2003.1214148</ee>
@@ -275,46 +305,46 @@
 <url>db/conf/iscc/iscc2003.html#DiasCFWC03</url>
 </inproceedings>
 </r>
-<r><article key="journals/mta/WillrichSSD02" mdate="2017-05-28">
-<author>Roberto Willrich</author>
-<author>Pierre de Saqui-Sannes</author>
-<author>Patrick S&#233;nac</author>
-<author>Michel Diaz</author>
+<r><article key="journals/mta/WillrichSSD02" mdate="2020-05-11">
+<author pid="74/6170">Roberto Willrich</author>
+<author orcid="0000-0002-1404-0148" pid="42/4169">Pierre de Saqui-Sannes</author>
+<author pid="31/5621">Patrick S&#233;nac</author>
+<author pid="35/4935">Michel Diaz</author>
 <title>Multimedia Authoring with Hierarchical Timed Stream Petri Nets and Java.</title>
 <pages>7-27</pages>
 <year>2002</year>
 <volume>16</volume>
-<journal>Multimedia Tools Appl.</journal>
+<journal>Multim. Tools Appl.</journal>
 <number>1</number>
 <url>db/journals/mta/mta16.html#WillrichSSD02</url>
 <ee>https://doi.org/10.1023/A:1013233517612</ee>
 </article>
 </r>
-<r><article key="journals/mta/GasparyAW99" mdate="2017-05-28">
-<author>Luciano Paschoal Gaspary</author>
-<author>Maria Janilce B. Almeida</author>
-<author>Roberto Willrich</author>
+<r><article key="journals/mta/GasparyAW99" mdate="2020-05-11">
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="a/MariaJanilceBosquiroliAlmeida">Maria Janilce B. Almeida</author>
+<author pid="74/6170">Roberto Willrich</author>
 <title>MUSE: An Environment for the Conception of Java Multimedia Applications.</title>
 <pages>357-370</pages>
 <year>1999</year>
 <volume>8</volume>
-<journal>Multimedia Tools Appl.</journal>
+<journal>Multim. Tools Appl.</journal>
 <number>3</number>
 <url>db/journals/mta/mta8.html#GasparyAW99</url>
 <ee>https://doi.org/10.1023/A:1009674310398</ee>
 </article>
 </r>
 <r><inproceedings key="conf/fm/SouzaSFSAGGWCD98" mdate="2017-05-22">
-<author>Wanderley Lopes de Souza</author>
-<author>Paulo Nazareno Maia Sampaio</author>
-<author>Jean-Marie Farines</author>
-<author>Roberto Milton Scheffel</author>
-<author>Maria Janilce B. Almeida</author>
-<author>Luciano Paschoal Gaspary</author>
-<author>Lisandro Zambenedetti Granville</author>
-<author>Roberto Willrich</author>
-<author>Murilo S. de Camargo</author>
-<author>Marcelo Domingos</author>
+<author pid="24/4261">Wanderley Lopes de Souza</author>
+<author pid="89/3989">Paulo Nazareno Maia Sampaio</author>
+<author pid="37/5635">Jean-Marie Farines</author>
+<author pid="26/2522">Roberto Milton Scheffel</author>
+<author pid="a/MariaJanilceBosquiroliAlmeida">Maria Janilce B. Almeida</author>
+<author pid="g/LPGaspary">Luciano Paschoal Gaspary</author>
+<author pid="52/4475">Lisandro Zambenedetti Granville</author>
+<author pid="74/6170">Roberto Willrich</author>
+<author pid="40/490">Murilo S. de Camargo</author>
+<author pid="48/6375">Marcelo Domingos</author>
 <title>Design of Distributed Multimedia Applications (DAMD).</title>
 <pages>77-91</pages>
 <year>1998</year>
@@ -324,19 +354,19 @@
 <ee>https://doi.org/10.1007/3-540-48257-1_4</ee>
 </inproceedings>
 </r>
-<r><phdthesis key="phd/hal/Willrich96" mdate="2016-07-15">
-<author>Roberto Willrich</author>
+<r><phdthesis key="phd/hal/Willrich96" mdate="2020-07-21">
+<author pid="74/6170">Roberto Willrich</author>
 <title>Conception formelle de documents hypermedias portables.</title>
 <year>1996</year>
 <school>Paul Sabatier University, Toulouse, France</school>
-<ee>https://tel.archives-ouvertes.fr/tel-00139865</ee>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-00139865</ee>
 </phdthesis>
 </r>
 <r><inproceedings key="conf/icmcs/WillrichSDS96" mdate="2017-05-25">
-<author>Roberto Willrich</author>
-<author>Patrick S&#233;nac</author>
-<author>Michel Diaz</author>
-<author>Pierre de Saqui-Sannes</author>
+<author pid="74/6170">Roberto Willrich</author>
+<author pid="31/5621">Patrick S&#233;nac</author>
+<author pid="35/4935">Michel Diaz</author>
+<author pid="42/4169">Pierre de Saqui-Sannes</author>
 <title>A Formal Framework for the Specification, Analysis and Generation of Standardized Hypermedia Documents.</title>
 <pages>399-406</pages>
 <year>1996</year>
@@ -348,10 +378,10 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/mmm/WillrichSSD96" mdate="2009-10-25">
-<author>Roberto Willrich</author>
-<author>Pierre de Saqui-Sannes</author>
-<author>Patrick S&#233;nac</author>
-<author>Michel Diaz</author>
+<author pid="74/6170">Roberto Willrich</author>
+<author pid="42/4169">Pierre de Saqui-Sannes</author>
+<author pid="31/5621">Patrick S&#233;nac</author>
+<author pid="35/4935">Michel Diaz</author>
 <title>Hypermedia Document Design Using the HTSPN Model.</title>
 <pages>151-166</pages>
 <year>1996</year>
@@ -361,9 +391,9 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/apn/SenacSW95" mdate="2017-05-20">
-<author>Patrick S&#233;nac</author>
-<author>Pierre de Saqui-Sannes</author>
-<author>Roberto Willrich</author>
+<author pid="31/5621">Patrick S&#233;nac</author>
+<author pid="42/4169">Pierre de Saqui-Sannes</author>
+<author pid="74/6170">Roberto Willrich</author>
 <title>Hierarchical Time Stream Petri Net: A Model for Hypermedia Systems.</title>
 <pages>451-470</pages>
 <year>1995</year>
@@ -373,56 +403,61 @@
 <ee>https://doi.org/10.1007/3-540-60029-9_54</ee>
 </inproceedings>
 </r>
-<coauthors n="49" nc="1">
-<co c="0" n="2"><na f="a/Almeida:Jussara_M=">Jussara M. Almeida</na><na>Jussara Marques de Almeida</na></co>
-<co c="0" n="2"><na f="a/Almeida:Maria_Janilce_Bosquiroli">Maria Janilce Bosquiroli Almeida</na><na>Maria Janilce B. Almeida</na></co>
-<co c="0"><na f="c/Camargo:Murilo_S=_de">Murilo S. de Camargo</na></co>
-<co c="0"><na f="c/Campestrini:Adriano">Adriano Campestrini</na></co>
-<co c="0"><na f="c/Camponogara:Eduardo">Eduardo Camponogara</na></co>
-<co c="0"><na f="c/Cordeiro:Robson_L=_F=">Robson L. F. Cordeiro</na></co>
-<co c="0"><na f="c/Courtiat:Jean=Pierre">Jean-Pierre Courtiat</na></co>
-<co c="0"><na f="d/Dias:Roberto_Alexandre">Roberto Alexandre Dias</na></co>
-<co c="0"><na f="d/Diaz:Andr=eacute=_Luiz_de_Oliveira">Andr&#233; Luiz de Oliveira Diaz</na></co>
-<co c="0"><na f="d/Diaz:Michel">Michel Diaz</na></co>
-<co c="0"><na f="d/Domingos:Marcelo">Marcelo Domingos</na></co>
-<co c="0"><na f="f/Farines:Jean=Marie">Jean-Marie Farines</na></co>
-<co c="0"><na f="f/Fernandes:Bruno_Bandeira">Bruno Bandeira Fernandes</na></co>
-<co c="0"><na f="f/Fileto:Renato">Renato Fileto</na></co>
-<co c="0"><na f="f/Furtado:Carlos_A=">Carlos A. Furtado</na></co>
-<co c="0"><na f="g/Gaspary:Luciano_Paschoal">Luciano Paschoal Gaspary</na></co>
-<co c="0"><na f="g/Gomes:F=aacute=bio_de_Jesus_Lima">F&#225;bio de Jesus Lima Gomes</na></co>
-<co c="0"><na f="g/Gonzalez:Andr=eacute=_Lins">Andr&#233; Lins Gonzalez</na></co>
-<co c="0"><na f="g/Granville:Lisandro_Zambenedetti">Lisandro Zambenedetti Granville</na></co>
-<co c="0"><na f="h/Hoyos=Rivera:Guillermo_de_Jes=uacute=s">Guillermo de Jes&#250;s Hoyos-Rivera</na></co>
-<co c="0"><na f="i/Izidoro:Diego">Diego Izidoro</na></co>
-<co c="0"><na f="j/J=uacute=nior:Jos=eacute=_C=eacute=">Jos&#233; C&#233; J&#250;nior</na></co>
-<co c="0" n="2"><na f="l/Lima:Christopher">Christopher Lima</na><na>Christopher Viana Lima</na></co>
-<co c="0"><na f="l/Lima:Jos=eacute=_Valdeni_de">Jos&#233; Valdeni de Lima</na></co>
-<co c="0"><na f="l/Lima=Gomes:Roberta">Roberta Lima-Gomes</na></co>
-<co c="0"><na f="m/Machado:Javam_C=">Javam C. Machado</na></co>
-<co c="0"><na f="n/Neto:Carlos_de_Salles_Soares">Carlos de Salles Soares Neto</na></co>
-<co c="0"><na f="p/Penedo:S=eacute=rgio_Murilo">S&#233;rgio Murilo Penedo</na></co>
-<co c="0"><na f="p/Prud=ecirc=ncio:Achilles_Colombo">Achilles Colombo Prud&#234;ncio</na></co>
-<co c="0"><na f="r/Rabelo:Ricardo_de_Andrade_Lira">Ricardo de Andrade Lira Rabelo</na></co>
-<co c="0"><na f="r/Rocha:Tiago_Rios_da">Tiago Rios da Rocha</na></co>
-<co c="0"><na f="r/Roesler:Valter">Valter Roesler</na></co>
-<co c="0"><na f="r/Royer:Julio_Cesar">Julio Cesar Royer</na></co>
-<co c="0"><na f="s/Sacenti:Juarez_A=_P=">Juarez A. P. Sacenti</na></co>
-<co c="-1"><na f="s/Salles:Anderson">Anderson Salles</na></co>
-<co c="0"><na f="s/Sampaio:Paulo_Nazareno_Maia">Paulo Nazareno Maia Sampaio</na></co>
-<co c="0" n="2"><na f="s/Santos:Celso_A=_S=">Celso A. S. Santos</na><na>Celso Alberto Saibel Santos</na></co>
-<co c="0"><na f="s/Saqui=Sannes:Pierre_de">Pierre de Saqui-Sannes</na></co>
-<co c="0"><na f="s/Scheffel:Roberto_Milton">Roberto Milton Scheffel</na></co>
-<co c="0"><na f="s/S=eacute=nac:Patrick">Patrick S&#233;nac</na></co>
-<co c="0"><na f="s/Silva:Madalena_P=_da">Madalena P. da Silva</na></co>
-<co c="0"><na f="s/Siqueira:Fernando_de_L=">Fernando de L. Siqueira</na></co>
-<co c="0"><na f="s/Souza:Wanderley_Lopes_de">Wanderley Lopes de Souza</na></co>
-<co c="0"><na f="s/Speroni:Rafael_de_Moura">Rafael de Moura Speroni</na></co>
-<co c="0"><na f="t/Tazi_0001:Sa=iuml=d">Sa&#239;d Tazi 0001</na></co>
-<co c="0" n="2"><na f="t/Teixeira:C=eacute=sar_A=_C=">C&#233;sar A. C. Teixeira</na><na>C&#233;sar Augusto Camillo Teixeira</na></co>
-<co c="0" n="2"><na f="t/Traina_Jr=:Caetano">Caetano Traina Jr.</na><na>Caetano Traina Junior</na></co>
-<co c="-1"><na f="v/Vetter:Murilo">Murilo Vetter</na></co>
-<co c="0" n="2"><na f="v/Viana:Windson">Windson Viana</na><na>Windson Viana de Carvalho</na></co>
+<coauthors n="54" nc="1">
+<co c="0" n="2"><na f="a/Almeida:Jussara_M=" pid="34/5480">Jussara M. Almeida</na><na>Jussara Marques de Almeida</na></co>
+<co c="0" n="2"><na f="a/Almeida:Maria_Janilce_Bosquiroli" pid="a/MariaJanilceBosquiroliAlmeida">Maria Janilce Bosquiroli Almeida</na><na>Maria Janilce B. Almeida</na></co>
+<co c="0"><na f="b/Brayner:Angelo" pid="b/AngeloBrayner">Angelo Brayner</na></co>
+<co c="0"><na f="c/Camargo:Murilo_S=_de" pid="40/490">Murilo S. de Camargo</na></co>
+<co c="0"><na f="c/Campestrini:Adriano" pid="15/5130">Adriano Campestrini</na></co>
+<co c="0"><na f="c/Camponogara:Eduardo" pid="13/493">Eduardo Camponogara</na></co>
+<co c="0"><na f="c/Cordeiro:Robson_L=_F=" pid="84/5092">Robson L. F. Cordeiro</na></co>
+<co c="0"><na f="c/Courtiat:Jean=Pierre" pid="62/2258">Jean-Pierre Courtiat</na></co>
+<co c="0"><na f="d/Dias:Roberto_Alexandre" pid="98/1478">Roberto Alexandre Dias</na></co>
+<co c="0"><na f="d/Diaz:Andr=eacute=_Luiz_de_Oliveira" pid="25/652">Andr&#233; Luiz de Oliveira Diaz</na></co>
+<co c="0"><na f="d/Diaz:Michel" pid="35/4935">Michel Diaz</na></co>
+<co c="0"><na f="d/Domingos:Marcelo" pid="48/6375">Marcelo Domingos</na></co>
+<co c="0"><na f="f/Farines:Jean=Marie" pid="37/5635">Jean-Marie Farines</na></co>
+<co c="0"><na f="f/Fernandes:Bruno_Bandeira" pid="207/7002">Bruno Bandeira Fernandes</na></co>
+<co c="0"><na f="f/Fileto:Renato" pid="35/2350">Renato Fileto</na></co>
+<co c="0"><na f="f/Furtado:Carlos_A=" pid="128/2831">Carlos A. Furtado</na></co>
+<co c="0"><na f="g/Gaspary:Luciano_Paschoal" pid="g/LPGaspary">Luciano Paschoal Gaspary</na></co>
+<co c="0"><na f="g/Gomes:F=aacute=bio_de_Jesus_Lima" pid="33/932">F&#225;bio de Jesus Lima Gomes</na></co>
+<co c="0"><na f="g/Gonzalez:Andr=eacute=_Lins" pid="136/2627">Andr&#233; Lins Gonzalez</na></co>
+<co c="0"><na f="g/Granville:Lisandro_Zambenedetti" pid="52/4475">Lisandro Zambenedetti Granville</na></co>
+<co c="0"><na f="h/Holanda:Maristela" pid="20/1662">Maristela Holanda</na></co>
+<co c="0"><na f="h/Hoyos=Rivera:Guillermo_de_Jes=uacute=s" pid="73/2766">Guillermo de Jes&#250;s Hoyos-Rivera</na></co>
+<co c="0"><na f="i/Izidoro:Diego" pid="136/2622">Diego Izidoro</na></co>
+<co c="0"><na f="j/J=uacute=nior:Jos=eacute=_C=eacute=" pid="133/5946">Jos&#233; C&#233; J&#250;nior</na></co>
+<co c="0"><na f="k/K=ouml=rting:Thales_Sehn" pid="56/2916">Thales Sehn K&#246;rting</na></co>
+<co c="0" n="2"><na f="l/Lima:Christopher" pid="36/2396">Christopher Lima</na><na>Christopher Viana Lima</na></co>
+<co c="0"><na f="l/Lima:Jos=eacute=_Valdeni_de" pid="l/JVdeLima">Jos&#233; Valdeni de Lima</na></co>
+<co c="0"><na f="l/Lima=Gomes:Roberta" pid="78/1819">Roberta Lima-Gomes</na></co>
+<co c="0"><na f="m/Machado:Javam_C=" pid="12/3896">Javam C. Machado</na></co>
+<co c="0"><na f="m/Mittmann:Adiel" pid="70/7641">Adiel Mittmann</na></co>
+<co c="0"><na f="n/Neto:Carlos_de_Salles_Soares" pid="10/1363">Carlos de Salles Soares Neto</na></co>
+<co c="0"><na f="p/Penedo:S=eacute=rgio_Murilo" pid="91/6686">S&#233;rgio Murilo Penedo</na></co>
+<co c="0"><na f="p/Prud=ecirc=ncio:Achilles_Colombo" pid="133/5981">Achilles Colombo Prud&#234;ncio</na></co>
+<co c="0"><na f="r/Rabelo:Ricardo_de_Andrade_Lira" pid="117/4596">Ricardo de Andrade Lira Rabelo</na></co>
+<co c="0"><na f="r/Rocha:Tiago_Rios_da" pid="45/7349">Tiago Rios da Rocha</na></co>
+<co c="0"><na f="r/Roesler:Valter" pid="04/348">Valter Roesler</na></co>
+<co c="0"><na f="r/Royer:Julio_Cesar" pid="15/6910">Julio Cesar Royer</na></co>
+<co c="0"><na f="s/Sacenti:Juarez_A=_P=" pid="153/4205">Juarez A. P. Sacenti</na></co>
+<co c="-1"><na f="s/Salles:Anderson" pid="170/1735">Anderson Salles</na></co>
+<co c="0"><na f="s/Sampaio:Paulo_Nazareno_Maia" pid="89/3989">Paulo Nazareno Maia Sampaio</na></co>
+<co c="0"><na f="s/Santos:Alckmar_Luiz_dos" pid="119/7940">Alckmar Luiz dos Santos</na></co>
+<co c="0" n="2"><na f="s/Santos:Celso_A=_S=" pid="s/CelsoAlbertoSaibelSantos">Celso A. S. Santos</na><na>Celso Alberto Saibel Santos</na></co>
+<co c="0"><na f="s/Saqui=Sannes:Pierre_de" pid="42/4169">Pierre de Saqui-Sannes</na></co>
+<co c="0"><na f="s/Scheffel:Roberto_Milton" pid="26/2522">Roberto Milton Scheffel</na></co>
+<co c="0"><na f="s/S=eacute=nac:Patrick" pid="31/5621">Patrick S&#233;nac</na></co>
+<co c="0"><na f="s/Silva:Madalena_Pereira_da" pid="21/3058">Madalena Pereira da Silva</na></co>
+<co c="0"><na f="s/Siqueira:Fernando_de_L=" pid="128/2824">Fernando de L. Siqueira</na></co>
+<co c="0"><na f="s/Souza:Wanderley_Lopes_de" pid="24/4261">Wanderley Lopes de Souza</na></co>
+<co c="0"><na f="s/Speroni:Rafael_de_Moura" pid="78/5856">Rafael de Moura Speroni</na></co>
+<co c="0"><na f="t/Tazi_0001:Sa=iuml=d" pid="19/6454-1">Sa&#239;d Tazi 0001</na></co>
+<co c="0" n="2"><na f="t/Teixeira:C=eacute=sar_A=_C=" pid="t/CACTeixeira">C&#233;sar A. C. Teixeira</na><na>C&#233;sar Augusto Camillo Teixeira</na></co>
+<co c="0" n="2"><na f="t/Traina_Jr=:Caetano" pid="t/CaetanoTrainaJr">Caetano Traina Jr.</na><na>Caetano Traina Junior</na></co>
+<co c="-1"><na f="v/Vetter:Murilo" pid="42/4362">Murilo Vetter</na></co>
+<co c="0" n="2"><na f="v/Viana:Windson" pid="54/4813">Windson Viana</na><na>Windson Viana de Carvalho</na></co>
 </coauthors>
 </dblpperson>
 

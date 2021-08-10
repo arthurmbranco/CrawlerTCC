@@ -1,49 +1,49 @@
 <?xml version="1.0"?>
-<dblpperson name="Arthur Buchsbaum" n="4">
+<dblpperson name="Arthur Buchsbaum" pid="09/3359" n="4">
 <person key="homepages/09/3359" mdate="2009-06-10">
-<author>Arthur Buchsbaum</author>
+<author pid="09/3359">Arthur Buchsbaum</author>
 </person>
-<r><article key="journals/synthese/BuchsbaumPP07" mdate="2017-05-20">
-<author>Arthur Buchsbaum</author>
-<author>Tarcisio H. C. Pequeno</author>
-<author>Marcelino Pequeno</author>
+<r><article key="journals/synthese/BuchsbaumPP07" mdate="2020-07-09">
+<author pid="09/3359">Arthur Buchsbaum</author>
+<author pid="69/3857">Tarcisio H. C. Pequeno</author>
+<author pid="15/1073">Marcelino Pequeno</author>
 <title>A logical expression of reasoning.</title>
 <pages>431-466</pages>
 <year>2007</year>
 <volume>154</volume>
-<journal>Synthese</journal>
+<journal>Synth.</journal>
 <number>3</number>
 <ee>https://doi.org/10.1007/s11229-006-9128-7</ee>
 <url>db/journals/synthese/synthese154.html#BuchsbaumPP07</url>
 </article>
 </r>
-<r><article key="journals/entcs/Buchsbaum02" mdate="2017-05-28">
-<author>Arthur Buchsbaum</author>
+<r><article key="journals/entcs/Buchsbaum02" mdate="2021-02-12">
+<author pid="09/3359">Arthur Buchsbaum</author>
 <title>A Logic for Ambiguous Description.</title>
 <year>2002</year>
 <volume>67</volume>
-<journal>Electr. Notes Theor. Comput. Sci.</journal>
-<ee>https://doi.org/10.1016/S1571-0661(04)80546-2</ee>
+<journal>Electron. Notes Theor. Comput. Sci.</journal>
+<ee type="oa">https://doi.org/10.1016/S1571-0661(04)80546-2</ee>
 <url>db/journals/entcs/entcs67.html#Buchsbaum02</url>
 <pages>148-165</pages>
 </article>
 </r>
-<r><article key="journals/sLogica/BuchsbaumP93" mdate="2017-05-20">
-<author>Arthur Buchsbaum</author>
-<author>Tarcisio H. C. Pequeno</author>
+<r><article key="journals/sLogica/BuchsbaumP93" mdate="2020-09-01">
+<author pid="09/3359">Arthur Buchsbaum</author>
+<author pid="69/3857">Tarcisio H. C. Pequeno</author>
 <title>A reasoning method for a paraconsistent logic.</title>
 <pages>281-290</pages>
 <year>1993</year>
 <volume>52</volume>
-<journal>Studia Logica</journal>
+<journal>Stud Logica</journal>
 <number>2</number>
 <url>db/journals/sLogica/sLogica52.html#BuchsbaumP93</url>
 <ee>https://doi.org/10.1007/BF01058392</ee>
 </article>
 </r>
 <r><inproceedings key="conf/kr/PequenoB91" mdate="2012-05-18">
-<author>Tarcisio H. C. Pequeno</author>
-<author>Arthur Buchsbaum</author>
+<author pid="69/3857">Tarcisio H. C. Pequeno</author>
+<author pid="09/3359">Arthur Buchsbaum</author>
 <title>The Logic of Epistemic Inconsistency.</title>
 <pages>453-460</pages>
 <year>1991</year>
@@ -53,8 +53,8 @@
 </inproceedings>
 </r>
 <coauthors n="2" nc="1">
-<co c="0"><na f="p/Pequeno:Marcelino">Marcelino Pequeno</na></co>
-<co c="0"><na f="p/Pequeno:Tarcisio_H=_C=">Tarcisio H. C. Pequeno</na></co>
+<co c="0"><na f="p/Pequeno:Marcelino" pid="15/1073">Marcelino Pequeno</na></co>
+<co c="0"><na f="p/Pequeno:Tarcisio_H=_C=" pid="69/3857">Tarcisio H. C. Pequeno</na></co>
 </coauthors>
 </dblpperson>
 

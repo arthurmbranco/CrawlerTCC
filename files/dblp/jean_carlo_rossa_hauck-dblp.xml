@@ -1,49 +1,388 @@
 <?xml version="1.0"?>
-<dblpperson name="Jean C. R. Hauck" n="18">
-<person key="homepages/77/5650" mdate="2018-05-07">
-<author>Jean C. R. Hauck</author>
-<author>Jean Carlo Rossa Hauck</author>
+<dblpperson name="Jean C. R. Hauck" pid="77/5650" n="42">
+<person key="homepages/77/5650" mdate="2021-07-24">
+<author pid="77/5650">Jean C. R. Hauck</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
 <note type="affiliation">Federal University of Santa Catarina, Florianopolis, SC, Brazil</note>
 <url>https://www.inf.ufsc.br/~jean.hauck/</url>
+<url>https://dl.acm.org/profile/81435592869</url>
 <url>https://orcid.org/0000-0001-6550-9092</url>
 </person>
-<r><article key="journals/te/GoncalvesWHZ18" mdate="2018-05-15">
-<author orcid="0000-0001-6038-9140">Rafael Queiroz Gon&#231;alves</author>
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
-<author orcid="0000-0001-6550-9092">Jean C. R. Hauck</author>
-<author>Andreia Zanella</author>
+<r><inproceedings key="conf/sbsi/HauckGZB21" mdate="2021-07-12">
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author pid="249/9624">Maur&#237;cio Floriano Galimberti</author>
+<author pid="296/5803">Augusto Guarda Lara Zwirtes</author>
+<author pid="296/6248">Jacyara Bosse</author>
+<title>How has process assessment been automated by organizations? A systematic literature mapping.</title>
+<pages>42:1-42:8</pages>
+<year>2021</year>
+<booktitle>SBSI</booktitle>
+<ee>https://doi.org/10.1145/3466933.3466978</ee>
+<crossref>conf/sbsi/2021</crossref>
+<url>db/conf/sbsi/sbsi2021.html#HauckGZB21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-05704" mdate="2021-03-16">
+<author pid="279/8760">Daniel de Souza Baul&#233;</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="w/AldovonWangenheim">Aldo von Wangenheim</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<author pid="287/5034">Edson C. Vargas J&#250;nior</author>
+<title>Automatic code generation from sketches of mobile applications in end-user development using Deep Learning.</title>
+<year>2021</year>
+<volume>abs/2103.05704</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.05704</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-05704</url>
+</article>
+</r>
+<r><article key="journals/iie/MarquesWH20" mdate="2021-01-22">
+<author pid="283/5429">L&#237;via S. Marques</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<title>Teaching Machine Learning in School: A Systematic Mapping of the State of the Art.</title>
+<pages>283-321</pages>
+<year>2020</year>
+<volume>19</volume>
+<journal>Informatics Educ.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.15388/infedu.2020.14</ee>
+<url>db/journals/iie/iie19.html#MarquesWH20</url>
+</article>
+</r>
+<r><article key="journals/isse/CancianRH20" mdate="2020-10-26">
+<author pid="08/8217">Maiara Heil Cancian</author>
+<author pid="54/5569">Ricardo Jos&#233; Rabelo</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<title>Towards a capability and maturity model for Collaborative Software-as-a-Service.</title>
+<pages>245-261</pages>
+<year>2020</year>
+<volume>16</volume>
+<journal>Innov. Syst. Softw. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11334-020-00360-9</ee>
+<url>db/journals/isse/isse16.html#CancianRH20</url>
+</article>
+</r>
+<r><article key="journals/jucs/BauleWWH20" mdate="2021-02-17">
+<author pid="279/8760">Daniel de Souza Baul&#233;</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="w/AldovonWangenheim">Aldo von Wangenheim</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<title>Recent Progress in Automated Code Generation from GUI Images Using Machine Learning Techniques.</title>
+<pages>1095-1127</pages>
+<year>2020</year>
+<volume>26</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>9</number>
+<ee type="oa">http://www.jucs.org/jucs_26_9/recent_progress_in_automated</ee>
+<url>db/journals/jucs/jucs26.html#BauleWWH20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/HauckL20" mdate="2021-01-11">
+<author pid="77/5650">Jean C. R. Hauck</author>
+<author pid="282/4843">St&#233;phanie da Silva Leal</author>
+<title>How software organizations are using the ISO/IEC 29110 standard's processes: a survey of the state of the art and practice.</title>
+<pages>632-641</pages>
+<year>2020</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3422392.3422410</ee>
+<crossref>conf/sbes/2020</crossref>
+<url>db/conf/sbes/sbes2020.html#HauckL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/VieiraHM20" mdate="2021-03-09">
+<author pid="287/0777">Marcel Vieira</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<author pid="96/1477">Santiago Matalonga</author>
+<title>How Explicit Risk Management is Being Integrated Into Agile Methods: Results From a Systematic Literature Mapping.</title>
+<pages>15:1-15:10</pages>
+<year>2020</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3439961.3439976</ee>
+<crossref>conf/sbqs/2020</crossref>
+<url>db/conf/sbqs/sbqs2020.html#VieiraHM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcse/SoleckiPAWHB20" mdate="2020-10-25">
+<author pid="249/9622">Igor da Silva Solecki</author>
+<author pid="232/3257">Jo&#227;o V. Araujo Porto</author>
+<author orcid="0000-0002-3523-9199" pid="242/2725">Nathalia da Cruz Alves</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<title>Automated Assessment of the Visual Design of Android Apps Developed with App Inventor.</title>
+<pages>51-57</pages>
+<year>2020</year>
+<booktitle>SIGCSE</booktitle>
+<ee>https://doi.org/10.1145/3328778.3366868</ee>
+<crossref>conf/sigcse/2020</crossref>
+<url>db/conf/sigcse/sigcse2020.html#SoleckiPAWHB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcse/AlvesWHB20" mdate="2020-10-25">
+<author orcid="0000-0002-3523-9199" pid="242/2725">Nathalia da Cruz Alves</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<title>A Large-scale Evaluation of a Rubric for the Automatic Assessment of Algorithms and Programming Concepts.</title>
+<pages>556-562</pages>
+<year>2020</year>
+<booktitle>SIGCSE</booktitle>
+<ee>https://doi.org/10.1145/3328778.3366840</ee>
+<crossref>conf/sigcse/2020</crossref>
+<url>db/conf/sigcse/sigcse2020.html#AlvesWHB20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-11327" mdate="2020-06-23">
+<author pid="242/2725">Nathalia da Cruz Alves</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<title>A Large-scale Analysis of App Inventor Projects.</title>
+<year>2020</year>
+<volume>abs/2006.11327</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.11327</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-11327</url>
+</article>
+</r>
+<r><article key="journals/iie/AlvesWH19" mdate="2020-10-26">
+<author orcid="0000-0002-3523-9199" pid="242/2725">Nathalia da Cruz Alves</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<title>Approaches to Assess Computational Thinking Competences Based on Code Analysis in K-12 Education: A Systematic Mapping Study.</title>
+<pages>17-39</pages>
+<year>2019</year>
+<volume>18</volume>
+<journal>Informatics Educ.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.15388/infedu.2019.02</ee>
+<url>db/journals/iie/iie18.html#AlvesWH19</url>
+</article>
+</r>
+<r><article key="journals/iie/WangenheimMFPPF19" mdate="2020-09-17">
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="264/3736">Giselle Ara&#250;jo E. Silva de Medeiros</author>
+<author pid="243/6191">Raul Missfeldt Filho</author>
+<author pid="187/5496">Giani Petri</author>
+<author pid="243/6078">Fernando da Cruz Pinheiro</author>
+<author pid="196/0185">Miriam Nathalie F. Ferreira</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<title>SplashCode - A Board Game for Learning an Understanding of Algorithms in Middle School.</title>
+<pages>259-280</pages>
+<year>2019</year>
+<volume>18</volume>
+<journal>Informatics Educ.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.15388/infedu.2019.12</ee>
+<url>db/journals/iie/iie18.html#WangenheimMFPPF19</url>
+</article>
+</r>
+<r><article key="journals/interactions/FerreiraWFPH19" mdate="2019-07-10">
+<author pid="196/0185">Miriam Nathalie F. Ferreira</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="243/6191">Raul Missfeldt Filho</author>
+<author pid="243/6078">Fernando da Cruz Pinheiro</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<title>Learning user interface design and the development of mobile applications in middle school.</title>
+<pages>66-69</pages>
+<year>2019</year>
+<volume>26</volume>
+<journal>Interactions</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3338289</ee>
+<url>db/journals/interactions/interactions26.html#FerreiraWFPH19</url>
+</article>
+</r>
+<r><article key="journals/jucs/PetriWHB19" mdate="2021-02-17">
+<author pid="187/5496">Giani Petri</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<title>Effectiveness of Games in Software Project Management Education: An Experimental Study.</title>
+<pages>840-865</pages>
+<year>2019</year>
+<volume>25</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>7</number>
+<ee type="oa">http://www.jucs.org/jucs_25_7/effectiveness_of_games_in</ee>
+<url>db/journals/jucs/jucs25.html#PetriWHB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ihc/SoleckiPJAWBH19" mdate="2020-10-25">
+<author pid="249/9622">Igor da Silva Solecki</author>
+<author pid="232/3257">Jo&#227;o Vitor Araujo Porto</author>
+<author pid="152/8719">Karla Aparecida Justen</author>
+<author orcid="0000-0002-3523-9199" pid="242/2725">Nathalia da Cruz Alves</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<title>CodeMaster UI design - app inventor: a rubric for the assessment of the interface design of Android apps developed with app inventor.</title>
+<pages>17:1-17:10</pages>
+<year>2019</year>
+<booktitle>IHC</booktitle>
+<ee>https://doi.org/10.1145/3357155.3358463</ee>
+<crossref>conf/ihc/2019</crossref>
+<url>db/conf/ihc/ihc2019.html#SoleckiPJAWBH19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-07244" mdate="2019-05-21">
+<author pid="134/4608">Tha&#237;sa Cardoso Lacerda</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<title>UPCASE - A Method for Self-Assessing the Capability of the Usability Process in Small Organizations.</title>
+<year>2019</year>
+<volume>abs/1902.07244</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.07244</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-07244</url>
+</article>
+</r>
+<r><article key="journals/iie/WangenheimHDPAB18" mdate="2020-10-26">
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<author pid="243/6150">Matheus Faustino Demetrio</author>
+<author pid="243/6100">Rafael Pelle</author>
+<author orcid="0000-0002-3523-9199" pid="242/2725">Nathalia da Cruz Alves</author>
+<author pid="243/6029">Heliziane Barbosa</author>
+<author pid="243/6080">Luiz Felipe Azevedo</author>
+<title>CodeMaster - Automatic Assessment and Grading of App Inventor and Snap! Programs.</title>
+<pages>117-150</pages>
+<year>2018</year>
+<volume>17</volume>
+<journal>Informatics Educ.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.15388/infedu.2018.08</ee>
+<url>db/journals/iie/iie17.html#WangenheimHDPAB18</url>
+</article>
+</r>
+<r><article key="journals/te/GoncalvesWHZ18" mdate="2020-04-16">
+<author orcid="0000-0001-6038-9140" pid="131/2529">Rafael Queiroz Gon&#231;alves</author>
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author orcid="0000-0001-6550-9092" pid="77/5650">Jean C. R. Hauck</author>
+<author orcid="0000-0002-0651-0349" pid="128/7258">Andreia Zanella</author>
 <title>An Instructional Feedback Technique for Teaching Project Management Tools Aligned With PMBOK.</title>
 <pages>143-150</pages>
 <year>2018</year>
 <volume>61</volume>
-<journal>IEEE Trans. Education</journal>
+<journal>IEEE Trans. Educ.</journal>
 <number>2</number>
 <ee>https://doi.org/10.1109/TE.2017.2774766</ee>
 <url>db/journals/te/te61.html#GoncalvesWHZ18</url>
 </article>
 </r>
-<r><article key="journals/inroads/WangenheimWPHF17" mdate="2017-03-07">
-<author>Christiane Gresse von Wangenheim</author>
-<author>Aldo von Wangenheim</author>
-<author>Fernando S. Pacheco</author>
-<author>Jean Carlo Rossa Hauck</author>
-<author>Miriam Nathalie F. Ferreira</author>
+<r><inproceedings key="conf/cibse/HauckMMQJGG18" mdate="2019-10-16">
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author pid="96/1477">Santiago Matalonga</author>
+<author pid="34/2127">Gerardo Matturro</author>
+<author pid="52/4139">Gerardo Quintana</author>
+<author pid="250/9035">Lucas Jacques</author>
+<author pid="250/8950">Christian Galafassi</author>
+<author pid="131/2529">Rafael Queiroz Gon&#231;alves</author>
+<title>Towards a Simulation-Based Project Monitoring and Control Learning Approach.</title>
+<pages>270-283</pages>
+<year>2018</year>
+<booktitle>CIbSE</booktitle>
+<crossref>conf/cibse/2018</crossref>
+<url>db/conf/cibse/cibse2018.html#HauckMMQJGG18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-09049" mdate="2019-01-02">
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="232/3257">Jo&#227;o V. Araujo Porto</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<title>Do we agree on user interface aesthetics of Android apps?</title>
+<year>2018</year>
+<volume>abs/1812.09049</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.09049</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-09049</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-09112" mdate="2019-01-02">
+<author pid="134/4608">Tha&#237;sa Cardoso Lacerda</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<title>A Mapping Study on Software Process Self-Assessment Methods.</title>
+<year>2018</year>
+<volume>abs/1812.09112</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.09112</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-09112</url>
+</article>
+</r>
+<r><article key="journals/iie/GoncalvesWHP17" mdate="2020-09-17">
+<author pid="131/2529">Rafael Queiroz Gon&#231;alves</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author pid="187/5496">Giani Petri</author>
+<title>An Instructional Feedback Technique for Teaching Project Management Tools Aligned with PMBOK.</title>
+<pages>197-224</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>Informatics Educ.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.15388/infedu.2017.11</ee>
+<url>db/journals/iie/iie16.html#GoncalvesWHP17</url>
+</article>
+</r>
+<r><article key="journals/iie/WangenheimPZBHP17" mdate="2020-10-26">
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="187/5496">Giani Petri</author>
+<author orcid="0000-0002-9545-0324" pid="243/6109">Andr&#233; W. Zibetti</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<author pid="196/0067">Fernando S. Pacheco</author>
+<author pid="243/6191">Raul Missfeldt Filho</author>
+<title>dETECT: A Model for the Evaluation of Instructional Units for Teaching Computing in Middle School.</title>
+<pages>301-318</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>Informatics Educ.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.15388/infedu.2017.15</ee>
+<url>db/journals/iie/iie16.html#WangenheimPZBHP17</url>
+</article>
+</r>
+<r><article key="journals/ijcses/WangenheimWPHF17" mdate="2021-04-09">
+<author pid="w/AldovonWangenheim">Aldo von Wangenheim</author>
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="196/0067">Fernando S. Pacheco</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<author pid="196/0185">Miriam Nathalie F. Ferreira</author>
+<title>Motivating Teachers to Teach Computing in Middle School &#226;&#8364;&#34; A Case Study of a Physical Computing Taster Workshop for K-12 Teachers.</title>
+<pages>35-49</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>Int. J. Comput. Sci. Educ. Sch.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.21585/ijcses.v1i4.17</ee>
+<url>db/journals/ijcses/ijcses1.html#WangenheimWPHF17</url>
+</article>
+</r>
+<r><article key="journals/inroads/WangenheimWPHF17" mdate="2018-11-06">
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="w/AldovonWangenheim">Aldo von Wangenheim</author>
+<author pid="196/0067">Fernando S. Pacheco</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author pid="196/0185">Miriam Nathalie F. Ferreira</author>
 <title>Teaching physical computing in family workshops.</title>
 <pages>48-51</pages>
 <year>2017</year>
 <volume>8</volume>
 <journal>Inroads</journal>
 <number>1</number>
-<ee>http://doi.acm.org/10.1145/3043950</ee>
+<ee>https://doi.org/10.1145/3043950</ee>
 <url>db/journals/inroads/inroads8.html#WangenheimWPHF17</url>
 </article>
 </r>
 <r><inproceedings key="conf/iwsm/BuglioneAWMH16" mdate="2017-06-15">
-<author>Luigi Buglione</author>
-<author orcid="0000-0003-2670-9061">Alain Abran</author>
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
-<author>Fergal McCaffery</author>
-<author>Jean Carlo Rossa Hauck</author>
+<author pid="59/34">Luigi Buglione</author>
+<author orcid="0000-0003-2670-9061" pid="38/3673">Alain Abran</author>
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="49/3010">Fergal McCaffery</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
 <title>Risk Management: Achieving Higher Maturity &#38; Capability Levels through the LEGO Approach.</title>
 <pages>131-138</pages>
 <year>2016</year>
@@ -54,12 +393,24 @@
 <url>db/conf/iwsm/iwsm2016.html#BuglioneAWMH16</url>
 </inproceedings>
 </r>
+<r><inproceedings key="conf/sbsi/ConteH16" mdate="2020-06-03">
+<author pid="266/3531">Daniel Antonio Conte</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<title>Automated Identification of Classes Using Natural Language Processing.</title>
+<pages>301-304</pages>
+<year>2016</year>
+<booktitle>SBSI</booktitle>
+<ee>https://dl.acm.org/doi/abs/10.5555/3021955.3022006</ee>
+<crossref>conf/sbsi/2016</crossref>
+<url>db/conf/sbsi/sbsi2016.html#ConteH16</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/iwsm/BuglioneAWMH15" mdate="2017-06-15">
-<author>Luigi Buglione</author>
-<author orcid="0000-0003-2670-9061">Alain Abran</author>
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
-<author>Fergal McCaffery</author>
-<author>Jean Carlo Rossa Hauck</author>
+<author pid="59/34">Luigi Buglione</author>
+<author orcid="0000-0003-2670-9061" pid="38/3673">Alain Abran</author>
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="49/3010">Fergal McCaffery</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
 <title>Software or Service? That's the Question!</title>
 <pages>30-45</pages>
 <year>2015</year>
@@ -70,11 +421,11 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/sbes/HauckAADN15" mdate="2017-05-26">
-<author>Jean Carlo Rossa Hauck</author>
-<author>Igor Almeida</author>
-<author>Ricardo Araujo</author>
-<author>J&#250;nior Dymow</author>
-<author>Moacyr Franco M. Neto</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author pid="82/5163">Igor Almeida</author>
+<author pid="87/9079">Ricardo Araujo</author>
+<author pid="170/8751">J&#250;nior Dymow</author>
+<author pid="160/4488">Moacyr Franco M. Neto</author>
 <title>Harmonizing MPS.BR and CERTICS: A Case Study in a Maturity Level F Organization.</title>
 <pages>61-70</pages>
 <year>2015</year>
@@ -85,10 +436,10 @@
 <url>db/conf/sbes/sbes2015.html#HauckAADN15</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/clei/NacimentoMH14" mdate="2017-05-21">
-<author>Cecilia Nacimento</author>
-<author>Santiago Matalonga</author>
-<author>Jean Carlo Rossa Hauck</author>
+<r><inproceedings key="conf/clei/NacimentoMH14" mdate="2018-11-02">
+<author pid="156/4531">Cecilia Nacimento</author>
+<author orcid="0000-0001-5429-2449" pid="96/1477">Santiago Matalonga</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
 <title>Identifying technical debt cost factors in reflection activities of an agile projects.</title>
 <pages>1-11</pages>
 <year>2014</year>
@@ -98,27 +449,27 @@
 <url>db/conf/clei/clei2014.html#NacimentoMH14</url>
 </inproceedings>
 </r>
-<r><article key="journals/csi/BuglioneWMH13" mdate="2017-06-05">
-<author>Luigi Buglione</author>
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
-<author>Fergal McCaffery</author>
-<author>Jean Carlo Rossa Hauck</author>
+<r><article key="journals/csi/BuglioneWMH13" mdate="2020-02-20">
+<author pid="59/34">Luigi Buglione</author>
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="49/3010">Fergal McCaffery</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
 <title>The LEGO strategy: Guidelines for a profitable deployment.</title>
 <pages>10-20</pages>
 <year>2013</year>
 <volume>36</volume>
-<journal>Computer Standards &#38; Interfaces</journal>
+<journal>Comput. Stand. Interfaces</journal>
 <number>1</number>
 <ee>https://doi.org/10.1016/j.csi.2013.07.008</ee>
 <url>db/journals/csi/csi36.html#BuglioneWMH13</url>
 </article>
 </r>
 <r><inproceedings key="conf/icsr/BuglioneLWMH13" mdate="2017-06-04">
-<author>Luigi Buglione</author>
-<author>Giuseppe Lami</author>
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
-<author>Fergal McCaffery</author>
-<author>Jean Carlo Rossa Hauck</author>
+<author pid="59/34">Luigi Buglione</author>
+<author pid="l/GiuseppeLami">Giuseppe Lami</author>
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="49/3010">Fergal McCaffery</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
 <title>Leveraging Reuse-Related Maturity Issues for Achieving Higher Maturity and Capability Levels.</title>
 <pages>343-355</pages>
 <year>2013</year>
@@ -129,11 +480,11 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/amcis/WangenheimWHMB12" mdate="2013-01-29">
-<author>Christiane Gresse von Wangenheim</author>
-<author>Aldo von Wangenheim</author>
-<author>Jean Carlo Rossa Hauck</author>
-<author>Fergal McCaffery</author>
-<author>Luigi Buglione</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="w/AldovonWangenheim">Aldo von Wangenheim</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author pid="49/3010">Fergal McCaffery</author>
+<author pid="59/34">Luigi Buglione</author>
 <title>Tailoring Software Process Capability/Maturity Models for Telemedicine Systems.</title>
 <year>2012</year>
 <booktitle>AMCIS</booktitle>
@@ -143,10 +494,10 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/icsoft/BuglioneHWM12" mdate="2017-12-14">
-<author>Luigi Buglione</author>
-<author>Jean Carlo Rossa Hauck</author>
-<author>Christiane Gresse von Wangenheim</author>
-<author>Fergal McCaffery</author>
+<author pid="59/34">Luigi Buglione</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="49/3010">Fergal McCaffery</author>
 <title>Hybriding CMMI and Requirement Engineering Maturity &#38; Capability Models - Applying the LEGO Approach for Improving Estimates.</title>
 <pages>55-61</pages>
 <year>2012</year>
@@ -157,10 +508,10 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/spice/BuglioneMHW12" mdate="2017-06-05">
-<author>Luigi Buglione</author>
-<author>Fergal McCaffery</author>
-<author>Jean Carlo Rossa Hauck</author>
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author pid="59/34">Luigi Buglione</author>
+<author pid="49/3010">Fergal McCaffery</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
 <title>FIRST: Common-Sense Process Scopes for Starting a Process Improvement Program.</title>
 <pages>186-197</pages>
 <year>2012</year>
@@ -171,10 +522,10 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/profes/HauckWMB11" mdate="2017-06-05">
-<author>Jean Carlo Rossa Hauck</author>
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
-<author>Fergal McCaffery</author>
-<author>Luigi Buglione</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="49/3010">Fergal McCaffery</author>
+<author pid="59/34">Luigi Buglione</author>
 <title>Proposing an ISO/IEC 15504-2 Compliant Method for Process Capability/Maturity Models Customization.</title>
 <pages>44-58</pages>
 <year>2011</year>
@@ -185,8 +536,8 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/sbes/HauckW11" mdate="2017-06-05">
-<author>Jean Carlo Rossa Hauck</author>
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
 <title>A Method for Software Process Capability / Maturity Models Customization to Specific Domains.</title>
 <pages>293-302</pages>
 <year>2011</year>
@@ -197,18 +548,18 @@
 <url>db/conf/sbes/sbes2011.html#HauckW11</url>
 </inproceedings>
 </r>
-<r><article key="journals/software/WangenheimHZSMS10" mdate="2017-06-08">
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
-<author>Jean Carlo Rossa Hauck</author>
-<author>Alessandra Zoucas</author>
-<author>Clenio F. Salviano</author>
-<author>Fergal McCaffery</author>
-<author>Forrest Shull</author>
+<r><article key="journals/software/WangenheimHZSMS10" mdate="2020-06-08">
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author pid="52/9051">Alessandra Zoucas</author>
+<author pid="87/830">Clenio F. Salviano</author>
+<author pid="49/3010">Fergal McCaffery</author>
+<author pid="18/462">Forrest Shull</author>
 <title>Creating Software Process Capability/Maturity Models.</title>
 <pages>92-94</pages>
 <year>2010</year>
 <volume>27</volume>
-<journal>IEEE Software</journal>
+<journal>IEEE Softw.</journal>
 <number>4</number>
 <ee>https://doi.org/10.1109/MS.2010.96</ee>
 <ee>http://doi.ieeecomputersociety.org/10.1109/MS.2010.96</ee>
@@ -216,10 +567,10 @@
 </article>
 </r>
 <r><inproceedings key="conf/profes/CancianHWR10" mdate="2017-06-05">
-<author>Maiara Heil Cancian</author>
-<author>Jean Carlo Rossa Hauck</author>
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
-<author>Ricardo J. Rabelo</author>
+<author pid="08/8217">Maiara Heil Cancian</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="54/5569">Ricardo J. Rabelo</author>
 <title>Discovering Software Process and Product Quality Criteria in Software as a Service.</title>
 <pages>234-247</pages>
 <year>2010</year>
@@ -229,15 +580,15 @@
 <url>db/conf/profes/profes2010.html#CancianHWR10</url>
 </inproceedings>
 </r>
-<r><article key="journals/software/WangenheimHW09" mdate="2017-06-08">
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
-<author>Jean Carlo Rossa Hauck</author>
-<author orcid="0000-0003-4532-1417">Aldo von Wangenheim</author>
+<r><article key="journals/software/WangenheimHW09" mdate="2020-06-08">
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0003-4532-1417" pid="w/AldovonWangenheim">Aldo von Wangenheim</author>
 <title>Enhancing Open Source Software in Alignment with CMMI-DEV.</title>
 <pages>59-67</pages>
 <year>2009</year>
 <volume>26</volume>
-<journal>IEEE Software</journal>
+<journal>IEEE Softw.</journal>
 <number>2</number>
 <ee>https://doi.org/10.1109/MS.2009.34</ee>
 <ee>http://doi.ieeecomputersociety.org/10.1109/MS.2009.34</ee>
@@ -245,10 +596,10 @@
 </article>
 </r>
 <r><inproceedings key="conf/eurospi/HauckWST08" mdate="2017-06-15">
-<author>Jean Carlo Rossa Hauck</author>
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
-<author>Richard H. de Souza</author>
-<author>Marcello Thiry</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="10/6561">Richard H. de Souza</author>
+<author pid="78/176">Marcello Thiry</author>
 <title>Process Reference Guides - Support for Improving Software Processes in Alignment with Reference Models and Standards.</title>
 <pages>70-81</pages>
 <year>2008</year>
@@ -258,47 +609,75 @@
 <url>db/conf/eurospi/eurospi2008.html#HauckWST08</url>
 </inproceedings>
 </r>
-<r><article key="journals/infsof/WangenheimWHS06" mdate="2017-06-06">
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
-<author>S&#233;rgio Weber</author>
-<author>Jean Carlo Rossa Hauck</author>
-<author>Gisele Trentin da Silva</author>
+<r><article key="journals/infsof/WangenheimWHS06" mdate="2020-02-20">
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="42/2889">S&#233;rgio Weber</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author pid="12/185">Gisele Trentin da Silva</author>
 <title>Experiences on establishing software processes in small companies.</title>
 <pages>890-900</pages>
 <year>2006</year>
 <volume>48</volume>
-<journal>Information &#38; Software Technology</journal>
+<journal>Inf. Softw. Technol.</journal>
 <number>9</number>
 <ee>https://doi.org/10.1016/j.infsof.2005.12.010</ee>
 <url>db/journals/infsof/infsof48.html#WangenheimWHS06</url>
 </article>
 </r>
-<coauthors n="25" nc="3">
-<co c="0"><na f="a/Abran:Alain">Alain Abran</na></co>
-<co c="1"><na f="a/Almeida:Igor">Igor Almeida</na></co>
-<co c="1"><na f="a/Araujo:Ricardo">Ricardo Araujo</na></co>
-<co c="0"><na f="b/Buglione:Luigi">Luigi Buglione</na></co>
-<co c="0"><na f="c/Cancian:Maiara_Heil">Maiara Heil Cancian</na></co>
-<co c="1"><na f="d/Dymow:J=uacute=nior">J&#250;nior Dymow</na></co>
-<co c="0"><na f="f/Ferreira:Miriam_Nathalie_F=">Miriam Nathalie F. Ferreira</na></co>
-<co c="0"><na f="g/Gon=ccedil=alves:Rafael_Queiroz">Rafael Queiroz Gon&#231;alves</na></co>
-<co c="0"><na f="l/Lami:Giuseppe">Giuseppe Lami</na></co>
-<co c="2"><na f="m/Matalonga:Santiago">Santiago Matalonga</na></co>
-<co c="0"><na f="m/McCaffery:Fergal">Fergal McCaffery</na></co>
-<co c="2"><na f="n/Nacimento:Cecilia">Cecilia Nacimento</na></co>
-<co c="1"><na f="n/Neto:Moacyr_Franco_M=">Moacyr Franco M. Neto</na></co>
-<co c="0"><na f="p/Pacheco:Fernando_S=">Fernando S. Pacheco</na></co>
-<co c="0"><na f="r/Rabelo:Ricardo_J=">Ricardo J. Rabelo</na></co>
-<co c="0"><na f="s/Salviano:Clenio_F=">Clenio F. Salviano</na></co>
-<co c="0"><na f="s/Shull:Forrest">Forrest Shull</na></co>
-<co c="0"><na f="s/Silva:Gisele_Trentin_da">Gisele Trentin da Silva</na></co>
-<co c="0"><na f="s/Souza:Richard_H=_de">Richard H. de Souza</na></co>
-<co c="0"><na f="t/Thiry:Marcello">Marcello Thiry</na></co>
-<co c="0"><na f="w/Wangenheim:Aldo_von">Aldo von Wangenheim</na></co>
-<co c="0"><na f="w/Wangenheim:Christiane_Gresse_von">Christiane Gresse von Wangenheim</na></co>
-<co c="0"><na f="w/Weber:S=eacute=rgio">S&#233;rgio Weber</na></co>
-<co c="0"><na f="z/Zanella:Andreia">Andreia Zanella</na></co>
-<co c="0"><na f="z/Zoucas:Alessandra">Alessandra Zoucas</na></co>
+<coauthors n="53" nc="3">
+<co c="0"><na f="a/Abran:Alain" pid="38/3673">Alain Abran</na></co>
+<co c="1"><na f="a/Almeida:Igor" pid="82/5163">Igor Almeida</na></co>
+<co c="0"><na f="a/Alves:Nathalia_da_Cruz" pid="242/2725">Nathalia da Cruz Alves</na></co>
+<co c="1"><na f="a/Araujo:Ricardo" pid="87/9079">Ricardo Araujo</na></co>
+<co c="0"><na f="a/Azevedo:Luiz_Felipe" pid="243/6080">Luiz Felipe Azevedo</na></co>
+<co c="0"><na f="b/Barbosa:Heliziane" pid="243/6029">Heliziane Barbosa</na></co>
+<co c="0"><na f="b/Baul=eacute=:Daniel_de_Souza" pid="279/8760">Daniel de Souza Baul&#233;</na></co>
+<co c="0"><na f="b/Borgatto:Adriano_Ferreti" pid="12/10539">Adriano Ferreti Borgatto</na></co>
+<co c="2"><na f="b/Bosse:Jacyara" pid="296/6248">Jacyara Bosse</na></co>
+<co c="0"><na f="b/Buglione:Luigi" pid="59/34">Luigi Buglione</na></co>
+<co c="0"><na f="c/Cancian:Maiara_Heil" pid="08/8217">Maiara Heil Cancian</na></co>
+<co c="-1"><na f="c/Conte:Daniel_Antonio" pid="266/3531">Daniel Antonio Conte</na></co>
+<co c="0"><na f="d/Demetrio:Matheus_Faustino" pid="243/6150">Matheus Faustino Demetrio</na></co>
+<co c="1"><na f="d/Dymow:J=uacute=nior" pid="170/8751">J&#250;nior Dymow</na></co>
+<co c="0"><na f="f/Ferreira:Miriam_Nathalie_F=" pid="196/0185">Miriam Nathalie F. Ferreira</na></co>
+<co c="0"><na f="f/Filho:Raul_Missfeldt" pid="243/6191">Raul Missfeldt Filho</na></co>
+<co c="0"><na f="g/Galafassi:Christian" pid="250/8950">Christian Galafassi</na></co>
+<co c="2" n="2"><na f="g/Galimberti:Maur=iacute=cio_F=" pid="249/9624">Maur&#237;cio F. Galimberti</na><na>Maur&#237;cio Floriano Galimberti</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Rafael_Queiroz" pid="131/2529">Rafael Queiroz Gon&#231;alves</na></co>
+<co c="0"><na f="j/Jacques:Lucas" pid="250/9035">Lucas Jacques</na></co>
+<co c="0"><na f="j/J=uacute=nior:Edson_C=_Vargas" pid="287/5034">Edson C. Vargas J&#250;nior</na></co>
+<co c="0" n="2"><na f="j/Justen:Karla_A=" pid="152/8719">Karla A. Justen</na><na>Karla Aparecida Justen</na></co>
+<co c="0" n="2"><na f="l/Lacerda:Tha=iacute=sa" pid="134/4608">Tha&#237;sa Lacerda</na><na>Tha&#237;sa Cardoso Lacerda</na></co>
+<co c="0"><na f="l/Lami:Giuseppe" pid="l/GiuseppeLami">Giuseppe Lami</na></co>
+<co c="-1"><na f="l/Leal:St=eacute=phanie_da_Silva" pid="282/4843">St&#233;phanie da Silva Leal</na></co>
+<co c="0"><na f="m/Marques:L=iacute=via_S=" pid="283/5429">L&#237;via S. Marques</na></co>
+<co c="0"><na f="m/Matalonga:Santiago" pid="96/1477">Santiago Matalonga</na></co>
+<co c="0"><na f="m/Matturro:Gerardo" pid="34/2127">Gerardo Matturro</na></co>
+<co c="0"><na f="m/McCaffery:Fergal" pid="49/3010">Fergal McCaffery</na></co>
+<co c="0"><na f="m/Medeiros:Giselle_Ara=uacute=jo_E=_Silva_de" pid="264/3736">Giselle Ara&#250;jo E. Silva de Medeiros</na></co>
+<co c="0"><na f="n/Nacimento:Cecilia" pid="156/4531">Cecilia Nacimento</na></co>
+<co c="1"><na f="n/Neto:Moacyr_Franco_M=" pid="160/4488">Moacyr Franco M. Neto</na></co>
+<co c="0"><na f="p/Pacheco:Fernando_S=" pid="196/0067">Fernando S. Pacheco</na></co>
+<co c="0"><na f="p/Pelle:Rafael" pid="243/6100">Rafael Pelle</na></co>
+<co c="0"><na f="p/Petri:Giani" pid="187/5496">Giani Petri</na></co>
+<co c="0"><na f="p/Pinheiro:Fernando_da_Cruz" pid="243/6078">Fernando da Cruz Pinheiro</na></co>
+<co c="0" n="2"><na f="p/Porto:Jo=atilde=o_V=_Araujo" pid="232/3257">Jo&#227;o V. Araujo Porto</na><na>Jo&#227;o Vitor Araujo Porto</na></co>
+<co c="0"><na f="q/Quintana:Gerardo" pid="52/4139">Gerardo Quintana</na></co>
+<co c="0" n="2"><na f="r/Rabelo:Ricardo_J=" pid="54/5569">Ricardo J. Rabelo</na><na>Ricardo Jos&#233; Rabelo</na></co>
+<co c="0"><na f="s/Salviano:Clenio_F=" pid="87/830">Clenio F. Salviano</na></co>
+<co c="0"><na f="s/Shull:Forrest" pid="18/462">Forrest Shull</na></co>
+<co c="0"><na f="s/Silva:Gisele_Trentin_da" pid="12/185">Gisele Trentin da Silva</na></co>
+<co c="0"><na f="s/Solecki:Igor_da_Silva" pid="249/9622">Igor da Silva Solecki</na></co>
+<co c="0"><na f="s/Souza:Richard_H=_de" pid="10/6561">Richard H. de Souza</na></co>
+<co c="0"><na f="t/Thiry:Marcello" pid="78/176">Marcello Thiry</na></co>
+<co c="0"><na f="v/Vieira:Marcel" pid="287/0777">Marcel Vieira</na></co>
+<co c="0"><na f="w/Wangenheim:Aldo_von" pid="w/AldovonWangenheim">Aldo von Wangenheim</na></co>
+<co c="0"><na f="w/Wangenheim:Christiane_Gresse_von" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</na></co>
+<co c="0"><na f="w/Weber:S=eacute=rgio" pid="42/2889">S&#233;rgio Weber</na></co>
+<co c="0"><na f="z/Zanella:Andreia" pid="128/7258">Andreia Zanella</na></co>
+<co c="0"><na f="z/Zibetti:Andr=eacute=_W=" pid="243/6109">Andr&#233; W. Zibetti</na></co>
+<co c="0"><na f="z/Zoucas:Alessandra" pid="52/9051">Alessandra Zoucas</na></co>
+<co c="2"><na f="z/Zwirtes:Augusto_Guarda_Lara" pid="296/5803">Augusto Guarda Lara Zwirtes</na></co>
 </coauthors>
 </dblpperson>
 

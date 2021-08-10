@@ -1,25 +1,110 @@
 <?xml version="1.0"?>
-<dblpperson name="Jerusa Marchi" n="16">
+<dblpperson name="Jerusa Marchi" pid="67/3037" n="22">
 <person key="homepages/67/3037" mdate="2009-06-09">
-<author>Jerusa Marchi</author>
+<author pid="67/3037">Jerusa Marchi</author>
 </person>
-<r><article key="journals/rita/CoutoMG17" mdate="2018-01-05">
-<author>Diego Couto</author>
-<author>Jerusa Marchi</author>
-<author>Thiago &#194;ngelo Gelaim</author>
+<r><article key="journals/aepia/PiresDMS21" mdate="2021-05-11">
+<author pid="291/4317">Otto Menegasso Pires</author>
+<author pid="292/2093">Eduardo Inacio Duzzioni</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<title>Quantum Circuit Synthesis Using Projective Simulation.</title>
+<pages>90-101</pages>
+<year>2021</year>
+<volume>24</volume>
+<journal>Inteligencia Artif.</journal>
+<number>67</number>
+<ee type="oa">https://doi.org/10.4114/intartif.vol24iss67pp90-101</ee>
+<url>db/journals/aepia/aepia24.html#PiresDMS21</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-13297" mdate="2021-05-11">
+<author pid="291/4317">Otto Menegasso Pires</author>
+<author pid="292/2093">Eduardo Inacio Duzzioni</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="79/8300">Rafael de Santiago</author>
+<title>Quantum circuit synthesis of Bell and GHZ states using projective simulation in the NISQ era.</title>
+<year>2021</year>
+<volume>abs/2104.13297</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.13297</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-13297</url>
+</article>
+</r>
+<r><article key="journals/rcs/Alarcon-Narvaez20" mdate="2021-03-22">
+<author pid="287/7863">Daniel Alarc&#243;n-Narv&#225;ez</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="152/5285">Jos&#233; Hern&#225;ndez-Torruco</author>
+<author pid="89/10879">Oscar Ch&#225;vez-Bosquez</author>
+<author pid="134/0887">Betania Hern&#225;ndez-Oca&#241;a</author>
+<title>Clasificadores basados en reglas y selecci&#243;n de atributos para el diagn&#243;stico cl&#237;nico de subtipos del S&#237;ndrome de Guillain-Barr&#233;.</title>
+<pages>41-53</pages>
+<year>2020</year>
+<volume>149</volume>
+<journal>Res. Comput. Sci.</journal>
+<number>8</number>
+<ee type="oa">http://rcs.cic.ipn.mx/2020_149_8/Clasificadores%20basados%20en%20reglas%20y%20seleccion%20de%20atributos%20para%20el%20diagnostico%20clinico.pdf</ee>
+<url>db/journals/rcs/rcs149.html#Alarcon-Narvaez20</url>
+</article>
+</r>
+<r><article key="journals/eswa/GelaimHMS19" mdate="2019-01-04">
+<author pid="162/5979">Thiago &#194;ngelo Gelaim</author>
+<author pid="232/6199">Valdir Luiz Hofer</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="48/5786">Ricardo Azambuja Silveira</author>
+<title>Sigon: A multi-context system framework for intelligent agents.</title>
+<pages>51-60</pages>
+<year>2019</year>
+<volume>119</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2018.10.042</ee>
+<url>db/journals/eswa/eswa119.html#GelaimHMS19</url>
+</article>
+</r>
+<r><article key="journals/rita/MittelmannMW19" mdate="2020-02-03">
+<author pid="241/5539">Munyque Mittelmann</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="w/AldovonWangenheim">Aldo von Wangenheim</author>
+<title>Data Fusion through Fuzzy-Bayesian Networks for Belief Generation in Cognitive Agents.</title>
+<pages>69-80</pages>
+<year>2019</year>
+<volume>26</volume>
+<journal>RITA</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.22456/2175-2745.87085</ee>
+<url>db/journals/rita/rita26.html#MittelmannMW19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icaisc/MittelmannMW19" mdate="2019-05-27">
+<author pid="241/5539">Munyque Mittelmann</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="w/AldovonWangenheim">Aldo von Wangenheim</author>
+<title>A Fuzzy-Dynamic Bayesian Network Approach for Inference Filtering.</title>
+<pages>314-323</pages>
+<year>2019</year>
+<booktitle>ICAISC (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-20912-4_30</ee>
+<crossref>conf/icaisc/2019-1</crossref>
+<url>db/conf/icaisc/icaisc2019-1.html#MittelmannMW19</url>
+</inproceedings>
+</r>
+<r><article key="journals/rita/CoutoMG17" mdate="2021-02-17">
+<author pid="211/9534">Diego Couto</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="162/5979">Thiago &#194;ngelo Gelaim</author>
 <title>Composi&#231;&#227;o de Agentes EBDI: Integra&#231;&#227;o WASABI-Jason.</title>
 <pages>112-129</pages>
 <year>2017</year>
 <volume>24</volume>
 <journal>RITA</journal>
 <number>2</number>
-<ee>http://www.seer.ufrgs.br/index.php/rita/article/view/VOL24-NR2-112</ee>
+<ee type="oa">https://doi.org/10.22456/2175-2745.75327</ee>
 <url>db/journals/rita/rita24.html#CoutoMG17</url>
 </article>
 </r>
 <r><inproceedings key="conf/bracis/AlvesM17" mdate="2018-01-23">
-<author>Jhonatan Alves</author>
-<author>Jerusa Marchi</author>
+<author pid="184/6009">Jhonatan Alves</author>
+<author pid="67/3037">Jerusa Marchi</author>
 <title>Web Service Composition: An Agent-Based Approach.</title>
 <pages>121-126</pages>
 <year>2017</year>
@@ -30,11 +115,11 @@
 <url>db/conf/bracis/bracis2017.html#AlvesM17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/iscc/AlvesMFD16" mdate="2017-05-25">
-<author>Jhonatan Alves</author>
-<author>Jerusa Marchi</author>
-<author>Renato Fileto</author>
-<author>Mario A. R. Dantas</author>
+<r><inproceedings key="conf/iscc/AlvesMFD16" mdate="2019-10-19">
+<author pid="184/6009">Jhonatan Alves</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="35/2350">Renato Fileto</author>
+<author orcid="0000-0002-2312-7042" pid="d/MarioARDantas">Mario A. R. Dantas</author>
 <title>Resilient composition of Web services through nondeterministic planning.</title>
 <pages>895-900</pages>
 <year>2016</year>
@@ -45,50 +130,51 @@
 <url>db/conf/iscc/iscc2016.html#AlvesMFD16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/micai/GelaimSM15" mdate="2017-05-24">
-<author>Thiago &#194;ngelo Gelaim</author>
-<author>Ricardo Azambuja Silveira</author>
-<author>Jerusa Marchi</author>
+<r><inproceedings key="conf/micai/GelaimSM15" mdate="2019-02-22">
+<author pid="162/5979">Thiago &#194;ngelo Gelaim</author>
+<author pid="48/5786">Ricardo Azambuja Silveira</author>
+<author pid="67/3037">Jerusa Marchi</author>
 <title>Towards a Model of Cognitive Agents: Integrating Emotion on Trust.</title>
 <pages>80-86</pages>
 <year>2015</year>
 <booktitle>MICAI (Special Sessions)</booktitle>
 <ee>https://doi.org/10.1109/MICAI.2015.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MICAI.2015.19</ee>
 <crossref>conf/micai/2015s</crossref>
 <url>db/conf/micai/micai2015s.html#GelaimSM15</url>
 </inproceedings>
 </r>
-<r><article key="journals/rcs/Chavez-BosquezM14" mdate="2015-06-18">
-<author>Oscar Ch&#225;vez-Bosquez</author>
-<author>Jerusa Marchi</author>
-<author>Pilar Pozos Parra</author>
+<r><article key="journals/rcs/Chavez-BosquezM14" mdate="2020-03-12">
+<author pid="89/10879">Oscar Ch&#225;vez-Bosquez</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="17/4308">Pilar Pozos Parra</author>
 <title>Nutritional Menu Planning: A Hybrid Approach and Preliminary Tests.</title>
 <pages>93-104</pages>
 <year>2014</year>
 <volume>82</volume>
-<journal>Research in Computing Science</journal>
-<ee>http://rcs.cic.ipn.mx/2014_82/Nutritional%20Menu%20Planning_%20A%20Hybrid%20Approach%20and%20Preliminary%20Tests.pdf</ee>
+<journal>Res. Comput. Sci.</journal>
+<ee type="oa">http://rcs.cic.ipn.mx/2014_82/Nutritional%20Menu%20Planning_%20A%20Hybrid%20Approach%20and%20Preliminary%20Tests.pdf</ee>
 <url>db/journals/rcs/rcs82.html#Chavez-BosquezM14</url>
 </article>
 </r>
-<r><inproceedings key="conf/eumas/BitencourtSM13" mdate="2015-12-18">
-<author>Guilherme K. Bitencourt</author>
-<author>Ricardo Azambuja Silveira</author>
-<author>Jerusa Marchi</author>
+<r><inproceedings key="conf/eumas/BitencourtSM13" mdate="2019-05-28">
+<author pid="140/7720">Guilherme K. Bitencourt</author>
+<author pid="48/5786">Ricardo Azambuja Silveira</author>
+<author pid="67/3037">Jerusa Marchi</author>
 <title>TrustE: An Emotional Trust Model for Agents.</title>
 <pages>54-67</pages>
 <year>2013</year>
 <booktitle>EUMAS</booktitle>
-<ee>http://ceur-ws.org/Vol-1113/paper5.pdf</ee>
+<ee type="oa">http://ceur-ws.org/Vol-1113/paper5.pdf</ee>
 <crossref>conf/eumas/2013</crossref>
 <url>db/conf/eumas/eumas2013.html#BitencourtSM13</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/jelia/PerrusselMTZ12" mdate="2017-05-25">
-<author>Laurent Perrussel</author>
-<author>Jerusa Marchi</author>
-<author>Jean-Marc Th&#233;venin</author>
-<author>Dongmo Zhang</author>
+<author pid="79/5272">Laurent Perrussel</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="39/3162">Jean-Marc Th&#233;venin</author>
+<author pid="12/4822">Dongmo Zhang</author>
 <title>Relevant Minimal Change in Belief Update.</title>
 <pages>333-345</pages>
 <year>2012</year>
@@ -98,21 +184,21 @@
 <url>db/conf/jelia/jelia2012.html#PerrusselMTZ12</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/flairs/MarchiP11" mdate="2011-06-28">
-<author>Jerusa Marchi</author>
-<author>Laurent Perrussel</author>
+<r><inproceedings key="conf/flairs/MarchiP11" mdate="2021-02-03">
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="79/5272">Laurent Perrussel</author>
 <title>Prime Normal Forms in Belief Merging.</title>
 <year>2011</year>
 <booktitle>FLAIRS Conference</booktitle>
-<ee>http://aaai.org/ocs/index.php/FLAIRS/FLAIRS11/paper/view/2584</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/FLAIRS/FLAIRS11/paper/view/2584</ee>
 <crossref>conf/flairs/2011</crossref>
 <url>db/conf/flairs/flairs2011.html#MarchiP11</url>
 </inproceedings>
 </r>
 <r><article key="journals/amai/MarchiBP10" mdate="2017-05-28">
-<author>Jerusa Marchi</author>
-<author>Guilherme Bittencourt</author>
-<author>Laurent Perrussel</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="64/1847">Guilherme Bittencourt</author>
+<author pid="79/5272">Laurent Perrussel</author>
 <title>Prime forms and minimal change in propositional belief bases.</title>
 <pages>1-45</pages>
 <year>2010</year>
@@ -124,9 +210,9 @@
 </article>
 </r>
 <r><inproceedings key="conf/ausai/PerrusselMZ10" mdate="2017-05-21">
-<author>Laurent Perrussel</author>
-<author>Jerusa Marchi</author>
-<author>Dongmo Zhang</author>
+<author pid="79/5272">Laurent Perrussel</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="12/4822">Dongmo Zhang</author>
 <title>Characterizing Relevant Belief Revision Operators.</title>
 <pages>42-51</pages>
 <year>2010</year>
@@ -136,22 +222,22 @@
 <url>db/conf/ausai/ausai2010.html#PerrusselMZ10</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/flairs/PerrusselMB09" mdate="2012-12-13">
-<author>Laurent Perrussel</author>
-<author>Jerusa Marchi</author>
-<author>Guilherme Bittencourt</author>
+<r><inproceedings key="conf/flairs/PerrusselMB09" mdate="2021-02-03">
+<author pid="79/5272">Laurent Perrussel</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="64/1847">Guilherme Bittencourt</author>
 <title>Prime Implicants and Belief Update.</title>
 <year>2009</year>
 <booktitle>FLAIRS Conference</booktitle>
 <crossref>conf/flairs/2009</crossref>
 <url>db/conf/flairs/flairs2009.html#PerrusselMB09</url>
-<ee>http://aaai.org/ocs/index.php/FLAIRS/2009/paper/view/87</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/FLAIRS/2009/paper/view/87</ee>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/iberamia/PerrusselMB08" mdate="2017-05-21">
-<author>Laurent Perrussel</author>
-<author>Jerusa Marchi</author>
-<author>Guilherme Bittencourt</author>
+<author pid="79/5272">Laurent Perrussel</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="64/1847">Guilherme Bittencourt</author>
 <title>Quantum-Based Belief Merging.</title>
 <pages>21-30</pages>
 <year>2008</year>
@@ -162,7 +248,7 @@
 </inproceedings>
 </r>
 <r><phdthesis key="phd/ndltd/Marchi06" mdate="2018-07-15">
-<author>Jerusa Marchi</author>
+<author pid="67/3037">Jerusa Marchi</author>
 <title>Operadores sint&#225;ticos para mudan&#231;a de cren&#231;as baseados na representa&#231;&#227;o em formas normais prim&#225;rias.</title>
 <year>2006</year>
 <school>Federal University of Santa Catarina, Florian&#243;polis, Brazers</school>
@@ -173,9 +259,9 @@
 </phdthesis>
 </r>
 <r><inproceedings key="conf/micai/MarchiBP05" mdate="2017-05-24">
-<author>Jerusa Marchi</author>
-<author>Guilherme Bittencourt</author>
-<author>Laurent Perrussel</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="64/1847">Guilherme Bittencourt</author>
+<author pid="79/5272">Laurent Perrussel</author>
 <title>A Syntactical Approach to Belief Update.</title>
 <pages>142-151</pages>
 <year>2005</year>
@@ -186,9 +272,9 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/ecai/BittencourtPM04" mdate="2004-09-02">
-<author>Guilherme Bittencourt</author>
-<author>Laurent Perrussel</author>
-<author>Jerusa Marchi</author>
+<author pid="64/1847">Guilherme Bittencourt</author>
+<author pid="79/5272">Laurent Perrussel</author>
+<author pid="67/3037">Jerusa Marchi</author>
 <title>A Syntactical Approach to Revision.</title>
 <pages>788-792</pages>
 <year>2004</year>
@@ -198,8 +284,8 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/sbia/MarchiB04" mdate="2017-05-17">
-<author>Jerusa Marchi</author>
-<author>Guilherme Bittencourt</author>
+<author pid="67/3037">Jerusa Marchi</author>
+<author pid="64/1847">Guilherme Bittencourt</author>
 <title>Propositional Reasoning for an Embodied Cognitive Model.</title>
 <pages>164-173</pages>
 <ee>https://doi.org/10.1007/978-3-540-28645-5_17</ee>
@@ -209,20 +295,29 @@
 <url>db/conf/sbia/sbia2004.html#MarchiB04</url>
 </inproceedings>
 </r>
-<coauthors n="13" nc="3">
-<co c="2"><na f="a/Alves:Jhonatan">Jhonatan Alves</na></co>
-<co c="1"><na f="b/Bitencourt:Guilherme_K=">Guilherme K. Bitencourt</na></co>
-<co c="0"><na f="b/Bittencourt:Guilherme">Guilherme Bittencourt</na></co>
-<co c="0"><na f="c/Ch=aacute=vez=Bosquez:Oscar">Oscar Ch&#225;vez-Bosquez</na></co>
-<co c="1"><na f="c/Couto:Diego">Diego Couto</na></co>
-<co c="2"><na f="d/Dantas:Mario_A=_R=">Mario A. R. Dantas</na></co>
-<co c="2"><na f="f/Fileto:Renato">Renato Fileto</na></co>
-<co c="1"><na f="g/Gelaim:Thiago_=Acirc=ngelo">Thiago &#194;ngelo Gelaim</na></co>
-<co c="0" n="2"><na f="p/Parra:Maria_del_Pilar_Pozos" bibtex="Maria del Pilar {Pozos Parra}">Maria del Pilar Pozos Parra</na><na bibtex="Pilar {Pozos Parra}">Pilar Pozos Parra</na></co>
-<co c="0"><na f="p/Perrussel:Laurent">Laurent Perrussel</na></co>
-<co c="1"><na f="s/Silveira:Ricardo_Azambuja">Ricardo Azambuja Silveira</na></co>
-<co c="0"><na f="t/Th=eacute=venin:Jean=Marc">Jean-Marc Th&#233;venin</na></co>
-<co c="0"><na f="z/Zhang:Dongmo">Dongmo Zhang</na></co>
+<coauthors n="22" nc="3">
+<co c="0"><na f="a/Alarc=oacute=n=Narv=aacute=ez:Daniel" pid="287/7863">Daniel Alarc&#243;n-Narv&#225;ez</na></co>
+<co c="0"><na f="a/Alves:Jhonatan" pid="184/6009">Jhonatan Alves</na></co>
+<co c="1"><na f="b/Bitencourt:Guilherme_K=" pid="140/7720">Guilherme K. Bitencourt</na></co>
+<co c="0"><na f="b/Bittencourt:Guilherme" pid="64/1847">Guilherme Bittencourt</na></co>
+<co c="0"><na f="c/Ch=aacute=vez=Bosquez:Oscar" pid="89/10879">Oscar Ch&#225;vez-Bosquez</na></co>
+<co c="1"><na f="c/Couto:Diego" pid="211/9534">Diego Couto</na></co>
+<co c="0"><na f="d/Dantas:Mario_A=_R=" pid="d/MarioARDantas">Mario A. R. Dantas</na></co>
+<co c="2"><na f="d/Duzzioni:Eduardo_Inacio" pid="292/2093">Eduardo Inacio Duzzioni</na></co>
+<co c="0"><na f="f/Fileto:Renato" pid="35/2350">Renato Fileto</na></co>
+<co c="1"><na f="g/Gelaim:Thiago_=Acirc=ngelo" pid="162/5979">Thiago &#194;ngelo Gelaim</na></co>
+<co c="0"><na f="h/Hern=aacute=ndez=Oca=ntilde=a:Betania" pid="134/0887">Betania Hern&#225;ndez-Oca&#241;a</na></co>
+<co c="0"><na f="h/Hern=aacute=ndez=Torruco:Jos=eacute=" pid="152/5285">Jos&#233; Hern&#225;ndez-Torruco</na></co>
+<co c="1"><na f="h/Hofer:Valdir_Luiz" pid="232/6199">Valdir Luiz Hofer</na></co>
+<co c="0"><na f="m/Mittelmann:Munyque" pid="241/5539">Munyque Mittelmann</na></co>
+<co c="0" n="2"><na f="p/Parra:Maria_del_Pilar_Pozos" pid="17/4308" bibtex="Maria del Pilar {Pozos Parra}">Maria del Pilar Pozos Parra</na><na bibtex="Pilar {Pozos Parra}">Pilar Pozos Parra</na></co>
+<co c="0"><na f="p/Perrussel:Laurent" pid="79/5272">Laurent Perrussel</na></co>
+<co c="2"><na f="p/Pires:Otto_Menegasso" pid="291/4317">Otto Menegasso Pires</na></co>
+<co c="2"><na f="s/Santiago:Rafael_de" pid="79/8300">Rafael de Santiago</na></co>
+<co c="1"><na f="s/Silveira:Ricardo_Azambuja" pid="48/5786">Ricardo Azambuja Silveira</na></co>
+<co c="0"><na f="t/Th=eacute=venin:Jean=Marc" pid="39/3162">Jean-Marc Th&#233;venin</na></co>
+<co c="0"><na f="w/Wangenheim:Aldo_von" pid="w/AldovonWangenheim">Aldo von Wangenheim</na></co>
+<co c="0"><na f="z/Zhang:Dongmo" pid="12/4822">Dongmo Zhang</na></co>
 </coauthors>
 </dblpperson>
 

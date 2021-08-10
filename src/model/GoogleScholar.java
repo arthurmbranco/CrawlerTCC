@@ -1,4 +1,5 @@
 package model;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -9,7 +10,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
-
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import org.jsoup.Jsoup;
@@ -39,7 +39,6 @@ public class GoogleScholar {
 	static String last = "&pagesize=";
 	static int last1 = 100;
 	static ResultSet myRs;
-	static int id = 0;
 	static int idProf;
 	static int porta;
 	static int nConexoes = 0;
@@ -48,6 +47,7 @@ public class GoogleScholar {
 	static String url;
 	static ArrayList<String> list = new ArrayList<String>();
 	static info.debatty.java.stringsimilarity.MetricLCS lcs = new info.debatty.java.stringsimilarity.MetricLCS();
+	static final int timeout = 5000;
 	
 	public static void parse(Connection conn, Statement myStmt) {
 		
@@ -206,6 +206,7 @@ public class GoogleScholar {
 					url = urlInicial + first + first1 + last + last1;
 					doc = getProxy(url);
 					contaPaginas = doc.getElementById("gsc_lwp");
+					Thread.sleep(1000);
 					}
 	    		}
 	    	}
@@ -228,7 +229,7 @@ public class GoogleScholar {
 		boolean alive = false;
 		while(!alive) {
 			try {
-				doc = Jsoup.connect(url).proxy(ip, porta).userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134").get();
+				doc = Jsoup.connect(url).proxy(ip, porta).timeout(timeout).userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134").get();
 				alive = true;
 				System.out.println("Conectou-se através do ip:porta > " + ip+":"+porta);
 			}catch(IOException ioe){
@@ -237,7 +238,7 @@ public class GoogleScholar {
 				String[] aux = list.get(0).split(":");
 	    		ip = aux[0];
 	    		porta = Integer.parseInt(aux[1]);
-				System.out.println("Falhou!");
+				System.out.println("Falhou! \n");
 	        }
 		}
 		return doc;
@@ -245,7 +246,6 @@ public class GoogleScholar {
 	
 	private static void inserir(Connection conn, org.jsoup.nodes.Element element) {
 		 Integer ano = null;
-		 id++;
 		 
 		 if(!element.child(2).child(0).text().isEmpty())   // Se existir ANO no valor da conferência
 			ano = Integer.parseInt(element.child(2).child(0).text());
@@ -296,22 +296,21 @@ public class GoogleScholar {
 		 
 		 
 		 try {
-			PreparedStatement stmt = conn.prepareStatement("INSERT INTO googlescholar (id, title, authors, conference, pages, publisher, citations, abstract, volume, _number, _year, id_prof) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
-			stmt.setInt(1, id);
-			stmt.setString(2, tituloGoogle);
-			stmt.setString(3,  autores);
-			stmt.setString(4, conference);
-			stmt.setString(5, pages);
-			stmt.setString(6, publisher);
-			stmt.setInt(7, citations);
-			stmt.setString(8, _abstract);
-			stmt.setString(9, volume);
-			stmt.setString(10, _number);
+			PreparedStatement stmt = conn.prepareStatement("INSERT INTO googlescholar (title, authors, conference, pages, publisher, citations, abstract, volume, _number, _year, id_prof) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+			stmt.setString(1, tituloGoogle);
+			stmt.setString(2,  autores);
+			stmt.setString(3, conference);
+			stmt.setString(4, pages);
+			stmt.setString(5, publisher);
+			stmt.setInt(6, citations);
+			stmt.setString(7, _abstract);
+			stmt.setString(8, volume);
+			stmt.setString(9, _number);
 			if(ano == null)
-				stmt.setNull(11, java.sql.Types.INTEGER);
+				stmt.setNull(10, java.sql.Types.INTEGER);
 			else
-				stmt.setInt(11, ano);
-			stmt.setInt(12, idProf);
+				stmt.setInt(10, ano);
+			stmt.setInt(11, idProf);
 			stmt.executeUpdate();
 			conn.commit();
 		 } catch(SQLException e) {

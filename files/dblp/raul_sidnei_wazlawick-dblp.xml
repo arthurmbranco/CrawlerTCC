@@ -1,11 +1,121 @@
 <?xml version="1.0"?>
-<dblpperson name="Raul Sidnei Wazlawick" n="16">
-<person key="homepages/71/3416" mdate="2009-06-10">
-<author>Raul Sidnei Wazlawick</author>
+<dblpperson name="Raul Sidnei Wazlawick" pid="71/3416" n="26">
+<person key="homepages/71/3416" mdate="2019-03-26">
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
+<url>https://orcid.org/0000-0003-4293-1359</url>
 </person>
+<r><inproceedings key="conf/icsa/ViannaW20" mdate="2020-10-25">
+<author orcid="0000-0003-4947-0938" pid="265/9836">Leonardo Silva Vianna</author>
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
+<title>Data Mining for Hospital Morbidity Forecasting.</title>
+<pages>167-172</pages>
+<year>2020</year>
+<booktitle>ICSA Companion</booktitle>
+<ee>https://doi.org/10.1109/ICSA-C50368.2020.00037</ee>
+<crossref>conf/icsa/2020c</crossref>
+<url>db/conf/icsa/icsa2020c.html#ViannaW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihc/ColinGW19" mdate="2019-10-06">
+<author pid="249/9618">Michelle C. Colin</author>
+<author pid="249/9624">Maur&#237;cio F. Galimberti</author>
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
+<title>Proposal of a user interaction model in CASE tools based on metaphors and touch screen technology.</title>
+<pages>39:1-39:7</pages>
+<year>2019</year>
+<booktitle>IHC</booktitle>
+<ee>https://doi.org/10.1145/3357155.3358432</ee>
+<crossref>conf/ihc/2019</crossref>
+<url>db/conf/ihc/ihc2019.html#ColinGW19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sbsi/2016" mdate="2020-06-03">
+<editor pid="32/5988">Frank Siqueira</editor>
+<editor pid="69/3719">Patricia Vilain</editor>
+<editor pid="20/5813">Claudia Cappelli</editor>
+<editor pid="71/3416">Raul Sidnei Wazlawick</editor>
+<title>Proceedings of the XII Brazilian Symposium on Information Systems on Brazilian Symposium on Information Systems: Information Systems in the Cloud Computing Era, SBSI 2016, Florian&#243;polis, Brazil, May 17-20, 2016.</title>
+<booktitle>SBSI</booktitle>
+<publisher>ACM</publisher>
+<year>2019</year>
+<isbn>978-85-7669-317-8</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=3021955</ee>
+<url>db/conf/sbsi/sbsi2016.html</url>
+</proceedings>
+</r>
+<r><article key="journals/smr/TolfoWFF18" mdate="2020-03-06">
+<author orcid="0000-0002-1950-6461" pid="18/486">Cristiano Tolfo</author>
+<author orcid="0000-0003-4293-1359" pid="71/3416">Raul Sidnei Wazlawick</author>
+<author orcid="0000-0003-1912-9982" pid="97/10325">Marcelo Gitirana Gomes Ferreira</author>
+<author orcid="0000-0003-2851-6028" pid="146/5684">Fernando Antonio Forcellini</author>
+<title>Agile practices and the promotion of entrepreneurial skills in software development.</title>
+<year>2018</year>
+<volume>30</volume>
+<journal>J. Softw. Evol. Process.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/smr.1945</ee>
+<url>db/journals/smr/smr30.html#TolfoWFF18</url>
+</article>
+</r>
+<r><inproceedings key="conf/fie/SchoeffelWR18" mdate="2021-07-25">
+<author pid="211/1656">Pablo Schoeffel</author>
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
+<author orcid="0000-0002-8319-743X" pid="12/8199">Vinicius Faria Culmant Ramos</author>
+<title>Motivation and Engagement Factors of Undergraduate Students in Computing: A systematic mapping study.</title>
+<pages>1-5</pages>
+<year>2018</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE.2018.8658384</ee>
+<crossref>conf/fie/2018</crossref>
+<url>db/conf/fie/fie2018.html#SchoeffelWR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/SchoeffelWR18a" mdate="2021-07-25">
+<author pid="211/1656">Pablo Schoeffel</author>
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
+<author orcid="0000-0002-8319-743X" pid="12/8199">Vinicius Faria Culmant Ramos</author>
+<title>Using Multiple Active Teaching-Learning Approaches in Software Project Management: A longitudinal analysis of students' motivation and learning.</title>
+<pages>1-9</pages>
+<year>2018</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE.2018.8658504</ee>
+<crossref>conf/fie/2018</crossref>
+<url>db/conf/fie/fie2018.html#SchoeffelWR18a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/SchoeffelWRVS18" mdate="2021-07-25">
+<author pid="211/1656">Pablo Schoeffel</author>
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
+<author orcid="0000-0002-8319-743X" pid="12/8199">Vinicius Faria Culmant Ramos</author>
+<author pid="156/3601">Adilson Vahldick</author>
+<author pid="156/3759">Marcelo de Souza</author>
+<title>Evaluation of an Instrument to Identify Factors that Impact the Motivation and Engagement of Undergraduate Students in Computing.</title>
+<pages>1-9</pages>
+<year>2018</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE.2018.8658988</ee>
+<crossref>conf/fie/2018</crossref>
+<url>db/conf/fie/fie2018.html#SchoeffelWRVS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/SchoeffelWRVS18a" mdate="2021-07-25">
+<author pid="211/1656">Pablo Schoeffel</author>
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
+<author orcid="0000-0002-8319-743X" pid="12/8199">Vinicius Faria Culmant Ramos</author>
+<author pid="156/3601">Adilson Vahldick</author>
+<author pid="156/3759">Marcelo de Souza</author>
+<title>Identification of Pre-University Factors that Affect the Initial Motivation of Students in Computing Programs: A multi-institutional case study.</title>
+<pages>1-8</pages>
+<year>2018</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE.2018.8659230</ee>
+<crossref>conf/fie/2018</crossref>
+<url>db/conf/fie/fie2018.html#SchoeffelWRVS18a</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/icist/MiquiriceW18" mdate="2018-08-29">
-<author>Samuel Ant&#243;nio Miquirice</author>
-<author>Raul Sidnei Wazlawick</author>
+<author pid="225/5664">Samuel Ant&#243;nio Miquirice</author>
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
 <title>Relationship Between Cohesion and Coupling Metrics for Object-Oriented Systems.</title>
 <pages>424-436</pages>
 <year>2018</year>
@@ -15,10 +125,10 @@
 <url>db/conf/icist/icist2018.html#MiquiriceW18</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/csee/SchoeffelWR17" mdate="2017-12-21">
-<author>Pablo Schoeffel</author>
-<author>Raul Sidnei Wazlawick</author>
-<author>Vinicius Ramos</author>
+<r><inproceedings key="conf/csee/SchoeffelWR17" mdate="2021-07-25">
+<author pid="211/1656">Pablo Schoeffel</author>
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
+<author orcid="0000-0002-8319-743X" pid="12/8199">Vinicius Faria Culmant Ramos</author>
 <title>Impact of Pre-University Factors on the Motivation and Performance of Undergraduate Students in Software Engineering.</title>
 <pages>266-275</pages>
 <year>2017</year>
@@ -28,22 +138,22 @@
 <url>db/conf/csee/csee2017.html#SchoeffelWR17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/er/SantosW17" mdate="2017-11-07">
-<author>Quenio Cesar Machado Dos Santos</author>
-<author>Raul Sidnei Wazlawick</author>
+<r><inproceedings key="conf/er/SantosW17" mdate="2019-05-28">
+<author pid="208/0969">Quenio Cesar Machado Dos Santos</author>
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
 <title>Reusing Conceptual Models: Language and Extensible Compiler.</title>
 <pages>15-28</pages>
 <year>2017</year>
 <booktitle>ER Forum/Demos</booktitle>
-<ee>http://ceur-ws.org/Vol-1979/paper-20.pdf</ee>
+<ee type="oa">http://ceur-ws.org/Vol-1979/paper-20.pdf</ee>
 <crossref>conf/er/2017f</crossref>
 <url>db/conf/er/erf2017.html#SantosW17</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/icaisc/SacramentoSW14" mdate="2017-06-02">
-<author>Isaac Santos Sacramento</author>
-<author>Gueibi Peres Souza</author>
-<author orcid="0000-0003-4293-1359">Raul Sidnei Wazlawick</author>
+<author pid="145/7123">Isaac Santos Sacramento</author>
+<author pid="145/7071">Gueibi Peres Souza</author>
+<author orcid="0000-0003-4293-1359" pid="71/3416">Raul Sidnei Wazlawick</author>
 <title>Principal Component Analysis to Reduce Forecasting Error of Industrial Energy Consumption in Models Based on Neural Networks.</title>
 <pages>143-154</pages>
 <year>2014</year>
@@ -53,39 +163,50 @@
 <url>db/conf/icaisc/icaisc2014-1.html#SacramentoSW14</url>
 </inproceedings>
 </r>
-<r><article key="journals/smr/TolfoWFF11" mdate="2017-06-08">
-<author>Cristiano Tolfo</author>
-<author orcid="0000-0003-4293-1359">Raul Sidnei Wazlawick</author>
-<author>Marcelo Gitirana Gomes Ferreira</author>
-<author>Fernando A. Forcellini</author>
+<r><article key="journals/smr/TolfoWFF11" mdate="2021-04-09">
+<author pid="18/486">Cristiano Tolfo</author>
+<author orcid="0000-0003-4293-1359" pid="71/3416">Raul Sidnei Wazlawick</author>
+<author orcid="0000-0003-1912-9982" pid="97/10325">Marcelo Gitirana Gomes Ferreira</author>
+<author pid="146/5684">Fernando Antonio Forcellini</author>
 <title>Agile methods and organizational culture: reflections about cultural levels.</title>
 <pages>423-441</pages>
 <year>2011</year>
 <volume>23</volume>
-<journal>Journal of Software Maintenance</journal>
+<journal>J. Softw. Maintenance Res. Pract.</journal>
 <number>6</number>
 <ee>https://doi.org/10.1002/smr.483</ee>
 <url>db/journals/smr/smr23.html#TolfoWFF11</url>
 </article>
 </r>
-<r><article key="journals/jss/TolfoW08" mdate="2017-06-06">
-<author>Cristiano Tolfo</author>
-<author orcid="0000-0003-4293-1359">Raul Sidnei Wazlawick</author>
+<r><inproceedings key="conf/cibse/FerreiraW11" mdate="2021-02-09">
+<author pid="132/6547">Marilia Guterres Ferreira</author>
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
+<title>Complementing the SEI-IDEAL Model with Deployers' Real Experiences: The Need to Address Human Factors in SPI Initiatives.</title>
+<pages>39-52</pages>
+<year>2011</year>
+<booktitle>CIbSE</booktitle>
+<crossref>conf/cibse/2011</crossref>
+<url>db/conf/cibse/cibse2011.html#FerreiraW11</url>
+</inproceedings>
+</r>
+<r><article key="journals/jss/TolfoW08" mdate="2020-02-24">
+<author pid="18/486">Cristiano Tolfo</author>
+<author orcid="0000-0003-4293-1359" pid="71/3416">Raul Sidnei Wazlawick</author>
 <title>The influence of organizational culture on the adoption of extreme programming.</title>
 <pages>1955-1967</pages>
 <year>2008</year>
 <volume>81</volume>
-<journal>Journal of Systems and Software</journal>
+<journal>J. Syst. Softw.</journal>
 <number>11</number>
 <ee>https://doi.org/10.1016/j.jss.2008.01.014</ee>
 <url>db/journals/jss/jss81.html#TolfoW08</url>
 </article>
 </r>
 <r><inproceedings key="conf/ki/FerroWOB07" mdate="2017-08-02">
-<author>Humberto F. Ferro</author>
-<author>Raul Sidnei Wazlawick</author>
-<author>Cl&#225;udio Magalh&#227;es de Oliveira</author>
-<author>Rog&#233;rio Cid Bastos</author>
+<author pid="97/3017">Humberto F. Ferro</author>
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
+<author pid="08/3513">Cl&#225;udio Magalh&#227;es de Oliveira</author>
+<author pid="25/1340">Rog&#233;rio Cid Bastos</author>
 <title>A Method to Optimize the Parameter Selection in Short Term Load Forecasting.</title>
 <pages>452-455</pages>
 <year>2007</year>
@@ -96,8 +217,8 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/sibgrapi/OliveiraW05" mdate="2017-05-26">
-<author>Marco Antonio Floriano de Oliveira</author>
-<author>Raul Sidnei Wazlawick</author>
+<author pid="74/2710">Marco Antonio Floriano de Oliveira</author>
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
 <title>Linear Complexity Stereo Matching Based on Region Indexing.</title>
 <pages>181-188</pages>
 <year>2005</year>
@@ -108,9 +229,9 @@
 <url>db/conf/sibgrapi/sibgrapi2005.html#OliveiraW05</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/ifip3/DominguesW03" mdate="2018-06-26">
-<author>Maria Jos&#233; Carvalho de Souza Domingues</author>
-<author>Raul Sidnei Wazlawick</author>
+<r><inproceedings key="conf/ifip3/DominguesW03" mdate="2018-11-02">
+<author orcid="0000-0001-7771-144X" pid="90/2407">Maria Jos&#233; Carvalho de Souza Domingues</author>
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
 <title>Printed Media, Hypertext and Chatterbots in Learning.</title>
 <pages>239-245</pages>
 <year>2003</year>
@@ -120,24 +241,24 @@
 <url>db/conf/ifip3/ifip3-2003e.html#DominguesW03</url>
 </inproceedings>
 </r>
-<r><article key="journals/creativity/WazlawickKFS02" mdate="2017-05-27">
-<author>Raul Sidnei Wazlawick</author>
-<author>Tereza G. Kirner</author>
-<author>L&#233;a Da Cruz Fagundes</author>
-<author>Bernd H. Storb</author>
+<r><article key="journals/creativity/WazlawickKFS02" mdate="2020-08-12">
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
+<author pid="26/2638">Tereza G. Kirner</author>
+<author pid="72/4178">L&#233;a Da Cruz Fagundes</author>
+<author pid="37/3643">Bernd H. Storb</author>
 <title>Virtual reality authoring for schools.</title>
 <pages>7-10</pages>
 <year>2002</year>
 <volume>13</volume>
-<journal>Digital Creativity</journal>
+<journal>Digit. Creativity</journal>
 <number>1</number>
 <ee>https://doi.org/10.1076/digc.13.1.7.3211</ee>
 <url>db/journals/creativity/creativity13.html#WazlawickKFS02</url>
 </article>
 </r>
 <r><inproceedings key="conf/ifip3-2/WazlawickM02" mdate="2003-03-19">
-<author>Raul Sidnei Wazlawick</author>
-<author>Antonio Carlos Mariani</author>
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
+<author pid="33/4749">Antonio Carlos Mariani</author>
 <title>Programming Strategies using an Actor-Based Environment.</title>
 <pages>63-68</pages>
 <year>2002</year>
@@ -147,14 +268,14 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/ifip3-2/KoffmanBAKLRRW02" mdate="2004-11-09">
-<author>Elliot B. Koffman</author>
-<author>Torsten Brinda</author>
-<author>Juan Alvarez</author>
-<author>Amruth N. Kumar</author>
-<author>Maria L&#250;cia Blanck Lisb&#244;a</author>
-<author>Juris Reinfelds</author>
-<author>Peter Van Roy</author>
-<author>Raul Sidnei Wazlawick</author>
+<author pid="80/6147">Elliot B. Koffman</author>
+<author pid="47/3039">Torsten Brinda</author>
+<author pid="46/5647">Juan Alvarez</author>
+<author pid="64/1054">Amruth N. Kumar</author>
+<author pid="12/5243">Maria L&#250;cia Blanck Lisb&#244;a</author>
+<author pid="74/3595">Juris Reinfelds</author>
+<author pid="r/PVRoy">Peter Van Roy</author>
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
 <title>Teaching Programming and Problem Solving.</title>
 <pages>125-130</pages>
 <year>2002</year>
@@ -163,46 +284,46 @@
 <url>db/conf/ifip3-2/ifip3-2-2002.html#KoffmanBAKLRRW02</url>
 </inproceedings>
 </r>
-<r><article key="journals/presence/WazlawickRRCSSMKKF01" mdate="2017-06-08">
-<author orcid="0000-0003-4293-1359">Raul Sidnei Wazlawick</author>
-<author orcid="0000-0002-4236-529X">Marta C. Rosatelli</author>
-<author>Edla M. F. Ramos</author>
-<author>Walter de Abreu Cybis</author>
-<author>Bernd H. Storb</author>
-<author>Vera R. N. Schuhmacher</author>
-<author>Antonio Carlos Mariani</author>
-<author>Tereza G. Kirner</author>
-<author>Claudio Kirner</author>
-<author>L&#233;a Da Cruz Fagundes</author>
+<r><article key="journals/presence/WazlawickRRCSSMKKF01" mdate="2020-09-01">
+<author orcid="0000-0003-4293-1359" pid="71/3416">Raul Sidnei Wazlawick</author>
+<author orcid="0000-0002-4236-529X" pid="r/MartaCRosatelli">Marta C. Rosatelli</author>
+<author pid="59/6898">Edla M. F. Ramos</author>
+<author pid="00/2469">Walter de Abreu Cybis</author>
+<author pid="37/3643">Bernd H. Storb</author>
+<author pid="84/4896">Vera R. N. Schuhmacher</author>
+<author pid="33/4749">Antonio Carlos Mariani</author>
+<author pid="26/2638">Tereza G. Kirner</author>
+<author orcid="0000-0002-4621-6363" pid="50/795">Claudio Kirner</author>
+<author pid="72/4178">L&#233;a Da Cruz Fagundes</author>
 <title>Providing More Interactivity to Virtual Museums: A Proposal for a VR Authoring Tool.</title>
 <pages>647-656</pages>
 <year>2001</year>
 <volume>10</volume>
-<journal>Presence</journal>
+<journal>Presence Teleoperators Virtual Environ.</journal>
 <number>6</number>
 <url>db/journals/presence/presence10.html#WazlawickRRCSSMKKF01</url>
 <ee>https://doi.org/10.1162/105474601753272880</ee>
 </article>
 </r>
-<r><inproceedings key="conf/vrml/KirnerKKCPW01" mdate="2017-06-05">
-<author>Tereza G. Kirner</author>
-<author>Claudio Kirner</author>
-<author>Andr&#233; Luiz Satoshi Kawamoto</author>
-<author>Jefferson Cant&#227;o</author>
-<author>Alo&#237;sio Pinto</author>
-<author orcid="0000-0003-4293-1359">Raul Sidnei Wazlawick</author>
+<r><inproceedings key="conf/vrml/KirnerKKCPW01" mdate="2019-10-19">
+<author pid="26/2638">Tereza G. Kirner</author>
+<author orcid="0000-0002-4621-6363" pid="50/795">Claudio Kirner</author>
+<author orcid="0000-0002-0176-4366" pid="21/5995">Andr&#233; Luiz Satoshi Kawamoto</author>
+<author pid="59/5053">Jefferson Cant&#227;o</author>
+<author pid="66/5513">Alo&#237;sio Pinto</author>
+<author orcid="0000-0003-4293-1359" pid="71/3416">Raul Sidnei Wazlawick</author>
 <title>Development of a collaborative virtual environment for educational applications.</title>
 <pages>61-68</pages>
 <year>2001</year>
 <crossref>conf/vrml/2001</crossref>
 <booktitle>Web3D</booktitle>
-<ee>http://doi.acm.org/10.1145/363361.363378</ee>
+<ee>https://doi.org/10.1145/363361.363378</ee>
 <url>db/conf/vrml/vrml2001.html#KirnerKKCPW01</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/sbia/WazlawickL98" mdate="2017-05-17">
-<author>Raul Sidnei Wazlawick</author>
-<author>Jos&#233; Gabriel Pereira Lopes</author>
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
+<author pid="55/4">Jos&#233; Gabriel Pereira Lopes</author>
 <title>A Massively Parallel Architecture for Natural Language Parsing - Some results.</title>
 <pages>93-100</pages>
 <year>1998</year>
@@ -213,8 +334,8 @@
 </inproceedings>
 </r>
 <r><article key="journals/rita/CostaW96" mdate="2004-05-24">
-<author>Ant&#244;nio Carlos da Rocha Costa</author>
-<author>Raul Sidnei Wazlawick</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
 <title>Non-supervised sensory-motors agents learning.</title>
 <pages>39-50</pages>
 <year>1996</year>
@@ -224,42 +345,63 @@
 <url>db/journals/rita/rita3.html#CostaW96</url>
 </article>
 </r>
-<coauthors n="35" nc="6">
-<co c="1"><na f="a/Alvarez:Juan">Juan Alvarez</na></co>
-<co c="3"><na f="b/Bastos:Rog=eacute=rio_Cid">Rog&#233;rio Cid Bastos</na></co>
-<co c="1"><na f="b/Brinda:Torsten">Torsten Brinda</na></co>
-<co c="0"><na f="c/Cant=atilde=o:Jefferson">Jefferson Cant&#227;o</na></co>
-<co c="-1"><na f="c/Costa:Ant=ocirc=nio_Carlos_da_Rocha">Ant&#244;nio Carlos da Rocha Costa</na></co>
-<co c="0"><na f="c/Cybis:Walter_de_Abreu">Walter de Abreu Cybis</na></co>
-<co c="-1"><na f="d/Domingues:Maria_Jos=eacute=_Carvalho_de_Souza">Maria Jos&#233; Carvalho de Souza Domingues</na></co>
-<co c="0"><na f="f/Fagundes:L=eacute=a_Da_Cruz">L&#233;a Da Cruz Fagundes</na></co>
-<co c="2"><na f="f/Ferreira:Marcelo_Gitirana_Gomes">Marcelo Gitirana Gomes Ferreira</na></co>
-<co c="3"><na f="f/Ferro:Humberto_F=">Humberto F. Ferro</na></co>
-<co c="2"><na f="f/Forcellini:Fernando_A=">Fernando A. Forcellini</na></co>
-<co c="0"><na f="k/Kawamoto:Andr=eacute=_Luiz_Satoshi">Andr&#233; Luiz Satoshi Kawamoto</na></co>
-<co c="0"><na f="k/Kirner:Claudio">Claudio Kirner</na></co>
-<co c="0"><na f="k/Kirner:Tereza_G=">Tereza G. Kirner</na></co>
-<co c="1"><na f="k/Koffman:Elliot_B=">Elliot B. Koffman</na></co>
-<co c="1"><na f="k/Kumar:Amruth_N=">Amruth N. Kumar</na></co>
-<co c="1"><na f="l/Lisb=ocirc=a:Maria_L=uacute=cia_Blanck">Maria L&#250;cia Blanck Lisb&#244;a</na></co>
-<co c="-1"><na f="l/Lopes:Jos=eacute=_Gabriel_Pereira">Jos&#233; Gabriel Pereira Lopes</na></co>
-<co c="0"><na f="m/Mariani:Antonio_Carlos">Antonio Carlos Mariani</na></co>
-<co c="-1"><na f="m/Miquirice:Samuel_Ant=oacute=nio">Samuel Ant&#243;nio Miquirice</na></co>
-<co c="3"><na f="o/Oliveira:Cl=aacute=udio_Magalh=atilde=es_de">Cl&#225;udio Magalh&#227;es de Oliveira</na></co>
-<co c="-1"><na f="o/Oliveira:Marco_Antonio_Floriano_de">Marco Antonio Floriano de Oliveira</na></co>
-<co c="0"><na f="p/Pinto:Alo=iacute=sio">Alo&#237;sio Pinto</na></co>
-<co c="0"><na f="r/Ramos:Edla_M=_F=">Edla M. F. Ramos</na></co>
-<co c="4"><na f="r/Ramos:Vinicius">Vinicius Ramos</na></co>
-<co c="1"><na f="r/Reinfelds:Juris">Juris Reinfelds</na></co>
-<co c="0" n="2"><na f="r/Rosatelli:Marta_Costa">Marta Costa Rosatelli</na><na>Marta C. Rosatelli</na></co>
-<co c="1"><na f="r/Roy:Peter_Van">Peter Van Roy</na></co>
-<co c="5"><na f="s/Sacramento:Isaac_Santos">Isaac Santos Sacramento</na></co>
-<co c="-1"><na f="s/Santos:Quenio_Cesar_Machado_Dos">Quenio Cesar Machado Dos Santos</na></co>
-<co c="4"><na f="s/Schoeffel:Pablo">Pablo Schoeffel</na></co>
-<co c="0"><na f="s/Schuhmacher:Vera_R=_N=">Vera R. N. Schuhmacher</na></co>
-<co c="5"><na f="s/Souza:Gueibi_Peres">Gueibi Peres Souza</na></co>
-<co c="0"><na f="s/Storb:Bernd_H=">Bernd H. Storb</na></co>
-<co c="2"><na f="t/Tolfo:Cristiano">Cristiano Tolfo</na></co>
+<r><inproceedings key="conf/icannga/WazlawickC95" mdate="2019-07-05">
+<author pid="71/3416">Raul Sidnei Wazlawick</author>
+<author pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</author>
+<title>Non-Supervised Sensory-Motor Agents Learning.</title>
+<pages>49-52</pages>
+<year>1995</year>
+<booktitle>ICANNGA</booktitle>
+<ee>https://doi.org/10.1007/978-3-7091-7535-4_15</ee>
+<crossref>conf/icannga/1995</crossref>
+<url>db/conf/icannga/icannga1995.html#WazlawickC95</url>
+</inproceedings>
+</r>
+<coauthors n="44" nc="8">
+<co c="1"><na f="a/Alvarez:Juan" pid="46/5647">Juan Alvarez</na></co>
+<co c="5"><na f="b/Bastos:Rog=eacute=rio_Cid" pid="25/1340">Rog&#233;rio Cid Bastos</na></co>
+<co c="1"><na f="b/Brinda:Torsten" pid="47/3039">Torsten Brinda</na></co>
+<co c="0"><na f="c/Cant=atilde=o:Jefferson" pid="59/5053">Jefferson Cant&#227;o</na></co>
+<co c="4"><na f="c/Cappelli:Claudia" pid="20/5813">Claudia Cappelli</na></co>
+<co c="6"><na f="c/Colin:Michelle_C=" pid="249/9618">Michelle C. Colin</na></co>
+<co c="-1"><na f="c/Costa:Ant=ocirc=nio_Carlos_da_Rocha" pid="36/5618">Ant&#244;nio Carlos da Rocha Costa</na></co>
+<co c="0"><na f="c/Cybis:Walter_de_Abreu" pid="00/2469">Walter de Abreu Cybis</na></co>
+<co c="-1"><na f="d/Domingues:Maria_Jos=eacute=_Carvalho_de_Souza" pid="90/2407">Maria Jos&#233; Carvalho de Souza Domingues</na></co>
+<co c="0"><na f="f/Fagundes:L=eacute=a_Da_Cruz" pid="72/4178">L&#233;a Da Cruz Fagundes</na></co>
+<co c="3"><na f="f/Ferreira:Marcelo_Gitirana_Gomes" pid="97/10325">Marcelo Gitirana Gomes Ferreira</na></co>
+<co c="-1"><na f="f/Ferreira:Marilia_Guterres" pid="132/6547">Marilia Guterres Ferreira</na></co>
+<co c="5"><na f="f/Ferro:Humberto_F=" pid="97/3017">Humberto F. Ferro</na></co>
+<co c="3"><na f="f/Forcellini:Fernando_Antonio" pid="146/5684">Fernando Antonio Forcellini</na></co>
+<co c="6"><na f="g/Galimberti:Maur=iacute=cio_F=" pid="249/9624">Maur&#237;cio F. Galimberti</na></co>
+<co c="0"><na f="k/Kawamoto:Andr=eacute=_Luiz_Satoshi" pid="21/5995">Andr&#233; Luiz Satoshi Kawamoto</na></co>
+<co c="0"><na f="k/Kirner:Claudio" pid="50/795">Claudio Kirner</na></co>
+<co c="0"><na f="k/Kirner:Tereza_G=" pid="26/2638">Tereza G. Kirner</na></co>
+<co c="1"><na f="k/Koffman:Elliot_B=" pid="80/6147">Elliot B. Koffman</na></co>
+<co c="1"><na f="k/Kumar:Amruth_N=" pid="64/1054">Amruth N. Kumar</na></co>
+<co c="1"><na f="l/Lisb=ocirc=a:Maria_L=uacute=cia_Blanck" pid="12/5243">Maria L&#250;cia Blanck Lisb&#244;a</na></co>
+<co c="-1"><na f="l/Lopes:Jos=eacute=_Gabriel_Pereira" pid="55/4">Jos&#233; Gabriel Pereira Lopes</na></co>
+<co c="0"><na f="m/Mariani:Antonio_Carlos" pid="33/4749">Antonio Carlos Mariani</na></co>
+<co c="-1"><na f="m/Miquirice:Samuel_Ant=oacute=nio" pid="225/5664">Samuel Ant&#243;nio Miquirice</na></co>
+<co c="5"><na f="o/Oliveira:Cl=aacute=udio_Magalh=atilde=es_de" pid="08/3513">Cl&#225;udio Magalh&#227;es de Oliveira</na></co>
+<co c="-1"><na f="o/Oliveira:Marco_Antonio_Floriano_de" pid="74/2710">Marco Antonio Floriano de Oliveira</na></co>
+<co c="0"><na f="p/Pinto:Alo=iacute=sio" pid="66/5513">Alo&#237;sio Pinto</na></co>
+<co c="0"><na f="r/Ramos:Edla_M=_F=" pid="59/6898">Edla M. F. Ramos</na></co>
+<co c="2" n="2"><na f="r/Ramos:Vinicius_F=_C=" pid="12/8199">Vinicius F. C. Ramos</na><na>Vinicius Faria Culmant Ramos</na></co>
+<co c="1"><na f="r/Reinfelds:Juris" pid="74/3595">Juris Reinfelds</na></co>
+<co c="0" n="2"><na f="r/Rosatelli:Marta_Costa" pid="r/MartaCRosatelli">Marta Costa Rosatelli</na><na>Marta C. Rosatelli</na></co>
+<co c="1"><na f="r/Roy:Peter_Van" pid="r/PVRoy">Peter Van Roy</na></co>
+<co c="7"><na f="s/Sacramento:Isaac_Santos" pid="145/7123">Isaac Santos Sacramento</na></co>
+<co c="-1"><na f="s/Santos:Quenio_Cesar_Machado_Dos" pid="208/0969">Quenio Cesar Machado Dos Santos</na></co>
+<co c="2"><na f="s/Schoeffel:Pablo" pid="211/1656">Pablo Schoeffel</na></co>
+<co c="0"><na f="s/Schuhmacher:Vera_R=_N=" pid="84/4896">Vera R. N. Schuhmacher</na></co>
+<co c="4"><na f="s/Siqueira:Frank" pid="32/5988">Frank Siqueira</na></co>
+<co c="7"><na f="s/Souza:Gueibi_Peres" pid="145/7071">Gueibi Peres Souza</na></co>
+<co c="2"><na f="s/Souza:Marcelo_de" pid="156/3759">Marcelo de Souza</na></co>
+<co c="0"><na f="s/Storb:Bernd_H=" pid="37/3643">Bernd H. Storb</na></co>
+<co c="3"><na f="t/Tolfo:Cristiano" pid="18/486">Cristiano Tolfo</na></co>
+<co c="2"><na f="v/Vahldick:Adilson" pid="156/3601">Adilson Vahldick</na></co>
+<co c="-1"><na f="v/Vianna:Leonardo_Silva" pid="265/9836">Leonardo Silva Vianna</na></co>
+<co c="4"><na f="v/Vilain:Patricia" pid="69/3719">Patricia Vilain</na></co>
 </coauthors>
 </dblpperson>
 

@@ -1,11 +1,8 @@
 package model;
 
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
 import java.io.StringWriter;
 import java.sql.*;
-import java.util.ArrayList;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.transform.Transformer;
@@ -32,24 +29,8 @@ public class Main {
     		conn.setAutoCommit(false);
     		Statement myStmt =  conn.createStatement();
     		
-    		File file = new File("files/proxy80.txt"); 		  
-    		BufferedReader br = new BufferedReader(new FileReader(file)); 
-    		ArrayList<String> list = new ArrayList<String>();
-    		String st; 
-    		while ((st = br.readLine()) != null) {
-    		   list.add(st);
-    		} 
-    		
     		checarNovosCurriculos(conn, myStmt);
     		GUI.init(conn, myStmt);
-    		myStmt.executeUpdate("DELETE FROM dblp");
-    		myStmt.executeUpdate("DELETE FROM googlescholar");
-    		myStmt.executeUpdate("DELETE FROM researchgate");
-    		conn.commit();
-    		Dblp.parse(conn, myStmt);
-    		GoogleScholar.parse(conn, myStmt);
-    		ResearchGate.parse(conn, myStmt);
-    		br.close();
     		
     	} catch(Exception e){
     		e.printStackTrace();

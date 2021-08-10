@@ -1,12 +1,23 @@
 <?xml version="1.0"?>
-<dblpperson name="Ricardo Pereira e Silva" n="6">
+<dblpperson name="Ricardo Pereira e Silva" pid="34/5903" n="7">
 <person key="homepages/34/5903" mdate="2009-06-10">
-<author>Ricardo Pereira e Silva</author>
+<author pid="34/5903">Ricardo Pereira e Silva</author>
 </person>
+<r><inproceedings key="conf/cibse/GhilardiS13" mdate="2019-01-25">
+<author pid="234/2467">Pedro Ghilardi</author>
+<author pid="34/5903">Ricardo Pereira e Silva</author>
+<title>Sea/Aspect: Dynamic Visualization and Composition of Concerns in Aspect-Oriented Modeling (Aom).</title>
+<pages>85-98</pages>
+<year>2013</year>
+<booktitle>CIbSE</booktitle>
+<crossref>conf/cibse/2013</crossref>
+<url>db/conf/cibse/cibse2013.html#GhilardiS13</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/seke/CabralSC13" mdate="2015-01-05">
-<author>Patricia Dousseau Cabral</author>
-<author>Ricardo Pereira e Silva</author>
-<author>Roberto Silvino da Cunha</author>
+<author pid="156/1847">Patricia Dousseau Cabral</author>
+<author pid="34/5903">Ricardo Pereira e Silva</author>
+<author pid="156/1947">Roberto Silvino da Cunha</author>
 <title>Framework for digital voting systems (S).</title>
 <pages>715-720</pages>
 <year>2013</year>
@@ -15,21 +26,22 @@
 <url>db/conf/seke/seke2013.html#CabralSC13</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sccc/TeixeiraS11" mdate="2017-05-25">
-<author>Nara Sueina Teixeira</author>
-<author>Ricardo Pereira e Silva</author>
+<r><inproceedings key="conf/sccc/TeixeiraS11" mdate="2019-02-14">
+<author pid="125/1632">Nara Sueina Teixeira</author>
+<author pid="34/5903">Ricardo Pereira e Silva</author>
 <title>Compatibility Evaluation of Components Specified in UML.</title>
 <pages>90-99</pages>
 <year>2011</year>
 <booktitle>SCCC</booktitle>
 <ee>https://doi.org/10.1109/SCCC.2011.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SCCC.2011.13</ee>
 <crossref>conf/sccc/2011</crossref>
 <url>db/conf/sccc/sccc2011.html#TeixeiraS11</url>
 </inproceedings>
 </r>
 <r><article key="journals/cj/SilvaF09" mdate="2017-05-20">
-<author>Ricardo Pereira e Silva</author>
-<author>Evandro C&#233;sar Freiberger</author>
+<author pid="34/5903">Ricardo Pereira e Silva</author>
+<author pid="90/4260">Evandro C&#233;sar Freiberger</author>
 <title>Metrics to Evaluate the Use of Object Oriented Frameworks.</title>
 <pages>288-304</pages>
 <year>2009</year>
@@ -41,13 +53,13 @@
 </article>
 </r>
 <r><inproceedings key="conf/pts/KawakamiKRBPSS07" mdate="2018-06-26">
-<author>Luiz Kawakami</author>
-<author>Andr&#233; Knabben</author>
-<author>Douglas Rechia</author>
-<author>Denise Bastos</author>
-<author>Otavio Pereira</author>
-<author>Ricardo Pereira e Silva</author>
-<author>Luiz C. V. dos Santos</author>
+<author pid="46/2244">Luiz Kawakami</author>
+<author pid="07/3654">Andr&#233; Knabben</author>
+<author pid="44/3007">Douglas Rechia</author>
+<author pid="50/6571">Denise Bastos</author>
+<author pid="07/2305">Otavio Pereira</author>
+<author pid="34/5903">Ricardo Pereira e Silva</author>
+<author pid="121/4418">Luiz C. V. dos Santos</author>
 <title>An Object-Oriented Framework for Improving Software Reuse on Automated Testing of Mobile Phones.</title>
 <pages>199-211</pages>
 <year>2007</year>
@@ -58,8 +70,8 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/kbse/SilvaF04" mdate="2011-10-26">
-<author>Ricardo Pereira e Silva</author>
-<author>Evandro C&#233;sar Freiberger</author>
+<author pid="34/5903">Ricardo Pereira e Silva</author>
+<author pid="90/4260">Evandro C&#233;sar Freiberger</author>
 <title>Helping Object-Oriented Framework Use and Evaluation by means of Historical Use Information.</title>
 <pages>278-281</pages>
 <year>2004</year>
@@ -70,8 +82,8 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/sccc/SilvaP98" mdate="2017-05-25">
-<author>Ricardo Pereira e Silva</author>
-<author>Roberto Tom Price</author>
+<author pid="34/5903">Ricardo Pereira e Silva</author>
+<author pid="25/2048">Roberto Tom Price</author>
 <title>Tool Support for Helping the Use of Frameworks.</title>
 <pages>192-201</pages>
 <year>1998</year>
@@ -82,18 +94,19 @@
 <url>db/conf/sccc/sccc1998.html#SilvaP98</url>
 </inproceedings>
 </r>
-<coauthors n="11" nc="2">
-<co c="0"><na f="b/Bastos:Denise">Denise Bastos</na></co>
-<co c="1"><na f="c/Cabral:Patricia_Dousseau">Patricia Dousseau Cabral</na></co>
-<co c="1"><na f="c/Cunha:Roberto_Silvino_da">Roberto Silvino da Cunha</na></co>
-<co c="-1"><na f="f/Freiberger:Evandro_C=eacute=sar">Evandro C&#233;sar Freiberger</na></co>
-<co c="0"><na f="k/Kawakami:Luiz">Luiz Kawakami</na></co>
-<co c="0"><na f="k/Knabben:Andr=eacute=">Andr&#233; Knabben</na></co>
-<co c="0"><na f="p/Pereira:Otavio">Otavio Pereira</na></co>
-<co c="-1"><na f="p/Price:Roberto_Tom">Roberto Tom Price</na></co>
-<co c="0"><na f="r/Rechia:Douglas">Douglas Rechia</na></co>
-<co c="0" n="2"><na f="s/Santos:Luiz_Cl=aacute=udio_Villar_dos">Luiz Cl&#225;udio Villar dos Santos</na><na>Luiz C. V. dos Santos</na></co>
-<co c="-1"><na f="t/Teixeira:Nara_Sueina">Nara Sueina Teixeira</na></co>
+<coauthors n="12" nc="2">
+<co c="0"><na f="b/Bastos:Denise" pid="50/6571">Denise Bastos</na></co>
+<co c="1"><na f="c/Cabral:Patricia_Dousseau" pid="156/1847">Patricia Dousseau Cabral</na></co>
+<co c="1"><na f="c/Cunha:Roberto_Silvino_da" pid="156/1947">Roberto Silvino da Cunha</na></co>
+<co c="-1"><na f="f/Freiberger:Evandro_C=eacute=sar" pid="90/4260">Evandro C&#233;sar Freiberger</na></co>
+<co c="-1"><na f="g/Ghilardi:Pedro" pid="234/2467">Pedro Ghilardi</na></co>
+<co c="0"><na f="k/Kawakami:Luiz" pid="46/2244">Luiz Kawakami</na></co>
+<co c="0"><na f="k/Knabben:Andr=eacute=" pid="07/3654">Andr&#233; Knabben</na></co>
+<co c="0"><na f="p/Pereira:Otavio" pid="07/2305">Otavio Pereira</na></co>
+<co c="-1"><na f="p/Price:Roberto_Tom" pid="25/2048">Roberto Tom Price</na></co>
+<co c="0"><na f="r/Rechia:Douglas" pid="44/3007">Douglas Rechia</na></co>
+<co c="0" n="2"><na f="s/Santos:Luiz_Cl=aacute=udio_Villar_dos" pid="121/4418">Luiz Cl&#225;udio Villar dos Santos</na><na>Luiz C. V. dos Santos</na></co>
+<co c="-1"><na f="t/Teixeira:Nara_Sueina" pid="125/1632">Nara Sueina Teixeira</na></co>
 </coauthors>
 </dblpperson>
 

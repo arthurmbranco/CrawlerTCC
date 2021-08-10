@@ -1,99 +1,254 @@
 <?xml version="1.0"?>
-<dblpperson name="Adriano Ferreti Borgatto" n="7">
+<dblpperson name="Adriano Ferreti Borgatto" pid="12/10539" n="17">
 <person key="homepages/12/10539" mdate="2011-11-30">
-<author>Adriano Ferreti Borgatto</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
 </person>
-<r><inproceedings key="conf/icse/PetriWB17" mdate="2017-07-13">
-<author>Giani Petri</author>
-<author>Christiane Gresse von Wangenheim</author>
-<author>Adriano Ferreti Borgatto</author>
+<r><article key="journals/iie/LehmkuhlWPBA21" mdate="2021-07-20">
+<author pid="297/2321">G&#233;ssica Lehmkuhl</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="20/1310">L&#250;cia Helena Martins Pacheco</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<author pid="242/2725">Nathalia da Cruz Alves</author>
+<title>SCORE - A Model for the Self-Assessment of Creativity Skills in the Context of Computing Education in K-12.</title>
+<pages>231-254</pages>
+<year>2021</year>
+<volume>20</volume>
+<journal>Informatics Educ.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.15388/infedu.2021.11</ee>
+<url>db/journals/iie/iie20.html#LehmkuhlWPBA21</url>
+</article>
+</r>
+<r><inproceedings key="conf/csedu/PachecoDMWBP20" mdate="2020-06-04">
+<author pid="20/1310">L&#250;cia Helena Martins Pacheco</author>
+<author pid="266/5007">Leonardo Philippi Degering</author>
+<author pid="266/4971">Fernanda Mioto</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<author pid="187/5496">Giani Petri</author>
+<title>Improvements in bASES21: 21st-Century Skills Assessment Model to K12.</title>
+<pages>297-307</pages>
+<year>2020</year>
+<booktitle>CSEDU (1)</booktitle>
+<ee>https://doi.org/10.5220/0009581702970307</ee>
+<crossref>conf/csedu/2020-1</crossref>
+<url>db/conf/csedu/csedu2020-1.html#PachecoDMWBP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcse/SoleckiPAWHB20" mdate="2020-10-25">
+<author pid="249/9622">Igor da Silva Solecki</author>
+<author pid="232/3257">Jo&#227;o V. Araujo Porto</author>
+<author orcid="0000-0002-3523-9199" pid="242/2725">Nathalia da Cruz Alves</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<title>Automated Assessment of the Visual Design of Android Apps Developed with App Inventor.</title>
+<pages>51-57</pages>
+<year>2020</year>
+<booktitle>SIGCSE</booktitle>
+<ee>https://doi.org/10.1145/3328778.3366868</ee>
+<crossref>conf/sigcse/2020</crossref>
+<url>db/conf/sigcse/sigcse2020.html#SoleckiPAWHB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigcse/AlvesWHB20" mdate="2020-10-25">
+<author orcid="0000-0002-3523-9199" pid="242/2725">Nathalia da Cruz Alves</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<title>A Large-scale Evaluation of a Rubric for the Automatic Assessment of Algorithms and Programming Concepts.</title>
+<pages>556-562</pages>
+<year>2020</year>
+<booktitle>SIGCSE</booktitle>
+<ee>https://doi.org/10.1145/3328778.3366840</ee>
+<crossref>conf/sigcse/2020</crossref>
+<url>db/conf/sigcse/sigcse2020.html#AlvesWHB20</url>
+</inproceedings>
+</r>
+<r><article key="journals/jucs/PetriWHB19" mdate="2021-02-17">
+<author pid="187/5496">Giani Petri</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<title>Effectiveness of Games in Software Project Management Education: An Experimental Study.</title>
+<pages>840-865</pages>
+<year>2019</year>
+<volume>25</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>7</number>
+<ee type="oa">http://www.jucs.org/jucs_25_7/effectiveness_of_games_in</ee>
+<url>db/journals/jucs/jucs25.html#PetriWHB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ihc/SoleckiPJAWBH19" mdate="2020-10-25">
+<author pid="249/9622">Igor da Silva Solecki</author>
+<author pid="232/3257">Jo&#227;o Vitor Araujo Porto</author>
+<author pid="152/8719">Karla Aparecida Justen</author>
+<author orcid="0000-0002-3523-9199" pid="242/2725">Nathalia da Cruz Alves</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<author pid="77/5650">Jean Carlo Rossa Hauck</author>
+<title>CodeMaster UI design - app inventor: a rubric for the assessment of the interface design of Android apps developed with app inventor.</title>
+<pages>17:1-17:10</pages>
+<year>2019</year>
+<booktitle>IHC</booktitle>
+<ee>https://doi.org/10.1145/3357155.3358463</ee>
+<crossref>conf/ihc/2019</crossref>
+<url>db/conf/ihc/ihc2019.html#SoleckiPJAWBH19</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/ecgg/PetriWB19" mdate="2019-04-15">
+<author pid="187/5496">Giani Petri</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<title>MEEGA+, Systematic Model to Evaluate Educational Games.</title>
+<year>2019</year>
+<booktitle>Encyclopedia of Computer Graphics and Games</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-08234-9_214-1</ee>
+<crossref>reference/ecgg/2019</crossref>
+<url>db/reference/ecgg/1.html#PetriWB19</url>
+</incollection>
+</r>
+<r><article key="journals/jucs/PetriCWBR18" mdate="2021-02-17">
+<author pid="187/5496">Giani Petri</author>
+<author pid="34/5911-2">Alejandro Calder&#243;n 0002</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<author pid="10/4077">Mercedes Ruiz</author>
+<title>Games for Teaching Software Project Management: An Analysis of the Benefits of Digital and Non-Digital Games.</title>
+<pages>1424-1451</pages>
+<year>2018</year>
+<volume>24</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>10</number>
+<ee type="oa">http://www.jucs.org/jucs_24_10/games_for_teaching_software</ee>
+<url>db/journals/jucs/jucs24.html#PetriCWBR18</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-09049" mdate="2019-01-02">
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="232/3257">Jo&#227;o V. Araujo Porto</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<title>Do we agree on user interface aesthetics of Android apps?</title>
+<year>2018</year>
+<volume>abs/1812.09049</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.09049</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-09049</url>
+</article>
+</r>
+<r><article key="journals/iie/WangenheimPZBHP17" mdate="2020-10-26">
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="187/5496">Giani Petri</author>
+<author orcid="0000-0002-9545-0324" pid="243/6109">Andr&#233; W. Zibetti</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<author pid="77/5650">Jean C. R. Hauck</author>
+<author pid="196/0067">Fernando S. Pacheco</author>
+<author pid="243/6191">Raul Missfeldt Filho</author>
+<title>dETECT: A Model for the Evaluation of Instructional Units for Teaching Computing in Middle School.</title>
+<pages>301-318</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>Informatics Educ.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.15388/infedu.2017.15</ee>
+<url>db/journals/iie/iie16.html#WangenheimPZBHP17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/PetriWB17" mdate="2019-02-12">
+<author pid="187/5496">Giani Petri</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
 <title>Quality of Games for Teaching Software Engineering: An Analysis of Empirical Evidences of Digital and Non-Digital Games.</title>
 <pages>150-159</pages>
 <year>2017</year>
 <booktitle>ICSE-SEET</booktitle>
 <ee>https://doi.org/10.1109/ICSE-SEET.2017.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE-SEET.2017.18</ee>
 <crossref>conf/icse/2017seet</crossref>
 <url>db/conf/icse/icse2017seet.html#PetriWB17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/icse/PetriWB17a" mdate="2017-07-13">
-<author>Giani Petri</author>
-<author>Christiane Gresse von Wangenheim</author>
-<author>Adriano Ferreti Borgatto</author>
+<r><inproceedings key="conf/icse/PetriWB17a" mdate="2019-02-12">
+<author pid="187/5496">Giani Petri</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
 <title>A Large-Scale Evaluation of a Model for the Evaluation of Games for Teaching Software Engineering.</title>
 <pages>180-189</pages>
 <year>2017</year>
 <booktitle>ICSE-SEET</booktitle>
 <ee>https://doi.org/10.1109/ICSE-SEET.2017.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE-SEET.2017.11</ee>
 <crossref>conf/icse/2017seet</crossref>
 <url>db/conf/icse/icse2017seet.html#PetriWB17a</url>
 </inproceedings>
 </r>
-<r><article key="journals/ijmhci/WangenheimWBNLK16" mdate="2017-06-06">
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
-<author>Talita A. Witt</author>
-<author>Adriano Ferreti Borgatto</author>
-<author>Juliane Vargas Nunes</author>
-<author>Tha&#237;sa Cardoso Lacerda</author>
-<author>Caroline Krone</author>
-<author>La&#237;s de Oliveira Souza</author>
+<r><article key="journals/ijmhci/WangenheimWBNLK16" mdate="2020-05-11">
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="184/3617">Talita A. Witt</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<author pid="134/4754">Juliane Vargas Nunes</author>
+<author pid="134/4608">Tha&#237;sa Cardoso Lacerda</author>
+<author pid="184/3529">Caroline Krone</author>
+<author pid="184/3504">La&#237;s de Oliveira Souza</author>
 <title>A Usability Score for Mobile Phone Applications Based on Heuristics.</title>
 <pages>23-58</pages>
 <year>2016</year>
 <volume>8</volume>
-<journal>IJMHCI</journal>
+<journal>Int. J. Mob. Hum. Comput. Interact.</journal>
 <number>1</number>
 <ee>https://doi.org/10.4018/IJMHCI.2016010102</ee>
 <url>db/journals/ijmhci/ijmhci8.html#WangenheimWBNLK16</url>
 </article>
 </r>
-<r><article key="journals/cssc/BorgattoAPA15" mdate="2017-05-18">
-<author>Adriano Ferreti Borgatto</author>
-<author>Caio L. N. Azevedo</author>
-<author>Alu&#237;sio Pinheiro</author>
-<author>Dalton F. Andrade</author>
+<r><article key="journals/cssc/BorgattoAPA15" mdate="2020-05-10">
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<author pid="59/8429">Caio L. N. Azevedo</author>
+<author pid="44/8506">Alu&#237;sio Pinheiro</author>
+<author pid="39/5433">Dalton F. Andrade</author>
 <title>Comparison of Ability Estimation Methods Using IRT for Tests with Different Degrees of Difficulty.</title>
 <pages>474-488</pages>
 <year>2015</year>
 <volume>44</volume>
-<journal>Communications in Statistics - Simulation and Computation</journal>
+<journal>Commun. Stat. Simul. Comput.</journal>
 <number>2</number>
 <ee>https://doi.org/10.1080/03610918.2013.781630</ee>
 <url>db/journals/cssc/cssc44.html#BorgattoAPA15</url>
 </article>
 </r>
-<r><article key="journals/jss/WangenheimSB13" mdate="2017-06-06">
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
-<author>Rafael Savi</author>
-<author>Adriano Ferreti Borgatto</author>
+<r><article key="journals/jss/WangenheimSB13" mdate="2020-02-24">
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="02/10541">Rafael Savi</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
 <title>SCRUMIA - An educational game for teaching SCRUM in computing courses.</title>
 <pages>2675-2687</pages>
 <year>2013</year>
 <volume>86</volume>
-<journal>Journal of Systems and Software</journal>
+<journal>J. Syst. Softw.</journal>
 <number>10</number>
 <ee>https://doi.org/10.1016/j.jss.2013.05.030</ee>
 <url>db/journals/jss/jss86.html#WangenheimSB13</url>
 </article>
 </r>
-<r><article key="journals/infsof/WangenheimSB12" mdate="2017-06-06">
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
-<author>Rafael Savi</author>
-<author>Adriano Ferreti Borgatto</author>
+<r><article key="journals/infsof/WangenheimSB12" mdate="2020-02-20">
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="02/10541">Rafael Savi</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
 <title>DELIVER! - An educational game for teaching Earned Value Management in computing courses.</title>
 <pages>286-298</pages>
 <year>2012</year>
 <volume>54</volume>
-<journal>Information &#38; Software Technology</journal>
+<journal>Inf. Softw. Technol.</journal>
 <number>3</number>
 <ee>https://doi.org/10.1016/j.infsof.2011.10.005</ee>
 <url>db/journals/infsof/infsof54.html#WangenheimSB12</url>
 </article>
 </r>
 <r><inproceedings key="conf/sbes/SaviWB11" mdate="2017-06-05">
-<author>Rafael Savi</author>
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
-<author>Adriano Ferreti Borgatto</author>
+<author pid="02/10541">Rafael Savi</author>
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
 <title>A Model for the Evaluation of Educational Games for Teaching Software Engineering.</title>
 <pages>194-203</pages>
 <year>2011</year>
@@ -104,18 +259,32 @@
 <url>db/conf/sbes/sbes2011.html#SaviWB11</url>
 </inproceedings>
 </r>
-<coauthors n="11" nc="2">
-<co c="1"><na f="a/Andrade:Dalton_F=">Dalton F. Andrade</na></co>
-<co c="1"><na f="a/Azevedo:Caio_L=_N=">Caio L. N. Azevedo</na></co>
-<co c="0"><na f="k/Krone:Caroline">Caroline Krone</na></co>
-<co c="0" n="2"><na f="l/Lacerda:Tha=iacute=sa">Tha&#237;sa Lacerda</na><na>Tha&#237;sa Cardoso Lacerda</na></co>
-<co c="0"><na f="n/Nunes:Juliane_Vargas">Juliane Vargas Nunes</na></co>
-<co c="0"><na f="p/Petri:Giani">Giani Petri</na></co>
-<co c="1"><na f="p/Pinheiro:Alu=iacute=sio">Alu&#237;sio Pinheiro</na></co>
-<co c="0"><na f="s/Savi:Rafael">Rafael Savi</na></co>
-<co c="0"><na f="s/Souza:La=iacute=s_de_Oliveira">La&#237;s de Oliveira Souza</na></co>
-<co c="0"><na f="w/Wangenheim:Christiane_Gresse_von">Christiane Gresse von Wangenheim</na></co>
-<co c="0"><na f="w/Witt:Talita_A=">Talita A. Witt</na></co>
+<coauthors n="25" nc="2">
+<co c="0"><na f="a/Alves:Nathalia_da_Cruz" pid="242/2725">Nathalia da Cruz Alves</na></co>
+<co c="1"><na f="a/Andrade:Dalton_F=" pid="39/5433">Dalton F. Andrade</na></co>
+<co c="1"><na f="a/Azevedo:Caio_L=_N=" pid="59/8429">Caio L. N. Azevedo</na></co>
+<co c="0"><na f="c/Calder=oacute=n_0002:Alejandro" pid="34/5911-2">Alejandro Calder&#243;n 0002</na></co>
+<co c="0"><na f="d/Degering:Leonardo_Philippi" pid="266/5007">Leonardo Philippi Degering</na></co>
+<co c="0"><na f="f/Filho:Raul_Missfeldt" pid="243/6191">Raul Missfeldt Filho</na></co>
+<co c="0" n="2"><na f="h/Hauck:Jean_C=_R=" pid="77/5650">Jean C. R. Hauck</na><na>Jean Carlo Rossa Hauck</na></co>
+<co c="0" n="2"><na f="j/Justen:Karla_A=" pid="152/8719">Karla A. Justen</na><na>Karla Aparecida Justen</na></co>
+<co c="0"><na f="k/Krone:Caroline" pid="184/3529">Caroline Krone</na></co>
+<co c="0" n="2"><na f="l/Lacerda:Tha=iacute=sa" pid="134/4608">Tha&#237;sa Lacerda</na><na>Tha&#237;sa Cardoso Lacerda</na></co>
+<co c="0"><na f="l/Lehmkuhl:G=eacute=ssica" pid="297/2321">G&#233;ssica Lehmkuhl</na></co>
+<co c="0"><na f="m/Mioto:Fernanda" pid="266/4971">Fernanda Mioto</na></co>
+<co c="0"><na f="n/Nunes:Juliane_Vargas" pid="134/4754">Juliane Vargas Nunes</na></co>
+<co c="0"><na f="p/Pacheco:Fernando_S=" pid="196/0067">Fernando S. Pacheco</na></co>
+<co c="0"><na f="p/Pacheco:L=uacute=cia_Helena_Martins" pid="20/1310">L&#250;cia Helena Martins Pacheco</na></co>
+<co c="0"><na f="p/Petri:Giani" pid="187/5496">Giani Petri</na></co>
+<co c="1"><na f="p/Pinheiro:Alu=iacute=sio" pid="44/8506">Alu&#237;sio Pinheiro</na></co>
+<co c="0" n="2"><na f="p/Porto:Jo=atilde=o_V=_Araujo" pid="232/3257">Jo&#227;o V. Araujo Porto</na><na>Jo&#227;o Vitor Araujo Porto</na></co>
+<co c="0"><na f="r/Ruiz:Mercedes" pid="10/4077">Mercedes Ruiz</na></co>
+<co c="0"><na f="s/Savi:Rafael" pid="02/10541">Rafael Savi</na></co>
+<co c="0"><na f="s/Solecki:Igor_da_Silva" pid="249/9622">Igor da Silva Solecki</na></co>
+<co c="0"><na f="s/Souza:La=iacute=s_de_Oliveira" pid="184/3504">La&#237;s de Oliveira Souza</na></co>
+<co c="0"><na f="w/Wangenheim:Christiane_Gresse_von" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</na></co>
+<co c="0"><na f="w/Witt:Talita_A=" pid="184/3617">Talita A. Witt</na></co>
+<co c="0"><na f="z/Zibetti:Andr=eacute=_W=" pid="243/6109">Andr&#233; W. Zibetti</na></co>
 </coauthors>
 </dblpperson>
 

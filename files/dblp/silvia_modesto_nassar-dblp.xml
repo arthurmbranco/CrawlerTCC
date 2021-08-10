@@ -1,42 +1,116 @@
 <?xml version="1.0"?>
-<dblpperson name="Silvia M. Nassar" n="21">
+<dblpperson name="Silvia M. Nassar" pid="10/1102" n="28">
 <person key="homepages/10/1102" mdate="2017-07-28">
-<author>Silvia M. Nassar</author>
-<author>Silvia Modesto Nassar</author>
-<author>Silvia Nassar</author>
+<author pid="10/1102">Silvia M. Nassar</author>
+<author pid="10/1102">Silvia Modesto Nassar</author>
+<author pid="10/1102">Silvia Nassar</author>
 </person>
-<r><article key="journals/jcsci/LorbieskiN18" mdate="2018-06-04">
-<author>Rodolfo Lorbieski</author>
-<author>Silvia Modesto Nassar</author>
+<r><inproceedings key="conf/closer/CostaND21" mdate="2021-05-28">
+<author pid="233/1907">Felipe Schneider Costa</author>
+<author pid="10/1102">Silvia M. Nassar</author>
+<author pid="d/MarioARDantas">Mario A. R. Dantas</author>
+<title>GoAT: A Sensor Ranking Approach for IoT Environments.</title>
+<pages>169-177</pages>
+<year>2021</year>
+<booktitle>CLOSER</booktitle>
+<ee>https://doi.org/10.5220/0010403801690177</ee>
+<crossref>conf/closer/2021</crossref>
+<url>db/conf/closer/closer2021.html#CostaND21</url>
+</inproceedings>
+</r>
+<r><article key="journals/kbs/GoularteSNFS20" mdate="2020-02-25">
+<author pid="228/7353">F&#225;bio Bif Goularte</author>
+<author pid="246/8392">Danielly Sorato</author>
+<author pid="10/1102">Silvia Modesto Nassar</author>
+<author pid="35/2350">Renato Fileto</author>
+<author pid="36/2688">Horacio Saggion</author>
+<title>MSC+: Language pattern learning for word sense induction and disambiguation.</title>
+<year>2020</year>
+<volume>188</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2019.105017</ee>
+<url>db/journals/kbs/kbs188.html#GoularteSNFS20</url>
+</article>
+</r>
+<r><article key="journals/sensors/CostaNGSCXHD20" mdate="2020-12-25">
+<author pid="233/1907">Felipe Schneider Costa</author>
+<author pid="10/1102">Silvia M. Nassar</author>
+<author pid="15/3583">Sergio Gusmeroli</author>
+<author orcid="0000-0003-4903-970X" pid="277/4514">Ralph Schultz</author>
+<author orcid="0000-0001-8124-6253" pid="57/1714">Andr&#233; Gustavo Scolari Concei&#231;&#227;o</author>
+<author pid="205/1133">Miguel Xavier</author>
+<author pid="33/5648">Fabiano Hessel</author>
+<author orcid="0000-0002-2312-7042" pid="d/MarioARDantas">Mario A. R. Dantas</author>
+<title>FASTEN IIoT: An Open Real-Time Platform for Vertical, Horizontal and End-To-End Integration.</title>
+<pages>5499</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Sensors</journal>
+<number>19</number>
+<ee type="oa">https://doi.org/10.3390/s20195499</ee>
+<ee>https://www.wikidata.org/entity/Q100383403</ee>
+<url>db/journals/sensors/sensors20.html#CostaNGSCXHD20</url>
+</article>
+</r>
+<r><article key="journals/eswa/GoularteNFS19" mdate="2018-11-30">
+<author orcid="0000-0003-4378-8734" pid="228/7353">F&#225;bio Bif Goularte</author>
+<author pid="10/1102">Silvia Modesto Nassar</author>
+<author pid="35/2350">Renato Fileto</author>
+<author orcid="0000-0003-0016-7807" pid="36/2688">Horacio Saggion</author>
+<title>A text summarization method based on fuzzy rules and applicable to automated assessment.</title>
+<pages>264-275</pages>
+<year>2019</year>
+<volume>115</volume>
+<journal>Expert Syst. Appl.</journal>
+<ee>https://doi.org/10.1016/j.eswa.2018.07.047</ee>
+<url>db/journals/eswa/eswa115.html#GoularteNFS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/iecon/CostaND19" mdate="2020-01-01">
+<author pid="233/1907">Felipe Schneider Costa</author>
+<author pid="10/1102">Silvia M. Nassar</author>
+<author pid="d/MarioARDantas">Mario A. R. Dantas</author>
+<title>A three level sensor ranking method based on active perception.</title>
+<pages>2889-2895</pages>
+<year>2019</year>
+<booktitle>IECON</booktitle>
+<ee>https://doi.org/10.1109/IECON.2019.8927612</ee>
+<crossref>conf/iecon/2019</crossref>
+<url>db/conf/iecon/iecon2019.html#CostaND19</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcsci/LorbieskiN18" mdate="2020-04-25">
+<author pid="220/2757">Rodolfo Lorbieski</author>
+<author pid="10/1102">Silvia Modesto Nassar</author>
 <title>Impact of an Extra Layer on the Stacking Algorithm for Classification Problems.</title>
 <pages>613-622</pages>
 <year>2018</year>
 <volume>14</volume>
-<journal>JCS</journal>
+<journal>J. Comput. Sci.</journal>
 <number>5</number>
 <ee>https://doi.org/10.3844/jcssp.2018.613.622</ee>
 <url>db/journals/jcsci/jcsci14.html#LorbieskiN18</url>
 </article>
 </r>
-<r><article key="journals/jcsci/JuniorWN18" mdate="2018-09-07">
-<author>Ademar Crotti Junior</author>
-<author>Beatriz Wilges</author>
-<author>Silvia Modesto Nassar</author>
+<r><article key="journals/jcsci/JuniorWN18" mdate="2020-04-25">
+<author orcid="0000-0003-1025-9262" pid="178/2108">Ademar Crotti Junior</author>
+<author pid="80/6981">Beatriz Wilges</author>
+<author pid="10/1102">Silvia Modesto Nassar</author>
 <title>MCMC-Fuzzy: A Fuzzy Metric Applied to Bayesian Network Structure Learning.</title>
 <pages>1115-1125</pages>
 <year>2018</year>
 <volume>14</volume>
-<journal>JCS</journal>
+<journal>J. Comput. Sci.</journal>
 <number>8</number>
 <ee>https://doi.org/10.3844/jcssp.2018.1115.1125</ee>
 <url>db/journals/jcsci/jcsci14.html#JuniorWN18</url>
 </article>
 </r>
-<r><inproceedings key="conf/wocn/MateusWDN17" mdate="2017-10-23">
-<author>Gustavo Pereira Mateus</author>
-<author>Beatriz Wilges</author>
-<author>Mario Antonio Ribeiro Dantas</author>
-<author>Silvia Modesto Nassar</author>
+<r><inproceedings key="conf/wocn/MateusWDN17" mdate="2019-12-11">
+<author pid="10/5236">Gustavo Pereira Mateus</author>
+<author pid="80/6981">Beatriz Wilges</author>
+<author orcid="0000-0002-2312-7042" pid="d/MarioARDantas">M&#225;rio Ant&#244;nio Ribeiro Dantas</author>
+<author pid="10/1102">Silvia Modesto Nassar</author>
 <title>Frame management in wireless networks.</title>
 <pages>1-6</pages>
 <year>2017</year>
@@ -46,26 +120,26 @@
 <url>db/conf/wocn/wocn2017.html#MateusWDN17</url>
 </inproceedings>
 </r>
-<r><article key="journals/jcsci/WilgesMNCB16" mdate="2017-07-25">
-<author>Beatriz Wilges</author>
-<author>Gustavo Pereira Mateus</author>
-<author>Silvia M. Nassar</author>
-<author>Renato Cislaghi</author>
-<author>Rog&#233;rio Cid Bastos</author>
+<r><article key="journals/jcsci/WilgesMNCB16" mdate="2020-04-25">
+<author pid="80/6981">Beatriz Wilges</author>
+<author pid="10/5236">Gustavo Pereira Mateus</author>
+<author pid="10/1102">Silvia M. Nassar</author>
+<author pid="203/3986">Renato Cislaghi</author>
+<author pid="25/1340">Rog&#233;rio Cid Bastos</author>
 <title>Fuzzy Modeling for Multi-Label Text Classification Supported by Classification Algorithms.</title>
 <pages>341-349</pages>
 <year>2016</year>
 <volume>12</volume>
-<journal>JCS</journal>
+<journal>J. Comput. Sci.</journal>
 <number>7</number>
 <ee>https://doi.org/10.3844/jcssp.2016.341.349</ee>
 <url>db/journals/jcsci/jcsci12.html#WilgesMNCB16</url>
 </article>
 </r>
 <r><inproceedings key="conf/iberamia/SchwaabNF16" mdate="2017-05-21">
-<author>Andr&#233;ia Alves dos Santos Schwaab</author>
-<author>Silvia Modesto Nassar</author>
-<author>Paulo Jos&#233; de Freitas Filho</author>
+<author pid="61/8422">Andr&#233;ia Alves dos Santos Schwaab</author>
+<author pid="10/1102">Silvia Modesto Nassar</author>
+<author pid="60/3526">Paulo Jos&#233; de Freitas Filho</author>
 <title>Automatic Generation of Type-1 and Interval Type-2 Membership Functions for Prediction of Time Series Data.</title>
 <pages>353-364</pages>
 <year>2016</year>
@@ -75,25 +149,39 @@
 <url>db/conf/iberamia/iberamia2016.html#SchwaabNF16</url>
 </inproceedings>
 </r>
-<r><article key="journals/jcsci/SchwaabNF15" mdate="2017-07-27">
-<author>Andr&#233;ia Alves dos Santos Schwaab</author>
-<author>Silvia Modesto Nassar</author>
-<author>Paulo Jos&#233; de Freitas Filho</author>
+<r><inproceedings key="conf/sbsi/SoratoGNF16" mdate="2020-06-03">
+<author pid="246/8392">Danielly Sorato</author>
+<author pid="228/7353">F&#225;bio Bif Goularte</author>
+<author pid="10/1102">Silvia M. Nassar</author>
+<author pid="35/2350">Renato Fileto</author>
+<title>Analysis of Methods and Tools for Relevant Words Recognition in Microblogs.</title>
+<pages>345-352</pages>
+<year>2016</year>
+<booktitle>SBSI</booktitle>
+<ee>https://dl.acm.org/doi/abs/10.5555/3021955.3022014</ee>
+<crossref>conf/sbsi/2016</crossref>
+<url>db/conf/sbsi/sbsi2016.html#SoratoGNF16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcsci/SchwaabNF15" mdate="2020-04-25">
+<author pid="61/8422">Andr&#233;ia Alves dos Santos Schwaab</author>
+<author pid="10/1102">Silvia Modesto Nassar</author>
+<author pid="60/3526">Paulo Jos&#233; de Freitas Filho</author>
 <title>Automatic Methods for Generation of Type-1 and Interval Type-2 Fuzzy Membership Functions.</title>
 <pages>976-987</pages>
 <year>2015</year>
 <volume>11</volume>
-<journal>JCS</journal>
+<journal>J. Comput. Sci.</journal>
 <number>9</number>
 <ee>https://doi.org/10.3844/jcssp.2015.976.987</ee>
 <url>db/journals/jcsci/jcsci11.html#SchwaabNF15</url>
 </article>
 </r>
-<r><inproceedings key="conf/nca/MateusWDN15" mdate="2017-05-23">
-<author>Gustavo Pereira Mateus</author>
-<author>Beatriz Wilges</author>
-<author>Mario Antonio Ribeiro Dantas</author>
-<author>Silvia Modesto Nassar</author>
+<r><inproceedings key="conf/nca/MateusWDN15" mdate="2019-12-11">
+<author pid="10/5236">Gustavo Pereira Mateus</author>
+<author pid="80/6981">Beatriz Wilges</author>
+<author orcid="0000-0002-2312-7042" pid="d/MarioARDantas">M&#225;rio Ant&#244;nio Ribeiro Dantas</author>
+<author pid="10/1102">Silvia Modesto Nassar</author>
 <title>A Fuzzy Controller to Optimize a Wireless Network Environment.</title>
 <pages>243-246</pages>
 <year>2015</year>
@@ -104,42 +192,56 @@
 <url>db/conf/nca/nca2015.html#MateusWDN15</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/wsc/LimaNF15" mdate="2017-05-17">
-<author>Mariana Dehon Costa e Lima</author>
-<author>Silvia Modesto Nassar</author>
-<author>Paulo Jos&#233; de Freitas Filho</author>
+<r><inproceedings key="conf/wsc/LimaNF15" mdate="2021-06-10">
+<author pid="175/4503">Mariana Dehon Costa e Lima</author>
+<author pid="10/1102">Silvia Modesto Nassar</author>
+<author pid="60/3526">Paulo Jos&#233; de Freitas Filho</author>
 <title>Simulation of oil drilling time series using monte carlo and bayesian networks.</title>
 <pages>1195-1205</pages>
 <year>2015</year>
-<booktitle>Winter Simulation Conference</booktitle>
+<booktitle>WSC</booktitle>
 <ee>https://doi.org/10.1109/WSC.2015.7408245</ee>
 <ee>http://dl.acm.org/citation.cfm?id=2888750</ee>
 <crossref>conf/wsc/2015</crossref>
 <url>db/conf/wsc/wsc2015.html#LimaNF15</url>
 </inproceedings>
 </r>
-<r><article key="journals/jcsci/LimaNRFJ14" mdate="2017-07-28">
-<author>Mariana D. C. Lima</author>
-<author>Silvia M. Nassar</author>
-<author>Pedro Ivo R. B. G. Rodrigues</author>
-<author>Paulo Jos&#233; de Freitas Filho</author>
-<author>Carlos M. C. Jacinto</author>
+<r><article key="journals/jcsci/LimaNRFJ14" mdate="2020-04-25">
+<author pid="175/4503">Mariana D. C. Lima</author>
+<author pid="10/1102">Silvia M. Nassar</author>
+<author pid="203/6567">Pedro Ivo R. B. G. Rodrigues</author>
+<author pid="60/3526">Paulo Jos&#233; de Freitas Filho</author>
+<author pid="53/5965">Carlos M. C. Jacinto</author>
 <title>Heuristic discretization method for Bayesian Networks.</title>
 <pages>869-878</pages>
 <year>2014</year>
 <volume>10</volume>
-<journal>JCS</journal>
+<journal>J. Comput. Sci.</journal>
 <number>5</number>
 <ee>https://doi.org/10.3844/jcssp.2014.869.878</ee>
 <url>db/journals/jcsci/jcsci10.html#LimaNRFJ14</url>
 </article>
 </r>
-<r><article key="journals/eswa/PenzFNFO12" mdate="2017-11-06">
-<author>Cesar A. Penz</author>
-<author>Carlos Alberto Flesch</author>
-<author>Silvia M. Nassar</author>
-<author orcid="0000-0001-9536-5835">Rodolfo C. C. Flesch</author>
-<author>Marco Aur&#233;lio de Oliveira</author>
+<r><article key="journals/jcsci/CostaPN13" mdate="2020-04-25">
+<author pid="233/1907">Felipe Schneider Costa</author>
+<author pid="212/1985">Maria Marlene de Souza Pires</author>
+<author pid="10/1102">Silvia Modesto Nassar</author>
+<title>Analysis of Bayesian Classifier accuracy.</title>
+<pages>1487-1495</pages>
+<year>2013</year>
+<volume>9</volume>
+<journal>J. Comput. Sci.</journal>
+<number>11</number>
+<ee>https://doi.org/10.3844/jcssp.2013.1487.1495</ee>
+<url>db/journals/jcsci/jcsci9.html#CostaPN13</url>
+</article>
+</r>
+<r><article key="journals/eswa/PenzFNFO12" mdate="2020-10-26">
+<author pid="70/10693">Cesar A. Penz</author>
+<author pid="82/10693">Carlos Alberto Flesch</author>
+<author pid="10/1102">Silvia M. Nassar</author>
+<author orcid="0000-0001-9536-5835" pid="91/10693">Rodolfo C&#233;sar Costa Flesch</author>
+<author orcid="0000-0002-3299-7453" pid="25/10695">Marco Aur&#233;lio de Oliveira</author>
 <title>Fuzzy-Bayesian network for refrigeration compressor performance prediction and test time reduction.</title>
 <pages>4268-4273</pages>
 <year>2012</year>
@@ -151,11 +253,11 @@
 </article>
 </r>
 <r><inproceedings key="conf/icalt/MateusWDNS09" mdate="2017-05-23">
-<author>Gustavo Pereira Mateus</author>
-<author>Beatriz Wilges</author>
-<author>Luiz Claudio Duarte Dalmolin</author>
-<author>Silvia M. Nassar</author>
-<author>Ricardo Azambuja Silveira</author>
+<author pid="10/5236">Gustavo Pereira Mateus</author>
+<author pid="80/6981">Beatriz Wilges</author>
+<author pid="23/7452">Luiz Claudio Duarte Dalmolin</author>
+<author pid="10/1102">Silvia M. Nassar</author>
+<author pid="48/5786">Ricardo Azambuja Silveira</author>
 <title>A Belief Desire Intention Multi Agent System in a Virtual Learning Environment.</title>
 <pages>13-14</pages>
 <year>2009</year>
@@ -167,10 +269,10 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/icalt/DalmolinNBM09" mdate="2017-05-23">
-<author>Luiz Claudio Duarte Dalmolin</author>
-<author>Silvia Modesto Nassar</author>
-<author>Rog&#233;rio Cid Bastos</author>
-<author>Gustavo Pereira Mateus</author>
+<author pid="23/7452">Luiz Claudio Duarte Dalmolin</author>
+<author pid="10/1102">Silvia Modesto Nassar</author>
+<author pid="25/1340">Rog&#233;rio Cid Bastos</author>
+<author pid="10/5236">Gustavo Pereira Mateus</author>
 <title>A Concept Map Extractor Tool for Teaching and Learning.</title>
 <pages>18-20</pages>
 <year>2009</year>
@@ -182,10 +284,10 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/icalt/WilgesMSN07" mdate="2017-05-23">
-<author>Beatriz Wilges</author>
-<author>Gustavo Pereira Mateus</author>
-<author>Ricardo Azambuja Silveira</author>
-<author>Silvia M. Nassar</author>
+<author pid="80/6981">Beatriz Wilges</author>
+<author pid="10/5236">Gustavo Pereira Mateus</author>
+<author pid="48/5786">Ricardo Azambuja Silveira</author>
+<author pid="10/1102">Silvia M. Nassar</author>
 <title>An Animated Pedagogical Agent as a Learning Management System manipulating Intelligent Learning Objects.</title>
 <pages>186-188</pages>
 <year>2007</year>
@@ -197,10 +299,10 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/cimca/GeszychterWNG06" mdate="2017-05-23">
-<author>Michel Barnad Geszychter</author>
-<author>Beatriz Wilges</author>
-<author>Silvia M. Nassar</author>
-<author>Fernando Gauthier</author>
+<author pid="78/805">Michel Barnad Geszychter</author>
+<author pid="80/6981">Beatriz Wilges</author>
+<author pid="10/1102">Silvia M. Nassar</author>
+<author pid="78/2977">Fernando Gauthier</author>
 <title>A Model of a Multi-Agent Web System for Integration in Expert Systems.</title>
 <pages>90</pages>
 <year>2006</year>
@@ -211,17 +313,17 @@
 <url>db/conf/cimca/cimca2006.html#GeszychterWNG06</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/wsc/FloresMNFJ06" mdate="2017-07-28">
-<author>Cl&#225;udio Flores</author>
-<author>Fernando Makiyama</author>
-<author>Silvia Nassar</author>
-<author>Paulo Jos&#233; de Freitas Filho</author>
-<author>Carlos M. C. Jacinto</author>
+<r><inproceedings key="conf/wsc/FloresMNFJ06" mdate="2021-06-10">
+<author pid="10/442">Cl&#225;udio Flores</author>
+<author pid="33/1355">Fernando Makiyama</author>
+<author pid="10/1102">Silvia Nassar</author>
+<author pid="60/3526">Paulo Jos&#233; de Freitas Filho</author>
+<author pid="53/5965">Carlos M. C. Jacinto</author>
 <title>Risk analysis using Monte Carlo simulation and Bayesian networks.</title>
 <pages>2292</pages>
 <year>2006</year>
 <crossref>conf/wsc/2006</crossref>
-<booktitle>Winter Simulation Conference</booktitle>
+<booktitle>WSC</booktitle>
 <ee>https://doi.org/10.1109/WSC.2006.323062</ee>
 <ee>http://doi.ieeecomputersociety.org/10.1109/WSC.2006.323062</ee>
 <ee>http://dl.acm.org/citation.cfm?id=1218535</ee>
@@ -229,11 +331,11 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/cimca/CarvalhoMNAC05" mdate="2017-06-02">
-<author>Lucimar F. de Carvalho</author>
-<author>L. L. Monteiro</author>
-<author>Silvia M. Nassar</author>
-<author>Fernando Mendes de Azevedo</author>
-<author>Hugo J. T. de Carvalho</author>
+<author pid="44/2843">Lucimar F. de Carvalho</author>
+<author pid="19/4445">L. L. Monteiro</author>
+<author pid="10/1102">Silvia M. Nassar</author>
+<author pid="46/4892">Fernando Mendes de Azevedo</author>
+<author pid="09/3872">Hugo J. T. de Carvalho</author>
 <title>Neuro-Fuzzy Systems: Learning Models.</title>
 <pages>1122-1126</pages>
 <year>2005</year>
@@ -244,29 +346,29 @@
 <ee>http://doi.ieeecomputersociety.org/10.1109/CIMCA.2005.1631620</ee>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/wsc/TenorioNFM05" mdate="2017-07-28">
-<author>Marcelo Ten&#243;rio</author>
-<author>Silvia Nassar</author>
-<author>Paulo Jos&#233; de Freitas Filho</author>
-<author>Carlos Magno</author>
+<r><inproceedings key="conf/wsc/TenorioNFM05" mdate="2021-06-10">
+<author pid="03/6654">Marcelo Ten&#243;rio</author>
+<author pid="10/1102">Silvia Nassar</author>
+<author pid="60/3526">Paulo Jos&#233; de Freitas Filho</author>
+<author pid="27/1976">Carlos Magno</author>
 <title>Recognition of continuous probability models.</title>
 <pages>2524-2531</pages>
 <year>2005</year>
 <crossref>conf/wsc/2005</crossref>
-<booktitle>Winter Simulation Conference</booktitle>
+<booktitle>WSC</booktitle>
 <ee>https://doi.org/10.1109/WSC.2005.1574547</ee>
 <ee>http://dl.acm.org/citation.cfm?id=1163180</ee>
 <url>db/conf/wsc/wsc2005.html#TenorioNFM05</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/icai/CarvalhoDCDBNA02" mdate="2004-02-09">
-<author>Lucimar F. de Carvalho</author>
-<author>Candice Abella S. Dani</author>
-<author>Hugo J. T. de Carvalho</author>
-<author>Diego Dozza</author>
-<author>Ana Luisa C. Brasil</author>
-<author>Silvia M. Nassar</author>
-<author>Fernando Mendes de Azevedo</author>
+<author pid="44/2843">Lucimar F. de Carvalho</author>
+<author pid="73/2018">Candice Abella S. Dani</author>
+<author pid="09/3872">Hugo J. T. de Carvalho</author>
+<author pid="70/2017">Diego Dozza</author>
+<author pid="44/1122">Ana Luisa C. Brasil</author>
+<author pid="10/1102">Silvia M. Nassar</author>
+<author pid="46/4892">Fernando Mendes de Azevedo</author>
 <title>Medical data Base Exploration Through Artificial Neural Networks.</title>
 <pages>209-218</pages>
 <year>2002</year>
@@ -276,12 +378,12 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/iceis/CarvalhoDCDNA02" mdate="2017-02-02">
-<author>Lucimar F. de Carvalho</author>
-<author>Candice Abella S. Dani</author>
-<author>Hugo J. T. de Carvalho</author>
-<author>Diego Dozza</author>
-<author>Silvia M. Nassar</author>
-<author>Fernando Mendes de Azevedo</author>
+<author pid="44/2843">Lucimar F. de Carvalho</author>
+<author pid="73/2018">Candice Abella S. Dani</author>
+<author pid="09/3872">Hugo J. T. de Carvalho</author>
+<author pid="70/2017">Diego Dozza</author>
+<author pid="10/1102">Silvia M. Nassar</author>
+<author pid="46/4892">Fernando Mendes de Azevedo</author>
 <title>Medical Data Base Exploration through Artificial Neural Networks.</title>
 <pages>455-459</pages>
 <year>2002</year>
@@ -291,11 +393,11 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/iceis/CarvalhoRMNK01" mdate="2017-02-02">
-<author>Lucimar F. de Carvalho</author>
-<author>Roberto Rabello</author>
-<author>Rosane R. de Morais</author>
-<author>Silvia M. Nassar</author>
-<author>Christiane Koehler</author>
+<author pid="44/2843">Lucimar F. de Carvalho</author>
+<author pid="99/6765">Roberto Rabello</author>
+<author pid="79/3612">Rosane R. de Morais</author>
+<author pid="10/1102">Silvia M. Nassar</author>
+<author pid="49/5142">Christiane Koehler</author>
 <title>Quantification of the Emotional Quotient of the Intelligence using the Classic and Fuzzy Logic.</title>
 <pages>361-365</pages>
 <year>2001</year>
@@ -305,13 +407,13 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/iceis/VarvalhoANKCBR00" mdate="2017-02-02">
-<author>Lucimar F. de Carvalho</author>
-<author>Fernando Mendes de Azevedo</author>
-<author>Silvia M. Nassar</author>
-<author>Christiane Koehler</author>
-<author>Hugo J. T. de Carvalho</author>
-<author>Charles T. Batezini</author>
-<author>Fernanda Ramos</author>
+<author pid="44/2843">Lucimar F. de Carvalho</author>
+<author pid="46/4892">Fernando Mendes de Azevedo</author>
+<author pid="10/1102">Silvia M. Nassar</author>
+<author pid="49/5142">Christiane Koehler</author>
+<author pid="09/3872">Hugo J. T. de Carvalho</author>
+<author pid="87/3896">Charles T. Batezini</author>
+<author pid="57/5840">Fernanda Ramos</author>
 <title>Concurrent Validation in the Treatment of Uncertainty in a Expert System.</title>
 <pages>102-107</pages>
 <year>2000</year>
@@ -320,43 +422,54 @@
 <url>db/conf/iceis/iceis2000.html#VarvalhoANKCBR00</url>
 </inproceedings>
 </r>
-<coauthors n="36" nc="3">
-<co c="1"><na f="a/Azevedo:Fernando_Mendes_de">Fernando Mendes de Azevedo</na></co>
-<co c="0"><na f="b/Bastos:Rog=eacute=rio_Cid">Rog&#233;rio Cid Bastos</na></co>
-<co c="1"><na f="b/Batezini:Charles_T=">Charles T. Batezini</na></co>
-<co c="1"><na f="b/Brasil:Ana_Luisa_C=">Ana Luisa C. Brasil</na></co>
-<co c="1"><na f="c/Carvalho:Hugo_J=_T=_de">Hugo J. T. de Carvalho</na></co>
-<co c="1"><na f="c/Carvalho:Lucimar_F=_de">Lucimar F. de Carvalho</na></co>
-<co c="0"><na f="c/Cislaghi:Renato">Renato Cislaghi</na></co>
-<co c="0"><na f="d/Dalmolin:Luiz_Claudio_Duarte">Luiz Claudio Duarte Dalmolin</na></co>
-<co c="1"><na f="d/Dani:Candice_Abella_S=">Candice Abella S. Dani</na></co>
-<co c="0" n="2"><na f="d/Dantas:Mario_A=_R=">Mario A. R. Dantas</na><na>Mario Antonio Ribeiro Dantas</na></co>
-<co c="1"><na f="d/Dozza:Diego">Diego Dozza</na></co>
-<co c="0"><na f="f/Filho:Paulo_Jos=eacute=_de_Freitas">Paulo Jos&#233; de Freitas Filho</na></co>
-<co c="2"><na f="f/Flesch:Carlos_Alberto">Carlos Alberto Flesch</na></co>
-<co c="2"><na f="f/Flesch:Rodolfo_C=_C=">Rodolfo C. C. Flesch</na></co>
-<co c="0"><na f="f/Flores:Cl=aacute=udio">Cl&#225;udio Flores</na></co>
-<co c="0"><na f="g/Gauthier:Fernando">Fernando Gauthier</na></co>
-<co c="0"><na f="g/Geszychter:Michel_Barnad">Michel Barnad Geszychter</na></co>
-<co c="0"><na f="j/Jacinto:Carlos_M=_C=">Carlos M. C. Jacinto</na></co>
-<co c="0"><na f="j/Junior:Ademar_Crotti">Ademar Crotti Junior</na></co>
-<co c="1"><na f="k/Koehler:Christiane">Christiane Koehler</na></co>
-<co c="0" n="2"><na f="l/Lima:Mariana_D=_C=">Mariana D. C. Lima</na><na>Mariana Dehon Costa e Lima</na></co>
-<co c="-1"><na f="l/Lorbieski:Rodolfo">Rodolfo Lorbieski</na></co>
-<co c="0"><na f="m/Magno:Carlos">Carlos Magno</na></co>
-<co c="0"><na f="m/Makiyama:Fernando">Fernando Makiyama</na></co>
-<co c="0"><na f="m/Mateus:Gustavo_Pereira">Gustavo Pereira Mateus</na></co>
-<co c="1"><na f="m/Monteiro:L=_L=">L. L. Monteiro</na></co>
-<co c="1"><na f="m/Morais:Rosane_R=_de">Rosane R. de Morais</na></co>
-<co c="2"><na f="o/Oliveira:Marco_Aur=eacute=lio_de">Marco Aur&#233;lio de Oliveira</na></co>
-<co c="2"><na f="p/Penz:Cesar_A=">Cesar A. Penz</na></co>
-<co c="1"><na f="r/Rabello:Roberto">Roberto Rabello</na></co>
-<co c="1"><na f="r/Ramos:Fernanda">Fernanda Ramos</na></co>
-<co c="0"><na f="r/Rodrigues:Pedro_Ivo_R=_B=_G=">Pedro Ivo R. B. G. Rodrigues</na></co>
-<co c="0"><na f="s/Schwaab:Andr=eacute=ia_Alves_dos_Santos">Andr&#233;ia Alves dos Santos Schwaab</na></co>
-<co c="0"><na f="s/Silveira:Ricardo_Azambuja">Ricardo Azambuja Silveira</na></co>
-<co c="0"><na f="t/Ten=oacute=rio:Marcelo">Marcelo Ten&#243;rio</na></co>
-<co c="0"><na f="w/Wilges:Beatriz">Beatriz Wilges</na></co>
+<coauthors n="47" nc="3">
+<co c="1"><na f="a/Azevedo:Fernando_Mendes_de" pid="46/4892">Fernando Mendes de Azevedo</na></co>
+<co c="0"><na f="b/Bastos:Rog=eacute=rio_Cid" pid="25/1340">Rog&#233;rio Cid Bastos</na></co>
+<co c="1"><na f="b/Batezini:Charles_T=" pid="87/3896">Charles T. Batezini</na></co>
+<co c="1"><na f="b/Brasil:Ana_Luisa_C=" pid="44/1122">Ana Luisa C. Brasil</na></co>
+<co c="1"><na f="c/Carvalho:Hugo_J=_T=_de" pid="09/3872">Hugo J. T. de Carvalho</na></co>
+<co c="1"><na f="c/Carvalho:Lucimar_F=_de" pid="44/2843">Lucimar F. de Carvalho</na></co>
+<co c="0"><na f="c/Cislaghi:Renato" pid="203/3986">Renato Cislaghi</na></co>
+<co c="0" n="2"><na f="c/Concei=ccedil==atilde=o:Andr=eacute=_Scolari" pid="57/1714">Andr&#233; Scolari Concei&#231;&#227;o</na><na>Andr&#233; Gustavo Scolari Concei&#231;&#227;o</na></co>
+<co c="0"><na f="c/Costa:Felipe_Schneider" pid="233/1907">Felipe Schneider Costa</na></co>
+<co c="0"><na f="d/Dalmolin:Luiz_Claudio_Duarte" pid="23/7452">Luiz Claudio Duarte Dalmolin</na></co>
+<co c="1"><na f="d/Dani:Candice_Abella_S=" pid="73/2018">Candice Abella S. Dani</na></co>
+<co c="0" n="2"><na f="d/Dantas:Mario_A=_R=" pid="d/MarioARDantas">Mario A. R. Dantas</na><na>M&#225;rio Ant&#244;nio Ribeiro Dantas</na></co>
+<co c="1"><na f="d/Dozza:Diego" pid="70/2017">Diego Dozza</na></co>
+<co c="0"><na f="f/Fileto:Renato" pid="35/2350">Renato Fileto</na></co>
+<co c="0"><na f="f/Filho:Paulo_Jos=eacute=_de_Freitas" pid="60/3526">Paulo Jos&#233; de Freitas Filho</na></co>
+<co c="2"><na f="f/Flesch:Carlos_Alberto" pid="82/10693">Carlos Alberto Flesch</na></co>
+<co c="2"><na f="f/Flesch:Rodolfo_C=eacute=sar_Costa" pid="91/10693">Rodolfo C&#233;sar Costa Flesch</na></co>
+<co c="0"><na f="f/Flores:Cl=aacute=udio" pid="10/442">Cl&#225;udio Flores</na></co>
+<co c="0"><na f="g/Gauthier:Fernando" pid="78/2977">Fernando Gauthier</na></co>
+<co c="0"><na f="g/Geszychter:Michel_Barnad" pid="78/805">Michel Barnad Geszychter</na></co>
+<co c="0"><na f="g/Goularte:F=aacute=bio_Bif" pid="228/7353">F&#225;bio Bif Goularte</na></co>
+<co c="0"><na f="g/Gusmeroli:Sergio" pid="15/3583">Sergio Gusmeroli</na></co>
+<co c="0"><na f="h/Hessel:Fabiano" pid="33/5648">Fabiano Hessel</na></co>
+<co c="0"><na f="j/Jacinto:Carlos_M=_C=" pid="53/5965">Carlos M. C. Jacinto</na></co>
+<co c="0"><na f="j/Junior:Ademar_Crotti" pid="178/2108">Ademar Crotti Junior</na></co>
+<co c="1"><na f="k/Koehler:Christiane" pid="49/5142">Christiane Koehler</na></co>
+<co c="0" n="2"><na f="l/Lima:Mariana_D=_C=" pid="175/4503">Mariana D. C. Lima</na><na>Mariana Dehon Costa e Lima</na></co>
+<co c="-1"><na f="l/Lorbieski:Rodolfo" pid="220/2757">Rodolfo Lorbieski</na></co>
+<co c="0"><na f="m/Magno:Carlos" pid="27/1976">Carlos Magno</na></co>
+<co c="0"><na f="m/Makiyama:Fernando" pid="33/1355">Fernando Makiyama</na></co>
+<co c="0"><na f="m/Mateus:Gustavo_Pereira" pid="10/5236">Gustavo Pereira Mateus</na></co>
+<co c="1"><na f="m/Monteiro:L=_L=" pid="19/4445">L. L. Monteiro</na></co>
+<co c="1"><na f="m/Morais:Rosane_R=_de" pid="79/3612">Rosane R. de Morais</na></co>
+<co c="2"><na f="o/Oliveira:Marco_Aur=eacute=lio_de" pid="25/10695">Marco Aur&#233;lio de Oliveira</na></co>
+<co c="2"><na f="p/Penz:Cesar_A=" pid="70/10693">Cesar A. Penz</na></co>
+<co c="0"><na f="p/Pires:Maria_Marlene_de_Souza" pid="212/1985">Maria Marlene de Souza Pires</na></co>
+<co c="1"><na f="r/Rabello:Roberto" pid="99/6765">Roberto Rabello</na></co>
+<co c="1"><na f="r/Ramos:Fernanda" pid="57/5840">Fernanda Ramos</na></co>
+<co c="0"><na f="r/Rodrigues:Pedro_Ivo_R=_B=_G=" pid="203/6567">Pedro Ivo R. B. G. Rodrigues</na></co>
+<co c="0"><na f="s/Saggion:Horacio" pid="36/2688">Horacio Saggion</na></co>
+<co c="0"><na f="s/Schultz:Ralph" pid="277/4514">Ralph Schultz</na></co>
+<co c="0"><na f="s/Schwaab:Andr=eacute=ia_Alves_dos_Santos" pid="61/8422">Andr&#233;ia Alves dos Santos Schwaab</na></co>
+<co c="0"><na f="s/Silveira:Ricardo_Azambuja" pid="48/5786">Ricardo Azambuja Silveira</na></co>
+<co c="0"><na f="s/Sorato:Danielly" pid="246/8392">Danielly Sorato</na></co>
+<co c="0"><na f="t/Ten=oacute=rio:Marcelo" pid="03/6654">Marcelo Ten&#243;rio</na></co>
+<co c="0"><na f="w/Wilges:Beatriz" pid="80/6981">Beatriz Wilges</na></co>
+<co c="0"><na f="x/Xavier:Miguel" pid="205/1133">Miguel Xavier</na></co>
 </coauthors>
 </dblpperson>
 

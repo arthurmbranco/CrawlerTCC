@@ -1,14 +1,289 @@
 <?xml version="1.0"?>
-<dblpperson name="Vania Bogorny" n="54">
-<person key="homepages/16/2965" mdate="2016-03-03">
-<author>Vania Bogorny</author>
+<dblpperson name="Vania Bogorny" pid="16/2965" n="74">
+<person key="homepages/16/2965" mdate="2019-10-02">
+<author pid="16/2965">Vania Bogorny</author>
 <note type="affiliation">Federal University of Santa Catarina, Brazil</note>
 <url>http://www.inf.ufsc.br/~vania/</url>
+<url>https://orcid.org/0000-0002-0159-4643</url>
 </person>
-<r><article key="journals/dke/FurtadoPB18" mdate="2018-06-28">
-<author>Andre Salvaro Furtado</author>
-<author>La&#233;rcio Lima Pilla</author>
-<author>Vania Bogorny</author>
+<r><article key="journals/gis/RensoBTMM21" mdate="2021-04-29">
+<author orcid="0000-0002-1763-2966" pid="84/4085">Chiara Renso</author>
+<author orcid="0000-0002-0159-4643" pid="16/2965">Vania Bogorny</author>
+<author orcid="0000-0001-5183-1443" pid="76/2292">Konstantinos Tserpes</author>
+<author pid="m/StanMatwin">Stan Matwin</author>
+<author pid="f/JAFernandesdeMacedo">Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</author>
+<title>Multiple-aspect analysis of semantic trajectories(MASTER).</title>
+<pages>763-766</pages>
+<year>2021</year>
+<volume>35</volume>
+<journal>Int. J. Geogr. Inf. Sci.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1080/13658816.2020.1870982</ee>
+<url>db/journals/gis/gis35.html#RensoBTMM21</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/VarlamisSBACR0V21" mdate="2021-05-03">
+<author pid="v/IraklisVarlamis">Iraklis Varlamis</author>
+<author pid="151/5687">Christos Sardianos</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="191/7273">J&#244;nata Tyska Carvalho</author>
+<author pid="84/4085">Chiara Renso</author>
+<author pid="p/RaffaelePerego">Raffaele Perego 0001</author>
+<author pid="151/5732">John Violos</author>
+<title>A novel similarity measure for multiple aspect trajectory clustering.</title>
+<pages>551-558</pages>
+<year>2021</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3412841.3441935</ee>
+<crossref>conf/sac/2021</crossref>
+<url>db/conf/sac/sac2021.html#VarlamisSBACR0V21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-04781" mdate="2021-05-03">
+<author pid="254/9283">Tarlis T. Portela</author>
+<author pid="191/7273">J&#244;nata Tyska Carvalho</author>
+<author pid="16/2965">Vania Bogorny</author>
+<title>Fast discovery of multidimensional subsequences for robust trajectory classification.</title>
+<year>2021</year>
+<volume>abs/2102.04781</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.04781</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-04781</url>
+</article>
+</r>
+<r><article key="journals/datamine/FerreroPASZB20" mdate="2020-05-04">
+<author orcid="0000-0002-2240-516X" pid="187/4446">Carlos Andres Ferrero</author>
+<author orcid="0000-0003-1462-4538" pid="225/4591">Lucas May Petry</author>
+<author orcid="0000-0003-2372-4995" pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author orcid="0000-0003-3739-9820" pid="256/0176">Camila Leite da Silva</author>
+<author orcid="0000-0002-7113-5135" pid="18/137">Willian Zalewski</author>
+<author orcid="0000-0002-0159-4643" pid="16/2965">Vania Bogorny</author>
+<title>MasterMovelets: discovering heterogeneous movelets for multiple aspect trajectory classification.</title>
+<pages>652-680</pages>
+<year>2020</year>
+<volume>34</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10618-020-00676-x</ee>
+<url>db/journals/datamine/datamine34.html#FerreroPASZB20</url>
+</article>
+</r>
+<r><article key="journals/gis/PetrySERB20" mdate="2020-06-30">
+<author orcid="0000-0003-1462-4538" pid="225/4591">Lucas May Petry</author>
+<author orcid="0000-0003-3739-9820" pid="256/0176">Camila Leite da Silva</author>
+<author orcid="0000-0002-5725-4322" pid="74/4209">Andrea Esuli</author>
+<author orcid="0000-0002-1763-2966" pid="84/4085">Chiara Renso</author>
+<author orcid="0000-0002-0159-4643" pid="16/2965">Vania Bogorny</author>
+<title>MARC: a robust method for multiple-aspect trajectory classification via space, time, and semantic embeddings.</title>
+<pages>1428-1450</pages>
+<year>2020</year>
+<volume>34</volume>
+<journal>Int. J. Geogr. Inf. Sci.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1080/13658816.2019.1707835</ee>
+<url>db/journals/gis/gis34.html#PetrySERB20</url>
+</article>
+</r>
+<r><inproceedings key="conf/ai/EtemadESBMT20" mdate="2021-01-23">
+<author pid="129/5172">Mohammad Etemad</author>
+<author pid="261/3038">Zahra Etemad</author>
+<author orcid="0000-0001-5957-3805" pid="144/7946">Am&#237;lcar Soares J&#250;nior</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author orcid="0000-0001-6629-8434" pid="m/StanMatwin">Stan Matwin</author>
+<author pid="60/1153">Lu&#237;s Torgo</author>
+<title>Wise Sliding Window Segmentation: A Classification-Aided Approach for Trajectory Segmentation.</title>
+<pages>208-219</pages>
+<year>2020</year>
+<booktitle>Canadian Conference on AI</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-47358-7_20</ee>
+<crossref>conf/ai/2020</crossref>
+<url>db/conf/ai/ai2020.html#EtemadESBMT20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ai/PetrySBBM20" mdate="2021-01-23">
+<author pid="225/4591">Lucas May Petry</author>
+<author orcid="0000-0001-5957-3805" pid="144/7946">Am&#237;lcar Soares J&#250;nior</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="57/2546">Bruno Brandoli</author>
+<author orcid="0000-0001-6629-8434" pid="m/StanMatwin">Stan Matwin</author>
+<title>Challenges in Vessel Behavior and Anomaly Detection: From Classical Machine Learning to Deep Learning.</title>
+<pages>401-407</pages>
+<year>2020</year>
+<booktitle>Canadian Conference on AI</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-47358-7_41</ee>
+<crossref>conf/ai/2020</crossref>
+<url>db/conf/ai/ai2020.html#PetrySBBM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/VicenziPSAB20" mdate="2020-04-02">
+<author pid="254/9464">Francisco Vicenzi</author>
+<author pid="225/4591">Lucas May Petry</author>
+<author pid="256/0176">Camila Leite da Silva</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="16/2965">Vania Bogorny</author>
+<title>Exploring frequency-based approaches for efficient trajectory classification.</title>
+<pages>624-631</pages>
+<year>2020</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3341105.3374045</ee>
+<crossref>conf/sac/2020</crossref>
+<url>db/conf/sac/sac2020.html#VicenziPSAB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/MelloBASFFSR20" mdate="2020-08-18">
+<author pid="82/6647">Ronaldo dos Santos Mello</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="65/1521">Luiz Henrique Zambom Santana</author>
+<author pid="187/4446">Carlos Andres Ferrero</author>
+<author pid="77/3587">Angelo Augusto Frozza</author>
+<author pid="178/2074">Geomar Andre Schreiner</author>
+<author pid="84/4085">Chiara Renso</author>
+<title>MASTER: A Multiple Aspects View on Trajectories.</title>
+<pages>136-143</pages>
+<year>2020</year>
+<booktitle>SEBD</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-2646/17-paper.pdf</ee>
+<crossref>conf/sebd/2020</crossref>
+<url>db/conf/sebd/sebd2020.html#MelloBASFFSR20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-10248" mdate="2021-01-23">
+<author pid="129/5172">Mohammad Etemad</author>
+<author pid="261/3038">Zahra Etemad</author>
+<author pid="144/7946">Am&#237;lcar Soares J&#250;nior</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="m/StanMatwin">Stan Matwin</author>
+<author pid="60/1153">Lu&#237;s Torgo</author>
+<title>Wise Sliding Window Segmentation: A classification-aided approach for trajectory segmentation.</title>
+<year>2020</year>
+<volume>abs/2003.10248</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.10248</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-10248</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-03722" mdate="2021-01-23">
+<author pid="225/4591">Lucas May Petry</author>
+<author pid="144/7946">Am&#237;lcar Soares J&#250;nior</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="57/2546">Bruno Brandoli</author>
+<author pid="m/StanMatwin">Stan Matwin</author>
+<title>Challenges in Vessel Behavior and Anomaly Detection: From Classical Machine Learning to Deep Learning.</title>
+<year>2020</year>
+<volume>abs/2004.03722</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.03722</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-03722</url>
+</article>
+</r>
+<r><article key="journals/gis/LehmannAB19" mdate="2020-05-12">
+<author orcid="0000-0003-1738-6918" pid="244/6925">Andre L. Lehmann</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author orcid="0000-0002-0159-4643" pid="16/2965">Vania Bogorny</author>
+<title>SMSM: a similarity measure for trajectory stops and moves.</title>
+<pages>1847-1872</pages>
+<year>2019</year>
+<volume>33</volume>
+<journal>Int. J. Geogr. Inf. Sci.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1080/13658816.2019.1605074</ee>
+<url>db/journals/gis/gis33.html#LehmannAB19</url>
+</article>
+</r>
+<r><article key="journals/tgis/MelloBASFFSR19" mdate="2019-12-27">
+<author orcid="0000-0003-4262-5474" pid="82/6647">Ronaldo dos Santos Mello</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="65/1521">Luiz Henrique Zambom Santana</author>
+<author pid="187/4446">Carlos Andres Ferrero</author>
+<author pid="77/3587">Angelo Augusto Frozza</author>
+<author orcid="0000-0002-6457-8982" pid="178/2074">Geomar Andre Schreiner</author>
+<author pid="84/4085">Chiara Renso</author>
+<title>MASTER: A multiple aspect view on trajectories.</title>
+<pages>805-822</pages>
+<year>2019</year>
+<volume>23</volume>
+<journal>Trans. GIS</journal>
+<number>4</number>
+<ee>https://doi.org/10.1111/tgis.12526</ee>
+<url>db/journals/tgis/tgis23.html#MelloBASFFSR19</url>
+</article>
+</r>
+<r><article key="journals/tgis/PetryFARB19" mdate="2019-12-19">
+<author orcid="0000-0003-1462-4538" pid="225/4591">Lucas May Petry</author>
+<author pid="187/4446">Carlos Andres Ferrero</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="84/4085">Chiara Renso</author>
+<author orcid="0000-0002-0159-4643" pid="16/2965">Vania Bogorny</author>
+<title>Towards semantic-aware multiple-aspect trajectory similarity measuring.</title>
+<pages>960-975</pages>
+<year>2019</year>
+<volume>23</volume>
+<journal>Trans. GIS</journal>
+<number>5</number>
+<ee>https://doi.org/10.1111/tgis.12542</ee>
+<url>db/journals/tgis/tgis23.html#PetryFARB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/SilvaPB19" mdate="2020-01-09">
+<author pid="256/0176">Camila Leite da Silva</author>
+<author pid="225/4591">Lucas May Petry</author>
+<author pid="16/2965">Vania Bogorny</author>
+<title>A Survey and Comparison of Trajectory Classification Methods.</title>
+<pages>788-793</pages>
+<year>2019</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2019.00141</ee>
+<crossref>conf/bracis/2019</crossref>
+<url>db/conf/bracis/bracis2019.html#SilvaPB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/geoinfo/PortelaVB19" mdate="2021-01-23">
+<author orcid="0000-0001-7405-3330" pid="254/9283">Tarlis T. Portela</author>
+<author pid="254/9464">Francisco Vicenzi</author>
+<author pid="16/2965">Vania Bogorny</author>
+<title>Trajectory Data Privacy: Research Challenges and Opportunities.</title>
+<pages>99-110</pages>
+<year>2019</year>
+<booktitle>GEOINFO</booktitle>
+<ee>http://urlib.net/rep/8JMKD3MGPDW34R/3UFDFDB</ee>
+<crossref>conf/geoinfo/2019</crossref>
+<url>db/conf/geoinfo/geoinfo2019.html#PortelaVB19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-07722" mdate="2021-01-23">
+<author pid="187/4446">Carlos Andres Ferrero</author>
+<author orcid="0000-0003-1462-4538" pid="225/4591">Lucas May Petry</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="18/137">Willian Zalewski</author>
+<author pid="16/2965">Vania Bogorny</author>
+<title>Discovering Heterogeneous Subsequences for Trajectory Classification.</title>
+<year>2019</year>
+<volume>abs/1903.07722</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.07722</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-07722</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-05103" mdate="2021-01-23">
+<author pid="225/4591">Lucas May Petry</author>
+<author pid="144/7946">Am&#237;lcar Soares J&#250;nior</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="m/StanMatwin">Stan Matwin</author>
+<title>Unsupervised Behavior Change Detection in Multidimensional Data Streams for Maritime Traffic Monitoring.</title>
+<year>2019</year>
+<volume>abs/1908.05103</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.05103</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-05103</url>
+</article>
+</r>
+<r><article key="journals/dke/FurtadoPB18" mdate="2019-12-27">
+<author pid="46/9383">Andre Salvaro Furtado</author>
+<author orcid="0000-0003-0997-586X" pid="75/2582">La&#233;rcio Lima Pilla</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>A branch and bound strategy for Fast Trajectory Similarity Measuring.</title>
 <pages>16-31</pages>
 <year>2018</year>
@@ -18,41 +293,56 @@
 <url>db/journals/dke/dke115.html#FurtadoPB18</url>
 </article>
 </r>
-<r><article key="journals/gis/FurtadoAPTB18" mdate="2017-12-28">
-<author orcid="0000-0002-3714-7167">Andre Salvaro Furtado</author>
-<author>Luis Ot&#225;vio Campos Alvares</author>
-<author>Nikos Pelekis</author>
-<author>Yannis Theodoridis</author>
-<author>Vania Bogorny</author>
+<r><article key="journals/gis/FurtadoAPTB18" mdate="2020-10-26">
+<author orcid="0000-0002-3714-7167" pid="46/9383">Andre Salvaro Furtado</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Campos Alvares</author>
+<author pid="89/5510">Nikos Pelekis</author>
+<author orcid="0000-0003-2589-7881" pid="t/YannisTheodoridis">Yannis Theodoridis</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>Unveiling movement uncertainty for robust trajectory similarity analysis.</title>
 <pages>140-168</pages>
 <year>2018</year>
 <volume>32</volume>
-<journal>International Journal of Geographical Information Science</journal>
+<journal>Int. J. Geogr. Inf. Sci.</journal>
 <number>1</number>
 <ee>https://doi.org/10.1080/13658816.2017.1372763</ee>
 <url>db/journals/gis/gis32.html#FurtadoAPTB18</url>
 </article>
 </r>
-<r><inproceedings key="conf/sac/FerreroAZB18" mdate="2018-07-04">
-<author>Carlos Andres Ferrero</author>
-<author>Luis Ot&#225;vio Alvares</author>
-<author>Willian Zalewski</author>
-<author>Vania Bogorny</author>
+<r><inproceedings key="conf/agile/SanchesABVK18" mdate="2020-03-27">
+<author pid="237/1596">Denis Evangelista Sanches</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="98/5702">Marcos R. Vieira</author>
+<author orcid="0000-0001-9628-3313" pid="k/DanielSKaster">Daniel S. Kaster</author>
+<title>A Top-Down Algorithm with Free Distance Parameter for Mining Top-k Flock Patterns.</title>
+<pages>233-249</pages>
+<year>2018</year>
+<booktitle>AGILE Conf.</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-78208-9_12</ee>
+<crossref>conf/agile/2018</crossref>
+<url>db/conf/agile/agile2018.html#SanchesABVK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/FerreroAZB18" mdate="2020-06-15">
+<author orcid="0000-0002-2240-516X" pid="187/4446">Carlos Andres Ferrero</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="18/137">Willian Zalewski</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>MOVELETS: exploring relevant subtrajectories for robust trajectory classification.</title>
 <pages>849-856</pages>
 <year>2018</year>
 <booktitle>SAC</booktitle>
-<ee>http://doi.acm.org/10.1145/3167132.3167225</ee>
+<ee>https://doi.org/10.1145/3167132.3167225</ee>
 <crossref>conf/sac/2018</crossref>
 <url>db/conf/sac/sac2018.html#FerreroAZB18</url>
 </inproceedings>
 </r>
-<r><article publtype="informal" key="journals/corr/abs-1808-00554" mdate="2018-09-02">
-<author>Andrea Esuli</author>
-<author>Lucas May Petry</author>
-<author>Chiara Renso</author>
-<author>Vania Bogorny</author>
+<r><article publtype="informal" key="journals/corr/abs-1808-00554" mdate="2021-01-23">
+<author pid="74/4209">Andrea Esuli</author>
+<author orcid="0000-0003-1462-4538" pid="225/4591">Lucas May Petry</author>
+<author pid="84/4085">Chiara Renso</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>Traj2User: exploiting embeddings for computing similarity of users mobile behavior.</title>
 <year>2018</year>
 <volume>abs/1808.00554</volume>
@@ -61,73 +351,73 @@
 <url>db/journals/corr/corr1808.html#abs-1808-00554</url>
 </article>
 </r>
-<r><article key="journals/cai/ArboledaBP17" mdate="2017-07-12">
-<author>Francisco Javier Moreno Arboleda</author>
-<author>Vania Bogorny</author>
-<author>Holver Pati&#241;o</author>
+<r><article key="journals/cai/ArboledaBP17" mdate="2020-03-02">
+<author pid="61/4543">Francisco Javier Moreno Arboleda</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="202/8021">Holver Pati&#241;o</author>
 <title>SMoT+NCS: Algorithm for Detecting Non-Continuous Stops.</title>
 <pages>283-306</pages>
 <year>2017</year>
 <volume>36</volume>
-<journal>Computing and Informatics</journal>
+<journal>Comput. Informatics</journal>
 <number>2</number>
 <ee>http://www.cai.sk/ojs/index.php/cai/article/view/2017_2_283</ee>
 <url>db/journals/cai/cai36.html#ArboledaBP17</url>
 </article>
 </r>
-<r><article key="journals/gis/BarraganaAB17" mdate="2017-05-27">
-<author>Mateus Barragana</author>
-<author>Luis Ot&#225;vio Alvares</author>
-<author>Vania Bogorny</author>
+<r><article key="journals/gis/BarraganaAB17" mdate="2020-05-12">
+<author pid="190/7861">Mateus Barragana</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>Unusual behavior detection and object ranking from movement trajectories in target regions.</title>
 <pages>364-386</pages>
 <year>2017</year>
 <volume>31</volume>
-<journal>International Journal of Geographical Information Science</journal>
+<journal>Int. J. Geogr. Inf. Sci.</journal>
 <number>2</number>
 <ee>https://doi.org/10.1080/13658816.2016.1202415</ee>
 <url>db/journals/gis/gis31.html#BarraganaAB17</url>
 </article>
 </r>
-<r><article key="journals/jidm/BeberFFB17" mdate="2017-10-02">
-<author>Marco Aurelio Beber</author>
-<author>Carlos Andres Ferrero</author>
-<author>Renato Fileto</author>
-<author>Vania Bogorny</author>
+<r><article key="journals/jidm/BeberFFB17" mdate="2021-07-07">
+<author pid="200/7536">Marco Aurelio Beber</author>
+<author pid="187/4446">Carlos Andres Ferrero</author>
+<author pid="35/2350">Renato Fileto</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>Individual and Group Activity Recognition in Moving Object Trajectories.</title>
 <pages>50-66</pages>
 <year>2017</year>
 <volume>8</volume>
-<journal>JIDM</journal>
+<journal>J. Inf. Data Manag.</journal>
 <number>1</number>
-<ee>https://seer.lcc.ufmg.br/index.php/jidm/article/view/4601</ee>
+<ee>https://periodicos.ufmg.br/index.php/jidm/article/view/378</ee>
 <url>db/journals/jidm/jidm8.html#BeberFFB17</url>
 </article>
 </r>
-<r><article key="journals/tcsv/CosarDBGAB17" mdate="2017-07-26">
-<author orcid="0000-0003-4358-1063">Serhan Cosar</author>
-<author>Giuseppe Donatiello</author>
-<author>Vania Bogorny</author>
-<author>Carolina G&#225;rate</author>
-<author>Luis Ot&#225;vio Alvares</author>
-<author>Fran&#231;ois Br&#233;mond</author>
+<r><article key="journals/tcsv/CosarDBGAB17" mdate="2020-08-25">
+<author orcid="0000-0003-4358-1063" pid="64/9114">Serhan Cosar</author>
+<author pid="148/0252">Giuseppe Donatiello</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="147/3983">Carolina G&#225;rate</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="90/6418">Fran&#231;ois Br&#233;mond</author>
 <title>Toward Abnormal Trajectory and Event Detection in Video Surveillance.</title>
 <pages>683-695</pages>
 <year>2017</year>
 <volume>27</volume>
-<journal>IEEE Trans. Circuits Syst. Video Techn.</journal>
+<journal>IEEE Trans. Circuits Syst. Video Technol.</journal>
 <number>3</number>
 <ee>https://doi.org/10.1109/TCSVT.2016.2589859</ee>
 <url>db/journals/tcsv/tcsv27.html#CosarDBGAB17</url>
 </article>
 </r>
 <r><article key="journals/dke/LettichABORS16" mdate="2017-11-07">
-<author>Francesco Lettich</author>
-<author>Luis Ot&#225;vio Alvares</author>
-<author>Vania Bogorny</author>
-<author>Salvatore Orlando 0001</author>
-<author>Alessandra Raffaet&#224;</author>
-<author>Claudio Silvestri</author>
+<author pid="144/4327">Francesco Lettich</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="o/SalvatoreOrlando">Salvatore Orlando 0001</author>
+<author pid="42/5086">Alessandra Raffaet&#224;</author>
+<author pid="66/1541">Claudio Silvestri</author>
 <title>Detecting avoidance behaviors between moving object trajectories.</title>
 <pages>22-41</pages>
 <year>2016</year>
@@ -138,10 +428,10 @@
 </article>
 </r>
 <r><article key="journals/tgis/FurtadoKAB16" mdate="2017-05-26">
-<author>Andre Salvaro Furtado</author>
-<author>Despina Kopanaki</author>
-<author>Luis Ot&#225;vio Alvares</author>
-<author>Vania Bogorny</author>
+<author pid="46/9383">Andre Salvaro Furtado</author>
+<author pid="47/10440">Despina Kopanaki</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>Multidimensional Similarity Measuring for Semantic Trajectories.</title>
 <pages>280-298</pages>
 <year>2016</year>
@@ -152,99 +442,99 @@
 <url>db/journals/tgis/tgis20.html#FurtadoKAB16</url>
 </article>
 </r>
-<r><inproceedings key="conf/geoinfo/FerreroAB16" mdate="2017-05-31">
-<author>Carlos Andres Ferrero</author>
-<author>Luis Ot&#225;vio Alvares</author>
-<author>Vania Bogorny</author>
+<r><inproceedings key="conf/geoinfo/FerreroAB16" mdate="2021-02-10">
+<author pid="187/4446">Carlos Andres Ferrero</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>Multiple aspect trajectory data analysis: research challenges and opportunities.</title>
 <pages>56-67</pages>
 <year>2016</year>
 <booktitle>GeoInfo</booktitle>
-<ee>http://urlib.net/8JMKD3MGPDW34P/3NDC42E</ee>
+<ee type="oa">http://urlib.net/8JMKD3MGPDW34P/3NDC42E</ee>
 <crossref>conf/geoinfo/2016</crossref>
 <url>db/conf/geoinfo/geoinfo2016.html#FerreroAB16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/geoinfo/BeberFFB16" mdate="2017-05-31">
-<author>Marco Aurelio Beber</author>
-<author>Carlos Andres Ferrero</author>
-<author>Renato Fileto</author>
-<author>Vania Bogorny</author>
+<r><inproceedings key="conf/geoinfo/BeberFFB16" mdate="2021-02-10">
+<author pid="200/7536">Marco Aurelio Beber</author>
+<author pid="187/4446">Carlos Andres Ferrero</author>
+<author pid="35/2350">Renato Fileto</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>Towards activity recognition in moving object trajectories from Twitter data.</title>
 <pages>68-79</pages>
 <year>2016</year>
 <booktitle>GeoInfo</booktitle>
-<ee>http://urlib.net/8JMKD3MGPDW34P/3NDC4BB</ee>
+<ee type="oa">http://urlib.net/8JMKD3MGPDW34P/3NDC4BB</ee>
 <crossref>conf/geoinfo/2016</crossref>
 <url>db/conf/geoinfo/geoinfo2016.html#BeberFFB16</url>
 </inproceedings>
 </r>
-<r><article key="journals/sigspatial/FiletoBMK15" mdate="2015-06-23">
-<author>Renato Fileto</author>
-<author>Vania Bogorny</author>
-<author>Cleto May</author>
-<author>Douglas Klein</author>
+<r><article key="journals/sigspatial/FiletoBMK15" mdate="2020-05-27">
+<author pid="35/2350">Renato Fileto</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="153/4206">Cleto May</author>
+<author pid="153/4193">Douglas Klein</author>
 <title>Semantic enrichment and analysis of movement data: probably it is just starting!</title>
 <pages>11-18</pages>
 <year>2015</year>
 <volume>7</volume>
-<journal>SIGSPATIAL Special</journal>
+<journal>ACM SIGSPATIAL Special</journal>
 <number>1</number>
-<ee>http://doi.acm.org/10.1145/2782759.2782763</ee>
+<ee>https://doi.org/10.1145/2782759.2782763</ee>
 <url>db/journals/sigspatial/sigspatial7.html#FiletoBMK15</url>
 </article>
 </r>
-<r><inproceedings key="conf/geoinfo/SantosFAPB15" mdate="2015-12-14">
-<author>Areli Andreia dos Santos</author>
-<author>Andre Salvaro Furtado</author>
-<author>Luis Ot&#225;vio Alvares</author>
-<author>Nikos Pelekis</author>
-<author>Vania Bogorny</author>
+<r><inproceedings key="conf/geoinfo/SantosFAPB15" mdate="2021-02-10">
+<author pid="172/7587">Areli Andreia dos Santos</author>
+<author pid="46/9383">Andre Salvaro Furtado</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="89/5510">Nikos Pelekis</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>Inferring Relationships from Trajectory Data.</title>
 <pages>68-79</pages>
 <year>2015</year>
 <booktitle>GeoInfo</booktitle>
-<ee>http://urlib.net/8JMKD3MGPDW34P/3KP3262</ee>
+<ee type="oa">http://urlib.net/8JMKD3MGPDW34P/3KP3262</ee>
 <crossref>conf/geoinfo/2015</crossref>
 <url>db/conf/geoinfo/geoinfo2015.html#SantosFAPB15</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/seke/AlencarARRB15" mdate="2017-06-05">
-<author>Lucas Andre de Alencar</author>
-<author>Luis Ot&#225;vio Alvares</author>
-<author orcid="0000-0002-1763-2966">Chiara Renso</author>
-<author>Alessandra Raffaet&#224;</author>
-<author>Vania Bogorny</author>
+<r><inproceedings key="conf/seke/AlencarARRB15" mdate="2021-02-03">
+<author pid="137/9737">Lucas Andre de Alencar</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author orcid="0000-0002-1763-2966" pid="84/4085">Chiara Renso</author>
+<author pid="42/5086">Alessandra Raffaet&#224;</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>A Rule-based Method for Discovering Trajectory Profiles.</title>
 <pages>244-249</pages>
 <year>2015</year>
 <booktitle>SEKE</booktitle>
-<ee>https://doi.org/10.18293/SEKE2015-143</ee>
+<ee type="oa">https://doi.org/10.18293/SEKE2015-143</ee>
 <crossref>conf/seke/2015</crossref>
 <url>db/conf/seke/seke2015.html#AlencarARRB15</url>
 </inproceedings>
 </r>
-<r><article key="journals/cai/ArboledaPFB14" mdate="2014-08-12">
-<author>Francisco Javier Moreno Arboleda</author>
-<author>Andr&#233;s Felipe Pineda</author>
-<author>Renato Fileto</author>
-<author>Vania Bogorny</author>
+<r><article key="journals/cai/ArboledaPFB14" mdate="2020-03-02">
+<author pid="61/4543">Francisco Javier Moreno Arboleda</author>
+<author pid="149/8884">Andr&#233;s Felipe Pineda</author>
+<author pid="35/2350">Renato Fileto</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>SMoT+: Extending the SMoT Algorithm for Discovering Stops in Nested Sites.</title>
 <pages>327-342</pages>
 <year>2014</year>
 <volume>33</volume>
-<journal>Computing and Informatics</journal>
+<journal>Comput. Informatics</journal>
 <number>2</number>
 <ee>http://www.cai.sk/ojs/index.php/cai/article/view/1130</ee>
 <url>db/journals/cai/cai33.html#ArboledaPFB14</url>
 </article>
 </r>
 <r><article key="journals/tgis/BogornyRASA14" mdate="2017-06-08">
-<author>Vania Bogorny</author>
-<author orcid="0000-0002-1763-2966">Chiara Renso</author>
-<author>Artur Ribeiro de Aquino</author>
-<author>Fernando de Lucca Siqueira</author>
-<author>Luis Ot&#225;vio Alvares</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author orcid="0000-0002-1763-2966" pid="84/4085">Chiara Renso</author>
+<author pid="137/9761">Artur Ribeiro de Aquino</author>
+<author pid="00/10459">Fernando de Lucca Siqueira</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
 <title>CONSTAnT - A Conceptual Data Model for Semantic Trajectories of Moving Objects.</title>
 <pages>66-88</pages>
 <year>2014</year>
@@ -256,8 +546,8 @@
 </article>
 </r>
 <r><inproceedings key="conf/is/CarboniB14" mdate="2017-05-21">
-<author>Eduardo M. Carboni</author>
-<author>Vania Bogorny</author>
+<author pid="151/8607">Eduardo M. Carboni</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>Inferring Drivers Behavior through Trajectory Analysis.</title>
 <pages>837-848</pages>
 <year>2014</year>
@@ -267,50 +557,51 @@
 <url>db/conf/is/is2014-1.html#CarboniB14</url>
 </inproceedings>
 </r>
-<r><article publtype="informal" key="journals/ercim/BremondBPCPD14" mdate="2017-07-09">
-<author>Fran&#231;ois Br&#233;mond</author>
-<author>Vania Bogorny</author>
-<author>Jose Luis Patino</author>
-<author>Serhan Cosar</author>
-<author>Guido Pusiol</author>
-<author>Giuseppe Donatiello</author>
+<r><article publtype="informal" key="journals/ercim/BremondBPCPD14" mdate="2019-05-22">
+<author pid="90/6418">Fran&#231;ois Br&#233;mond</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="83/3966">Jose Luis Patino</author>
+<author pid="64/9114">Serhan Cosar</author>
+<author pid="76/7728">Guido Pusiol</author>
+<author pid="148/0252">Giuseppe Donatiello</author>
 <title>Monitoring People's Behaviour using Video Analysis and Trajectory Clustering.</title>
 <year>2014</year>
 <volume>2014</volume>
 <journal>ERCIM News</journal>
 <number>98</number>
-<ee>http://ercim-news.ercim.eu/en98/special/monitoring-people-s-behaviour-using-video-analysis-and-trajectory-clustering</ee>
+<ee type="oa">http://ercim-news.ercim.eu/en98/special/monitoring-people-s-behaviour-using-video-analysis-and-trajectory-clustering</ee>
 <url>db/journals/ercim/ercim2014.html#BremondBPCPD14</url>
 </article>
 </r>
-<r><article key="journals/csur/ParentSRAABDGMPTY13" mdate="2017-09-16">
-<author>Christine Parent</author>
-<author>Stefano Spaccapietra</author>
-<author orcid="0000-0002-1763-2966">Chiara Renso</author>
-<author orcid="0000-0002-8574-6295">Gennady L. Andrienko</author>
-<author orcid="0000-0003-3313-1560">Natalia V. Andrienko</author>
-<author>Vania Bogorny</author>
-<author>Maria Luisa Damiani</author>
-<author>Aris Gkoulalas-Divanis</author>
-<author>Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</author>
-<author>Nikos Pelekis</author>
-<author>Yannis Theodoridis</author>
-<author>Zhixian Yan</author>
+<r><article key="journals/csur/ParentSRAABDGMPTY13" mdate="2020-10-26">
+<author pid="94/6041">Christine Parent</author>
+<author pid="s/StefanoSpaccapietra">Stefano Spaccapietra</author>
+<author orcid="0000-0002-1763-2966" pid="84/4085">Chiara Renso</author>
+<author orcid="0000-0002-8574-6295" pid="a/GennadyLAndrienko">Gennady L. Andrienko</author>
+<author orcid="0000-0003-3313-1560" pid="a/NataliaVAndrienko">Natalia V. Andrienko</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="d/MariaLuisaDamiani">Maria Luisa Damiani</author>
+<author pid="64/4944">Aris Gkoulalas-Divanis</author>
+<author pid="f/JAFernandesdeMacedo">Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</author>
+<author pid="89/5510">Nikos Pelekis</author>
+<author orcid="0000-0003-2589-7881" pid="t/YannisTheodoridis">Yannis Theodoridis</author>
+<author pid="10/1488">Zhixian Yan</author>
 <title>Semantic trajectories modeling and analysis.</title>
 <pages>42:1-42:32</pages>
 <year>2013</year>
 <volume>45</volume>
 <journal>ACM Comput. Surv.</journal>
 <number>4</number>
-<ee>http://doi.acm.org/10.1145/2501654.2501656</ee>
+<ee>https://doi.org/10.1145/2501654.2501656</ee>
+<ee>https://www.wikidata.org/entity/Q58203871</ee>
 <url>db/journals/csur/csur45.html#ParentSRAABDGMPTY13</url>
 </article>
 </r>
 <r><inproceedings key="conf/geoinfo/FontesARB13" mdate="2013-12-05">
-<author>Vitor Cunha Fontes</author>
-<author>Lucas Andre de Alencar</author>
-<author>Chiara Renso</author>
-<author>Vania Bogorny</author>
+<author pid="127/7450">Vitor Cunha Fontes</author>
+<author pid="137/9737">Lucas Andre de Alencar</author>
+<author pid="84/4085">Chiara Renso</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>Discovering Trajectory Outliers between Regions of Interest.</title>
 <pages>49-60</pages>
 <year>2013</year>
@@ -321,10 +612,10 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/geoinfo/AquinoARB13" mdate="2013-12-05">
-<author>Artur Ribeiro de Aquino</author>
-<author>Luis Ot&#225;vio Alvares</author>
-<author>Chiara Renso</author>
-<author>Vania Bogorny</author>
+<author pid="137/9761">Artur Ribeiro de Aquino</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="84/4085">Chiara Renso</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>Towards Semantic Trajectory Outlier Detection.</title>
 <pages>115-126</pages>
 <year>2013</year>
@@ -335,11 +626,11 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/ssd/RinzivilloSGRB13" mdate="2017-06-05">
-<author orcid="0000-0003-4404-4147">Salvatore Rinzivillo</author>
-<author>Fernando de Lucca Siqueira</author>
-<author>Lorenzo Gabrielli</author>
-<author orcid="0000-0002-1763-2966">Chiara Renso</author>
-<author>Vania Bogorny</author>
+<author orcid="0000-0003-4404-4147" pid="28/577">Salvatore Rinzivillo</author>
+<author pid="00/10459">Fernando de Lucca Siqueira</author>
+<author pid="132/4915">Lorenzo Gabrielli</author>
+<author orcid="0000-0002-1763-2966" pid="84/4085">Chiara Renso</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>Where Have You Been Today? Annotating Trajectories with DayTag.</title>
 <pages>467-471</pages>
 <year>2013</year>
@@ -350,8 +641,8 @@
 </inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-1303-5132" mdate="2018-08-13">
-<author>Vitor Cunha Fontes</author>
-<author>Vania Bogorny</author>
+<author pid="127/7450">Vitor Cunha Fontes</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>Discovering Semantic Spatial and Spatio-Temporal Outliers from Moving Object Trajectories</title>
 <ee type="oa">http://arxiv.org/abs/1303.5132</ee>
 <year>2013</year>
@@ -361,8 +652,8 @@
 </article>
 </r>
 <r><proceedings key="conf/geoinfo/2012" mdate="2017-05-31">
-<editor>La&#233;rcio Massaru Namikawa</editor>
-<editor>Vania Bogorny</editor>
+<editor pid="47/843">La&#233;rcio Massaru Namikawa</editor>
+<editor pid="16/2965">Vania Bogorny</editor>
 <title>XIII Brazilian Symposium on Geoinformatics, November 25-27 2012, Campos do Jord&#227;o, S&#227;o Paulo, Brazil</title>
 <publisher>MCT/INPE</publisher>
 <year>2012</year>
@@ -370,40 +661,40 @@
 <url>db/conf/geoinfo/geoinfo2012.html</url>
 </proceedings>
 </r>
-<r><article key="journals/jbcs/AlvaresLRB11" mdate="2018-06-26">
-<author>Luis Ot&#225;vio Alvares</author>
-<author>Alisson Moscato Loy</author>
-<author orcid="0000-0002-1763-2966">Chiara Renso</author>
-<author>Vania Bogorny</author>
+<r><article key="journals/jbcs/AlvaresLRB11" mdate="2020-05-20">
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="80/10115">Alisson Moscato Loy</author>
+<author orcid="0000-0002-1763-2966" pid="84/4085">Chiara Renso</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>An algorithm to identify avoidance behavior in moving object trajectories.</title>
 <pages>193-203</pages>
 <year>2011</year>
 <volume>17</volume>
-<journal>J. Braz. Comp. Soc.</journal>
+<journal>J. Braz. Comput. Soc.</journal>
 <number>3</number>
 <ee type="oa">https://doi.org/10.1007/s13173-011-0037-3</ee>
 <url>db/journals/jbcs/jbcs17.html#AlvaresLRB11</url>
 </article>
 </r>
-<r><article key="journals/jidm/MelloFDB11" mdate="2011-11-02">
-<author>Ronaldo dos Santos Mello</author>
-<author>Renato Fileto</author>
-<author>Carina F. Dorneles</author>
-<author>Vania Bogorny</author>
+<r><article key="journals/jidm/MelloFDB11" mdate="2021-07-07">
+<author pid="82/6647">Ronaldo dos Santos Mello</author>
+<author pid="35/2350">Renato Fileto</author>
+<author pid="74/2312">Carina F. Dorneles</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>Research on Complex Data Management and Analysis at UFSC.</title>
 <pages>155-170</pages>
 <year>2011</year>
 <volume>2</volume>
-<journal>JIDM</journal>
+<journal>J. Inf. Data Manag.</journal>
 <number>2</number>
-<ee>http://seer.lcc.ufmg.br/index.php/jidm/article/view/118</ee>
+<ee>https://periodicos.ufmg.br/index.php/jidm/article/view/100</ee>
 <url>db/journals/jidm/jidm2.html#MelloFDB11</url>
 </article>
 </r>
 <r><article key="journals/kais/RensoBX11" mdate="2018-06-26">
-<author orcid="0000-0002-1763-2966">Chiara Renso</author>
-<author>Vania Bogorny</author>
-<author>Hui Xiong</author>
+<author orcid="0000-0002-1763-2966" pid="84/4085">Chiara Renso</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="262/1686">Hui Xiong</author>
 <title>Special issue on &#34;context-aware data mining (CADM)&#34;.</title>
 <pages>249-250</pages>
 <year>2011</year>
@@ -414,28 +705,28 @@
 <url>db/journals/kais/kais28.html#RensoBX11</url>
 </article>
 </r>
-<r><article key="journals/tdp/MonrealeTPRB11" mdate="2016-03-11">
-<author>Anna Monreale</author>
-<author>Roberto Trasarti</author>
-<author>Dino Pedreschi</author>
-<author>Chiara Renso</author>
-<author>Vania Bogorny</author>
+<r><article key="journals/tdp/MonrealeTPRB11" mdate="2021-02-17">
+<author pid="40/1533">Anna Monreale</author>
+<author pid="t/RobertoTrasarti">Roberto Trasarti</author>
+<author pid="p/DPedreschi">Dino Pedreschi</author>
+<author pid="84/4085">Chiara Renso</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>C-safety: a framework for the anonymization of semantic trajectories.</title>
 <pages>73-101</pages>
 <year>2011</year>
 <volume>4</volume>
-<journal>Trans. Data Privacy</journal>
+<journal>Trans. Data Priv.</journal>
 <number>2</number>
-<ee>http://www.tdp.cat/issues11/abs.a077a11.php</ee>
+<ee type="oa">http://www.tdp.cat/issues11/abs.a077a11.php</ee>
 <url>db/journals/tdp/tdp4.html#MonrealeTPRB11</url>
 </article>
 </r>
 <r><article key="journals/tgis/BogornyAPKA11" mdate="2017-05-26">
-<author>Vania Bogorny</author>
-<author>Hercules Avancini</author>
-<author>Bruno Cesar de Paula</author>
-<author>Cassiano Rocha Kuplich</author>
-<author>Luis Ot&#225;vio Alvares</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="69/9486">Hercules Avancini</author>
+<author pid="68/9486">Bruno Cesar de Paula</author>
+<author pid="20/9488">Cassiano Rocha Kuplich</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
 <title>Weka-STPM: a Software Architecture and Prototype for Semantic Trajectory Data Mining and Visualization.</title>
 <pages>227-248</pages>
 <year>2011</year>
@@ -447,8 +738,8 @@
 </article>
 </r>
 <r><article key="journals/tgis/SiqueiraB11" mdate="2017-05-26">
-<author>Fernando de Lucca Siqueira</author>
-<author>Vania Bogorny</author>
+<author pid="00/10459">Fernando de Lucca Siqueira</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>Discovering Chasing Behavior in Moving Object Trajectories.</title>
 <pages>667-688</pages>
 <year>2011</year>
@@ -460,9 +751,9 @@
 </article>
 </r>
 <r><article key="journals/geoinformatica/BogornyVA10" mdate="2017-05-28">
-<author>Vania Bogorny</author>
-<author>Jo&#227;o Francisco Valiati</author>
-<author>Luis Ot&#225;vio Alvares</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="64/6973">Jo&#227;o Francisco Valiati</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
 <title>Semantic-based pruning of redundant and uninteresting frequent geographic patterns.</title>
 <pages>201-220</pages>
 <year>2010</year>
@@ -474,10 +765,10 @@
 </article>
 </r>
 <r><inproceedings key="conf/geoinfo/MorenoTRB10" mdate="2011-04-05">
-<author>Bruno Moreno</author>
-<author>Val&#233;ria Ces&#225;rio Times</author>
-<author>Chiara Renso</author>
-<author>Vania Bogorny</author>
+<author pid="04/9385">Bruno Moreno</author>
+<author pid="31/4518">Val&#233;ria Ces&#225;rio Times</author>
+<author pid="84/4085">Chiara Renso</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>Looking Inside the Stops of Trajectories of Moving Objects.</title>
 <pages>9-20</pages>
 <year>2010</year>
@@ -487,25 +778,25 @@
 <url>db/conf/geoinfo/geoinfo2010.html#MorenoTRB10</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/gis/MonrealeTRPB10" mdate="2017-06-02">
-<author orcid="0000-0001-8541-0284">Anna Monreale</author>
-<author>Roberto Trasarti</author>
-<author orcid="0000-0002-1763-2966">Chiara Renso</author>
-<author>Dino Pedreschi</author>
-<author>Vania Bogorny</author>
+<r><inproceedings key="conf/gis/MonrealeTRPB10" mdate="2018-11-06">
+<author orcid="0000-0001-8541-0284" pid="40/1533">Anna Monreale</author>
+<author pid="t/RobertoTrasarti">Roberto Trasarti</author>
+<author orcid="0000-0002-1763-2966" pid="84/4085">Chiara Renso</author>
+<author pid="p/DPedreschi">Dino Pedreschi</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>Preserving privacy in semantic-rich trajectories of human mobility.</title>
 <pages>47-54</pages>
 <year>2010</year>
 <booktitle>SPRINGL</booktitle>
-<ee>http://doi.acm.org/10.1145/1868470.1868481</ee>
+<ee>https://doi.org/10.1145/1868470.1868481</ee>
 <crossref>conf/gis/2010springl</crossref>
 <url>db/conf/gis/springl2010.html#MonrealeTRPB10</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/giscience/BogornyHA10" mdate="2017-05-25">
-<author>Vania Bogorny</author>
-<author>Carlos Alberto Heuser</author>
-<author>Luis Ot&#225;vio Alvares</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="h/CarlosAHeuser">Carlos Alberto Heuser</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
 <title>A Conceptual Data Model for Trajectory Data Mining.</title>
 <pages>1-15</pages>
 <year>2010</year>
@@ -516,8 +807,8 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/icdm/BogornyS10" mdate="2017-05-26">
-<author>Vania Bogorny</author>
-<author>Shashi Shekhar</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="s/ShashiShekhar">Shashi Shekhar</author>
 <title>Spatial and Spatio-temporal Data Mining.</title>
 <pages>1217</pages>
 <year>2010</year>
@@ -529,11 +820,11 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/is/RochaTOAB10" mdate="2017-05-21">
-<author>Jose Antonio M. R. Rocha</author>
-<author>Val&#233;ria Ces&#225;rio Times</author>
-<author>Gabriel Oliveira</author>
-<author>Luis Ot&#225;vio Alvares</author>
-<author>Vania Bogorny</author>
+<author pid="21/8363">Jose Antonio M. R. Rocha</author>
+<author pid="31/4518">Val&#233;ria Ces&#225;rio Times</author>
+<author pid="59/7094">Gabriel Oliveira</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>DB-SMoT: A direction-based spatio-temporal clustering method.</title>
 <pages>114-119</pages>
 <year>2010</year>
@@ -544,8 +835,8 @@
 </inproceedings>
 </r>
 <r><proceedings key="conf/geoinfo/2010" mdate="2011-04-05">
-<editor>Vania Bogorny</editor>
-<editor>L&#250;bia Vinhas</editor>
+<editor pid="16/2965">Vania Bogorny</editor>
+<editor pid="65/3437">L&#250;bia Vinhas</editor>
 <title>XI Brazilian Symposium on Geoinformatics, November 28 to December 01, 2010, Campos do Jord&#227;o, S&#227;o Paulo, Brazil</title>
 <publisher>MCT/INPE</publisher>
 <year>2010</year>
@@ -553,25 +844,25 @@
 <url>db/conf/geoinfo/geoinfo2010.html</url>
 </proceedings>
 </r>
-<r><article key="journals/gis/BogornyKA09" mdate="2010-09-21">
-<author>Vania Bogorny</author>
-<author>Bart Kuijpers</author>
-<author>Luis Ot&#225;vio Alvares</author>
+<r><article key="journals/gis/BogornyKA09" mdate="2020-05-12">
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="k/BartKuijpers">Bart Kuijpers</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
 <title>ST-DMQL: A Semantic Trajectory Data Mining Query Language.</title>
 <pages>1245-1276</pages>
 <year>2009</year>
 <volume>23</volume>
-<journal>International Journal of Geographical Information Science</journal>
+<journal>Int. J. Geogr. Inf. Sci.</journal>
 <number>10</number>
 <ee>http://www.informaworld.com/smpp/content~db=all~content=a915093101~frm=abslink</ee>
 <url>db/journals/gis/gis23.html#BogornyKA09</url>
 </article>
 </r>
 <r><inproceedings key="conf/seke/AlvaresOHB09" mdate="2009-06-29">
-<author>Luis Ot&#225;vio Alvares</author>
-<author>Gabriel Oliveira</author>
-<author>Carlos A. Heuser</author>
-<author>Vania Bogorny</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="59/7094">Gabriel Oliveira</author>
+<author pid="h/CarlosAHeuser">Carlos A. Heuser</author>
+<author pid="16/2965">Vania Bogorny</author>
 <title>A Framework for Trajectory Data Preprocessing for Data Mining.</title>
 <pages>698-702</pages>
 <year>2009</year>
@@ -581,9 +872,9 @@
 </inproceedings>
 </r>
 <r><incollection key="books/igi/Erickson09/BogornyEA09" mdate="2011-01-21">
-<author>Vania Bogorny</author>
-<author>Paulo Martins Engel</author>
-<author>Luis Alavares</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="e/PauloMartinsEngel">Paulo Martins Engel</author>
+<author pid="51/9019">Luis Alavares</author>
 <title>Enhancing the Process of Knowledge Discovery in Geographic Databases Using Geo-Ontologies.</title>
 <pages>2405-2426</pages>
 <year>2009</year>
@@ -593,37 +884,37 @@
 <url>db/books/collections/Erickson2009.html#BogornyEA09</url>
 </incollection>
 </r>
-<r><article key="journals/gis/BogornyKA08" mdate="2017-05-27">
-<author>Vania Bogorny</author>
-<author>Bart Kuijpers</author>
-<author>Luis Ot&#225;vio Alvares</author>
+<r><article key="journals/gis/BogornyKA08" mdate="2020-05-12">
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="k/BartKuijpers">Bart Kuijpers</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
 <title>Reducing uninteresting spatial association rules in geographic databases using background knowledge: a summary of results.</title>
 <pages>361-386</pages>
 <year>2008</year>
 <volume>22</volume>
-<journal>International Journal of Geographical Information Science</journal>
+<journal>Int. J. Geogr. Inf. Sci.</journal>
 <number>4</number>
 <ee>https://doi.org/10.1080/13658810701412991</ee>
 <url>db/journals/gis/gis22.html#BogornyKA08</url>
 </article>
 </r>
-<r><inproceedings key="conf/sac/PalmaBKA08" mdate="2008-04-28">
-<author>Andrey Tietbohl Palma</author>
-<author>Vania Bogorny</author>
-<author>Bart Kuijpers</author>
-<author>Luis Ot&#225;vio Alvares</author>
+<r><inproceedings key="conf/sac/PalmaBKA08" mdate="2018-11-06">
+<author pid="00/6739">Andrey Tietbohl Palma</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="k/BartKuijpers">Bart Kuijpers</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
 <title>A clustering-based approach for discovering interesting places in trajectories.</title>
 <pages>863-868</pages>
 <year>2008</year>
 <booktitle>SAC</booktitle>
-<ee>http://doi.acm.org/10.1145/1363686.1363886</ee>
+<ee>https://doi.org/10.1145/1363686.1363886</ee>
 <crossref>conf/sac/2008</crossref>
 <url>db/conf/sac/sac2008.html#PalmaBKA08</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/sbbd/BogornyS08" mdate="2009-03-02">
-<author>Vania Bogorny</author>
-<author>Shashi Shekhar</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="s/ShashiShekhar">Shashi Shekhar</author>
 <title>Spatial and Spatio-temporal Data Mining.</title>
 <pages>315</pages>
 <year>2008</year>
@@ -632,13 +923,28 @@
 <url>db/conf/sbbd/sbbd2008.html#BogornyS08</url>
 </inproceedings>
 </r>
+<r><incollection key="series/sci/BogornyVCEA08" mdate="2019-08-02">
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="64/6973">Jo&#227;o Francisco Valiati</author>
+<author pid="73/4705">Sandro da Silva Camargo</author>
+<author pid="e/PauloMartinsEngel">Paulo Martins Engel</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<title>Towards Elimination of Redundant and Well Known Patterns in Spatial Association Rule Mining.</title>
+<pages>343-360</pages>
+<year>2008</year>
+<booktitle>Intelligent Techniques and Tools for Novel System Architectures</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-77623-9_20</ee>
+<crossref>series/sci/109</crossref>
+<url>db/series/sci/sci109.html#BogornyVCEA08</url>
+</incollection>
+</r>
 <r><incollection key="series/springer/RinzivilloTBKKM08" mdate="2018-08-27">
-<author orcid="0000-0003-4404-4147">Salvatore Rinzivillo</author>
-<author>Franco Turini</author>
-<author>Vania Bogorny</author>
-<author>Christine K&#246;rner</author>
-<author>Bart Kuijpers</author>
-<author>Michael May 0001</author>
+<author orcid="0000-0003-4404-4147" pid="28/577">Salvatore Rinzivillo</author>
+<author pid="t/FrancoTurini">Franco Turini</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="123/7492">Christine K&#246;rner</author>
+<author pid="k/BartKuijpers">Bart Kuijpers</author>
+<author pid="23/6304-1">Michael May 0001</author>
 <title>Knowledge Discovery from Geographical Data.</title>
 <pages>243-265</pages>
 <year>2008</year>
@@ -649,8 +955,8 @@
 </incollection>
 </r>
 <r><inproceedings publtype="informal" key="conf/dagstuhl/BogornyA08" mdate="2018-08-23">
-<author>Vania Bogorny</author>
-<author>Luis Ot&#225;vio Alvares</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
 <title>Semantic Trajectory Data Mining: a User Driven Approach.</title>
 <year>2008</year>
 <booktitle>Geographic Privacy-Aware Knowledge Discovery and Delivery</booktitle>
@@ -659,41 +965,41 @@
 <url>db/conf/dagstuhl/P8471.html#BogornyA08</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/er/AlvaresBMMS07" mdate="2008-06-17">
-<author>Luis Ot&#225;vio Alvares</author>
-<author>Vania Bogorny</author>
-<author>Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</author>
-<author>Bart Moelans</author>
-<author>Stefano Spaccapietra</author>
+<r><inproceedings key="conf/er/AlvaresBMMS07" mdate="2019-07-25">
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="f/JAFernandesdeMacedo">Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</author>
+<author pid="53/366">Bart Moelans</author>
+<author pid="s/StefanoSpaccapietra">Stefano Spaccapietra</author>
 <title>Dynamic Modeling of Trajectory Patterns using Data Mining and Reverse Engineering.</title>
 <pages>149-154</pages>
 <year>2007</year>
 <booktitle>ER (Tutorials, Posters, Panels &#38; Industrial Contributions)</booktitle>
-<ee>http://crpit.com/abstracts/CRPITV83Alvares.html</ee>
+<ee>http://crpit.scem.westernsydney.edu.au/abstracts/CRPITV83Alvares.html</ee>
 <crossref>conf/er/2007tppi</crossref>
 <url>db/conf/er/ertppi2007.html#AlvaresBMMS07</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/gis/AlvaresBKMMV07" mdate="2008-02-06">
-<author>Luis Ot&#225;vio Alvares</author>
-<author>Vania Bogorny</author>
-<author>Bart Kuijpers</author>
-<author>Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</author>
-<author>Bart Moelans</author>
-<author>Alejandro A. Vaisman</author>
+<r><inproceedings key="conf/gis/AlvaresBKMMV07" mdate="2019-09-25">
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="k/BartKuijpers">Bart Kuijpers</author>
+<author pid="f/JAFernandesdeMacedo">Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</author>
+<author orcid="0000-0002-0548-0627" pid="53/366">Bart Moelans</author>
+<author pid="58/6139">Alejandro A. Vaisman</author>
 <title>A model for enriching trajectories with semantic geographical information.</title>
 <pages>22</pages>
 <year>2007</year>
 <crossref>conf/gis/2007</crossref>
 <booktitle>GIS</booktitle>
-<ee>http://doi.acm.org/10.1145/1341012.1341041</ee>
+<ee>https://doi.org/10.1145/1341012.1341041</ee>
 <url>db/conf/gis/gis2007.html#AlvaresBKMMV07</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/icde/BogornyMA07" mdate="2017-05-17">
-<author>Vania Bogorny</author>
-<author>Bart Moelans</author>
-<author>Luis Ot&#225;vio Alvares</author>
+<r><inproceedings key="conf/icde/BogornyMA07" mdate="2019-09-25">
+<author pid="16/2965">Vania Bogorny</author>
+<author orcid="0000-0002-0548-0627" pid="53/366">Bart Moelans</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
 <title>Filtering Frequent Spatial Patterns with Qualitative Spatial Reasoning.</title>
 <pages>527-535</pages>
 <year>2007</year>
@@ -704,27 +1010,27 @@
 <url>db/conf/icde/icdew2007.html#BogornyMA07</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/gis/BogornyCEA06" mdate="2007-03-01">
-<author>Vania Bogorny</author>
-<author>Sandro da Silva Camargo</author>
-<author>Paulo Martins Engel</author>
-<author>Luis Ot&#225;vio Alvares</author>
+<r><inproceedings key="conf/gis/BogornyCEA06" mdate="2018-11-06">
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="73/4705">Sandro da Silva Camargo</author>
+<author pid="e/PauloMartinsEngel">Paulo Martins Engel</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
 <title>Mining frequent geographic patterns with knowledge constraints.</title>
 <pages>139-146</pages>
 <year>2006</year>
 <crossref>conf/gis/2006</crossref>
 <booktitle>GIS</booktitle>
-<ee>http://doi.acm.org/10.1145/1183471.1183495</ee>
+<ee>https://doi.org/10.1145/1183471.1183495</ee>
 <url>db/conf/gis/gis2006.html#BogornyCEA06</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/icdm/BogornyVCEKA06" mdate="2017-05-26">
-<author>Vania Bogorny</author>
-<author>Jo&#227;o Francisco Valiati</author>
-<author>Sandro da Silva Camargo</author>
-<author>Paulo Martins Engel</author>
-<author>Bart Kuijpers</author>
-<author>Luis Ot&#225;vio Alvares</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="64/6973">Jo&#227;o Francisco Valiati</author>
+<author pid="73/4705">Sandro da Silva Camargo</author>
+<author pid="e/PauloMartinsEngel">Paulo Martins Engel</author>
+<author pid="k/BartKuijpers">Bart Kuijpers</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
 <title>Mining Maximal Generalized Frequent Geographic Patterns with Knowledge Constraints.</title>
 <pages>813-817</pages>
 <year>2006</year>
@@ -736,9 +1042,9 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/seke/BogornyEA06" mdate="2007-03-01">
-<author>Vania Bogorny</author>
-<author>Paulo Martins Engel</author>
-<author>Luis Ot&#225;vio Alvares</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="e/PauloMartinsEngel">Paulo Martins Engel</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
 <title>GEOARM: an Interoperable Framework to Improve Geographic Data Preprocessing and Spatial Association Rule Mining.</title>
 <pages>79-84</pages>
 <year>2006</year>
@@ -748,9 +1054,9 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/seke/BogornyEA05" mdate="2007-03-01">
-<author>Vania Bogorny</author>
-<author>Paulo Martins Engel</author>
-<author>Luis Ot&#225;vio Alvares</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="e/PauloMartinsEngel">Paulo Martins Engel</author>
+<author pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</author>
 <title>A Reuse-based Spatial Data Preparation Framework for Data Mining.</title>
 <pages>649-652</pages>
 <year>2005</year>
@@ -760,8 +1066,8 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/sbbd/BogornyI01" mdate="2003-10-07">
-<author>Vania Bogorny</author>
-<author>Cirano Iochpe</author>
+<author pid="16/2965">Vania Bogorny</author>
+<author pid="74/6730">Cirano Iochpe</author>
 <title>Estendendo o Modelo de Relacionamentos do OpenGIS para Garantir Restri&#231;&#245;es Espaciais Topol&#243;gicas.</title>
 <pages>25-39</pages>
 <year>2001</year>
@@ -770,82 +1076,104 @@
 <url>db/conf/sbbd/sbbd2001.html#BogornyI01</url>
 </inproceedings>
 </r>
-<coauthors n="75" nc="1">
-<co c="0"><na f="a/Alavares:Luis">Luis Alavares</na></co>
-<co c="0"><na f="a/Alencar:Lucas_Andre_de">Lucas Andre de Alencar</na></co>
-<co c="0" n="2"><na f="a/Alvares:Luis_Ot=aacute=vio">Luis Ot&#225;vio Alvares</na><na>Luis Ot&#225;vio Campos Alvares</na></co>
-<co c="0"><na f="a/Andrienko:Gennady_L=">Gennady L. Andrienko</na></co>
-<co c="0"><na f="a/Andrienko:Natalia_V=">Natalia V. Andrienko</na></co>
-<co c="0"><na f="a/Aquino:Artur_Ribeiro_de">Artur Ribeiro de Aquino</na></co>
-<co c="0"><na f="a/Arboleda:Francisco_Javier_Moreno">Francisco Javier Moreno Arboleda</na></co>
-<co c="0"><na f="a/Avancini:Hercules">Hercules Avancini</na></co>
-<co c="0"><na f="b/Barragana:Mateus">Mateus Barragana</na></co>
-<co c="0"><na f="b/Beber:Marco_Aurelio">Marco Aurelio Beber</na></co>
-<co c="0"><na f="b/Br=eacute=mond:Fran=ccedil=ois">Fran&#231;ois Br&#233;mond</na></co>
-<co c="0"><na f="c/Camargo:Sandro_da_Silva">Sandro da Silva Camargo</na></co>
-<co c="-1"><na f="c/Carboni:Eduardo_M=">Eduardo M. Carboni</na></co>
-<co c="0"><na f="c/Cosar:Serhan">Serhan Cosar</na></co>
-<co c="0"><na f="d/Damiani:Maria_Luisa">Maria Luisa Damiani</na></co>
-<co c="0"><na f="d/Donatiello:Giuseppe">Giuseppe Donatiello</na></co>
-<co c="0"><na f="d/Dorneles:Carina_F=">Carina F. Dorneles</na></co>
-<co c="0"><na f="e/Engel:Paulo_Martins">Paulo Martins Engel</na></co>
-<co c="0"><na f="e/Esuli:Andrea">Andrea Esuli</na></co>
-<co c="0"><na f="f/Ferrero:Carlos_Andres">Carlos Andres Ferrero</na></co>
-<co c="0"><na f="f/Fileto:Renato">Renato Fileto</na></co>
-<co c="0"><na f="f/Fontes:Vitor_Cunha">Vitor Cunha Fontes</na></co>
-<co c="0"><na f="f/Furtado:Andre_Salvaro">Andre Salvaro Furtado</na></co>
-<co c="0"><na f="g/Gabrielli:Lorenzo">Lorenzo Gabrielli</na></co>
-<co c="0"><na f="g/G=aacute=rate:Carolina">Carolina G&#225;rate</na></co>
-<co c="0"><na f="g/Gkoulalas=Divanis:Aris">Aris Gkoulalas-Divanis</na></co>
-<co c="0" n="2"><na f="h/Heuser:Carlos_Alberto">Carlos Alberto Heuser</na><na>Carlos A. Heuser</na></co>
-<co c="0"><na f="i/Iochpe:Cirano">Cirano Iochpe</na></co>
-<co c="0"><na f="k/Klein:Douglas">Douglas Klein</na></co>
-<co c="0"><na f="k/Kopanaki:Despina">Despina Kopanaki</na></co>
-<co c="0" n="2"><na f="k/Kopp:Christine">Christine Kopp</na><na>Christine K&#246;rner</na></co>
-<co c="0"><na f="k/Kuijpers:Bart">Bart Kuijpers</na></co>
-<co c="0"><na f="k/Kuplich:Cassiano_Rocha">Cassiano Rocha Kuplich</na></co>
-<co c="0"><na f="l/Lettich:Francesco">Francesco Lettich</na></co>
-<co c="0"><na f="l/Loy:Alisson_Moscato">Alisson Moscato Loy</na></co>
-<co c="0" n="2"><na f="m/Mac=ecirc=do:Jos=eacute=_A=_F=_de">Jos&#233; A. F. de Mac&#234;do</na><na>Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</na></co>
-<co c="0"><na f="m/May:Cleto">Cleto May</na></co>
-<co c="0"><na f="m/May_0001:Michael">Michael May 0001</na></co>
-<co c="0"><na f="m/Mello:Ronaldo_dos_Santos">Ronaldo dos Santos Mello</na></co>
-<co c="0"><na f="m/Moelans:Bart">Bart Moelans</na></co>
-<co c="0"><na f="m/Monreale:Anna">Anna Monreale</na></co>
-<co c="0"><na f="m/Moreno:Bruno">Bruno Moreno</na></co>
-<co c="-1"><na f="n/Namikawa:La=eacute=rcio_Massaru">La&#233;rcio Massaru Namikawa</na></co>
-<co c="0"><na f="o/Oliveira:Gabriel">Gabriel Oliveira</na></co>
-<co c="0"><na f="o/Orlando_0001:Salvatore">Salvatore Orlando 0001</na></co>
-<co c="0"><na f="p/Palma:Andrey_Tietbohl">Andrey Tietbohl Palma</na></co>
-<co c="0"><na f="p/Parent:Christine">Christine Parent</na></co>
-<co c="0"><na f="p/Pati=ntilde=o:Holver">Holver Pati&#241;o</na></co>
-<co c="0"><na f="p/Patino:Jose_Luis">Jose Luis Patino</na></co>
-<co c="0"><na f="p/Paula:Bruno_Cesar_de">Bruno Cesar de Paula</na></co>
-<co c="0"><na f="p/Pedreschi:Dino">Dino Pedreschi</na></co>
-<co c="0"><na f="p/Pelekis:Nikos">Nikos Pelekis</na></co>
-<co c="0"><na f="p/Petry:Lucas_May">Lucas May Petry</na></co>
-<co c="0"><na f="p/Pilla:La=eacute=rcio_Lima">La&#233;rcio Lima Pilla</na></co>
-<co c="0"><na f="p/Pineda:Andr=eacute=s_Felipe">Andr&#233;s Felipe Pineda</na></co>
-<co c="0"><na f="p/Pusiol:Guido">Guido Pusiol</na></co>
-<co c="0"><na f="r/Raffaet=agrave=:Alessandra">Alessandra Raffaet&#224;</na></co>
-<co c="0"><na f="r/Renso:Chiara">Chiara Renso</na></co>
-<co c="0"><na f="r/Rinzivillo:Salvatore">Salvatore Rinzivillo</na></co>
-<co c="0"><na f="r/Rocha:Jose_Antonio_M=_R=">Jose Antonio M. R. Rocha</na></co>
-<co c="0"><na f="s/Santos:Areli_Andreia_dos">Areli Andreia dos Santos</na></co>
-<co c="0"><na f="s/Shekhar:Shashi">Shashi Shekhar</na></co>
-<co c="0"><na f="s/Silvestri:Claudio">Claudio Silvestri</na></co>
-<co c="0"><na f="s/Siqueira:Fernando_de_Lucca">Fernando de Lucca Siqueira</na></co>
-<co c="0"><na f="s/Spaccapietra:Stefano">Stefano Spaccapietra</na></co>
-<co c="0"><na f="t/Theodoridis:Yannis">Yannis Theodoridis</na></co>
-<co c="0"><na f="t/Times:Val=eacute=ria_Ces=aacute=rio">Val&#233;ria Ces&#225;rio Times</na></co>
-<co c="0"><na f="t/Trasarti:Roberto">Roberto Trasarti</na></co>
-<co c="0"><na f="t/Turini:Franco">Franco Turini</na></co>
-<co c="0"><na f="v/Vaisman:Alejandro_A=">Alejandro A. Vaisman</na></co>
-<co c="0"><na f="v/Valiati:Jo=atilde=o_Francisco">Jo&#227;o Francisco Valiati</na></co>
-<co c="-1"><na f="v/Vinhas:L=uacute=bia">L&#250;bia Vinhas</na></co>
-<co c="0"><na f="x/Xiong:Hui">Hui Xiong</na></co>
-<co c="0"><na f="y/Yan:Zhixian">Zhixian Yan</na></co>
-<co c="0"><na f="z/Zalewski:Willian">Willian Zalewski</na></co>
+<coauthors n="97" nc="1">
+<co c="0"><na f="a/Alavares:Luis" pid="51/9019">Luis Alavares</na></co>
+<co c="0"><na f="a/Alencar:Lucas_Andre_de" pid="137/9737">Lucas Andre de Alencar</na></co>
+<co c="0" n="2"><na f="a/Alvares:Luis_Ot=aacute=vio" pid="a/LuisOCAlvares">Luis Ot&#225;vio Alvares</na><na>Luis Ot&#225;vio Campos Alvares</na></co>
+<co c="0"><na f="a/Andrienko:Gennady_L=" pid="a/GennadyLAndrienko">Gennady L. Andrienko</na></co>
+<co c="0"><na f="a/Andrienko:Natalia_V=" pid="a/NataliaVAndrienko">Natalia V. Andrienko</na></co>
+<co c="0"><na f="a/Aquino:Artur_Ribeiro_de" pid="137/9761">Artur Ribeiro de Aquino</na></co>
+<co c="0"><na f="a/Arboleda:Francisco_Javier_Moreno" pid="61/4543">Francisco Javier Moreno Arboleda</na></co>
+<co c="0"><na f="a/Avancini:Hercules" pid="69/9486">Hercules Avancini</na></co>
+<co c="0"><na f="b/Barragana:Mateus" pid="190/7861">Mateus Barragana</na></co>
+<co c="0"><na f="b/Beber:Marco_Aurelio" pid="200/7536">Marco Aurelio Beber</na></co>
+<co c="0"><na f="b/Br=eacute=mond:Fran=ccedil=ois" pid="90/6418">Fran&#231;ois Br&#233;mond</na></co>
+<co c="0"><na f="c/Camargo:Sandro_da_Silva" pid="73/4705">Sandro da Silva Camargo</na></co>
+<co c="-1"><na f="c/Carboni:Eduardo_M=" pid="151/8607">Eduardo M. Carboni</na></co>
+<co c="0"><na f="c/Carvalho:J=ocirc=nata_Tyska" pid="191/7273">J&#244;nata Tyska Carvalho</na></co>
+<co c="0"><na f="c/Cosar:Serhan" pid="64/9114">Serhan Cosar</na></co>
+<co c="0"><na f="d/Damiani:Maria_Luisa" pid="d/MariaLuisaDamiani">Maria Luisa Damiani</na></co>
+<co c="0"><na f="d/Donatiello:Giuseppe" pid="148/0252">Giuseppe Donatiello</na></co>
+<co c="0"><na f="d/Dorneles:Carina_F=" pid="74/2312">Carina F. Dorneles</na></co>
+<co c="0"><na f="e/Engel:Paulo_Martins" pid="e/PauloMartinsEngel">Paulo Martins Engel</na></co>
+<co c="0"><na f="e/Esuli:Andrea" pid="74/4209">Andrea Esuli</na></co>
+<co c="0"><na f="e/Etemad:Mohammad" pid="129/5172">Mohammad Etemad</na></co>
+<co c="0"><na f="e/Etemad:Zahra" pid="261/3038">Zahra Etemad</na></co>
+<co c="0"><na f="f/Ferrero:Carlos_Andres" pid="187/4446">Carlos Andres Ferrero</na></co>
+<co c="0"><na f="f/Fileto:Renato" pid="35/2350">Renato Fileto</na></co>
+<co c="0"><na f="f/Fontes:Vitor_Cunha" pid="127/7450">Vitor Cunha Fontes</na></co>
+<co c="0"><na f="f/Frozza:Angelo_Augusto" pid="77/3587">Angelo Augusto Frozza</na></co>
+<co c="0"><na f="f/Furtado:Andre_Salvaro" pid="46/9383">Andre Salvaro Furtado</na></co>
+<co c="0"><na f="g/Gabrielli:Lorenzo" pid="132/4915">Lorenzo Gabrielli</na></co>
+<co c="0"><na f="g/G=aacute=rate:Carolina" pid="147/3983">Carolina G&#225;rate</na></co>
+<co c="0"><na f="g/Gkoulalas=Divanis:Aris" pid="64/4944">Aris Gkoulalas-Divanis</na></co>
+<co c="0" n="2"><na f="h/Heuser:Carlos_Alberto" pid="h/CarlosAHeuser">Carlos Alberto Heuser</na><na>Carlos A. Heuser</na></co>
+<co c="0"><na f="i/Iochpe:Cirano" pid="74/6730">Cirano Iochpe</na></co>
+<co c="0"><na f="j/J=uacute=nior:Am=iacute=lcar_Soares" pid="144/7946">Am&#237;lcar Soares J&#250;nior</na></co>
+<co c="0"><na f="k/Kaster:Daniel_S=" pid="k/DanielSKaster">Daniel S. Kaster</na></co>
+<co c="0"><na f="k/Klein:Douglas" pid="153/4193">Douglas Klein</na></co>
+<co c="0"><na f="k/Kopanaki:Despina" pid="47/10440">Despina Kopanaki</na></co>
+<co c="0" n="2"><na f="k/Kopp:Christine" pid="123/7492">Christine Kopp</na><na>Christine K&#246;rner</na></co>
+<co c="0"><na f="k/Kuijpers:Bart" pid="k/BartKuijpers">Bart Kuijpers</na></co>
+<co c="0"><na f="k/Kuplich:Cassiano_Rocha" pid="20/9488">Cassiano Rocha Kuplich</na></co>
+<co c="0"><na f="l/Lehmann:Andre_L=" pid="244/6925">Andre L. Lehmann</na></co>
+<co c="0"><na f="l/Lettich:Francesco" pid="144/4327">Francesco Lettich</na></co>
+<co c="0"><na f="l/Loy:Alisson_Moscato" pid="80/10115">Alisson Moscato Loy</na></co>
+<co c="0" n="2"><na f="m/Mac=ecirc=do:Jos=eacute=_A=_F=_de" pid="f/JAFernandesdeMacedo">Jos&#233; A. F. de Mac&#234;do</na><na>Jos&#233; Ant&#244;nio Fernandes de Mac&#234;do</na></co>
+<co c="0" n="2"><na f="m/Machado:Bruno_Brandoli" pid="57/2546">Bruno Brandoli Machado</na><na>Bruno Brandoli</na></co>
+<co c="0"><na f="m/Matwin:Stan" pid="m/StanMatwin">Stan Matwin</na></co>
+<co c="0"><na f="m/May:Cleto" pid="153/4206">Cleto May</na></co>
+<co c="0"><na f="m/May_0001:Michael" pid="23/6304-1">Michael May 0001</na></co>
+<co c="0"><na f="m/Mello:Ronaldo_dos_Santos" pid="82/6647">Ronaldo dos Santos Mello</na></co>
+<co c="0"><na f="m/Moelans:Bart" pid="53/366">Bart Moelans</na></co>
+<co c="0"><na f="m/Monreale:Anna" pid="40/1533">Anna Monreale</na></co>
+<co c="0"><na f="m/Moreno:Bruno" pid="04/9385">Bruno Moreno</na></co>
+<co c="-1"><na f="n/Namikawa:La=eacute=rcio_Massaru" pid="47/843">La&#233;rcio Massaru Namikawa</na></co>
+<co c="0"><na f="o/Oliveira:Gabriel" pid="59/7094">Gabriel Oliveira</na></co>
+<co c="0"><na f="o/Orlando_0001:Salvatore" pid="o/SalvatoreOrlando">Salvatore Orlando 0001</na></co>
+<co c="0"><na f="p/Palma:Andrey_Tietbohl" pid="00/6739">Andrey Tietbohl Palma</na></co>
+<co c="0"><na f="p/Parent:Christine" pid="94/6041">Christine Parent</na></co>
+<co c="0"><na f="p/Pati=ntilde=o:Holver" pid="202/8021">Holver Pati&#241;o</na></co>
+<co c="0"><na f="p/Patino:Jose_Luis" pid="83/3966">Jose Luis Patino</na></co>
+<co c="0"><na f="p/Paula:Bruno_Cesar_de" pid="68/9486">Bruno Cesar de Paula</na></co>
+<co c="0"><na f="p/Pedreschi:Dino" pid="p/DPedreschi">Dino Pedreschi</na></co>
+<co c="0"><na f="p/Pelekis:Nikos" pid="89/5510">Nikos Pelekis</na></co>
+<co c="0"><na f="p/Perego_0001:Raffaele" pid="p/RaffaelePerego">Raffaele Perego 0001</na></co>
+<co c="0"><na f="p/Petry:Lucas_May" pid="225/4591">Lucas May Petry</na></co>
+<co c="0"><na f="p/Pilla:La=eacute=rcio_Lima" pid="75/2582">La&#233;rcio Lima Pilla</na></co>
+<co c="0"><na f="p/Pineda:Andr=eacute=s_Felipe" pid="149/8884">Andr&#233;s Felipe Pineda</na></co>
+<co c="0"><na f="p/Portela:Tarlis_T=" pid="254/9283">Tarlis T. Portela</na></co>
+<co c="0"><na f="p/Pusiol:Guido" pid="76/7728">Guido Pusiol</na></co>
+<co c="0"><na f="r/Raffaet=agrave=:Alessandra" pid="42/5086">Alessandra Raffaet&#224;</na></co>
+<co c="0"><na f="r/Renso:Chiara" pid="84/4085">Chiara Renso</na></co>
+<co c="0"><na f="r/Rinzivillo:Salvatore" pid="28/577">Salvatore Rinzivillo</na></co>
+<co c="0"><na f="r/Rocha:Jose_Antonio_M=_R=" pid="21/8363">Jose Antonio M. R. Rocha</na></co>
+<co c="0"><na f="s/Sanches:Denis_Evangelista" pid="237/1596">Denis Evangelista Sanches</na></co>
+<co c="0" n="2"><na f="s/Santana:Luiz_H=_Z=" pid="65/1521">Luiz H. Z. Santana</na><na>Luiz Henrique Zambom Santana</na></co>
+<co c="0"><na f="s/Santos:Areli_Andreia_dos" pid="172/7587">Areli Andreia dos Santos</na></co>
+<co c="0"><na f="s/Sardianos:Christos" pid="151/5687">Christos Sardianos</na></co>
+<co c="0"><na f="s/Schreiner:Geomar_Andre" pid="178/2074">Geomar Andre Schreiner</na></co>
+<co c="0"><na f="s/Shekhar:Shashi" pid="s/ShashiShekhar">Shashi Shekhar</na></co>
+<co c="0"><na f="s/Silva:Camila_Leite_da" pid="256/0176">Camila Leite da Silva</na></co>
+<co c="0"><na f="s/Silvestri:Claudio" pid="66/1541">Claudio Silvestri</na></co>
+<co c="0"><na f="s/Siqueira:Fernando_de_Lucca" pid="00/10459">Fernando de Lucca Siqueira</na></co>
+<co c="0"><na f="s/Spaccapietra:Stefano" pid="s/StefanoSpaccapietra">Stefano Spaccapietra</na></co>
+<co c="0"><na f="t/Theodoridis:Yannis" pid="t/YannisTheodoridis">Yannis Theodoridis</na></co>
+<co c="0"><na f="t/Times:Val=eacute=ria_Ces=aacute=rio" pid="31/4518">Val&#233;ria Ces&#225;rio Times</na></co>
+<co c="0"><na f="t/Torgo:Lu=iacute=s" pid="60/1153">Lu&#237;s Torgo</na></co>
+<co c="0"><na f="t/Trasarti:Roberto" pid="t/RobertoTrasarti">Roberto Trasarti</na></co>
+<co c="0"><na f="t/Tserpes:Konstantinos" pid="76/2292">Konstantinos Tserpes</na></co>
+<co c="0"><na f="t/Turini:Franco" pid="t/FrancoTurini">Franco Turini</na></co>
+<co c="0"><na f="v/Vaisman:Alejandro_A=" pid="58/6139">Alejandro A. Vaisman</na></co>
+<co c="0"><na f="v/Valiati:Jo=atilde=o_Francisco" pid="64/6973">Jo&#227;o Francisco Valiati</na></co>
+<co c="0"><na f="v/Varlamis:Iraklis" pid="v/IraklisVarlamis">Iraklis Varlamis</na></co>
+<co c="0"><na f="v/Vicenzi:Francisco" pid="254/9464">Francisco Vicenzi</na></co>
+<co c="0"><na f="v/Vieira:Marcos_R=" pid="98/5702">Marcos R. Vieira</na></co>
+<co c="-1"><na f="v/Vinhas:L=uacute=bia" pid="65/3437">L&#250;bia Vinhas</na></co>
+<co c="0"><na f="v/Violos:John" pid="151/5732">John Violos</na></co>
+<co c="0"><na f="x/Xiong:Hui" pid="262/1686">Hui Xiong</na></co>
+<co c="0"><na f="y/Yan:Zhixian" pid="10/1488">Zhixian Yan</na></co>
+<co c="0"><na f="z/Zalewski:Willian" pid="18/137">Willian Zalewski</na></co>
 </coauthors>
 </dblpperson>
 

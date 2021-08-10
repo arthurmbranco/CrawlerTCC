@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
-<dblpperson name="Olinto J. V. Furtado" n="7">
+<dblpperson name="Olinto J. V. Furtado" pid="61/2008" n="7">
 <person key="homepages/61/2008" mdate="2009-06-09">
-<author>Olinto J. V. Furtado</author>
+<author pid="61/2008">Olinto J. V. Furtado</author>
 </person>
 <r><inproceedings key="conf/sbgames/SilvaAF10" mdate="2017-05-21">
-<author>Andr&#233; Ferreira Bem Silva</author>
-<author>Felipe Alves</author>
-<author>Olinto J. V. Furtado</author>
+<author pid="59/8029">Andr&#233; Ferreira Bem Silva</author>
+<author pid="128/3255">Felipe Alves</author>
+<author pid="61/2008">Olinto J. V. Furtado</author>
 <title>A Soft Real-Time Concurrent Graphics Platform.</title>
 <pages>40-48</pages>
 <year>2010</year>
@@ -17,45 +17,45 @@
 <url>db/conf/sbgames/sbgames2010.html#SilvaAF10</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbcci/WuergesSFR09" mdate="2017-06-05">
-<author>Emilio Wuerges</author>
-<author orcid="0000-0002-9384-8347">Luiz C. V. dos Santos</author>
-<author>Olinto J. V. Furtado</author>
-<author>Sandro Rigo</author>
+<r><inproceedings key="conf/sbcci/WuergesSFR09" mdate="2018-11-06">
+<author pid="52/7552">Emilio Wuerges</author>
+<author orcid="0000-0002-9384-8347" pid="121/4418">Luiz C. V. dos Santos</author>
+<author pid="61/2008">Olinto J. V. Furtado</author>
+<author pid="79/2208">Sandro Rigo</author>
 <title>An early real-time checker for retargetable compile-time analysis.</title>
 <year>2009</year>
 <booktitle>SBCCI</booktitle>
-<ee>http://doi.acm.org/10.1145/1601896.1601965</ee>
+<ee>https://doi.org/10.1145/1601896.1601965</ee>
 <crossref>conf/sbcci/2009</crossref>
 <url>db/conf/sbcci/sbcci2009.html#WuergesSFR09</url>
 </inproceedings>
 </r>
-<r><article key="journals/todaes/BaldassinCRCSSF08" mdate="2017-06-09">
-<author>Alexandro Baldassin</author>
-<author>Paulo Centoducatte</author>
-<author>Sandro Rigo</author>
-<author>Daniel C. Casarotto</author>
-<author orcid="0000-0002-9384-8347">Luiz C. V. dos Santos</author>
-<author>Max R. de O. Schultz</author>
-<author>Olinto J. V. Furtado</author>
+<r><article key="journals/todaes/BaldassinCRCSSF08" mdate="2018-11-06">
+<author pid="22/3545">Alexandro Baldassin</author>
+<author pid="59/1511">Paulo Centoducatte</author>
+<author pid="79/2208">Sandro Rigo</author>
+<author pid="29/3479">Daniel C. Casarotto</author>
+<author orcid="0000-0002-9384-8347" pid="121/4418">Luiz C. V. dos Santos</author>
+<author pid="55/3644">Max R. de O. Schultz</author>
+<author pid="61/2008">Olinto J. V. Furtado</author>
 <title>An open-source binary utility generator.</title>
 <year>2008</year>
 <volume>13</volume>
 <journal>ACM Trans. Design Autom. Electr. Syst.</journal>
 <number>2</number>
-<ee>http://doi.acm.org/10.1145/1344418.1344423</ee>
+<ee>https://doi.org/10.1145/1344418.1344423</ee>
 <url>db/journals/todaes/todaes13.html#BaldassinCRCSSF08</url>
 <pages>27:1-27:17</pages>
 </article>
 </r>
 <r><inproceedings key="conf/isvlsi/BaldassinCRCSSF07" mdate="2017-06-04">
-<author>Alexandro Baldassin</author>
-<author>Paulo Centoducatte</author>
-<author>Sandro Rigo</author>
-<author>Daniel C. Casarotto</author>
-<author orcid="0000-0002-9384-8347">Luiz C. V. dos Santos</author>
-<author>Max R. de O. Schultz</author>
-<author>Olinto J. V. Furtado</author>
+<author pid="22/3545">Alexandro Baldassin</author>
+<author pid="59/1511">Paulo Centoducatte</author>
+<author pid="79/2208">Sandro Rigo</author>
+<author pid="29/3479">Daniel C. Casarotto</author>
+<author orcid="0000-0002-9384-8347" pid="121/4418">Luiz C. V. dos Santos</author>
+<author pid="55/3644">Max R. de O. Schultz</author>
+<author pid="61/2008">Olinto J. V. Furtado</author>
 <title>Automatic Retargeting of Binary Utilities for Embedded Code Generation.</title>
 <pages>253-258</pages>
 <year>2007</year>
@@ -67,11 +67,11 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/samos/SchultzMCFS07" mdate="2017-05-25">
-<author>Max R. de O. Schultz</author>
-<author>Alexandre K. I. Mendon&#231;a</author>
-<author>Felipe G. Carvalho</author>
-<author>Olinto J. V. Furtado</author>
-<author>Luiz C. V. dos Santos</author>
+<author pid="55/3644">Max R. de O. Schultz</author>
+<author pid="94/2268">Alexandre K. I. Mendon&#231;a</author>
+<author pid="21/6860">Felipe G. Carvalho</author>
+<author pid="61/2008">Olinto J. V. Furtado</author>
+<author pid="121/4418">Luiz C. V. dos Santos</author>
 <title>A Model-Driven Automatically-Retargetable Debug Tool for Embedded Systems.</title>
 <pages>13-23</pages>
 <year>2007</year>
@@ -82,11 +82,11 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/samos/TagliettiFCFS05" mdate="2017-05-25">
-<author>Leonardo Taglietti</author>
-<author>Jos&#233; O. Carlomagno Filho</author>
-<author>Daniel C. Casarotto</author>
-<author>Olinto J. V. Furtado</author>
-<author>Luiz C. V. dos Santos</author>
+<author pid="50/4183">Leonardo Taglietti</author>
+<author pid="34/1053">Jos&#233; O. Carlomagno Filho</author>
+<author pid="29/3479">Daniel C. Casarotto</author>
+<author pid="61/2008">Olinto J. V. Furtado</author>
+<author pid="121/4418">Luiz C. V. dos Santos</author>
 <title>Automatic ADL-Based Assembler Generation for ASIP Programming Support.</title>
 <pages>262-268</pages>
 <year>2005</year>
@@ -97,7 +97,7 @@
 </inproceedings>
 </r>
 <r><phdthesis key="phd/ndltd/Furtado97" mdate="2018-07-24">
-<author>Olinto J. V. Furtado</author>
+<author pid="61/2008">Olinto J. V. Furtado</author>
 <title>RTR - uma abordagem reflexiva para programa&#231;&#227;o de aplica&#231;&#245;es tempo real.</title>
 <year>1997</year>
 <school>Federal University of Santa Catarina, Brazil</school>
@@ -107,19 +107,19 @@
 </phdthesis>
 </r>
 <coauthors n="13" nc="2">
-<co c="1"><na f="a/Alves:Felipe">Felipe Alves</na></co>
-<co c="0"><na f="b/Baldassin:Alexandro">Alexandro Baldassin</na></co>
-<co c="0"><na f="c/Carvalho:Felipe_G=">Felipe G. Carvalho</na></co>
-<co c="0"><na f="c/Casarotto:Daniel_C=">Daniel C. Casarotto</na></co>
-<co c="0"><na f="c/Centoducatte:Paulo">Paulo Centoducatte</na></co>
-<co c="0"><na f="f/Filho:Jos=eacute=_O=_Carlomagno">Jos&#233; O. Carlomagno Filho</na></co>
-<co c="0"><na f="m/Mendon=ccedil=a:Alexandre_K=_I=">Alexandre K. I. Mendon&#231;a</na></co>
-<co c="0"><na f="r/Rigo:Sandro">Sandro Rigo</na></co>
-<co c="0" n="2"><na f="s/Santos:Luiz_Cl=aacute=udio_Villar_dos">Luiz Cl&#225;udio Villar dos Santos</na><na>Luiz C. V. dos Santos</na></co>
-<co c="0"><na f="s/Schultz:Max_R=_de_O=">Max R. de O. Schultz</na></co>
-<co c="1"><na f="s/Silva:Andr=eacute=_Ferreira_Bem">Andr&#233; Ferreira Bem Silva</na></co>
-<co c="0"><na f="t/Taglietti:Leonardo">Leonardo Taglietti</na></co>
-<co c="0"><na f="w/Wuerges:Emilio">Emilio Wuerges</na></co>
+<co c="1"><na f="a/Alves:Felipe" pid="128/3255">Felipe Alves</na></co>
+<co c="0"><na f="b/Baldassin:Alexandro" pid="22/3545">Alexandro Baldassin</na></co>
+<co c="0"><na f="c/Carvalho:Felipe_G=" pid="21/6860">Felipe G. Carvalho</na></co>
+<co c="0"><na f="c/Casarotto:Daniel_C=" pid="29/3479">Daniel C. Casarotto</na></co>
+<co c="0"><na f="c/Centoducatte:Paulo" pid="59/1511">Paulo Centoducatte</na></co>
+<co c="0"><na f="f/Filho:Jos=eacute=_O=_Carlomagno" pid="34/1053">Jos&#233; O. Carlomagno Filho</na></co>
+<co c="0"><na f="m/Mendon=ccedil=a:Alexandre_K=_I=" pid="94/2268">Alexandre K. I. Mendon&#231;a</na></co>
+<co c="0"><na f="r/Rigo:Sandro" pid="79/2208">Sandro Rigo</na></co>
+<co c="0" n="2"><na f="s/Santos:Luiz_Cl=aacute=udio_Villar_dos" pid="121/4418">Luiz Cl&#225;udio Villar dos Santos</na><na>Luiz C. V. dos Santos</na></co>
+<co c="0"><na f="s/Schultz:Max_R=_de_O=" pid="55/3644">Max R. de O. Schultz</na></co>
+<co c="1"><na f="s/Silva:Andr=eacute=_Ferreira_Bem" pid="59/8029">Andr&#233; Ferreira Bem Silva</na></co>
+<co c="0"><na f="t/Taglietti:Leonardo" pid="50/4183">Leonardo Taglietti</na></co>
+<co c="0"><na f="w/Wuerges:Emilio" pid="52/7552">Emilio Wuerges</na></co>
 </coauthors>
 </dblpperson>
 

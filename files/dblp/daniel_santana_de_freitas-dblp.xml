@@ -1,11 +1,27 @@
 <?xml version="1.0"?>
-<dblpperson name="Daniel Santana de Freitas" n="6">
+<dblpperson name="Daniel Santana de Freitas" pid="00/6683" n="7">
 <person key="homepages/00/6683" mdate="2009-06-10">
-<author>Daniel Santana de Freitas</author>
+<author pid="00/6683">Daniel Santana de Freitas</author>
 </person>
+<r><article key="journals/gandc/FigueiredoSLRFG21" mdate="2021-01-29">
+<author pid="147/2675">Leandro Passos de Figueiredo</author>
+<author pid="284/0406">Tcharlies Schmitz</author>
+<author pid="284/0444">Rafael Lunelli</author>
+<author pid="47/1251">Mauro Roisenberg</author>
+<author pid="00/6683">Daniel Santana de Freitas</author>
+<author pid="198/6615">Dario Grana</author>
+<title>Direct Multivariate Simulation - A stepwise conditional transformation for multivariate geostatistical simulation.</title>
+<pages>104659</pages>
+<year>2021</year>
+<volume>147</volume>
+<journal>Comput. Geosci.</journal>
+<ee>https://doi.org/10.1016/j.cageo.2020.104659</ee>
+<url>db/journals/gandc/gandc147.html#FigueiredoSLRFG21</url>
+</article>
+</r>
 <r><inproceedings key="conf/secrypt/FreitasN13" mdate="2017-04-30">
-<author>Daniel Santana de Freitas</author>
-<author>Jorge Nakahara Jr.</author>
+<author pid="00/6683">Daniel Santana de Freitas</author>
+<author pid="02/6711">Jorge Nakahara Jr.</author>
 <title>Non-random Properties of Compression and Hash Functions using Linear Cryptanalysis.</title>
 <pages>471-477</pages>
 <year>2013</year>
@@ -15,13 +31,13 @@
 <ee>http://ieeexplore.ieee.org/document/7223201/</ee>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/isw/NakaharaSFCSP09" mdate="2017-09-16">
-<author>Jorge Nakahara Jr.</author>
-<author>Gautham Sekar</author>
-<author>Daniel Santana de Freitas</author>
-<author>Chang Chiann</author>
-<author orcid="0000-0002-6523-3898">Ramon Hugo de Souza</author>
-<author>Bart Preneel</author>
+<r><inproceedings key="conf/isw/NakaharaSFCSP09" mdate="2019-10-19">
+<author pid="02/6711">Jorge Nakahara Jr.</author>
+<author pid="08/4693">Gautham Sekar</author>
+<author pid="00/6683">Daniel Santana de Freitas</author>
+<author pid="89/7440">Chang Chiann</author>
+<author orcid="0000-0002-6523-3898" pid="35/7440">Ramon Hugo de Souza</author>
+<author orcid="0000-0003-2005-9651" pid="p/BartPreneel">Bart Preneel</author>
 <title>A New Approach to <i>chi</i><sup>2</sup> Cryptanalysis of Block Ciphers.</title>
 <pages>1-16</pages>
 <year>2009</year>
@@ -32,8 +48,8 @@
 </inproceedings>
 </r>
 <r><inproceedings publtype="informal" key="conf/dagstuhl/NakaharaF09" mdate="2018-08-23">
-<author>Jorge Nakahara Jr.</author>
-<author>Daniel Santana de Freitas</author>
+<author pid="02/6711">Jorge Nakahara Jr.</author>
+<author pid="00/6683">Daniel Santana de Freitas</author>
 <title>Mini-ciphers: a reliable testbed for cryptanalysis?</title>
 <year>2009</year>
 <booktitle>Symmetric Cryptography</booktitle>
@@ -42,10 +58,10 @@
 <url>db/conf/dagstuhl/P9031.html#NakaharaF09</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/mycrypt/NakaharaFP05" mdate="2017-05-24">
-<author>Jorge Nakahara Jr.</author>
-<author>Daniel Santana de Freitas</author>
-<author>Raphael Chung-Wei Phan</author>
+<r><inproceedings key="conf/mycrypt/NakaharaFP05" mdate="2018-11-02">
+<author pid="02/6711">Jorge Nakahara Jr.</author>
+<author pid="00/6683">Daniel Santana de Freitas</author>
+<author orcid="0000-0001-7448-4595" pid="p/RCWPhan">Raphael Chung-Wei Phan</author>
 <title>New Multiset Attacks on Rijndael with Large Blocks.</title>
 <pages>277-295</pages>
 <year>2005</year>
@@ -55,12 +71,13 @@
 <url>db/conf/mycrypt/mycrypt2005.html#NakaharaFP05</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/indocrypt/NakaharaF04" mdate="2017-05-19">
-<author>Jorge Nakahara Jr.</author>
-<author>Daniel Santana de Freitas</author>
+<r><inproceedings key="conf/indocrypt/NakaharaF04" mdate="2018-11-14">
+<author pid="02/6711">Jorge Nakahara Jr.</author>
+<author pid="00/6683">Daniel Santana de Freitas</author>
 <title>Cryptanalysis of Ake98.</title>
 <pages>206-217</pages>
 <ee>https://doi.org/10.1007/978-3-540-30556-9_17</ee>
+<ee>https://www.wikidata.org/entity/Q27991511</ee>
 <year>2004</year>
 <crossref>conf/indocrypt/2004</crossref>
 <booktitle>INDOCRYPT</booktitle>
@@ -68,8 +85,8 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/sibgrapi/SilvaF02" mdate="2017-05-26">
-<author>Andr&#233;a Vergara da Silva</author>
-<author>Daniel Santana de Freitas</author>
+<author pid="44/5741">Andr&#233;a Vergara da Silva</author>
+<author pid="00/6683">Daniel Santana de Freitas</author>
 <title>Wavelet-Based Compared to Function-Based On-Line Signature Verification.</title>
 <pages>218-</pages>
 <year>2002</year>
@@ -80,14 +97,19 @@
 <url>db/conf/sibgrapi/sibgrapi2002.html#SilvaF02</url>
 </inproceedings>
 </r>
-<coauthors n="7" nc="1">
-<co c="0"><na f="c/Chiann:Chang">Chang Chiann</na></co>
-<co c="0"><na f="n/Nakahara_Jr=:Jorge">Jorge Nakahara Jr.</na></co>
-<co c="0" n="2"><na f="p/Phan:Raphael_C==W=">Raphael C.-W. Phan</na><na>Raphael Chung-Wei Phan</na></co>
-<co c="0"><na f="p/Preneel:Bart">Bart Preneel</na></co>
-<co c="0"><na f="s/Sekar:Gautham">Gautham Sekar</na></co>
-<co c="-1"><na f="s/Silva:Andr=eacute=a_Vergara_da">Andr&#233;a Vergara da Silva</na></co>
-<co c="0"><na f="s/Souza:Ramon_Hugo_de">Ramon Hugo de Souza</na></co>
+<coauthors n="12" nc="2">
+<co c="0"><na f="c/Chiann:Chang" pid="89/7440">Chang Chiann</na></co>
+<co c="1"><na f="f/Figueiredo:Leandro_Passos_de" pid="147/2675">Leandro Passos de Figueiredo</na></co>
+<co c="1"><na f="g/Grana:Dario" pid="198/6615">Dario Grana</na></co>
+<co c="1"><na f="l/Lunelli:Rafael" pid="284/0444">Rafael Lunelli</na></co>
+<co c="0"><na f="n/Nakahara_Jr=:Jorge" pid="02/6711">Jorge Nakahara Jr.</na></co>
+<co c="0" n="2"><na f="p/Phan:Raphael_C==W=" pid="p/RCWPhan">Raphael C.-W. Phan</na><na>Raphael Chung-Wei Phan</na></co>
+<co c="0"><na f="p/Preneel:Bart" pid="p/BartPreneel">Bart Preneel</na></co>
+<co c="1"><na f="r/Roisenberg:Mauro" pid="47/1251">Mauro Roisenberg</na></co>
+<co c="1"><na f="s/Schmitz:Tcharlies" pid="284/0406">Tcharlies Schmitz</na></co>
+<co c="0"><na f="s/Sekar:Gautham" pid="08/4693">Gautham Sekar</na></co>
+<co c="-1"><na f="s/Silva:Andr=eacute=a_Vergara_da" pid="44/5741">Andr&#233;a Vergara da Silva</na></co>
+<co c="0"><na f="s/Souza:Ramon_Hugo_de" pid="35/7440">Ramon Hugo de Souza</na></co>
 </coauthors>
 </dblpperson>
 

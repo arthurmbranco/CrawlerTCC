@@ -1,0 +1,1473 @@
+1,3D object recognition and classification: a systematic literature review,,,,,23,,,,2019,1
+2,Creating a web infrastructure for the support of clinical protocols and clinical management: an example in teledermatology,,,,,20,,,,2019,1
+3,SORTIA-Um jogo para ensino de Algoritmo de Ordenação: estudo de caso na disciplina de Estrutura de Dados,,,,,20,,,,2012,1
+4,"Development and implementation of a statewide telemedicine/telehealth system in the state of Santa Catarina, Brazil",,,,,14,,,,2012,1
+5,Road surface classification with images captured from low-cost camera-road traversing knowledge (RTK) dataset,,,,,10,,,,2019,1
+6,Passive vision region-based road detection: A literature review,,,,,10,,,,2019,1
+7,Classificação de Objetos de Aprendizagem e análise de Ferramentas de Autoria,,,,,10,,,,2009,1
+8,Padrões para a Interoperabilidade na Saúde,,,,,10,,,,2006,1
+9,Desenvolvimento e Implementação de um editor de documentos estruturados no padrâo dicom structured report,,,,,9,,,,2003,1
+10,Seminario introducao a visao computacional,,,,,9,,,,2001,1
+11,Metodologia computacional para aplicaçao da regra abcd na avaliaçao de lesoes pigmentadas,,,,,8,,,,2007,1
+12,Visão computacional,,,,,8,,,,2005,1
+13,Introdução à visão computacional,,,,,8,,,,2000,1
+14,Automated microfossil identification and segmentation using a deep learning approach,,,,,7,,,,2020,1
+15,The PROGEMM approach for managing clinical processes,,,,,7,,,,2003,1
+16,Launching a public statewide tele (oral) medicine service in Brazil during COVID‐19 pandemic,,,,,5,,,,2020,1
+17,Collaborative telepathology in a statewide telemedicine environment-first tests in the context of the brazilian public healthcare system,,,,,5,,,,2019,1
+18,Cyclops Workflow Server: Uma Proposta para um modelo de um servidor de fluxo de atividades médico-hospitalar,,,,,5,,,,2005,1
+19,"WANGENHEIM, Aldo von",,,,,5,,,,2003,1
+20,Road surface detection and differentiation considering surface damages,,,,,4,,,,2021,1
+21,Vehicular perception and proprioception based on inertial sensing: a systematic review,,,,,4,,,,2018,1
+22,Analysis of some mating and collaboration strategies in evolutionary algorithms,,,,,4,,,,2008,1
+23,"Segmentation, Detection, and Classification of Cell Nuclei on Oral Cytology Samples Stained with Papanicolaou",,,,,3,,,,2021,1
+24,Vehicular perception based on inertial sensing: A structured mapping of approaches and methods,,,,,3,,,,2020,1
+25,Passive vision road obstacle detection: a literature mapping,,,,,3,,,,2020,1
+26,Critical look at the user satisfaction with asynchronous telemedicine,,,,,3,,,,2013,1
+27,Development of a Process Reference Model for Telemedicine Software Development,,,,,3,,,,2008,1
+28,"Road obstacles positional and dynamic features extraction combining object detection, stereo disparity maps and optical flow data",,,,,2,,,,2020,1
+29,Comparison of Supervised Classifiers and Image Features for Crop Rows Segmentation on Aerial Images,,,,,2,,,,2020,1
+30,Proposing a knowledge engineering based approach for process capability/maturity models customization,,,,,2,,,,2010,1
+31,Plataforma de Gerência do Conhecimento Aplicada em um Ambiente de Toxicologia Clínica e Toxicovigilância,,,,,2,,,,2008,1
+32,Experiences in Developing Requirements for a Clinical Laboratory Information System in Brazil,,,,,2,,,,2008,1
+33,Técnicas Subsimbólicas: Redes Neurais. Reconhecimento de Padrões,,,,,2,,,,2006,1
+34,Sistema de Reconhecimento de voz na Radiologia com vocabulário,,,,,2,,,,2006,1
+35,A Novel Approach on Segmentation of AgNOR-Stained Cytology Images Using Deep Learning,,,,,1,,,,2020,1
+36,Benchmarking Deep Learning Models on Jetson TX2,,,,,1,,,,2019,1
+37,A Fuzzy-Dynamic Bayesian Network Approach for Inference Filtering,,,,,1,,,,2019,1
+38,Uma ontologia para o atendimento emergencial de pacientes,,,,,1,,,,2011,1
+39,TecKnow–Um Sistema Híbrido para Gestão de Conhecimento em Organizações de P&D de Software,,,,,1,,,,2003,1
+40,Medical Workflow Management–Uma Proposta para Gerenciamento do Processo Hospitalar Utilizando a Tecnologia de Workflow Integrada ao Padrão DICOM,,,,,1,,,,,1
+41,What is the State of the Art of Computer Vision-Assisted Cytology? A Systematic Literature Review,,,,,0,,,,2021,1
+42,What is the State of the Art of Computer Vision-Assisted Cytology? A Systematic Literature Review,,,,,0,,,,2021,1
+43,Localização de Núcleos Celulares em Citologia Oral usando Métodos de Deep Learning,,,,,0,,,,2021,1
+44,Detecção de núcleos em imagens citológicas de AgNOR utilizando Aprendizado Profundo,,,,,0,,,,2021,1
+45,Automatic code generation from sketches of mobile applications in end-user development using Deep Learning,,,,,0,,,,2021,1
+46,Teleconsultations at a Pediatrics Outpatient Service in COVID-19 Pandemic: First Results,,,,,0,,,,2021,1
+47,Road surface type classification based on inertial sensors and machine learning,,,,,0,,,,2021,1
+48,Comparison of Classical Computer Vision vs. Convolutional Neural Networks for Weed Mapping in Aerial Images,,,,,0,,,,2020,1
+49,Multi-Contextual and Multi-Aspect Analysis for Road Surface Type Classification Through Inertial Sensors and Deep Learning,,,,,0,,,,2020,1
+50,Recent Progress in Automated Code Generation from GUI Images Using Machine Learning Techniques.,,,,,0,,,,2020,1
+51,Comparison between low-cost passive and active vision for obstacle depth,,,,,0,,,,2020,1
+52,Hierarchical color similarity metrics for step-wise application on sky monitoring surface cameras,,,,,0,,,,2020,1
+53,Towards a Complete Pipeline for Segmenting Nuclei in Feulgen-Stained Images,,,,,0,,,,2020,1
+54,Towards a Complete Pipeline for Segmenting Nuclei in Feulgen-Stained Images,,,,,0,,,,2020,1
+55,Data Fusion through Fuzzy-Bayesian Networks for Belief Generation in Cognitive Agents,,,,,0,,,,2019,1
+56,Systematic approach for migrating to a structured reporting context based on free-text reports and the DICOM Structured Reporting guidelines,,,,,0,,,,2019,1
+57,Systematic Approach and Tools for Migrating from Text-Based Reports to Structured Reports: Based on the DICOM Structured Reporting Guidelines,,,,,0,,,,2019,1
+58,Classificação de Qualidade de Superfície de Pista Baseado em Sensoriamento Inercial e Lógica Fuzzy,,,,,0,,,,2019,1
+59,Integrating Online Georeferenced Epidemiological Analysis and Visualization into a Telemedicine Infrastructure-First Results,,,,,0,,,,2019,1
+60,Recent Trends in the Identification of Threats through the Prediction of Traffic Participants' Intent,,,,,0,,,,2018,1
+61,Collaborative multimedia platform to support oral diagnosis in teledentistry environments,,,,,0,,,,2013,1
+62,Critical Look at the User Satisfaction with Asynchronous Telemedicine Response,,,,,0,,,,2013,1
+63,Manual-Administrativo,,,,,0,,,,2013,1
+64,Mammalyzer II,,,,,0,,,,2013,1
+65,MyGFT: um Módulo de Integração entre MySQL e Google Fusion Tables,,,,,0,,,,2012,1
+66,Relatórios Técnicos do INCoD,,,,,0,,,,2011,1
+67,A Software Quality Model for Asynchronous Store-and-Forward Telemedicine Systems,,,,,0,,,,2011,1
+68,Relatórios Técnicos do INCoD,,,,,0,,,,2011,1
+69,7. Corpo Docente,,,,,0,,,,2011,1
+70,Caminhos para a Implantação de Telemedicina em Larga Escala: A Experiência de Santa Catarina,,,,,0,,,,2010,1
+71,"Proposta de Estrutura Interna de áudio, vídeo e rede para Emissoras de pequeno e médio porte preparada para TV Digital",,,,,0,,,,2010,1
+72,Método de análise quantitativa computacional semi-automática de membranas timpânicas perfuradas e timpanoescleroses,,,,,0,,,,2010,1
+73,Modelos de interatividade para uma ferramenta de autoria em NCLua,,,,,0,,,,2010,1
+74,Método de Rede de Gradientes: um novo algoritmo de segmentaçao de imagens coloridas,,,,,0,,,,2008,1
+75,Cadernos de capacitação à distância para Atenção Básica - DOENÇAS CRÔNICAS NÃO-TRANSMISSÍVEIS: DIABETES MELLITUS : CIRURGIÕES-DENTISTAS,,,,,0,,,,2008,1
+76,Cadernos de capacitação à distância para Atenção Básica - DOENÇAS CRÔNICAS NÃO-TRANSMISSÍVEIS: DIABETES MELLITUS : TÉCNICOS DE HIGIENE DENTAL E AUXILIARES DE CONSULÓRIO DENTÁRIO,,,,,0,,,,2008,1
+77,RBC aplicado no auxílio ao cálculo da NP,,,,,0,,,,2005,1
+78,Protocolo Cyclops de Teleconferência,,,,,0,,,,2004,1
+79,Aldo von,,,,,0,,,,2003,1
+80,Reconhecimento de padrões sobre sinais de ECG utilizando técnicas sintáticas,,,,,0,,,,2002,1
+81,"CyclopsStrokeQuantifier-Ischaemic Stroke Detection System Using Dynamic CT Aldo von Wangenheim The Cyclops Project, CS Dept., Universidade Federal de Santa Catarina-UFSC …",,,,,0,,,,2002,1
+82,Mammalyzer II,,,,,0,,,,1998,1
+83,malignen Veränderungen der Mamma aus kontrastmittelangereicherten MRI-Aufnahmen,,,,,0,,,,1989,1
+84,Teleconsultations at a Pediatrics Outpatient Service in COVID-19 Pandemic: First Results,,,,,0,,,,,1
+85,Integrating a PACS Network to a Statewide Telemedicine System,,,,,0,,,,,1
+86,Collaborative Telepathology in a Statewide Telemedicine Environment,,,,,0,,,,,1
+87,Message from the General Chair Organizing Committee Technical Program Committee Acknowledgements,,,,,0,,,,,1
+88,List of Accepted Papers,,,,,0,,,,,1
+89,Fast GNM–The Fast Gradient Network Method,,,,,0,,,,,1
+90,Manual–TELEDERMATOLOGIA: Protocolos de Conduta Clínica de Doenças Dermatológicas na ABS,,,,,0,,,,,1
+91,UNCERTAINTY ANALISYS OF PARSIVEL2 FOR RAINFALL AMOUNT,,,,,0,,,,,1
+92,Modelo de Fusao de Dados com Incerteza para Consciência Situacional,,,,,0,,,,,1
+93,Weed Mapping on Aerial Images,,,,,0,,,,,1
+94,Applications of the AdEQUATE Model,,,,,0,,,,,1
+95,Uso de Inteligência Artificial na animação de Agentes Autônomos Inteligentes em jogos,,,,,0,,,,,1
+96,"Creating a Web Infrastructure for the Support to Clinical Protocols and Clinical Management: An Example in Teledermatology Aldo von Wangenheim1, Daniel Holthausen Nunes2",,,,,0,,,,,1
+97,CBMS 2017,,,,,0,,,,,1
+98,The Teacher’s Guide to the Virtual Programming Lab,,,,,0,,,,,1
+99,UNCERTAINTY ANALYSIS OF DISDROMETER MODEL PARSIVEL2 FOR RAINFALL AMOUNT,,,,,0,,,,,1
+100,Ferramenta Web Colaborativa para Visualização e Interação com Imagens Médicas Collaborative Web Tool for Medical Image Visualization and Interaction,,,,,0,,,,,1
+101,"Probleme, Bilder zu finden?",,,,,0,,,,,1
+102,Dicionário Técnico de Informática,,,,,0,,,,,1
+103,Avaliação de Single-Board Computers como Estações de Telemedicina e Telessaúde Evaluation of Single-Board Computers as Telemedicine and Telehealth Stations,,,,,0,,,,,1
+104,SCPDI 2001,,,,,0,,,,,1
+105,PLANEJAMENTO CIRÚRGICO DE ANEURISMA DA AORTA ABDOMINAL COM AUXÍLIO DE TÉCNICAS DE VISÃO COMPUTACIONAL E INTELIGÊNCIA ARTIFICIAL,,,,,0,,,,,1
+106,Autenticação Multi-Fator para Telemedicina usando Dispositivos Móveis e Senhas Descartáveis Multi-Factor Authentication for Telemedicine using Mobile Devices and One-Time …,,,,,0,,,,,1
+107,Câncer de Mama,,,,,0,,,,,1
+108,"Desenvolvimento de metodologia para detecção de gotas utilizando câmeras Sylvio Luiz Mantelli Neto1, 2 Luís Gustavo Lorgus Decker2 Eros Comunello2, 3",,,,,0,,,,,1
+109,Um Protocolo de Aplicação para ambientes colaborativos,,,,,0,,,,,1
+110,A Computational Model for adjustment in radiographic cephalometry,,,,,0,,,,,1
+111,Comparative Evaluation of Precision and Performance for Static Gesture Recognition Techniques,,,,,0,,,,,1
+112,REDES NEURAIS PARA IDENTIFICAÇÃO DE VENTRÍCULOS CEREBRAIS,,,,,0,,,,,1
+113,2.8. VANTAGENS E LIMITA,,,,,0,,,,,1
+114,Aplicando um jogo para ensino de algoritmo de ordenação heapsort em sala de aula,,,,,0,,,,,1
+115,Gerenciamento Remoto de PACS: Uma Proposta de Extensão ao DICOM,,,,,0,,,,,1
+116,zur wissensbasierten Bildauswertung,,,,,0,,,,,1
+117,Precisão e Exatidão Numéricas em Aplicações Médicas Baseadas em GPU,,,,,0,,,,,1
+118,20th IEEE International Symposium on Computer-Based Medical Systems (CBMS 2007) Preface_xvii CBMS 2007 Committees _ xviii Invited Speaker,,,,,0,,,,,1
+119,Um Modelo de Segurança e Controle de Acesso ao Registro Eletrônico de Pacientes na Web,,,,,0,,,,,1
+1204,1) Identificação,,,,,0,,,,,52
+120,Um Estudo de técnicas realistas de renderização em tempo real,,,,,0,,,,,1
+121,Lesões Intracranianas,,,,,0,,,,,1
+122,Um Protocolo de Aplicação para ambientes colaborativos,,,,,0,,,,,1
+123,Using Metaprogrammed Functors to Implement Double-Dispatch for Collision Handling,,,,,0,,,,,1
+124,Sistema de Reconhecimento de voz na Radiologia com vocabulário restrito,,,,,0,,,,,1
+125,Seminários de Visão Computacional: Morfologia Matemática,,,,,0,,,,,1
+126,SISTEMA BRASILEIRO DE TELEVISÃO DIGITAL,,,,,0,,,,,1
+127,Diagnóstico Médico Colaborativo: Uma Proposta de Interface Baseada em Gestos Voltada a Ambientes Virtuais Imersivos,,,,,0,,,,,1
+128,19th IEEE International Symposium on Computer-Based Medical Systems CBMS 2006,,,,,0,,,,,1
+129,1) Identificação,,,,,0,,,,,1
+130,"Tagwelt: a framework for rendering, collision detection, rigid body and soft body dynamics in augmented reality",,,,,0,,,,,1
+131,Estação Radiológica Tridimensional Multi-propósito,,,,,0,,,,,1
+132,Reconstrução Curvilinear de Superfícies em Séries de CT/MRI como Componente de uma Estação Radiológica Multi-Propósito,,,,,0,,,,,1
+133,Introducing Effective Measurement-Based Effort and Schedule Management in Small Software Companies,,,,,0,,,,,1
+134,Reconhecimento de produtos por imagem utilizando palavras visuais e redes neurais convolucionais,,,,,8,,,,2014,19
+135,Fundus photography quality assessment based on topological extinction values,,,,,3,,,,2019,19
+136,"Uso de árvore de componentes para filtragem, segmentação e detecção de padrões em imagens digitais",,,,,1,,,,2009,19
+137,Segmentação de Árvore de Componentes por Valores de Extinção: Aplicação na Detecção Automática de Núcleos Celulares,,,,,0,,,,2021,19
+138,Avaliação de gordura corporal de pacientes por visão computacional: uma revisão sistemática,,,,,0,,,,2020,19
+139,Automatic Localization of the Carotid Wall in Ultrasound Imaging Based on Convolutional Neural Network,,,,,0,,,,2019,19
+140,COMPARAÇÃO DE TÉCNICAS DE VISÃO COMPUTACIONAL NA IDENTIFICAÇÃO DE CABEÇOTES FUNDIDOS USANDO WEBCAM PARA GUIAR UM ROBÔ INDUSTRIAL,,,,,0,,,,2015,19
+141,Análise computacional de subcamadas da parede carotıdea em imagens ultrassonográficas,,,,,0,,,,,19
+142,printf/scanf,,,,,0,,,,,19
+143,Similar Image Retrieval,,,,,0,,,,,19
+144,"HAMSTER-Healthy, mobility and security-based data communication architecture for Unmanned Aircraft Systems",,,,,27,,,,2014,20
+145,The broadcast storm problem in FANETs and the Dynamic Neighborhood-based Algorithm as a countermeasure,,,,,8,,,,2019,20
+146,The Internet of Flying Things,,,,,7,,,,2018,20
+147,Um Algoritmo Autônomo para Disseminação de Informações em Redes Veiculares,,,,,5,,,,,20
+148,An Approach Adopting Ethereum as a Wallet Domain Name System within the Economy of Things Context,,,,,2,,,,2020,20
+149,Iota vs. Ripple: A Comparison Inside An Economy of Things Architecture for Industry 4.0,,,,,1,,,,2020,20
+150,Communication in Critical Embedded Systems,,,,,1,,,,2017,20
+151,An approach to mitigate denial of service attacks in IEEE 802.11 networks,,,,,1,,,,2014,20
+152,Abordagens autonômicas para qualidade de serviço da comunicação em redes de sensores sem fio densas com requisitos temporais,,,,,1,,,,2012,20
+153,128 Science Publications JCS AN APPROACH TO MITIGATE DENIAL OF SERVICE ATTACKS IN IEEE 802.11 NETWORKS,,,,,1,,,,,20
+154,Proposal of an Economy of Things Architecture and an Approach Comparing Cryptocurrencies,,,,,0,,,,2021,20
+155,"Communication in Critical Embedded Systems: First Workshop, WoCCES 2013, Brasília, Brazil, May, 10, 2013, Second Workshop, WoCCES 2014, Florianópolis, Brazil, May 9, 2014 …",,,,,0,,,,2017,20
+156,Critical Systems Track,,,,,0,,,,,20
+157,LATW2012,,,,,0,,,,,20
+158,Incorporation of β-glucans in meat emulsions through an optimal mixture modeling systems,,,,,16,,,,2018,23
+159,Estimativa da subnotificação de casos da covid-19 no estado de Santa Catarina,,,,,8,,,,2020,23
+160,Fitting semi‐empirical drying models using a tool based on wavelet neural networks: Modeling a maize drying process,,,,,7,,,,2018,23
+161,Response surface methodology assessment of the effect of whole wheat flour and fat replacer levels on bread quality.,,,,,7,,,,2016,23
+162,"Supercritical CO2 Extraction of Extracted Oil from Pistacia lentiscus L.: Mathematical Modeling, Economic Evaluation and Scale-Up",,,,,6,,,,2020,23
+163,Kinetic study of the thermal decomposition of cellulose nanocrystals with different crystal structures and morphologies,,,,,4,,,,2020,23
+164,Essential oil components of Citrus cultivar‘MALTAISE DEMI SANGUINE’ (Citrus sinensis) as affected by the effects of rootstocks and viroid infection,,,,,3,,,,2019,23
+165,Physicochemical comparison of commercial vs. extracted β-glucans and structural characterization after enzymatic purification,,,,,3,,,,2018,23
+166,Desenvolvimento de um processo de separação de compostos bioativos de Rosmarinus officinalis,,,,,2,,,,2012,23
+167,Supercritical CO2 extraction from “Myrtus communis L.” growing in Tunisia,,,,,1,,,,2014,23
+168,Desenvolvimento de um sistema reacional de hidrólise enzimática de tributirina para aplicação em biossensor indicador de tempo-temperatura,,,,,1,,,,2008,23
+169,Mechanistic modeling and CFD simulation of gas chromatography to predict separation processes,,,,,0,,,,2021,23
+170,"Effect of lactase, transglutaminase and temperature on ice cream crystal by a response surface methodology approach",,,,,0,,,,2020,23
+171,Dietary Patterns and Empirical Dietary Inflammatory Index in Southern Brazil and Risk of Colorectal Cancer: A Case-Control Study,,,,,0,,,,2020,23
+172,Response surface methodology assessment of the effect of whole wheat flour and fat replacer levels on bread quality,,,,,0,,,,2016,23
+173,Landslide stability analysis based on generalized information entropy,,,,,69,,,,2009,2
+174,SmartData: an IoT-ready API for sensor networks,,,,,9,,,,2018,2
+175,A framework to design and implement real-time multicore schedulers using machine learning,,,,,4,,,,2019,2
+176,Pyxis: um sistema de arquivos distribuido,,,,,4,,,,1994,2
+177,Modeling time requirements of CPS in wireless networks,,,,,2,,,,2020,2
+178,Sistemas Embarcados: Acoplamento do soft-core Plasma ao barramento OPB de um PowerPC,,,,,2,,,,2005,2
+179,Suporte a redes CAN para Aplicações Embarcadas,,,,,2,,,,2005,2
+180,An analysis of the gateway integrity checking protocol from the perspective of intrusion detection systems,,,,,1,,,,2020,2
+181,Towards deterministic FPGA reconfiguration,,,,,1,,,,2020,2
+182,Increasing sensor reliability through confidence attribution,,,,,1,,,,2019,2
+183,IoT gateway integrity checking protocol,,,,,1,,,,2019,2
+184,Proposta de um Espaço de Coordenação Tridimensional para Sistemas Multiagentes,,,,,1,,,,2003,2
+185,Pilha TCP/IP adaptável à aplicação,,,,,1,,,,2003,2
+186,EPOS: Embedded Parallel Operating System,,,,,1,,,,2002,2
+187,Automated fault detection for additive manufacturing using vibration sensors,,,,,0,,,,2021,2
+188,Online Machine Learning for Energy-Aware Multicore Real-Time Embedded Systems,,,,,0,,,,2021,2
+189,Data Confidence Applied to Wind Turbine Power Curves,,,,,0,,,,2020,2
+190,A Fault Injection Framework for Real-time Multicore Embedded Systems,,,,,0,,,,2020,2
+191,A new feature extraction process based on SFTA and DWT to enhance classification of ceramic tiles quality,,,,,0,,,,2020,2
+192,Perspectives for IoT-Based Integration of Distributed and Automated Manufacturing Lines for Mass Customization,,,,,0,,,,2020,2
+193,Anomaly Detection in Multicore Embedded Systems,,,,,0,,,,2019,2
+194,Diretrizes da Sociedade Brasileira de Computação para o Ensino de Computação na Educação Básica,,,,,0,,,,2019,2
+195,5th Brazilian Symposium on Computing System Engineering,,,,,0,,,,2016,2
+196,A framework for predictable hardware/software component reconfiguration,,,,,0,,,,2016,2
+197,"Brazilian symposium on computer system engineering, November 2013",,,,,0,,,,2014,2
+198,Ata da 5ª Sessão de Defesa de ME,,,,,0,,,,2012,2
+199,POP-C+,,,,,0,,,,2010,2
+200,"Proposta de Estrutura Interna de áudio, vídeo e rede para Emissoras de pequeno e médio porte preparada para TV Digital",,,,,0,,,,2010,2
+201,Operating Systems,,,,,0,,,,2008,2
+202,Uma Implementação de Broadcast File System para transmissão de dados de TV Digital,,,,,0,,,,2008,2
+203,JMinimizer: Um Compactador de aplicaç oes java.,,,,,0,,,,2004,2
+204,Riffs: um sistema de arquivos para memórias flash baseado em árvores reservas,,,,,0,,,,2004,2
+205,Fragment Assembly,,,,,0,,,,2003,2
+206,On Operating System Architectures,,,,,0,,,,2003,2
+207,SBESC 2020 Program Committee,,,,,0,,,,,2
+208,Message from the General Chair Organizing Committee Technical Program Committee Acknowledgements,,,,,0,,,,,2
+209,List of Accepted Papers,,,,,0,,,,,2
+210,SBESC 2020 Welcome Message,,,,,0,,,,,2
+211,SBESC 2020 Organizing Committee,,,,,0,,,,,2
+212,Plano de Ensino 1) Identificação,,,,,0,,,,,2
+213,Program Committee Achim Rettberg (Uni. of Applied Science Hamm/Lippstadt & Uni. Oldenburg) Alex Borges (Universidade Federal de Juiz de Fora) Alexandre Amory (PUCRS University),,,,,0,,,,,2
+214,List of Accepted Papers,,,,,0,,,,,2
+215,Message from the General Chair Organizing Committee Technical Program Committee Acknowledgements,,,,,0,,,,,2
+216,Integration of WSN Systems in the SmartBuilding,,,,,0,,,,,2
+217,SBESC 2018,,,,,0,,,,,2
+218,Technical Session 1: FPGA Technologies,,,,,0,,,,,2
+219,SBESC 2017 Reviewers,,,,,0,,,,,2
+220,Implementaçao e Avaliaçao do Escalonador Agrupado para um Sistema Operacional de Tempo Real,,,,,0,,,,,2
+221,VLSID 2017,,,,,0,,,,,2
+222,SBESC 2016,,,,,0,,,,,2
+223,SBESC 2016,,,,,0,,,,,2
+224,MOMPES 2007 Committees,,,,,0,,,,,2
+225,MBD/MOMPES 2006 Committees,,,,,0,,,,,2
+226,Track 1: Embedded Hardware/Software,,,,,0,,,,,2
+227,QUATIC 2007,,,,,0,,,,,2
+228,Real-Time Domain Engineering for SoC Design,,,,,0,,,,,2
+229,On the reliability of performance counters for power models,,,,,0,,,,,2
+230,Embedded Systems,,,,,0,,,,,2
+231,1) Identificação,,,,,0,,,,,2
+232,SBESC 2012,,,,,0,,,,,2
+233,SBESC 2012,,,,,0,,,,,2
+234,SBESC 2011,,,,,0,,,,,2
+235,SBESC 2011,,,,,0,,,,,2
+236,Construindo Sistemas Embarcados com o OpenEPOS,,,,,0,,,,,2
+237,TÍTULO: Um Núcleo Experimental para um Sistema Operacional Distribuído,,,,,0,,,,,2
+238,Lógicas da Inconsistência e da Incompletude: Semântica e Axiomática,,,,,15,,,,1995,24
+239,Let us be antilogical: Anti-classical logic as a logic,,,,,11,,,,2013,24
+240,Um método automático de prova para a lógica paraconsistente,,,,,7,,,,1988,24
+241,The Road to Universal Logic: Festschrift for 50th Birthday of Jean-Yves Béziau Volume I,,,,,4,,,,2014,24
+242,Lógica Geral,,,,,2,,,,2006,24
+243,Handbook of the 6th World Congress and School on Universal Logic,,,,,1,,,,2018,24
+244,The Road to Universal Logic,,,,,0,,,,2019,24
+245,Handbook of the 6th World Congress and School on Universal Logic,,,,,0,,,,2018,24
+246,6th VVorld Congress and School on Universal Logic,,,,,0,,,,2018,24
+247,"The Road to Universal Logic: Festschrift for 50th Birthday of Jean-Yves Béziauvol. 1, Cham, Heidelberg, etc.: Springer-Birkhäuser",,,,,0,,,,2015,24
+248,Handbook of the 5th World Congress on Paraconsistency,,,,,0,,,,2014,24
+249,UNILOG’2013,,,,,0,,,,2013,24
+250,Фг гж б йгйз з ж ди гв,,,,,0,,,,,24
+251,Handbook of the World Congress and School on Universal Logic,,,,,0,,,,,24
+252,Proposta TCC Gerência em Rede de Sensores sobre Grades Computacionais para Telemedicina Resumo,,,,,0,,,,,24
+253,Tableaux Systems,,,,,0,,,,,24
+254,XML: some papers in a haystack,,,,,24,,,,2009,4
+255,Web services WS-* versus web services REST,,,,,23,,,,2011,4
+256,Formaçao de grupos colaborativos em um ambiente multiagente interativo de aprendizagem na internet: um estudo de caso utilizando sistemas multiagentes e algoritmos genéticos,,,,,13,,,,2006,4
+257,Automated expertise retrieval: a taxonomy-based survey and open issues,,,,,10,,,,2019,4
+258,Big Data application for E-commerce’s Logistics: A research assessment and conceptual model,,,,,6,,,,2019,4
+259,Combining URL and HTML features for entity discovery in the Web,,,,,2,,,,2019,4
+260,"DORNELES, Carina Friedrich et alli. 2000",,,,,2,,,,,4
+261,Web page structured content detection using supervised machine learning,,,,,1,,,,2019,4
+262,Um estudo de caso para análise comparativa entre programação Estruturada e Orientada a Objetos,,,,,1,,,,2010,4
+263,Recency and quality-based ranking question in CQAs: A Stack Overflow case study,,,,,0,,,,2021,4
+264,Optimized Extraction of Records from the Web Using Signal Processing and Machine Learning.,,,,,0,,,,2020,4
+265,Mining Journals to the Ground: An Exploratory Analysis of Newspaper Articles.,,,,,0,,,,2019,4
+266,Searching and ranking questionnaires: an approach to calculate similarity between questionnaires,,,,,0,,,,2019,4
+267,Comparando a eficácia na recuperação de questionários: QSMatching vs Vector model vs Fuzzy,,,,,0,,,,2019,4
+268,WANQA: uma abordagem para identificar novas questões não respondíveis em comunidades de perguntas e respostas,,,,,0,,,,2019,4
+269,O que você quer ser quando... se formar?,,,,,0,,,,2017,4
+270,Sixteenth ACM Conference on Information Knowledge and Management (CIKM 2007),,,,,0,,,,2009,4
+271,Aglomerante1: ambiente para gerenciamento de dados com múltiplas representações,,,,,0,,,,2009,4
+272,Revisores,,,,,0,,,,2008,4
+273,COURSE PROGRAM,,,,,0,,,,,4
+274,Departamento de Informática e de Estatística,,,,,0,,,,,4
+275,Um esquema de autorização para a segurança em sistemas distribuídos de larga escala,,,,,12,,,,2000,25
+276,"M. W estphall,'" Ensuring Data Storage Security in Cl oud Computing,'"",,,,,6,,,,2010,25
+277,An Authorization Scheme for Security in Large-Scale Distributed Systems,,,,,6,,,,2000,25
+278,Mutual authentication for IoT in the context of fog computing,,,,,5,,,,2019,25
+279,Qualidade de Serviço no mundo IP,,,,,5,,,,2001,25
+280,Sec-SLA: especificação e validação de métricas para acordos de níveis de serviço orientados à segurança,,,,,4,,,,2004,25
+281,Blockchain incentivized data forwarding in MANETs: Strategies and challenges,,,,,3,,,,2021,25
+282,AMBER: uma linguagem para o desenvolvimento de sistemas distribuídos,,,,,3,,,,2001,25
+283,Providing response to security incidents in the cloud computing with autonomic systems and big data,,,,,2,,,,2015,25
+284,Gerência de uma Rede Metropolitana Sem Fio,,,,,2,,,,2001,25
+285,Esquemas de Autorização para Programação Distribuída combinando os Modelos de Segurança Java/CORBA/Web,,,,,2,,,,1998,25
+286,Estudo de Protocolos de Roteamento em Redes Ad Hoc,,,,,1,,,,2005,25
+287,Mutual authentication with multi-factor in IoT-Fog-Cloud environment,,,,,0,,,,2021,25
+288,Heuristic Phishing Detection and URL Checking Methodology Based on Scraping and Web Crawling,,,,,0,,,,2020,25
+289,CoAP+ DTLS: A Comprehensive Overview of Cryptographic Performance on an IOT Scenario,,,,,0,,,,2020,25
+290,Privacy Policies Model in Access Control,,,,,0,,,,2019,25
+291,Autenticação mútua de nós sensores com nós intermediários para IoT no contexto de Fog Computing,,,,,0,,,,2018,25
+292,SECURWARE 2015,,,,,0,,,,2015,25
+293,MANAGEMENT AND SECURITY FOR CLOUD COMPUTING,,,,,0,,,,2012,25
+294,Proposta de descrição de ataques em ambientes grid,,,,,0,,,,2007,25
+295,Shib-DRM: sistema de gerenciamento de identidades e de direitos,,,,,0,,,,2006,25
+296,Livro: Sistemas de Informações Organizacionais: Guia Prático para Projetos.,,,,,0,,,,2006,25
+297,Forthcoming Contributions,,,,,0,,,,2005,25
+298,Building complex applications using grids of agents,,,,,0,,,,2004,25
+299,Grid of agent architecture applied to computer and telecommunications network management,,,,,0,,,,2003,25
+300,"Segurança e autoridade de sistemas de informação: estado-da-arte, aperfeiçoamento e validação da segurança multilateral e auditoria",,,,,0,,,,2003,25
+301,Implementação de uma alternativa de autenticação para O LDP,,,,,0,,,,2003,25
+302,Bianchi,,,,,0,,,,2002,25
+303,Um mediador com políticas de segurança em XML aplicado no controle de acesso a banco de dados,,,,,0,,,,2002,25
+304,A 9-bit parallel pipelined multiplier based on the 3-bit recoding from Booth's algorithm,,,,,0,,,,1999,25
+305,Uma aplicação distribuída para redes de telecomunicações utilizando as tecnologias web e CORBA,,,,,0,,,,1999,25
+306,Gerência distribuída na área de segurança para redes de telecomunicações de alta velocidade,,,,,0,,,,1998,25
+307,Proyecto formal de una plataforma de gerenciamiento,,,,,0,,,,1997,25
+308,"1. LANOMS 1999: Rio de Janeiro, Brazil",,,,,0,,,,1915,25
+309,Clouds and Security: A Scrutinized Marriage,,,,,0,,,,,25
+310,"S. Parthasarathy, N. Anbazhagan, Muthu Ramachandran Data Dimensionality Reduction Based on Genetic Selection of Feature Subsets........................................... 09 KM …",,,,,0,,,,,25
+311,Curso de Graduação em Sistemas de Informação,,,,,0,,,,,25
+312,An approach to dynamic reconfiguration of distributed systems based on object-middleware,,,,,36,,,,2001,17
+313,A DRM architecture to distribute and protect digital contents using digital licenses,,,,,28,,,,2005,17
+314,Evolução da indústria de energia elétrica brasileira sob mudanças no ambiente de negócios: um enfoque institucionalista,,,,,26,,,,2002,17
+315,Qualidade de serviço em redes IP com DiffServ: avaliação através de medições,,,,,23,,,,2001,17
+316,Integrating SSL to the JACOWEB security framework: Project and Implementation,,,,,20,,,,2001,17
+317,"Authorization schemes for large-scale systems based on Java, CORBA and Web security models",,,,,20,,,,1999,17
+318,Modelo para Avaliação da Maturidade da Segurança da Informação,,,,,17,,,,2010,17
+319,Hybrid approach to intrusion detection in fog-based IoT environments,,,,,14,,,,2020,17
+320,"A Large-scale System Authorization Scheme Proposal Integrating Java, CORBA and Web Security Models and a Discretionary Prototype.",,,,,14,,,,1999,17
+321,Princípios e tendências em green cloud computing,,,,,12,,,,2013,17
+322,Um esquema de autorização para a segurança em sistemas distribuídos de larga escala,,,,,12,,,,2000,17
+323,Sec-SLA: specification and validation of metrics to security service level agreements,,,,,12,,,,,17
+324,Enhancing privacy on identity providers,,,,,9,,,,2014,17
+325,Autonomic IoT battery management with fog computing,,,,,8,,,,2019,17
+326,A design towards personally identifiable information control and awareness in openid connect identity providers,,,,,8,,,,2017,17
+327,Transactions on Large-Scale Data-and Knowledge-Centered Systems XVIII,,,,,8,,,,2015,17
+328,Implementação e Análise de uma Arquitetura de Grids de Agentes para a Gerência de Redes e Sistemas,,,,,8,,,,2012,17
+329,"Schulter, A.—Westphall, C.—Westphall, C.: Intrusion Detection for Grid and Cloud Computing",,,,,8,,,,2007,17
+330,Controle de acesso baseado em papéis para o modelo CORBA de segurança,,,,,7,,,,2001,17
+331,Autonomic intrusion detection and response using big data,,,,,6,,,,2019,17
+332,"M. W estphall,'" Ensuring Data Storage Security in Cl oud Computing,'"",,,,,6,,,,2010,17
+333,Mutual authentication for IoT in the context of fog computing,,,,,5,,,,2019,17
+334,Privacy token: A mechanism for user’s privacy specification in identity management systems for the cloud,,,,,5,,,,2017,17
+335,Uma Abordagem de acordo de nível de serviço para computação em nuvem,,,,,5,,,,2012,17
+336,Avaliação analítica do uso de agentes móveis na gerência de redes,,,,,5,,,,2012,17
+337,Provisioning techniques and policies for resource sharing between grids,,,,,5,,,,2009,17
+338,Análise de Desempenho em Redes Wireless Ad Hoc e Estabelecimento de um Acordo de Nível de Serviço Pró-Ativo. 2003. 145f,,,,,5,,,,2003,17
+339,"PoliCap—proposal, development and evaluation of a policy service and capabilities for CORBA Security",,,,,5,,,,2002,17
+340,Qualidade de Serviço no mundo IP,,,,,5,,,,2001,17
+341,Conception et développement de l'architecture d'administration d'un réseau métropolitain,,,,,5,,,,1991,17
+342,Análise de desempenho em redes wireless ad-hoc e estabelecimento de um acordo de nível de serviço pró-ativo,,,,,4,,,,2012,17
+343,P2P-role: uma arquitetura de controle de acesso baseada em papéis para sistemas colaborativos peer-to-peer,,,,,4,,,,2005,17
+344,Informação de Desempenho e Acordos de Nível de Serviço para Redes de Transporte PDH e SDH,,,,,4,,,,1999,17
+345,"Detailed Description of PLAGERE Project (sent to ProTeM-CC-II/CNPq by UFSC, CEFET-PR, CPqD-Telebrás and UFPB; in Portuguese)",,,,,4,,,,1994,17
+346,Blockchain incentivized data forwarding in MANETs: Strategies and challenges,,,,,3,,,,2021,17
+347,A risk calculus extension to the XACML language,,,,,3,,,,2016,17
+348,Uma Abordagem para alocação de máquinas virtuais em ambientes de computação em nuvem verde,,,,,3,,,,2012,17
+349,"westphall, C.: Intrusion detection techniques in grid and cloud computing environment",,,,,3,,,,2010,17
+350,"Managing Next Generation Networks and Services: 10th Asia-Pacific Network Operations and Management Symposium, APNOMS 2007, Sapporo, Japan, October 10-12, 2007, Proceedings",,,,,3,,,,2007,17
+351,"A Grid-based Intrusion Detection System, ICNICONSMCL 06: Proceedings of the International Conference on Networking",,,,,3,,,,2006,17
+352,Uma solução de autenticação fim a fim para o LDP (Label Distribution Protocol),,,,,3,,,,2002,17
+353,Westphall,,,,,3,,,,1996,17
+354,Privacy token: An improved and verified mechanism for user’s privacy specification in identity management systems for the cloud,,,,,2,,,,2017,17
+355,Towards scalability for federated identity systems for cloud-Based environments,,,,,2,,,,2014,17
+356,Challenges Towards Secure Internet of Things,,,,,2,,,,2014,17
+357,A Dynamic Approach to Risk Calculation for the RAdAC Model,,,,,2,,,,2014,17
+358,Aplicação de inteligência computacional na gerência de redes através da automatização do uso de agentes móveis,,,,,2,,,,2012,17
+359,Extensao do modelo IDWG para detecçao de intrusao em ambientes computacionais,,,,,2,,,,2012,17
+360,Avaliação de mecanismos para gerenciamento da fila da interface do host controller bluetooth,,,,,2,,,,2012,17
+361,Redes bayesianas para análise de comportamento aplicadas a telefonia celular,,,,,2,,,,2012,17
+362,Navarro,,,,,2,,,,2012,17
+363,Um middleware para grades de disposotivos móveis,,,,,2,,,,2006,17
+364,Modelo de Segurança Multilateral e RBAC em um Ambiente de Serviço no Contexto de Gerenciamento de Contabilidade TINA,,,,,2,,,,2004,17
+365,Avaliaçao de algoritmos de escalonamento de tarefas em servidores web distribuıdos,,,,,2,,,,2003,17
+366,Using computational intelligence in choosing the best mobile agents configuration for computer network management,,,,,2,,,,2003,17
+367,Um Agente SNMP para Detecçc ao de Intrus ao Baseada na Monitoraçc ao de Interaçc oes de Protocolos,,,,,2,,,,2002,17
+368,Projeto Hop Topics em Gerência de Redes,,,,,2,,,,2001,17
+369,JaCoWeb Security-A CORBA Security Discretionary Prototype,,,,,2,,,,2000,17
+370,Gerência de redes de computadores através de novos agentes,,,,,2,,,,1994,17
+371,Definição de Gerentes e Agentes para Gerência de Redes,,,,,2,,,,1993,17
+372,Authorization Schemes for Distributed Programming based on Java/CORBA/Web Security Models,,,,,2,,,,,17
+373,"A Cloud Computing Solution for Patient’s Data Collection in Health Care Institutions. 2010 Second Int Conf eHealth, Telemedicine, Soc Med [Internet]. 2010;(i): 95–9",,,,,2,,,,,17
+437,Uma Análise experimental de alocação de canal para redes sem fio 802.11,,,,,0,,,,2012,17
+374,"Alternativas e Visão de uma abordagem para uma plataforma de Gerência de Redes. UFC, UECE e CEFET-CE. XIV SBRC",,,,,2,,,,,17
+375,"Grid and cloud computing management and security. IEEE/IFIP, april 2010. IEEE/IFIP NOMS 2010-TUTORIAL 3",,,,,2,,,,,17
+376,Post Graduation Program in Comput,,,,,2,,,,,17
+377,"Arquitetura e Sistema de Monitoramento para Computação em Nuvem Privada. Florianópolis: Universidade Federal De Santa Catarina, Instituto de Informática e Estatística, Programa …",,,,,2,,,,,17
+378,DoS attack detection and prevention in fog-based intelligent environments,,,,,1,,,,2019,17
+379,"Order@ Cloud: An agnostic meta‐heuristic for VM provisioning, adaptation, and organisation",,,,,1,,,,2019,17
+380,Improving OpenID Connect federation’s interoperability with web semantics,,,,,1,,,,2017,17
+381,Da Computabilidade Formal às Máquinas Programáveis,,,,,1,,,,2015,17
+382,PRINCÍPIOS E TENDÊNCIAS EM GREEN CLOUD COMPUTING.,,,,,1,,,,2013,17
+383,Uma arquitetura para submissão de aplicações de dispositivos móveis e embarcados para uma configuração de grade computacional,,,,,1,,,,2012,17
+384,Utilizando o padrão de gerenciamento SNMP para gerenciar tráfego multicast,,,,,1,,,,2012,17
+385,Avaliação de desempenho em redes móveis sem fio ad hoc,,,,,1,,,,2012,17
+386,Uma aplicação Java-SNMP para monitoração de redes sem fio,,,,,1,,,,2012,17
+387,Aplicação do modelo TMN na gerência de redes de alta velocidade,,,,,1,,,,2012,17
+388,Gerência de segurança para detecção de intrusão em telecomunicações através de redes neurais,,,,,1,,,,2012,17
+389,Gerenciamento distribuido TMN: uma experiência em supervisão de alarmes com CORBA,,,,,1,,,,2012,17
+390,Gerenciamento de autoconfiguração em redes com IPv6,,,,,1,,,,2012,17
+391,Research on the Mapping Rules of Building Geo-ontology Based on Geodatabase,,,,,1,,,,2010,17
+392,A cloud computing solution for patient's data collection in health care institutions. 2010 Feb 10 Presented at: In: Proceedings of the 2nd International Conference on eHealth,,,,,1,,,,2010,17
+393,Uma proposta para prover qualidade de serviço em redes IP,,,,,1,,,,2003,17
+394,DRM–Em busca da perfeição gerando o aumento da segurança dos serviços oferecidos pela WEB,,,,,1,,,,2003,17
+395,Utilizando o padrão de gerenciamento SNMP para gerenciar tráfego multicast: A ferramenta Multicast Monitor,,,,,1,,,,2002,17
+396,Utilizando o padrão de gerenciamento SNMP para gerenciar tráfego multicast: A ferramenta Multicast Monitor,,,,,1,,,,2002,17
+397,Projeto de Sistemas para Gerência de Redes Utilizando Construções Pré-definidas e Biblioteca BibLOTUS,,,,,1,,,,1997,17
+398,Uma estratégia para implementar a gerência pro-ativa em redes com a utilização de sistemas baseados em conhecimento,,,,,1,,,,1996,17
+399,Uma metodologia para a especificação formal de serviços e protocolos de comunicação,,,,,1,,,,1995,17
+400,Autonomic energy management with Fog Computing,,,,,0,,,,2021,17
+401,Models of Computing as a Service and IoT: an analysis of the current scenario with applications using LPWAN,,,,,0,,,,2021,17
+402,Autonomic Management of Power Consumption with IoT and Fog Computing,,,,,0,,,,2021,17
+403,Autonomic Management of Power Consumption with IoT and Fog Computing,,,,,0,,,,2021,17
+404,Mutual authentication with multi-factor in IoT-Fog-Cloud environment,,,,,0,,,,2021,17
+405,Welcome Messages from IEEE BigDataSE 2020 Program Chairs,,,,,0,,,,2021,17
+406,"Avaliação de desempenho de protocolos de mensagens com arquitetura publish/subscribe no ambiente de computação em nevoeiro: um estudo sobre desempenho do MQTT, AMQP e STOMP",,,,,0,,,,2020,17
+407,Ambiente de experimentação para avaliação protocolos de mensagem para IoT na Fog,,,,,0,,,,2020,17
+408,Heuristic Phishing Detection and URL Checking Methodology Based on Scraping and Web Crawling,,,,,0,,,,2020,17
+409,CoAP+ DTLS: A Comprehensive Overview of Cryptographic Performance on an IOT Scenario,,,,,0,,,,2020,17
+410,Models of Computing as a Service and IoT: an analysis of the current scenario with applications using LPWAN,,,,,0,,,,2020,17
+411,Privacy Policies Model in Access Control,,,,,0,,,,2019,17
+412,"International Journal on Advances in Networks and Services Volume 12, Number 3 & 4, 2019",,,,,0,,,,2019,17
+413,Autonomic Intrusion Response in Distributed Computing using Big Data,,,,,0,,,,2018,17
+414,"Security in Computing and Communications: 5th International Symposium, SSCC 2017, Manipal, India, September 13–16, 2017, Proceedings",,,,,0,,,,2017,17
+415,"International Journal on Advances in Networks and Services Volume 10, Number 1 & 2, 2017",,,,,0,,,,2017,17
+416,ICWMC 2016,,,,,0,,,,2016,17
+417,ICSNC 2016,,,,,0,,,,2016,17
+418,CLOUD COMPUTING 2016,,,,,0,,,,2016,17
+419,ICN 2016,,,,,0,,,,2016,17
+420,Um modelo para o suporte de tomada de decisão no gerenciamento de nuvens computacionais,,,,,0,,,,2016,17
+421,Link to download the paper,,,,,0,,,,2016,17
+422,Towards Scalability for Federated Identity Systems for Cloud-Based Environments,,,,,0,,,,2015,17
+423,SECURWARE 2015,,,,,0,,,,2015,17
+424,UBICOMM 2015,,,,,0,,,,2015,17
+425,MOBILITY 2015,,,,,0,,,,2015,17
+426,ICNS 2015,,,,,0,,,,2015,17
+427,CLOUD COMPUTING 2015,,,,,0,,,,2015,17
+428,SECURWARE 2014,,,,,0,,,,2014,17
+429,Link to download the paper at IEEE Explore,,,,,0,,,,2014,17
+430,ICN 2014,,,,,0,,,,2014,17
+431,HPCC 2013: Message from program chairs,,,,,0,,,,2014,17
+432,Um Arcabouço de monitoramento e auto-proteção para nuvens privadas,,,,,0,,,,2013,17
+433,CARACTERÍSTICAS ESSENCIAIS E MÉTRICAS DE UTILIZAÇÃO DE UM SOFTWARE EM NUVEM,,,,,0,,,,2013,17
+434,Uma proposta de infraestrutura com segurança para PACS em nuvem através de identidade federada,,,,,0,,,,2013,17
+435,Segurança em serviços de banco de dados em nuvem: controles para acordos de níveis de serviços,,,,,0,,,,2013,17
+436,Management in legacy network equipment to optimize green clouds,,,,,0,,,,2013,17
+500,Bianchi,,,,,0,,,,2002,17
+438,Avaliação experimental de algorítmos de negociação aplicados ao balanceamento de carga no grid de agentes para gerência de redes,,,,,0,,,,2012,17
+439,Arquitetura e sistema de monitoramento para computação em nuvem privada,,,,,0,,,,2012,17
+440,Ariadne-BFT,,,,,0,,,,2012,17
+441,Interconectando sensores com transparência numa rede de sensores sem fio segura dividida em clusters,,,,,0,,,,2012,17
+442,Uma proposta de aplicação paralela de técnicas distintas de detecção de intrusão em ambientes de grid,,,,,0,,,,2012,17
+443,Avaliação e gerência de confiança baseada na maturidade do usuário em grades computacionais,,,,,0,,,,2012,17
+444,Aperfeiçoamento do desempenho do TCP em links assimétricos via políticas de escalonamento de filas,,,,,0,,,,2012,17
+445,Uma abordagem para busca por web services com requisitos de QoS,,,,,0,,,,2012,17
+446,A especificação de um middleware para dispositivos móveis utilizando grades de computadores,,,,,0,,,,2012,17
+447,Um método para detecção de intrusão em grades computacionais,,,,,0,,,,2012,17
+448,Ferramenta para monitoramento de redes IP com serviços diferenciados utilizando SNMP,,,,,0,,,,2012,17
+449,Segurança de serviços em ambientes de grids,,,,,0,,,,2012,17
+450,Avaliação de desempenho da hierarquia de proxy em redes de alta velocidade,,,,,0,,,,2012,17
+451,Uma arquitetura experimental de serviços integrados para prover QoS em aplicações de Vídeo Conferência,,,,,0,,,,2012,17
+452,Modelo de segurança multilateral e RBAC em um ambiente de serviço no contexto de gerenciamento de contabilidade TINA,,,,,0,,,,2012,17
+453,Desenvolvimento de um modelo de segurança no gerenciamento de contabilidade baseado na arquitetura TINA,,,,,0,,,,2012,17
+454,Banco de dados distribuídos para auxiliar na gerência de redes,,,,,0,,,,2012,17
+455,"Gerência de alarmes em ambientes WEB, WAP e SMS usando as tecnologias SNMP, WBEM e CORBA",,,,,0,,,,2012,17
+456,Gerência da largura de banda para garantir QoS adaptável em redes sem fio ad hoc,,,,,0,,,,2012,17
+457,Implementação de um sistema de gerência para o serviço diferenciado Premium,,,,,0,,,,2012,17
+458,Seguraweb,,,,,0,,,,2012,17
+459,Modelo de integração do WAP no apoio à gerência de redes TCP/IP,,,,,0,,,,2012,17
+460,"International Journal on Advances in Telecommunications Volume 5, Number 3 & 4, 2012",,,,,0,,,,2012,17
+461,"International Journal on Advances in Telecommunications Volume 4, Number 1 & 2, 2011",,,,,0,,,,2011,17
+462,"International Journal on Advances in Telecommunications Volume 4, Number 3 & 4, 2011",,,,,0,,,,2011,17
+463,Gerenciamento de identidades e privacidade em ambientes de computação em nuvem,,,,,0,,,,2011,17
+464,"International Journal on Advances in Networks and Services Volume 4, Number 1 & 2, 2011",,,,,0,,,,2011,17
+465,ICNS 2010,,,,,0,,,,2010,17
+466,eTELEMED 2010,,,,,0,,,,2010,17
+467,"FL koch, CB Westphall, J",,,,,0,,,,2010,17
+468,"International Journal on Advances in Networks and Services Volume 3, Number 3 & 4, 2010",,,,,0,,,,2010,17
+469,"International Journal on Advances in Telecommunications Volume 3, Number 1 & 2, 2010",,,,,0,,,,2010,17
+470,PROGRAMA DE PÓS-GRADUAÇÃO EM CIÊNCIAS DA COM-PUTAÇÃO,,,,,0,,,,2010,17
+471,SERVIDOR DE BORDA DE CÓDIGO LIVRE PARA CONEXÃO REMOTA E SEGURANÇA DE REDE,,,,,0,,,,2010,17
+472,Rafael Bosse Brinhosa,,,,,0,,,,2010,17
+473,Computação em Nuvem em Data Centers,,,,,0,,,,2010,17
+474,"International Journal on Advances in Networks and Services Volume 3, Number 1 & 2, 2010",,,,,0,,,,2010,17
+475,"International Journal on Advances in Networks and Services Volume 2, Numbers 2&3, 2009",,,,,0,,,,2009,17
+476,"International Journal on Advances in Networks and Services Volume 2, Number 4, 2009",,,,,0,,,,2009,17
+477,"International Journal On Advances in Telecommunications Volume 1, Number 1, 2008",,,,,0,,,,2008,17
+478,NOMS 2008,,,,,0,,,,2008,17
+479,Proposta de um protótipo para a configuração e execução de aplicações no ambiente de Grade computacional Globus 3.0,,,,,0,,,,2007,17
+480,Ariadne-BFT: uma proposta de extensão do protocolo Ariadne baseada na descoberta e seleção de rotas do protocolo BFTR,,,,,0,,,,2007,17
+481,Proposta de descrição de ataques em ambientes grid,,,,,0,,,,2007,17
+482,Shib-DRM: sistema de gerenciamento de identidades e de direitos,,,,,0,,,,2006,17
+483,Livro: Sistemas de Informações Organizacionais: Guia Prático para Projetos.,,,,,0,,,,2006,17
+484,Message from HPSEC workshop co-chairs,,,,,0,,,,2006,17
+485,"IMPLEMENTAÇAO DE UMA REDE DE VOZ SOBRE IP, APLICANDO PROPRIEDADES DE QUALIDADE DE SERVIÇO NA REDE E NA INTERFACE COM O USUARIO.",,,,,0,,,,2006,17
+486,QoS em Wireless,,,,,0,,,,2006,17
+487,Mandatory and Discretionary Policies for CORBA Security,,,,,0,,,,2005,17
+488,Forthcoming Contributions,,,,,0,,,,2005,17
+489,P2P-role: uma arquitetura de controle de acesso baseada em papéis para sistemas colaborativos peer-to-peer,,,,,0,,,,2005,17
+490,Avaliação do impacto nas métricas de desempenho de protocolos de roteamento em redes MANET:[dissertação],,,,,0,,,,2005,17
+491,Estudo e implementação de um modelo de detecção de intrusão para grids computacionais utilizando análise comportamental distribuída,,,,,0,,,,2005,17
+492,Proposta de um Framework para Desenvolvimento de Aplicações de Gerência de Redes,,,,,0,,,,2004,17
+493,AVALIAÇÃO EXPERIMENTAL DO PROTOCOLO 802.1 X PARA PROVER MOBILIDADE E SEGURANÇA EM REDES DE COMPUTADORES,,,,,0,,,,2004,17
+494,Modelo de segurança multilateral e RBAC em um ambiente de serviço no contexto de gerenciamento de contabilidade TINA,,,,,0,,,,2004,17
+495,"Segurança e autoridade de sistemas de informação: estado-da-arte, aperfeiçoamento e validação da segurança multilateral e auditoria",,,,,0,,,,2003,17
+496,Implementação de uma alternativa de autenticação para O LDP,,,,,0,,,,2003,17
+497,Avaliação de desempenho da hierarquia de proxy em redes de alta velocidade,,,,,0,,,,2003,17
+498,Proposta de um modelo de qualidade de serviço e segurança para a tecnologia de web services,,,,,0,,,,2003,17
+499,Um mediador com políticas de segurança em XML aplicado no controle de acesso a banco de dados,,,,,0,,,,2002,17
+501,Seguraweb: um framework RBAC para aplicações web,,,,,0,,,,2002,17
+502,Forthcoming Contributions,,,,,0,,,,2001,17
+503,A Model for Integrating Security Technologies on JaCoWeb Authorization Scheme,,,,,0,,,,2001,17
+504,Distributed Denial of Service: um estudo para plataformas Linux e Windows,,,,,0,,,,2001,17
+505,"Proposta de um ambiente de gerência de redes de alta velocidade utilizando Corba, Java e HTML",,,,,0,,,,2000,17
+506,Forthcoming Contributions,,,,,0,,,,2000,17
+507,Uso de LOTOS na gerência de segurança de aplicações distribuídas em JAVA,,,,,0,,,,1998,17
+508,Telecommunication Systems III,,,,,0,,,,1998,17
+509,"SFBSID''97: 2o Seminário Franco-Brasileiro em Sistemas Informáticos Distribuídos: arquiteturas multimidias para as telecomunicações: Fortaleza, CE, Brasil, 03 a 07 de novembro …",,,,,0,,,,1997,17
+510,Novas funções de gerencia para redes de Telecomunicações e de alta velocidade usando a plataforma OSIMIS,,,,,0,,,,1997,17
+511,Uma proposta para gerência de correio eletrônico,,,,,0,,,,1995,17
+512,CONCEPTION ET DEVELOPPEMENT DE L'ARCHITECTURE D'ADMINISTRATION D'UN RESEAU METROPOLITAIN,,,,,0,,,,1991,17
+513,Design and development of network management architecture for a metropolitain area network,,,,,0,,,,1991,17
+514,Proposição de funções em equipamentos para gerência de comunicação de dados,,,,,0,,,,1988,17
+515,"1. LANOMS 1999: Rio de Janeiro, Brazil",,,,,0,,,,1915,17
+516,Comunicaç ao de Grupo Segura no CORBA: Integridade e Confidencialidade no MIOP,,,,,0,,,,,17
+517,"Projeto, Implementação e Avaliação do JaCoWeb Security",,,,,0,,,,,17
+518,CONTROLE DE ACESSO BASEADO EM PAPÉIS PARA SISTEMAS DISTRIBUÍDOS CORBA,,,,,0,,,,,17
+519,Um Modelo de Controle de Acesso para Conteúdos Digitais,,,,,0,,,,,17
+520,"JaCoWe–Um Esquema de Autorização para Redes de Larga Escala integrando os Modelos de Segurança Java, CORBA e Web",,,,,0,,,,,17
+521,Sistemas sobreviventes a intrusões utilizando replicação e auditoria de ações,,,,,0,,,,,17
+522,Elaboração e realização de experimentos de segurança em cenários de transição IPv4/IPv6,,,,,0,,,,,17
+523,"Esquema de Autorização para Redes de Larga Escala combinando os Modelos de Segurança Web, Java e CORBA",,,,,0,,,,,17
+524,Controle de Acesso e Combate aos Usuários Caronas em Sistemas Peer-to-Peer,,,,,0,,,,,17
+525,IEEE BigDataSE 2020 Organizing and Program Committees,,,,,0,,,,,17
+526,Ambiente de experimentaç ao para avaliaç ao protocolos de mensagem para IoT na Fog,,,,,0,,,,,17
+527,"Avaliaç ao de desempenho de protocolos de mensagens com arquitetura publish/subscribe no ambiente de computaç ao em nevoeiro: um estudo sobre desempenho do MQTT, AMQP e STOMP",,,,,0,,,,,17
+528,IEEE GLOBECOM 2019: Operations Committee Members,,,,,0,,,,,17
+529,"Ismael Ponce, Mexico Arpad Gellert, Lucian Blaga University of Sibiu, Romania Lahby Mohamed, ENS Casablanca, Morocco Vincenzo De Florio, Vlaamse Instelling Voor Technologisch …",,,,,0,,,,,17
+530,Co-Chairs,,,,,0,,,,,17
+531,Publication period,,,,,0,,,,,17
+532,ICFEC 2019 Organization,,,,,0,,,,,17
+533,iSCI 2018 Organizing and Program Committees,,,,,0,,,,,17
+534,"Suporte para Aplicações Críticas nas Especificações CORBA: Tolerância a Faltas, Segurança e Tempo Real",,,,,0,,,,,17
+535,IFIP/IEEE IM 2011 Committees,,,,,0,,,,,17
+536,VII Workshop de Computação em Grade e Aplicações–WCGA,,,,,0,,,,,17
+537,AICT 2007 Committees,,,,,0,,,,,17
+538,Journal Editorial Board,,,,,0,,,,,17
+539,Primeiro agradeço a Deus e aos meus pais por sempre me apoiarem. Agradeço à Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) pelas oportunidades de estudos …,,,,,0,,,,,17
+540,"Privacy-preserving Identity Federations in the Cloud-A Proof of Concept Daniel Ricardo dos Santos*, Tiago Jaime Nascimento, Carla Merkle Westphall, Marcos",,,,,0,,,,,17
+541,General Co-Chair,,,,,0,,,,,17
+542,Workshop Chairs,,,,,0,,,,,17
+543,Technological Infrastructure (Green Cloud Computing),,,,,0,,,,,17
+544,Table of the most important middleware's comparing support to mobile devices.,,,,,0,,,,,17
+545,Program Committee Chairs,,,,,0,,,,,17
+546,IFIP/IEEE International Symposium on Integrated Network Management Lisbon//Portugal//8-12 May 2017,,,,,0,,,,,17
+547,ICCSA 2011 Program Committee,,,,,0,,,,,17
+548,ICCSA 2014 Program Committee,,,,,0,,,,,17
+549,ICCSA 2010 Reviewers,,,,,0,,,,,17
+550,"Youngsong MUN (Soongsil University, Korea)",,,,,0,,,,,17
+551,ICCSA 2008 Committees,,,,,0,,,,,17
+552,International Program Committee General Chairs,,,,,0,,,,,17
+553,"General Chair Toshio Tonouchi (NEC, Japan) Vice Co-Chairs",,,,,0,,,,,17
+554,Vice Co-Chairs,,,,,0,,,,,17
+555,Vice-Chairman,,,,,0,,,,,17
+556,Clouds and Security: A Scrutinized Marriage,,,,,0,,,,,17
+557,"Ki-Joon Chae Ewha Womans University, Korea Keecheon Kim Konkuk University, Korea Katsuyuki Yamazaki Nagaoka University of Technology, Japan",,,,,0,,,,,17
+558,Special Session Chairs,,,,,0,,,,,17
+559,Projeto GERSAU,,,,,0,,,,,17
+560,ICNS Advisory Committee,,,,,0,,,,,17
+561,Especificação Formal com o Uso da Biblioteca bibLOTOS,,,,,0,,,,,17
+562,International Program Committee General Chairs,,,,,0,,,,,17
+563,and Wireless,,,,,0,,,,,17
+564,IEEE AINA 2014,,,,,0,,,,,17
+565,Curso de Graduação em Sistemas de Informação,,,,,0,,,,,17
+566,"Projeto GESCONGRECO-GErência e Segurança para COmputação em Nuvem, Grade e REdes COgnitivas",,,,,0,,,,,17
+567,PROPOSTA DE TRABALHO DE CONCLUSÃO DE CURSO,,,,,0,,,,,17
+568,HPCC 2013,,,,,0,,,,,17
+569,EMERITUS: Philip H. Enslow,,,,,0,,,,,17
+570,Program Committees,,,,,0,,,,,17
+571,Proposta de linguagem para especificar intrusão em ambientes grid,,,,,0,,,,,17
+572,Gerenciamento de um Servidor de Impressão Usando SNMP,,,,,0,,,,,17
+573,LISTA DE FIGURAS LISTA DE SIGLAS,,,,,0,,,,,17
+574,ANÁLISE DE MÉTRICAS DE QoS EM REDES SEM FIO AD HOC CONSIDERANDO QUESTÕES DE SEGURANÇA PARA O ESTABELECIMENTO DE SLAs,,,,,0,,,,,17
+575,CURSO DE GRADUAÇÃO EM SISTEMAS DE INFORMAÇÃO,,,,,0,,,,,17
+576,MÁRCIO LUIZ MACHADO NOGUEIRA,,,,,0,,,,,17
+577,ICC 2006 Technical Program Committee,,,,,0,,,,,17
+578,Program Committee General Chair,,,,,0,,,,,17
+579,1) Identificação,,,,,0,,,,,17
+580,"Capone, Antonio 1990 Carli. Marco 2467 Carlos, Westphall Becker 2089 Carlsson, Gunnar 245 Casetti, Claudio 146",,,,,0,,,,,17
+581,"Abdallah Mhamed, Institut National des Telecommunications, France Agustinus Borgy Waluyo, I2R, Singapore Alfred Tan, Edith Cown University, Australia Carlos Becker Westphall …",,,,,0,,,,,17
+582,Keynote Speaker,,,,,0,,,,,17
+583,LRG-INE-UFSC,,,,,0,,,,,17
+584,"Agoulmine, N.: Paper 4, Paper 14",,,,,0,,,,,17
+585,"S. Parthasarathy, N. Anbazhagan, Muthu Ramachandran Data Dimensionality Reduction Based on Genetic Selection of Feature Subsets........................................... 09 KM …",,,,,0,,,,,17
+586,ICDT COMMITTEES,,,,,0,,,,,17
+587,Proposta TCC Gerência em Rede de Sensores sobre Grades Computacionais para Telemedicina Resumo,,,,,0,,,,,17
+588,ICNS 2010,,,,,0,,,,,17
+589,AICT 2010,,,,,0,,,,,17
+590,CENTRIC 2009,,,,,0,,,,,17
+591,CENTRIC 2010,,,,,0,,,,,17
+592,ICDT 2010,,,,,0,,,,,17
+593,Approaches to Assess Computational Thinking Competences Based on Code Analysis in K-12 Education: A Systematic Mapping Study,,,,,22,,,,2019,5
+594,Approaches to Assess Computational Thinking Competences Based on Code Analysis in K-12 Education: A Systematic Mapping Study.(in progress),,,,,22,,,,2017,5
+595,Teaching Machine Learning in School: A Systematic Mapping of the State of the Art,,,,,19,,,,2020,5
+596,bASES21-Um Modelo para a Autoavaliação de Habilidades do Século XXI no Contexto do Ensino de Computação na Educação Básica,,,,,11,,,,2019,5
+597,bASES21-Um Modelo para a Autoavaliação de Habilidades do Século XXI no Contexto do Ensino de Computação na Educação Básica,,,,,11,,,,2019,5
+598,Games for Teaching Software Project Management: An Analysis of the Benefits of Digital and Non-Digital Games,,,,,11,,,,2018,5
+599,MEEGA+: Um Modelo para a Avaliação de Jogos Educacionais para o ensino de Computação,,,,,8,,,,2019,5
+600,Ensinando design de interface de usuário na educação básica: um mapeamento sistemático do estado da arte e prática,,,,,8,,,,2019,5
+601,MEEGA+: A Method for the Evaluation of Educational Games for Computing Education,,,,,8,,,,2018,5
+602,Analysing the Integration of ISO/IEC 15504 and CMMI-SE,,,,,8,,,,2005,5
+603,Learning user interface design and the development of mobile applications in middle school,,,,,7,,,,2019,5
+604,A Large-scale Evaluation of a Rubric for the Automatic Assessment of Algorithms and Programming Concepts,,,,,6,,,,2020,5
+605,A Method for the Evaluation of the Quality of Games for Computing Education,,,,,6,,,,2019,5
+606,"Assessment of Computational Thinking in K-12 Context: Educational Practices, Limits and Possibilities–A Systematic Mapping Study",,,,,6,,,,2019,5
+607,Meega+ kids: A model for the evalua-tion of educational games for compu-ting education in secondary school,,,,,6,,,,2018,5
+608,Uma Análise do Sequenciamento Pedagógico no Ensino de Computação na Educação Básica,,,,,5,,,,2019,5
+609,Teaching Software Engineering in K-12 Education: A Systematic Mapping Study.,,,,,5,,,,2018,5
+610,Proposta de um Jogo Educacional para a Área de Medição e Análise de Software,,,,,5,,,,2007,5
+611,Assessing Product Creativity in Computing Education: A Systematic Mapping Study,,,,,4,,,,2021,5
+612,Formação Continuada de Professores para o Ensino de Algoritmos e Programação na Educação Básica: Um Estudo de Mapeamento Sistemático,,,,,4,,,,2020,5
+613,Automated Assessment of the Visual Design of Android Apps Developed with App Inventor,,,,,4,,,,2020,5
+614,Machine Learning for All–Introducing Machine Learning in K-12,,,,,4,,,,2020,5
+615,Desenvolvimento e Avaliação de um Jogo de Tabuleiro para Ensinar o Conceito de Algoritmos na Educação Básica,,,,,4,,,,2019,5
+616,Desenvolvimento e Avaliação de um Jogo de Tabuleiro para Ensinar o Conceito de Algoritmos na Educação Básica,,,,,4,,,,2019,5
+617,Do we agree on user interface aesthetics of Android apps?,,,,,4,,,,2018,5
+618,Estado da prática do design visual de aplicativos móveis desenvolvidos com App Inventor,,,,,3,,,,2020,5
+619,Effectiveness of Games in Software Project Management Education: An Experimental Study,,,,,3,,,,2019,5
+620,SplashCode–A Board Game for Learning an Understanding of Algorithms in Middle School,,,,,3,,,,2019,5
+621,Jovens tutores de programação: um relato de experiência,,,,,3,,,,2018,5
+622,Ensinando design de interface de usuário de aplicativos móveis no ensino fundamental,,,,,2,,,,2020,5
+623,Digital Games for Computing Education: What Are the Benefits?,,,,,2,,,,2019,5
+624,Impacto na aprendizagem envolvendo o desenvolvimento de aplicativos na Educação Básica: um mapeamento sistemático da literatura,,,,,2,,,,2018,5
+625,Usability Heuristics for Evaluating Health-care Applications for Smartphones: A Systematic Literature Review,,,,,2,,,,2016,5
+626,Teaching Computing with SCRATCH in Elementary Schools–A Case Study,,,,,2,,,,2014,5
+627,A Large-scale Analysis of App Inventor Projects,,,,,1,,,,2020,5
+628,Ferramentas Visuais para o Ensino de Machine Learning na Educação Básica,,,,,1,,,,2020,5
+629,Evolução da ferramenta App Inventor para suportar o ensino de design interface na Educação Básica,,,,,1,,,,2019,5
+630,CodeMaster UI design-app inventor: a rubric for the assessment of the interface design of Android apps developed with app inventor,,,,,1,,,,2019,5
+631,"Educational Practices in Computational Thinking: Assessment, Pedagogical Aspects, Limits, and Possibilities: A Systematic Mapping Study",,,,,1,,,,2019,5
+632,UPCASE-A Method for Self-Assessing the Capability of the Usability Process in Small Organizations,,,,,1,,,,2019,5
+633,MEEGA+: A Method for the Evaluation of the Quality of Games for Computing Education,,,,,1,,,,2019,5
+634,Elementos de interface em aplicativos para smartphone: uma oficina para estudantes do ensino fundamental II,,,,,1,,,,2019,5
+635,A Mapping Study on Software Process Self-Assessment Methods,,,,,1,,,,2018,5
+636,Assistant MEEGA+: Uma ferramenta de apoio para avaliação de jogos educacionais usando modelo MEEGA+,,,,,1,,,,2018,5
+637,GQM-Handbook and Overview of GQM-plans: A comparison of three GQM-methods and an Overview of GQM-plans,,,,,1,,,,2003,5
+638,Avaliação de Aprendizagem de Machine Learning na Educação Básica: Um Mapeamento da Literatura,,,,,0,,,,2021,5
+639,Análise Automatizada da Originalidade de Aplicativos Android no Contexto Educacional: Um Mapeamento da Literatura,,,,,0,,,,2021,5
+640,Evolution of a Model for the Evaluation of Games for Software Engineering Education,,,,,0,,,,2021,5
+641,Assessing the Visual Esthetics of User Interfaces: A Ten-Year Systematic Mapping,,,,,0,,,,2021,5
+642,Visual tools for teaching machine learning in K-12: A ten-year systematic mapping,,,,,0,,,,2021,5
+643,SCORE–A Model for the Self-Assessment of Creativity Skills in the Context of Computing Education in K-12,,,,,0,,,,2021,5
+644,An Item Response Theory Analysis of Algorithms and Programming Concepts in App Inventor Projects,,,,,0,,,,2021,5
+645,Existem concordância e confiabilidade na avaliação da criatividade de resultados tangíveis da aprendizagem de computação na Educação Básica?,,,,,0,,,,2021,5
+646,Automatic code generation from sketches of mobile applications in end-user development using Deep Learning,,,,,0,,,,2021,5
+647,O protagonismo de estudantes da Educação Básica a partir do desenvolvimento de aplicativos para smartphone,,,,,0,,,,2021,5
+648,Uma Proposta de Avaliação da Originalidade do Produto no Ensino de Algoritmos e Programação na Educação Básica,,,,,0,,,,2020,5
+649,Formação Continuada de Professores da Educação Básica para o Ensino de Algoritmos e Programação,,,,,0,,,,2020,5
+650,Análise do Nível de Dificuldade dos Conceitos de Design de Interface de Usuário usando a Teoria de Resposta ao Item,,,,,0,,,,2020,5
+651,SCORE 1.0-Um Instrumento para Autoavaliação de Criatividade voltado ao Ensino de Computação,,,,,0,,,,2020,5
+652,Ensino de Machine Learning na Educação Básica: um Mapeamento Sistemático do Estado da Arte,,,,,0,,,,2020,5
+653,Teaching Programming to Novices: A Large-scale Analysis of App Inventor Projects,,,,,0,,,,2020,5
+654,Recent Progress in Automated Code Generation from GUI Images Using Machine Learning Techniques.,,,,,0,,,,2020,5
+655,An Item Response Theory Analysis of the Sequencing of Algorithms & Programming Concepts,,,,,0,,,,2020,5
+656,MEEGA+ KIDS: A Model for the Evaluation of Games for Computing Education in Secondary School,,,,,0,,,,2020,5
+657,A Large-scale Analysis of App Inventor Projects,,,,,0,,,,2020,5
+658,Práticas pedagógicas com o desenvolvimento de aplicativos para dispositivos móveis por estudantes da Educação Básica,,,,,0,,,,2020,5
+659,Improvements in bASES21: 21st-Century Skills Assessment Model to K12,,,,,0,,,,2020,5
+660,Automating the Assessment of Algorithms and Programming Concepts in App Inventor Projects in Middle School,,,,,0,,,,2020,5
+661,Polemics about Computational Thinking: Digital Competence in Digital Zeitgeist–Continued Search for Answers,,,,,0,,,,2020,5
+662,Um Modelo de Avaliação do Pensamento Computacional na Educação Básica através da Análise de Código de Linguagem de Programação Visual,,,,,0,,,,2019,5
+663,Juegos serios para formar en los conceptos del lenguaje C: una experiencia en Fundamentos de Informática,,,,,0,,,,2019,5
+664,O desenvolvimento de aplicativos para dispositivos móveis na Educação Básica,,,,,0,,,,2018,5
+665,Heurísticas para avaliação de jogos educativos digitais–Revisão sistemática de literatura,,,,,0,,,,2017,5
+666,Software Process Capability/Maturity Model for the Development of Asynchronous Store-and-Forward Telemedicine Systems in the Context of Digital Convergence-A Draft Model,,,,,0,,,,2011,5
+667,Implementação do MPS. BR em Grupo de Empresas da ACATE em Florianópolis 2007/2008,,,,,0,,,,2007,5
+668,Analyzing the Integration of ISO/IEC 15504 and CMMI-SE/SW,,,,,0,,,,2005,5
+669,GQM-Handbook and Overview of GQM-plans,,,,,0,,,,2003,5
+670,"Analisando a Integração da ISO/IEC 15504, CMMI-SE/SW e MPS. BR",,,,,0,,,,2003,5
+671,DESIGN VISUAL PARA INTERFACES DE APLICATIVOS: ANÁLISE DE MODELOS DE REFERÊNCIA VISUAL DESIGN FOR APPLICATION INTERFACES: ANALYSIS OF REFERENCE MODELS,,,,,0,,,,,5
+672,Applications of the AdEQUATE Model,,,,,0,,,,,5
+673,State-of-the-art in Software Quality Evaluation Models Suitable for Telemedicine and Telehealth Systems,,,,,0,,,,,5
+674,Introducing Effective Measurement-Based Effort and Schedule Management in Small Software Companies,,,,,0,,,,,5
+675,Circuit-level hardening techniques to mitigate soft errors in finfet logic gates,,,,,11,,,,2019,26
+676,Variabilidade em FinFETs,,,,,9,,,,2014,26
+677,Mitigation of process variability effects using decoupling cells,,,,,7,,,,2019,26
+678,Multi-level design influences on robustness evaluation of 7nm FinFET technology,,,,,6,,,,2019,26
+679,Sleep transistors to improve the process variability and soft error susceptibility,,,,,5,,,,2019,26
+680,Soft error reliability of SRAM cells during the three operation states,,,,,3,,,,2020,26
+681,Radiation effects in XOR logic gates at 16nm CMOS and FinFET technology,,,,,3,,,,2019,26
+682,Evaluation of set under process variability on finfet multi-level design,,,,,3,,,,2019,26
+683,Logic synthesis meets machine learning: Trading exactness for generalization,,,,,2,,,,2021,26
+684,Work-function fluctuation impact on the SET response of FinFET-based majority voters,,,,,2,,,,2020,26
+685,Finfet variability and near-threshold operation: Impact on full adders design using XOR blocks,,,,,2,,,,2019,26
+686,Minimum energy FinFET schmitt trigger design considering process variability,,,,,2,,,,2019,26
+687,Scalable and Decoupled Logging for State Machine Replication,,,,,1,,,,2020,26
+688,Energy-efficient design of approximated full adders,,,,,1,,,,2020,26
+689,Avaliação dos efeitos de radiação em células SRAM,,,,,1,,,,2020,26
+690,A Fine-grained Methodology for Accuracy-configurable and Energy-efficient Gaussian Filters Design,,,,,1,,,,2020,26
+691,Soft Error Impact on FinFET and CMOS XOR Logic Gates,,,,,1,,,,2020,26
+692,Circuit Level Design Methods to Mitigate Soft Errors,,,,,1,,,,2020,26
+693,Process Variability Impact on the SET Response of FinFET Multi-level Design,,,,,1,,,,2019,26
+694,Impact of process variability and single event transient on FinFET technology,,,,,1,,,,2019,26
+695,Gate mapping impact on variability robustness in FinFET technology,,,,,1,,,,2019,26
+696,A library for services transparent replication,,,,,1,,,,2019,26
+697,A comparative evaluation of SRAM topologies,,,,,1,,,,2019,26
+698,Shrinking Logs by Safely Discarding Commands,,,,,0,,,,2021,26
+699,EDAS2020: IEEE CASS/CEDA Seasonal School on Electronic Design Automation [CAS Society News],,,,,0,,,,2021,26
+700,Fast Logic Optimization Using Decision Trees,,,,,0,,,,2021,26
+701,Design of Energy-efficient Gaussian Filters by Combining Refactoring and Approximate Adders,,,,,0,,,,2021,26
+702,"Soft Errors Sensitivity of SRAM Cells in Hold, Write, Read and Half-Selected Conditions",,,,,0,,,,2021,26
+703,Proposta de Rápida Recuperação por Redução de Log,,,,,0,,,,2021,26
+704,Current Behavior on Process Variability Aware FinFET Inverter Designs,,,,,0,,,,2021,26
+705,Voltage Scaling Influence on the Soft Error Susceptibility of a FinFET-based Circuit,,,,,0,,,,2021,26
+706,Soft Error Sensibility Window at FinFET DICE SRAM,,,,,0,,,,2021,26
+707,Mitigating Process Variability and Soft Errors at Circuit-Level for FinFETs,,,,,0,,,,2021,26
+708,Process Variability Mitigation,,,,,0,,,,2021,26
+709,General Trade-Offs,,,,,0,,,,2021,26
+710,Evaluation Methodology,,,,,0,,,,2021,26
+711,FinFET Technology,,,,,0,,,,2021,26
+712,Reliability Challenges in FinFETs,,,,,0,,,,2021,26
+713,Circuit-Level Mitigation Approaches,,,,,0,,,,2021,26
+714,Soft Error Mitigation,,,,,0,,,,2021,26
+715,Microsserviços aplicados no gerenciamento de dados de vistorias imobiliárias: um estudo de caso,,,,,0,,,,2020,26
+716,Mirror Full Adder SET Susceptibility on 7nm FinFET Technology,,,,,0,,,,2020,26
+717,Impacto de falhas transientes em memórias SRAM em nanotecnologia,,,,,0,,,,2020,26
+718,Circuit design using Schmitt Trigger to reliability improvement,,,,,0,,,,2020,26
+719,Pros and Cons of ST and SIG FinFET Inverters for Low Power Designs,,,,,0,,,,2020,26
+720,Análise do Comportamento Elétrico e da Robustez à Radiação de Circuitos XOR em Tecnologia Nanométrica FinFET,,,,,0,,,,2020,26
+721,Comparação de Topologias de Full Adders para Computação Aproximada,,,,,0,,,,2020,26
+722,Mitigation Effects of Decoupling Cells on Full Adders Process Variability,,,,,0,,,,2020,26
+723,Robust FinFET Schmitt Trigger Designs for Low Power Applications,,,,,0,,,,2020,26
+724,Explorando Redução de Log para Recuperação Rápida,,,,,0,,,,2020,26
+725,FBM: A Simple and Fast Algorithm for Placement Legalization,,,,,0,,,,2019,26
+726,Robust FinFET Schmitt Trigger Designs for Low Power Applications,,,,,0,,,,2019,26
+727,Robustness and Minimum Energy-Oriented FinFET Design,,,,,0,,,,2019,26
+728,Circuit-Level Techniques to Mitigate Process Variability and Soft Errors in FinFET Designs,,,,,0,,,,2019,26
+729,Exploring Schmitt Trigger Circuits for Process Variability Mitigation,,,,,0,,,,2019,26
+730,Process Variability Challenges for Radiation Mitigation Techniques on 16nm,,,,,0,,,,2019,26
+731,Explorando o Projeto Multi-Nível de Portas Básicas para Reduzir a Variabilidade e os Efeitos de Radiação na Tecnologia FinFET,,,,,0,,,,2018,26
+732,"INSTITUTO DE CIÊNCIAS ECONÔMICAS, ADMINISTRATIVAS E CONTÁBEIS-ICEAC CONCURSO PÚBLICO PARA SELEÇÃO DE PROFESSOR ADJUNTO",,,,,0,,,,2017,26
+733,Evaluating Approximated Full Adders at 16nm,,,,,0,,,,,26
+734,Evaluating Energy and Delay of DICE and PDICE SRAM Cells at 32nm Technology,,,,,0,,,,,26
+735,Radiation Robustness Evaluation on XOR Logic Gates at 16nm CMOS and FinFET Technology,,,,,0,,,,,26
+736,VLSI-SoC 2017,,,,,0,,,,,26
+737,Temperature Fluctuation Effects on Performance of XOR Logic Gates,,,,,0,,,,,26
+738,FERRAMENTA PARA O CÁLCULO DA PROBABILIDADE DE DEGRADAÇÃO DO EFEITO BTI EM TRANSISTORES DE PORTAS LÓGICA CMOS,,,,,0,,,,,26
+739,3. RESULTADOS E DISCUSSÃO,,,,,0,,,,,26
+740,PROJETO DE UMA BIBLIOTECA DE CÉLULAS QCA,,,,,0,,,,,26
+741,ANÁLISE DE DUAS ESTRATÉGIAS PARA AVALIAR A DEGRADAÇÃO DE PORTAS LÓGICAS CMOS EM FUNÇÃO DO EFEITO BTI,,,,,0,,,,,26
+742,INSTRUÇÕES PARA A PREPARAÇÃO E SUBMISSÃO DE TRABALHOS PARA PUBLICAÇÃO NOS ANAIS DO XXIV Cricte,,,,,0,,,,,26
+743,Local Chair,,,,,0,,,,,26
+744,Hierarchical Neuro-Fuzzy BSP Model? HNFB,,,,,6,,,,2000,29
+745,Trends in software reuse research: A tertiary study,,,,,5,,,,2019,29
+746,Let’s Talk About Tools and Approaches for Teaching HCI,,,,,3,,,,2019,29
+747,The impact of Use Cases in real-world software development projects: A systematic mapping study,,,,,2,,,,2019,29
+748,UsabilityZero: Can a Bad User Experience Teach Well?.,,,,,0,,,,2021,29
+749,Jogo para apoio ao ensino-aprendizagem de especificação de requisitos,,,,,0,,,,2020,29
+750,Improving the selection of requirements elicitation techniques: a faceted guide,,,,,0,,,,2020,29
+751,"Use case or activity diagram, that is the question!",,,,,0,,,,2019,29
+752,1) Identificação,,,,,0,,,,,29
+753,Conselho Editorial–Revista da Unifebe,,,,,0,,,,,29
+754,Avaliações de Usabilidade no Brasil,,,,,0,,,,,29
+755,CURSO DE CIÊNCIA DA COMPUTAÇÃO,,,,,0,,,,,29
+824,A Large-scale Analysis of App Inventor Projects,,,,,1,,,,2020,8
+756,Avaliaç ao do Nıvel de Maturidade no Desenvolvimento Global de Software com Scrum: Mapeamento Sistemático da Literatura,,,,,0,,,,,29
+757,Comissão de avaliação interinstitucional,,,,,0,,,,,29
+758,XVII Seminário de Computação,,,,,0,,,,,29
+759,CURSO DE CIÊNCIA DA COMPUTAÇÃO,,,,,0,,,,,29
+760,SE• RPG: Software Engineering• Role-playing Game,,,,,0,,,,,29
+761,Computação no Ensino Fundamental na Escola Pública,,,,,3,,,,2015,30
+762,Traceability management system for the mussel supply chain,,,,,1,,,,2008,30
+763,Estudo de Protocolos de Roteamento em Redes Ad Hoc,,,,,1,,,,2005,30
+764,Karla Maria Garcia,,,,,0,,,,2007,30
+765,GUILHERME ARTUR FUCKS MARTINS,,,,,0,,,,2004,30
+766,Agentes coletores para grids de agentes na Gerência de Redes de computadores,,,,,0,,,,2003,30
+767,Departamento de Informática e de Estatística,,,,,0,,,,,30
+768,SGD–SISTEMA DE GESTÃO DE DOCENTES,,,,,0,,,,,30
+769,Curso de Graduação em Sistemas de Informação,,,,,0,,,,,30
+770,A Framework for Distributed Multimedia Applications based on CORBA and Integrated Services Networks,,,,,14,,,,1998,6
+771,The Design of a Generic QoS Architecture for Open Systems,,,,,11,,,,1997,6
+772,Composition of heterogeneous web services: A systematic review,,,,,9,,,,2019,6
+773,Extending the SDSI/SPKI model through federation webs,,,,,9,,,,2003,6
+774,Redes de confiança em sistemas de objetos CORBA,,,,,4,,,,2003,6
+775,OntoGenesis: an architecture for automatic semantic enhancement of data services,,,,,3,,,,2019,6
+776,Componentes em um esquema de tolerância a faltas adaptativa,,,,,3,,,,2003,6
+777,Semantic data-driven microservices,,,,,2,,,,2019,6
+778,From a Smart House to a Connected City: Connecting Devices Services Everywhere,,,,,2,,,,2016,6
+779,Universidade Federal de Santa Catarina,,,,,2,,,,2012,6
+780,Data Linking as a Service: An Infrastructure for Generating and Publishing Linked Data on the Web,,,,,1,,,,2020,6
+781,Semantic Enrichment of Services for Linked Data Provision in SOA,,,,,1,,,,2019,6
+782,A Domain-specific Language for Automated Fault Injection in SystemC Models,,,,,1,,,,2018,6
+783,Integração de Sistemas Embutidos utilizando Web Services,,,,,1,,,,2004,6
+784,Extending the Integrity Constraint Support in a Graph Database,,,,,0,,,,2021,6
+785,Modeling and Enforcing Integrity Constraints on Graph Databases,,,,,0,,,,2020,6
+786,EdgeScaler: effective elastic scaling for graph stream processing systems,,,,,0,,,,2020,6
+787,Scalable precondition-aware service composition with SPARQL,,,,,0,,,,2019,6
+788,Enriquecimento Semântico de Serviços para Provimento de Dados Conectados em SOA,,,,,0,,,,2019,6
+789,Providing Data Integrity in Graph Databases,,,,,0,,,,2019,6
+790,Memorial de Atividades Acadêmicas,,,,,0,,,,2017,6
+791,Integração entre HTML 5 e JSF 2.0 em Aplicações Web Offline,,,,,0,,,,2008,6
+792,CRM analítico e ferramentas de Business Intelligence na gerência de eventos técnico-científicos,,,,,0,,,,2006,6
+793,SCRG-Sistema de Coleta de Recursos em Grid utilizando Globus Toolkit 4,,,,,0,,,,2006,6
+794,UNIVERSIDADE FEDERAL DE SANTA CATARINA-UFSC,,,,,0,,,,,6
+795,Projeto SIAP-F–Camada Lógica Sistemas de Informação de Acompanhamento de Pedidos FRAMEWORK,,,,,0,,,,,6
+796,1) Identificação,,,,,0,,,,,6
+797,PROPOSTA DE TRABALHO DE CONCLUSÃO DE CURSO,,,,,0,,,,,6
+798,Rede Peer-to-Peer de gateways VoIP utilizando o padrão SIP.,,,,,0,,,,,6
+799,SCC 2016 Organizing Committee,,,,,0,,,,,6
+800,Livro de Minicursos SBRC 2016,,,,,0,,,,,6
+801,Composição de Microservices Semânticos,,,,,0,,,,,6
+802,Critical Systems Track,,,,,0,,,,,6
+803,Federação de Clouds e Atributos de Segurança,,,,,0,,,,,6
+804,Message from the General Co-chairs,,,,,0,,,,,6
+805,CORBA,,,,,0,,,,,6
+806,FERRAMENTA DE AUXÍLIO À COMUNICAÇÃO E AO DESENVOLVIMENTO COLABORATIVO,,,,,0,,,,,6
+807,Approaches to assess computational thinking competences based on code analysis in K-12 education: A systematic mapping study,,,,,22,,,,2019,8
+808,Teaching machine learning in school: A systematic mapping of the state of the art,,,,,19,,,,2020,8
+809,Learning user interface design and the development of mobile applications in middle school,,,,,7,,,,2019,8
+810,Risk management: achieving higher maturity & capability levels through the LEGO approach,,,,,7,,,,2016,8
+811,A large-scale evaluation of a rubric for the automatic assessment of algorithms and programming concepts,,,,,6,,,,2020,8
+812,Uma análise do sequenciamento pedagógico no ensino de computação na educação básica,,,,,5,,,,2019,8
+813,Formação Continuada de Professores para o Ensino de Algoritmos e Programação na Educação Básica: Um Estudo de Mapeamento Sistemático,,,,,4,,,,2020,8
+814,Automated assessment of the visual design of Android apps developed with App Inventor,,,,,4,,,,2020,8
+815,Machine Learning for All–Introducing Machine Learning in K-12,,,,,4,,,,2020,8
+816,Desenvolvimento e Avaliação de um Jogo de Tabuleiro para Ensinar o Conceito de Algoritmos na Educação Básica,,,,,4,,,,2019,8
+817,Do we agree on user interface aesthetics of Android apps?,,,,,4,,,,2018,8
+818,Hybriding CMMI and Requirement Engineering Maturity & Capability Models-Applying the LEGO Approach for Improving Estimates,,,,,4,,,,2012,8
+819,Estado da prática do design visual de aplicativos móveis desenvolvidos com App Inventor,,,,,3,,,,2020,8
+820,Effectiveness of Games in Software Project Management Education: An Experimental Study,,,,,3,,,,2019,8
+821,SplashCode--A Board Game for Learning an Understanding of Algorithms in Middle School.,,,,,3,,,,2019,8
+822,Ensinando design de interface de usuário de aplicativos móveis no ensino fundamental,,,,,2,,,,2020,8
+823,Como as organizações de software tem utilizado a Norma ISO/IEC 29110: Um Mapeamento Sistemático,,,,,2,,,,2019,8
+825,Towards a capability and maturity model for Collaborative Software-as-a-Service.,,,,,1,,,,2020,8
+826,Ferramentas Visuais para o Ensino de Machine Learning na Educação Básica,,,,,1,,,,2020,8
+827,Evolução da ferramenta App Inventor para suportar o ensino de design interface na Educação Básica,,,,,1,,,,2019,8
+828,CodeMaster UI design-app inventor: a rubric for the assessment of the interface design of Android apps developed with app inventor,,,,,1,,,,2019,8
+829,UPCASE-A Method for Self-Assessing the Capability of the Usability Process in Small Organizations,,,,,1,,,,2019,8
+830,A mapping study on software process self-assessment methods,,,,,1,,,,2018,8
+831,dETECT-Um Modelo para a Avaliação de Unidades Instrucionais para o Ensino de Computação na Educação Básica,,,,,1,,,,2017,8
+832,Desenvolvimento de uma unidade instrucional interdisciplinar para ensinar computação no ensino fundamental,,,,,1,,,,2016,8
+833,Prefácio e Organização,,,,,0,,,,2021,8
+834,Visual tools for teaching machine learning in K-12: A ten-year systematic mapping,,,,,0,,,,2021,8
+835,An Item Response Theory Analysis of Algorithms and Programming Concepts in App Inventor Projects,,,,,0,,,,2021,8
+836,Automatic code generation from sketches of mobile applications in end-user development using Deep Learning,,,,,0,,,,2021,8
+837,O protagonismo de estudantes da Educação Básica a partir do desenvolvimento de aplicativos para smartphone,,,,,0,,,,2021,8
+838,Formação Continuada de Professores da Educação Básica para o Ensino de Algoritmos e Programação,,,,,0,,,,2020,8
+839,Análise do Nível de Dificuldade dos Conceitos de Design de Interface de Usuário usando a Teoria de Resposta ao Item,,,,,0,,,,2020,8
+840,Ensino de Machine Learning na Educação Básica: um Mapeamento Sistemático do Estado da Arte,,,,,0,,,,2020,8
+841,How do agile software development organizations manage risks: results from a systematic literature mapping,,,,,0,,,,2020,8
+842,How software organizations are using the ISO/IEC 29110 standard's processes: a survey of the state of the art and practice,,,,,0,,,,2020,8
+843,Teaching Programming to Novices: A Large-scale Analysis of App Inventor Projects,,,,,0,,,,2020,8
+844,Recent Progress in Automated Code Generation from GUI Images Using Machine Learning Techniques.,,,,,0,,,,2020,8
+845,Ensino de Design Visual de Aplicativos Móveis no Ensino Fundamental,,,,,0,,,,2020,8
+846,An Item Response Theory Analysis of the Sequencing of Algorithms & Programming Concepts,,,,,0,,,,2020,8
+847,Automating the Assessment of Algorithms and Programming Concepts in App Inventor Projects in Middle School,,,,,0,,,,2020,8
+848,Um Modelo de Avaliação do Pensamento Computacional na Educação Básica através da Análise de Código de Linguagem de Programação Visual,,,,,0,,,,2019,8
+849,Apoiando Organizações de Software na Melhoria de Processos com a Norma ISO/IEC 29110,,,,,0,,,,2019,8
+850,Relatórios Técnicos do INCoD,,,,,0,,,,2011,8
+851,Aplicação dos conceitos de persistência Objeto-Relacional,,,,,0,,,,2001,8
+852,"Call for Papers—Special Issue on Project-Based, Senior Design, and Capstone Courses in Engineering Education.............. 158 Call for Papers—Special Issue on Using Design …",,,,,0,,,,,8
+853,UWS Academic Portal,,,,,0,,,,,8
+854,Blockchain and smart contracts for higher education registry in Brazil,,,,,29,,,,2019,9
+855,Why should we analyse security ceremonies,,,,,14,,,,2010,9
+856,Projeto de um provedor de serviços criptográficos embarcado para infra-estrutura de chaves públicas e suas aplicações,,,,,8,,,,2005,9
+857,Tuning the Winternitz hash-based digital signature scheme,,,,,6,,,,2018,9
+858,Campus regenerative design supported by university Wi-Fi connections,,,,,4,,,,2019,9
+859,Daemones non operantur nisi per artem,,,,,4,,,,2018,9
+860,"A importância da inovação na gestão de processos administrativos da Universidade Pública, por meio da implementação da Tecnologia de Certificação Digital",,,,,4,,,,2017,9
+861,Project of a hardware security module focused on public key infrastructures and its applications,,,,,4,,,,2005,9
+862,Privacy preserving on trajectories created by Wi-Fi connections in a university campus,,,,,2,,,,2018,9
+863,Accurate and decentralized timestamping using smart contracts on the Ethereum blockchain,,,,,1,,,,2021,9
+864,Fraud Prevention Within the Brazilian Governmental Public-Key Infrastructure,,,,,1,,,,2020,9
+865,Digital Degree Certificates for Higher Education in Brazil: A Technical Policy Specification,,,,,1,,,,2019,9
+866,Verification of security protocols based on multicast communication,,,,,1,,,,2012,9
+867,Verification of security protocols based on multicast communication,,,,,1,,,,2011,9
+868,Funcionalidades para modelo de aplicativo de smartphone para prevenção do comportamento suicida,,,,,0,,,,2021,9
+869,Steganographic Analysis of Blockchains,,,,,0,,,,2021,9
+870,Bitcoin Blockchain Steganographic Analysis,,,,,0,,,,2020,9
+871,SRVB cryptosystem: another attempt to revive Knapsack-based public-key encryption schemes,,,,,0,,,,2020,9
+872,Perspectives for IoT-Based Integration of Distributed and Automated Manufacturing Lines for Mass Customization,,,,,0,,,,2020,9
+873,F2MH Cryptosystem: Preliminary analysis of an original attempt to revive Knapsack-based public-key encryption schemes,,,,,0,,,,2020,9
+874,CoAP+ DTLS: A Comprehensive Overview of Cryptographic Performance on an IOT Scenario,,,,,0,,,,2020,9
+875,A Transparent and Privacy-Aware Approach Using Smart Contracts for Car Insurance Reward Programs,,,,,0,,,,2019,9
+876,Certiﬁcado Digital Acadêmico na Nuvem,,,,,0,,,,2019,9
+877,Anonimização de Dados de Trajet órias em Grupos para Disponibilização á Pesquisa Universitária,,,,,0,,,,2018,9
+878,"A GESTÃO UNIVERSITÁRIA EM UMA PERSPECTIVA SÓCIO-TÉCNICA SOBRE O USO DA CERTIFICAÇÃO DIGITAL EM NUVEM NA UNIVERSIDADE FEDERAL DE SANTA CATARINA, SEGUNDO AS NORMATIVAS 06 E 10 DE …",,,,,0,,,,2018,9
+879,Daemones Non Operantur Nisi Per Artem,,,,,0,,,,2018,9
+880,The Ever Changing Threat Model: A Social-Technical Perspective,,,,,0,,,,2013,9
+881,The Ever Changing Threat Model,,,,,0,,,,2013,9
+882,Ata da 748ª Sessão de Defesa de ME,,,,,0,,,,2012,9
+883,Group Protocols for Secure and Energy-efficient IoT Sensors Networks,,,,,0,,,,,9
+884,The Teacher’s Guide to the Virtual Programming Lab,,,,,0,,,,,9
+885,Autenticação Multi-Fator para Telemedicina usando Dispositivos Móveis e Senhas Descartáveis Multi-Factor Authentication for Telemedicine using Mobile Devices and One-Time …,,,,,0,,,,,9
+886,STAST 2014 Program Committee,,,,,0,,,,,9
+887,STAST 2012,,,,,0,,,,,9
+888,Formalisation of Security Protocols involving Multicast,,,,,0,,,,,9
+889,Audit and backup operations in the OpenHSM,,,,,0,,,,,9
+890,Navegação de robôs móveis autônomos: estudo implementação de abordagens,,,,,27,,,,2001,31
+891,Sigon: A multi-context system framework for intelligent agents,,,,,8,,,,2019,31
+892,An embodied logical model for cognition in artificial cognition systems,,,,,3,,,,2007,31
+893,A Fuzzy-Dynamic Bayesian Network Approach for Inference Filtering,,,,,1,,,,2019,31
+894,Clasificadores basados en reglas y selección de atributos para el diagnóstico clınico de subtipos del Sındrome de Guillain-Barré,,,,,0,,,,2020,31
+895,Data Fusion through Fuzzy-Bayesian Networks for Belief Generation in Cognitive Agents,,,,,0,,,,2019,31
+896,Uma Proposta Preliminar de Sıntese Automática de Normas para Sistemas Multiagente,,,,,0,,,,,31
+897,Composição de Agentes EBDI: Integração WASABI-Jason Composing EBDI Agents through WASABI-Jason Intregration,,,,,0,,,,,31
+898,"Segunda Ediçao dos Anais do VI Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCaçoes—WESAAC 2012—",,,,,0,,,,,31
+899,Asynchronous circuits design: An architectural approach,,,,,12,,,,2003,7
+900,Energy-efficient Hadamard-based SATD hardware architectures through calculation reuse,,,,,7,,,,2019,7
+901,How Game Engines Can Inspire EDA Tools Development: A use case for an open-source physical design library,,,,,6,,,,2017,7
+902,Relying on a rate constraint to reduce motion estimation complexity,,,,,1,,,,2021,7
+903,How deep learning can drive physical synthesis towards more predictable legalization,,,,,1,,,,2019,7
+904,Algoritmo de eliminações sucessivas em níveis baseado na soma das diferenças transformadas absolutas,,,,,1,,,,2017,7
+905,Componentes de um Computador e Arquiteturas Convencionais,,,,,1,,,,2003,7
+906,Eliminação de Candidatos Baseada em Taxa para Algoritmos de Estimação de Movimento na Codificação de Vídeo,,,,,0,,,,2021,7
+907,EDAS2020: IEEE CASS/CEDA Seasonal School on Electronic Design Automation [CAS Society News],,,,,0,,,,2021,7
+908,Design of Energy-efficient Gaussian Filters by Combining Refactoring and Approximate Adders,,,,,0,,,,2021,7
+909,Algorithm Selection Framework for Legalization Using Deep Convolutional Neural Networks and Transfer Learning,,,,,0,,,,2021,7
+910,Standalone Rate-Distortion FME Architecture,,,,,0,,,,2020,7
+911,Timing Optimization During the Physical Synthesis of Cell-Based VLSI Circuits,,,,,0,,,,2017,7
+912,Memorial de Atividades Acadêmicas,,,,,0,,,,2014,7
+913,Alocação de dados e de código em memórias embarcadas: uma aborgagem pós-compilação,,,,,0,,,,2013,7
+914,Projeto de um Controlador de Acesso Direto à Memória de Multi Canais,,,,,0,,,,2010,7
+915,Um algoritmo baseado em BDDS para o cálculo do atraso funcional de blocos combinacionais.,,,,,0,,,,2003,7
+916,Tictac:: brutus-um sistema distribuído para análise de atraso de circuitos digitais numa rede heterogênea.,,,,,0,,,,2003,7
+917,Logic and high level synthesis for communication protocols,,,,,0,,,,1999,7
+918,Path Sensitization for Performance Optimization,,,,,0,,,,1997,7
+919,MARLA: o assinalador de células do projeto MARCELA,,,,,0,,,,1993,7
+920,"MONCIF, Montagem automática de leiautes MARCELA",,,,,0,,,,1993,7
+921,COURSE PLAN,,,,,0,,,,,7
+922,Arquitetura e Organização de Computadores I,,,,,0,,,,,7
+923,"Carlos Galup Universidade Federal de Santa Catarina, Brazil",,,,,0,,,,,7
+924,1) Identificação,,,,,0,,,,,7
+925,An Evolutive Approach for Designing Thermal and Performance-Aware Heterogeneous 3D-NoCs,,,,,0,,,,,7
+926,Aula 8-T,,,,,0,,,,,7
+927,Letícia BOLZANI Luciano CAIMI Luiz Filipe VIEIRA Luz BALADO,,,,,0,,,,,7
+928,Sistemas Digitais,,,,,0,,,,,7
+929,Tutorials Chair,,,,,0,,,,,7
+930,H. 264/AVC,,,,,0,,,,,7
+931,Programação I,,,,,0,,,,,7
+932,Sesión 3c: Procesado de Señal,,,,,0,,,,,7
+933,Verificação de soluções numéricas unidimensionais em dinâmica dos fluidos,,,,,57,,,,2001,32
+934,Hybrid approach to intrusion detection in fog-based IoT environments,,,,,14,,,,2020,32
+935,Programação em JAVA,,,,,10,,,,2008,32
+936,Autonomic intrusion detection and response using big data,,,,,6,,,,2019,32
+937,"JBM; Boavida, F.,“6GLAD: IPv6 Global to Link-layer ADdress Translation for 6LoWPAN Overhead Reducing”, Next Generation Internet Networks, 2008",,,,,5,,,,2008,32
+938,Evolutionary Algorithms.,,,,,2,,,,2005,32
+939,Uma linguagem para especificação de sistemas distribuidos em alto nivel de abstração,,,,,2,,,,1996,32
+940,Computação Quântica: Aspectos Físicos e Matemáticos-Uma Abordagem Algébrica,,,,,0,,,,2019,32
+941,Autonomic Intrusion Response in Distributed Computing using Big Data,,,,,0,,,,2018,32
+942,9 (th) I2TS 2010,,,,,0,,,,2011,32
+943,Introduction of I2TS 2009 and LatinCom 2009,,,,,0,,,,2010,32
+944,"I2TS 2009, 8 (th) International Information and Telecommunication Technologies Symposium",,,,,0,,,,2010,32
+945,"I2TS 2008, 7thinternational information and telecommunication technologies symposium",,,,,0,,,,2009,32
+946,Um Cliente de Webmail para ser acessado em Celulares,,,,,0,,,,2007,32
+947,Karla Maria Garcia,,,,,0,,,,2007,32
+948,Ferramenta Colaborativa para Groupware,,,,,0,,,,2005,32
+949,"Attanasio, A., J.-F. Cordeau, G. Ghiani and G. Laporte, Parallel Tabu search heuristics for",,,,,0,,,,2004,32
+950,Avaliação para a Instrução Baseada na Web utilizando portfólios eletrônicos,,,,,0,,,,2003,32
+951,Utilização de agentes para definição e alteração de bancos de dados heterogêneos,,,,,0,,,,2003,32
+952,Agentes Móveis na Gerência de Redes,,,,,0,,,,2002,32
+953,QoS e Soluções Avançadas em Redes ATM aplicadas a redes coorporativas,,,,,0,,,,2002,32
+954,SGD–SISTEMA DE GESTÃO DE DOCENTES,,,,,0,,,,,32
+955,"ArchCollect: An architecture for collecting, transforming, loading and displaying web users interactions",,,,,0,,,,,32
+956,Departamento de Informática e de Estatística,,,,,0,,,,,32
+957,Departamento de Informática e de Estatística,,,,,0,,,,,32
+958,"01. IDENTIFICAÇÃO DAS DISCIPLINAS INE5380–Tópicos Especiais em Software Básico II–CCO Tema: Software de Código Móvel, Agentes de Software e Tecnologias Relacionadas Carga …",,,,,0,,,,,32
+959,Simulação de cenários em Redes Ad-Hoc,,,,,0,,,,,32
+960,Günter Heinrich Herweg Filho,,,,,0,,,,,32
+961,EagerMap: a task mapping algorithm to improve communication and load balancing in clusters of multicore systems,,,,,14,,,,2019,36
+962,Charm++ on NUMA Platforms: the impact of SMP Optimizations and a NUMA-aware Load Balancer,,,,,10,,,,2010,36
+963,Topology-Aware Load Balancing for Performance Portability over Parallel High Performance Systems,,,,,7,,,,2014,36
+964,How Game Engines Can Inspire EDA Tools Development: A use case for an open-source physical design library,,,,,6,,,,2017,36
+965,Análise de desempenho da arquitetura CUDA utilizando os NAS parallel benchmarks,,,,,3,,,,2009,36
+966,Adaptive Load Balancing based on Machine Learning for Iterative Parallel Applications,,,,,2,,,,2020,36
+967,On server-side file access pattern matching,,,,,2,,,,2019,36
+968,Optimal Task Assignment for Heterogeneous Federated Learning Devices,,,,,1,,,,2021,36
+969,Online Thread and Data Mapping Using a Sharing-Aware Memory Management Unit,,,,,1,,,,2021,36
+970,How Deep Learning Can Drive Physical Synthesis Towards More Predictable Legalization,,,,,1,,,,2019,36
+971,Basics of Vectorization for Fortran Applications,,,,,1,,,,2018,36
+972,The Path to Exascale: Code Optimizations and Hardening Solutions Reliability,,,,,1,,,,2015,36
+973,Algorithm Selection Framework for Legalization Using Deep Convolutional Neural Networks and Transfer Learning,,,,,0,,,,2021,36
+974,ARTful: A model for user-defined schedulers targeting multiple high-performance computing runtime systems,,,,,0,,,,2021,36
+975,PackStealLB: A scalable distributed load balancer based on work stealing and workload discretization,,,,,0,,,,2021,36
+976,Mapping Matters: Application Process Mapping on 3-D Processor Topologies,,,,,0,,,,2020,36
+977,ARTful: A specification for user-defined schedulers targeting multiple high-performance computing runtime systems,,,,,0,,,,2020,36
+978,Distributed Memory Graph Representation for Load Balancing Data: Accelerating Data Structure Generation for Decentralized Scheduling,,,,,0,,,,2019,36
+979,Samsara Architecture: Exploring Situation Awareness in Cloud Computing Management,,,,,0,,,,2018,36
+980,Exploração de paralelismo na etapa de legalização de circuitos digitais através do uso de estruturas de dados geométricas,,,,,0,,,,2018,36
+981,Meta-modelo de soluções paralelas visando a reutilização e portabilidade de componentes,,,,,0,,,,2018,36
+982,Avaliação preliminar dos tempos de requisições de memória sobre o conjunto de benchmarks MediaBench,,,,,0,,,,2018,36
+983,Em Direção a Soluções Distribuídas para Balanceamento de Carga Ciente de Comunicação,,,,,0,,,,2018,36
+984,Ophidian: an Open-Source Library for Physical Design Research and Teaching,,,,,0,,,,2018,36
+985,Communication Cost-Aware Load Balancing for Architectures with Asymetric Performance Behavior,,,,,0,,,,2012,36
+986,ComprehensiveBench: Um Benchmark Flexível para Avaliação de Balanceadores de Carga no Ambiente de Programação Charm+,,,,,0,,,,,36
+987,RT‐JADE: A preemptive real‐time scheduling middleware for mobile agents,,,,,5,,,,2019,10
+988,HRM smart contracts on the blockchain,,,,,5,,,,2019,10
+989,HRM smart contracts on the blockchain: emulated vs native,,,,,4,,,,2020,10
+990,Incorporating the Raft consensus protocol in containers managed by Kubernetes: An evaluation,,,,,3,,,,2020,10
+991,An analytical model to estimate the state of charge and lifetime for batteries with energy harvesting capabilities,,,,,2,,,,2020,10
+992,Generating timetables of work scales for companies using genetic algorithms,,,,,2,,,,2012,10
+993,RDFM: Resilient Distributed Factorization Machines,,,,,1,,,,2019,10
+994,SurfOpt: A New Surface Method for Optimizing the Classification of Imbalanced Dataset.,,,,,1,,,,2019,10
+995,Policy-Based Adaptation of a Byzantine Fault Tolerant Distributed Graph Database,,,,,1,,,,2018,10
+996,Dagora: Um Mercado Virtual Baseado em Side-Chains,,,,,0,,,,2021,10
+997,Reappropriation of Centrality and the Reproduction of Relationality in Emerging Core Urban Spaces,,,,,0,,,,2020,10
+998,Efficient Fault-Tolerant Transactions for Distributed Graph Database,,,,,0,,,,2019,10
+999,RT-WiFi Approach to Handle Real-Time Communication: An Experimental Evaluation,,,,,0,,,,2019,10
+1000,Constantino: Uma Arquitetura BFT Escalável e Eficiente para Blockchains,,,,,0,,,,2019,10
+1001,Avaliação experimental do protocolo RT-WiFi em ambientes abertos,,,,,0,,,,2019,10
+1002,Providing Data Integrity in Graph Databases,,,,,0,,,,2019,10
+1003,"Aciu, Razvan 225 Aciu, Razvan-Mihai 1 Ahmed, Boubakeur 53 Améziane, Aoussat 523",,,,,0,,,,2013,10
+1004,Ata da 282ª Sessão de Defesa de ME,,,,,0,,,,2012,10
+1005,SBESC 2020 Organizing Committee,,,,,0,,,,,10
+1006,"Pitthan de Araújo Barcelos, Patrícia 261 Quema, Vivien 241 Quéma, Vivien 191",,,,,0,,,,,10
+1007,ISORC 2012,,,,,0,,,,,10
+1008,Joint Bayesian inversion based on rock-physics prior modeling for the estimation of spatially correlated reservoir properties,,,,,30,,,,2018,45
+1009,Gaussian mixture Markov chain Monte Carlo method for linear seismic inversion,,,,,23,,,,2019,45
+1010,Emergência da inteligência em agentes autônomos através de modelos inspirados na natureza,,,,,17,,,,1998,45
+1011,Redes Neurais Artificiais: um breve tutorial,,,,,15,,,,2003,45
+1012,Optimization models and prediction of drilling rate (ROP) for the Brazilian pre-salt layer,,,,,14,,,,2013,45
+1013,Multimodal Markov chain Monte Carlo method for nonlinear petrophysical seismic inversion,,,,,13,,,,2019,45
+1014,Spatial interpolation: an analytical comparison between kriging and RBF networks,,,,,11,,,,2013,45
+1015,Acoustic impedance deblurring with a deep convolution neural network,,,,,5,,,,2018,45
+1016,First results from a Brazilian mCSEM calibration campaign,,,,,4,,,,2013,45
+1017,Impact of seismic-inversion parameters on reservoir pore volume and connectivity,,,,,3,,,,2018,45
+1018,Brazil-VR 09 Team Description Paper,,,,,3,,,,2008,45
+1019,Autenticação contínua pela dinâmica da digitação usando máquinas de comitê,,,,,3,,,,2005,45
+1020,Combined convolutional neural network for high frequency restoration in acoustic impedance images,,,,,2,,,,2018,45
+1021,Uma análise das teorias clássicas de aprendizado quando aplicadas ao ensino com computador,,,,,2,,,,2001,45
+1022,Fundamentos de Matem atica Aplicada a Inform atica,,,,,2,,,,1998,45
+1023,Efficient 3D Semantic Segmentation of Seismic Images using Orthogonal Planes 2D Convolutional Neural Networks,,,,,1,,,,2020,45
+1024,Bayesian elastic facies inversion applied to Lula field,,,,,1,,,,2019,45
+1025,Filter pruning for efficient transfer learning in deep convolutional neural networks,,,,,1,,,,2019,45
+1026,Adaptive missing data imputation with incremental Neuro-Fuzzy gaussian mixture network (INFGMN),,,,,1,,,,2018,45
+1027,Resposta biológica gerada por um artefato robótico,,,,,1,,,,2002,45
+1028,Comportamento Perceptivo Visual: da Biologia à Robótica,,,,,1,,,,2002,45
+1029,Introdução ao Estudo das Redes Neurais Artificiais,,,,,1,,,,1999,45
+1030,Redes de comunicação de dados em ambiente industrial,,,,,1,,,,1988,45
+1031,Multi-view 3D seismic facies classifier,,,,,0,,,,2021,45
+1032,Deep Recurrent Neural Networks Approach to Sedimentary Facies Classification Using Well Logs,,,,,0,,,,2021,45
+1033,Direct Multivariate Simulation-A stepwise conditional transformation for multivariate geostatistical simulation,,,,,0,,,,2021,45
+1034,Hydrogeochemical spatialization and controls of the Serra Geral Aquifer System in southern Brazil: A regional approach by self-organizing maps and k-means clustering,,,,,0,,,,2020,45
+1035,Markov chain Monte Carlo methods for high-dimensional mixture distributions,,,,,0,,,,2019,45
+1036,Petroleum Reservoir Connectivity Patterns Reconstruction Using Deep Convolutional Generative Adversarial Networks,,,,,0,,,,2018,45
+1037,Smart Crawler: Using Committee Machines for\Web Pages Continuous Classification,,,,,0,,,,2015,45
+1038,Técnicas Inteligentes para Análise de Agrupamento de Dados,,,,,0,,,,2010,45
+1039,"Development of an onboard reactive architecture for intelligent autonomous agents, applied to robot soccer/Desenvolvimento de uma arquitetura embarcada reativa para agentes …",,,,,0,,,,2009,45
+1040,"Desenvolvimento de uma arquitetura embarcada reativa para agentes autônomos inteligentes, aplicada ao futebol de robôs",,,,,0,,,,2009,45
+1041,Revisores,,,,,0,,,,2008,45
+1042,ESTUDO DE MÉTODOS PARA FLEXIBILIZAÇÃO DE COMPORTAMENTOS EM JOGOS DE ESTRATÉGIA EM TEMPO REAL.,,,,,0,,,,2008,45
+1043,SPINS–Um Simulador Neural para Visualização de Aspectos de Aprendizado utilizando Neurônios Spiking,,,,,0,,,,2005,45
+1044,Dênis Schneider Strassmann,,,,,0,,,,2004,45
+1045,Um sistema especialista para o auxilio a elaboração de sistemas educacionais,,,,,0,,,,2003,45
+1046,Um estudo sobre a aplicabilidade de redes neurais em criptografia,,,,,0,,,,2001,45
+1047,Representação Gramatical Nebulosa Livre de Contexto,,,,,0,,,,,45
+1048,PERCEPÇÃO ROBÓTICA: ALÉM DOS ORGANISMOS CELULARES,,,,,0,,,,,45
+1049,1) Identificação,,,,,0,,,,,45
+1050,ARTIGO DE DESCRICAO DA ESTRATÉGIA DA EQUIPE UFSC-TEAM NA LIGA SMALL-SIZE (F-180) DA ROBOCUP,,,,,0,,,,,45
+1051,INE5430 Inteligência Artificial,,,,,0,,,,,45
+1052,Lista de Abreviaturas,,,,,0,,,,,45
+1053,Representação Gramatical Nebulosa Livre de Contexto,,,,,0,,,,,45
+1054,A Comprehensive Performance Evaluation of the BinLPT Workload-Aware Loop Scheduler,,,,,9,,,,2019,43
+1055,On the performance and isolation of asymmetric microkernel design for lightweight manycores,,,,,7,,,,2019,43
+1056,Improving the Performance of Transactional Memory Applications on Multicores: A Machine Learning-based Approach,,,,,5,,,,2012,43
+1057,Adaptive load balancing based on machine learning for iterative parallel applications,,,,,2,,,,2020,43
+1058,Mecanismos de Comunicação entre Clusters para Lightweight Manycores no Nanvix OS,,,,,1,,,,2020,43
+1059,ARTful: A specification for user-defined schedulers targeting multiple HPC runtime systems,,,,,1,,,,2020,43
+1060,Rmem: An os service for transparent remote memory access in lightweight manycores,,,,,1,,,,2019,43
+1061,Inter-kernel communication facility of a distributed operating system for NoC-based lightweight manycores,,,,,0,,,,2021,43
+1062,ARTful: A model for user‐defined schedulers targeting multiple high‐performance computing runtime systems,,,,,0,,,,2021,43
+1063,PackStealLB: A scalable distributed load balancer based on work stealing and workload discretization,,,,,0,,,,2021,43
+1064,A trace-driven methodology to evaluate and optimize memory management services of distributed operating systems for lightweight manycores,,,,,0,,,,2021,43
+1065,Dynamic power management under the RUN scheduling algorithm: a slack filling approach,,,,,0,,,,2021,43
+1066,Co-Designing Clusters of Lightweight Manycores and Asymmetric Operating System Kernels,,,,,0,,,,2020,43
+1067,Enhancing Programmability in NoC-Based Lightweight Manycore Processors with a Portable MPI Library,,,,,0,,,,2020,43
+1068,Proposta de Suporte ao Padrão MPI sobre Infraestrutura de Comunicação de Baixo Nı́vel no Nanvix,,,,,0,,,,2020,43
+1069,Minicursos da XX Escola Regional de Alto Desempenho da Região Sul,,,,,0,,,,2020,43
+1070,Évaluation par compétences et préparation à l'évaluation,,,,,0,,,,2019,43
+1071,"Foreword to the special issue of the workshop on high performance computing systems (XVIII Simpósio em Sistemas Computacionais de Alto Desempenho, WSCAD 2017)",,,,,0,,,,2019,43
+1072,Otimização de Aplicações do CAP Bench para o Processador MPPA-256,,,,,0,,,,2019,43
+1073,Impacto de Abstrações IPC sobre o Processador MPPA-256,,,,,0,,,,2019,43
+1074,Distributed Memory Graph Representation for Load Balancing Data: Accelerating Data Structure Generation for Decentralized Scheduling,,,,,0,,,,2019,43
+1075,An OS Service for Transparent Remote Memory Accesses in NoC-Based Lightweight Manycores,,,,,0,,,,2018,43
+1076,Optimisation de la performance des applications de mémoire transactionnelle sur des plates-formes multicoeurs: une approche basée sur l'apprentissage automatique,,,,,0,,,,2012,43
+1077,"Víctor Martínez, Fabrice Dupros",,,,,0,,,,,43
+1078,Message from the General Chair Organizing Committee Technical Program Committee Acknowledgements,,,,,0,,,,,43
+1079,Informativo da area de economia e sistemas: modelo fisico de producao e leite da EMBRAPA-CNPGL.,,,,,0,,,,,43
+1080,WSCAD 2018 Program Committee and Reviewers,,,,,0,,,,,43
+1081,Desenvolvimento de Aplicações Paralelas Eficientes com OpenMP,,,,,0,,,,,43
+1082,EnergyLB-saving energy while load balancing on HPC systems,,,,,0,,,,,43
+1083,RMI: Uma Visão Conceitual,,,,,0,,,,,43
+1084,GALS - Gerador de Analisadores Léxicos e Sintáticos,,,,,30,,,,2002,11
+1085,Linguagens Formais e Compiladores,,,,,12,,,,2002,11
+1086,Sistemas de Informação no Brasil-Desafios e Oportunidades,,,,,5,,,,2009,11
+1087,Geração Automática de Ferramentas para ASIPs a partir de Linguagem de Descrição de Arquiteturas,,,,,2,,,,2005,11
+1088,Geração de código para a máquina virtual LLVM a partir de programas escritos na linguagem de programação JAVA (Tradutor Java-LLVM),,,,,0,,,,2008,11
+1089,Proposta de programa de ações afirmativas para ampliação do acesso à Universidade Federal de Santa Catarina com diversidade socioeconômica e étnico-racial,,,,,0,,,,2006,11
+1090,Desenvolvendo aplicaçoes tempo real utilizando JavaRTR,,,,,0,,,,2004,11
+1091,EXPAND II : UM TRADUTOR PARA UMA LINGUAGEM EXTENSÍVEL ATRAVÉS DE MACROS SINTÁTICAS,,,,,0,,,,1984,11
+1092,A comprehensive performance evaluation of the BinLPT workload‐aware loop scheduler,,,,,9,,,,2019,47
+1093,"A survey on data stream, big data and real-time",,,,,9,,,,2019,47
+1094,A real-time fog computing approach for healthcare environment,,,,,4,,,,2018,47
+1095,A proposal for a healthcare environment with a real-time approach,,,,,2,,,,2020,47
+1096,Smart Comm: a smart home middleware supporting information exchange,,,,,2,,,,2018,47
+1097,Mecanismos de previsão de perda de deadline para sistemas baseados em threads distribuídas tempo real,,,,,2,,,,2008,47
+1098,Computational Capacity Analysis of Platforms for Low-Cost Autonomous Ultraviolet Germicidal Robots,,,,,0,,,,2021,47
+1099,Multi-Constrained Voronoi-Based Task Allocator for Smart-Warehouses,,,,,0,,,,2021,47
+1100,Orquestração de Aplicações de Computação de Alta Performance em Ambientes Cloud Conteinerizados,,,,,0,,,,2021,47
+1101,Dynamic power management under the RUN scheduling algorithm: a slack filling approach,,,,,0,,,,2021,47
+1102,An Approach of Time Constraint of Data Intensive Scalable in e-Health Environment,,,,,0,,,,2020,47
+1103,A Behavior Tree Designing Tool for Online Evaluation,,,,,0,,,,2020,47
+1104,Autonomous mobile robot using distance and priority as logistics task cost,,,,,0,,,,2020,47
+1105,Development of a Generic Framework for Multi-robot Systems,,,,,0,,,,2020,47
+1106,"A Survey on Data Stream, Big Data and Real-Time",,,,,0,,,,2017,47
+1107,SBESC 2020 Organizing Committee,,,,,0,,,,,47
+1108,Use of IoT to Real-time Monitoring of Storage Silo and Ozone Gas Fungal Decontamination Strategy,,,,,0,,,,,47
+1109,Program Committee Achim Rettberg (Uni. of Applied Science Hamm/Lippstadt & Uni. Oldenburg) Alex Borges (Universidade Federal de Juiz de Fora) Alexandre Amory (PUCRS University),,,,,0,,,,,47
+1110,"Resposta brasileira à tuberculose: contexto, desafios e perspectivas",,,,,44,,,,2007,49
+1111,ERICA: sexual initiation and contraception in Brazilian adolescents,,,,,43,,,,2016,49
+1112,Validation of the equations that estimate the resting metabolic rate in adolescent girls,,,,,9,,,,2010,49
+1113,An aircraft seat discomfort scale using item response theory,,,,,8,,,,2019,49
+1114,Validation of the equations that estimate the resting metabolic rate in adolescent girls,,,,,7,,,,2010,49
+1115,Multidimensional model to measure quality in e-commerce websites using item response theory,,,,,4,,,,2018,49
+1116,Medição da qualidade de vida em hipertensão arterial segundo a Teoria da Resposta ao Item,,,,,3,,,,2017,49
+1117,Aplicação da Teoria de Resposta ao Item nos questionários de contextualização do Saeb 2011,,,,,3,,,,2016,49
+1118,Интегрированная система управления многорежимной силовой установкой вертолета,,,,,3,,,,2012,49
+1119,Shift work and sex are variants across Karolinska Sleep Questionnaire and the application of linking analysis as a step forward using Item Response Theory,,,,,2,,,,2019,49
+1120,Reliability of maximal voluntary isometric contraction of ankle dorsiflexion in male subjects,,,,,1,,,,2019,49
+1121,Reflexo da aplicação dos recursos públicos municipais nos indicadores de saúde em Santa Catarina,,,,,1,,,,2018,49
+1122,Linear mixed-effects models for the analysis of high-density electromyography with application to diabetic peripheral neuropathy,,,,,0,,,,2020,49
+1123,Reliability of Maximal Voluntary Isometric Contraction of Ankle Dorsiflexion in Male,,,,,0,,,,2019,49
+1124,Dimensionalidade e escala de proficiência em uma prova interdisciplinar,,,,,0,,,,2019,49
+1125,Pós-Graduação–Estatística Aplicada à Segurança Pública-Estatística Aplicada às Ciências Sociais-Cap. 2,,,,,0,,,,2017,49
+1126,Ajuste de distribuições de valores extremos a dados de temperatura mínima de Piracicaba-SP (pp. 56),,,,,0,,,,2012,49
+1190,MSC+: Language pattern learning for word sense induction and disambiguation,,,,,0,,,,2019,52
+1127,VALIDATION OF THE EQUATIONS THAT ESTEEM THE RESTING METABOLIC RATE IN GIRLS ADOLESCENT,,,,,0,,,,2010,49
+1128,Escalas avaliativas e classificatórias em exames seletivos: uma abordagem utilizando a Teoria da Resposta ao Item Edilan de Sant Ana Quaresma1 Carlos Tadeu dos Santos Dias2,,,,,0,,,,,49
+1129,INE3214-ANÁLISE ESTATÍSTICA,,,,,0,,,,,49
+1130,1) Identificação,,,,,0,,,,,49
+1131,"Printed Media, Hypertext and Chatterbots in Learning",,,,,2,,,,2005,12
+1132,Maior Frequência na Aplicação de Instrumentos de Avaliação em uma Disciplina Introdutória de Programação: Impactos no Desempenho e Motivação,,,,,1,,,,2018,12
+1133,Jornada de Atualização em Informática 2021,,,,,0,,,,2021,12
+1134,Sistema de agendamento online: uma ferramenta do PEC e-SUS APS para facilitar o acesso à Atenção Primária no Brasil,,,,,0,,,,2021,12
+1135,Pec e-SUS aPS online appointment scheduling system: a tool to facilitate access to Primary care in Brazil,,,,,0,,,,2021,12
+1136,The Expectancy-Value-Cost Light Scale to Measure Motivation of Students in Computing Courses,,,,,0,,,,2021,12
+1137,Lei geral de proteção de dados e a interoperabilidade na saúde pública,,,,,0,,,,2021,12
+1138,An analysis of the development of digital health technologies to fight COVID-19 in Brazil and the world,,,,,0,,,,2021,12
+1139,Uma análise sobre o desenvolvimento de tecnologias digitais em saúde para o enfrentamento da COVID-19 no Brasil e no mundo,,,,,0,,,,2021,12
+1140,e-SUS APS strategy: Case of success on Primary Care informatization in Brazil,,,,,0,,,,2020,12
+1141,Data Mining for Hospital Morbidity Forecasting,,,,,0,,,,2020,12
+1142,Proposal of a user interaction model in CASE tools based on metaphors and touch screen technology,,,,,0,,,,2019,12
+1143,Session details: Main Track-Decision Support Systems,,,,,0,,,,2016,12
+1144,Session details: Main Track-Methodologies and Approaches for IS (II),,,,,0,,,,2016,12
+1145,Session details: Main Track-Human and Social Aspects in IS (II),,,,,0,,,,2016,12
+1146,Session details: Main Track-Intelligent Systems (III),,,,,0,,,,2016,12
+1147,Session details: Main Track-Requirements Engineering in IS,,,,,0,,,,2016,12
+1148,Session details: Main Track-IS for Government and IT Governance (II),,,,,0,,,,2016,12
+1149,Session details: Main Track-Software Architecture and Web Services in IS (II),,,,,0,,,,2016,12
+1150,Imprimir ARTIGO: Uma análise sobre o desenvolvimento de tecnologias digitais em saúde para o enfrentamento da COVID-19 no Brasil e no mundo,,,,,0,,,,,12
+1151,Load Behavior Changing When Facing Anomalous Events: The Effect of a Holiday on the Next Day Load,,,,,0,,,,,12
+1152,Uso de Inteligência Artificial na animação de Agentes Autônomos Inteligentes em jogos,,,,,0,,,,,12
+1153,INSTITU TO DE INFORMÁTICA,,,,,0,,,,,12
+1154,TÍTULO: IMPLEMENTAÇÃO DE SENSORES NO MUNDO DOS ATORES,,,,,0,,,,,12
+1155,Avaliação da Utilidade da Aplicação Preliminar de Análise de Componentes Principais na Construção de Modelos de Redes Neurais Artificiais,,,,,0,,,,,12
+1156,SVR 2001,,,,,0,,,,,12
+1157,Introdução à Programação sem Variáveis e Parâmetros,,,,,0,,,,,12
+1158,OBS: Programação sujeita a alterações,,,,,0,,,,,12
+1159,1) Identificação,,,,,0,,,,,12
+1160,Fundamentos de turismo e hospitalidade,,,,,0,,,,2016,51
+1161,Roteiro Turístico,,,,,0,,,,2016,51
+1162,Ferramentas de Auxílio às Técnicas SCRUM Integradas ao Enterprise Project Management 2010,,,,,0,,,,2013,51
+1163,Uma aplicação WEB para gerenciamento de documentos atendendo à norma NBR ISO9001: 2000,,,,,0,,,,2004,51
+1164,Identificação do potencial de candidatos em marketing eleitoral,,,,,0,,,,2001,51
+1165,Universidade Federal de Santa Catarina-UFSC Departamento de Informática e Estatística-INE Bacharelado em Sistemas de informação,,,,,0,,,,,51
+1166,QUALITY EVALUATION PROCESSES OF COURSES PRESENTED IN A RESULTS MANAGEMENT MODULE,,,,,0,,,,,51
+1167,A text summarization method based on fuzzy rules and applicable to automated assessment,,,,,39,,,,2019,52
+1168,Sistema multiagente para indexação e recuperação aplicado a objetos de aprendizagem,,,,,6,,,,2012,52
+1169,A abordagem POESIA para a integração de dados e serviços na Web Semântica,,,,,6,,,,2003,52
+1170,The POESIA Approach for Services and Data Integration On the Semantic Web,,,,,6,,,,2003,52
+1171,DLNotes2: anotações digitais como apoio ao ensino,,,,,5,,,,2013,52
+1172,The POESIA approach for integrating data and services on the semantic Web,,,,,5,,,,2003,52
+1173,Linguistic Pattern Mining for Data Analysis in Microblog Texts Using Word Embeddings,,,,,4,,,,2019,52
+1174,Hybrid recommender system based on multi-hierarchical ontologies,,,,,3,,,,2018,52
+1175,Coreografia de serviços Web.,,,,,3,,,,2007,52
+1176,Special Section on Semantic Web and Data Management,,,,,3,,,,2002,52
+1177,Busca em subespacos em varias dimensoes,,,,,3,,,,1994,52
+1178,Towards holistic entity linking: Survey and directions,,,,,2,,,,2021,52
+1179,A semantic BI process for detecting and analyzing mentions of interest for a domain in tweets,,,,,2,,,,2018,52
+1180,MSC+: Language pattern learning for word sense induction and disambiguation,,,,,1,,,,2020,52
+1181,Approximate XML Structure Validation,,,,,1,,,,2014,52
+1182,Progamacao visual de eventos,,,,,1,,,,1998,52
+1183,Fundamentos de modelagem de dados e sistemas de bancos de dados,,,,,1,,,,1996,52
+1184,Knowledge graph summarization impacts on movie recommendations,,,,,0,,,,2021,52
+1185,5-Ions: An Automatic Method for Predicting Entity Performance,,,,,0,,,,2020,52
+1186,Capture and visualisation of text understanding through semantic annotations and semantic networks for teaching and learning,,,,,0,,,,2020,52
+1187,Short Semantic Patterns: A Linguistic Pattern Mining Approach for Content Analysis Applied to Hate Speech,,,,,0,,,,2020,52
+1188,OPTIC: A Deep Neural Network Approach for Entity Linking using Word and Knowledge Embeddings.,,,,,0,,,,2020,52
+1189,A Method to Estimate Entity Performance from Mentions to Related Entities in Texts on the Web,,,,,0,,,,2019,52
+1203,2.1 OLAP,,,,,0,,,,,52
+1191,Ferramentas digitais para ensino de literatura,,,,,0,,,,2012,52
+1192,Desenvolvimento de Técnicas para Análises Avançadas em Trajetórias de Regioes Móveis,,,,,0,,,,2009,52
+1193,AGRISSOLOS–SISTEMA DE INFORMAÇÃO SOBRE OS SOLOS DO BRASIL,,,,,0,,,,2005,52
+1194,Grau de conservação de aminoácidos de proteínas: comparação entre entropia relativa e pressão evolucionária.,,,,,0,,,,2004,52
+1195,Modelagem molecular da proteína small heat shock de Xylella fastidiosa.,,,,,0,,,,2004,52
+1196,Visual programming of events,,,,,0,,,,1998,52
+1197,Cartilha Azul: uma proposta de manual para desenvolvimento de software..,,,,,0,,,,1995,52
+1198,Techniques for queries in multidimensional spaces..,,,,,0,,,,1994,52
+1199,Minicursos,,,,,0,,,,,52
+1200,RUBY ON RAILS ESCALÁVEL: ESTUDO E SOLUÇÕES,,,,,0,,,,,52
+1201,Signatura: BR0303048.,,,,,0,,,,,52
+1202,Signatura: BR9703320.,,,,,0,,,,,52
+1205,CONTEXTUAL SEMANTIC SEARCH,,,,,0,,,,,52
+1206,INTERAÇÃO ENTRE OLAP E GIS NA IMPLEMENTAÇÃO DE UMA APLICAÇÃO WEB PARA APRESENTAÇÃO DE DADOS DO VESTIBULAR DA UFSC,,,,,0,,,,,52
+1207,Um Middleware para a Integração de Servidores OLAP e Servidores de Mapa na Web,,,,,0,,,,,52
+1208,Informações para o Aluno,,,,,0,,,,,52
+1209,AGROSOFT 99,,,,,0,,,,,52
+1210,DESENVOLVENDO UM MIDDLEWARE PARA A INTEGRAÇÃO DE SERVIDORES OLAP E SERVIDORES DE MAPAS NA WEB,,,,,0,,,,,52
+1211,Nonlinear analysis of structural elements under unilateral contact constraints by a Ritz type approach,,,,,42,,,,2008,13
+1212,Análise de elementos estruturais esbeltos com restrições unilaterais de contato,,,,,39,,,,1995,13
+1213,"Learning Objects Recommendation System: Issues and Approaches for Retrieving, Indexing and Recomend Learning Objects. ADCAIJ: Advances in Distributed Computing and Artificial …",,,,,27,,,,2015,13
+1214,Towards a Model of Open and Reliable Cognitive Multiagent Systems: Dealing with Trust and Emotions. ADCAIJ: Advances in Distributed Computing and Artificial Intelligence …,,,,,25,,,,2015,13
+1215,Post-buckling behavior and imperfection sensitivity of L-Frames,,,,,22,,,,2005,13
+1216,A numerical approach for equilibrium and stability analysis of slender arches and rings under contact constraints,,,,,20,,,,2013,13
+1217,Computational procedures for nonlinear analysis of frames with semi-rigid connections,,,,,20,,,,2005,13
+1218,Second-order plastic-zone analysis of steel frames Part I: Numerical formulation and examples of validation,,,,,16,,,,2009,13
+1219,SECOND-ORDER PLASTIC-ZONE ANALYSIS OF STEEL FRAMES. PART II: EFFECTS OF INITIAL GEOMETRIC IMPERFECTION AND RESIDUAL STRESS,,,,,15,,,,2009,13
+1220,Advanced inelastic analysis of steel structures at elevated temperatures by SCM/RPHM coupling,,,,,14,,,,2018,13
+1221,"Nonlinear analysis of two-dimensional steel, reinforced concrete and composite steel-concrete structures via coupling SCM/RPHM",,,,,12,,,,2017,13
+1222,Nonlinear equilibrium and stability analysis of axially loaded piles under bilateral contact constraints,,,,,11,,,,2015,13
+1223,Análise térmica de seções transversais via método dos elementos finitos,,,,,10,,,,2015,13
+1224,Classificação de Objetos de Aprendizagem e análise de Ferramentas de Autoria,,,,,10,,,,2009,13
+1225,Sigon: A multi-context system framework for intelligent agents,,,,,8,,,,2019,13
+1226,Constrained and unconstrained optimization formulations for structural elements in unilateral contact with an elastic foundation,,,,,8,,,,2008,13
+1227,A técnica do fluxo normal aplicada à análise não linear de arcos esbeltos,,,,,7,,,,2011,13
+1228,"ACOPLAMENTO MCD/MRPR PARA AN ALISE DE ESTRUTURAS MET ALICAS, DE CONCRETO E MISTAS",,,,,6,,,,2015,13
+1229,Critérios e indicadores de inovação na educação,,,,,6,,,,2015,13
+1230,Aspectos importantes na análise avançada de colunas de aço,,,,,6,,,,2005,13
+1231,"O ensino da pronúncia: por quê, o quê, quando e como",,,,,6,,,,2004,13
+1232,Stability and load capacity of an elasto-plastic pyramidal truss,,,,,5,,,,2019,13
+1233,Influência da teoria de viga na análise geometricamente não linear de estruturas reticuladas,,,,,5,,,,2016,13
+1234,Considerations on advanced analysis of steel portal frames,,,,,5,,,,2006,13
+1235,Um ambiente inteligente de ensino e aprendizagem (ITLE) estruturado em uma sociedade de agentes,,,,,5,,,,1996,13
+1236,"An efficient inelastic approach using SCM/RPHM coupling to study reinforced concrete beams, columns and frames under fire conditions",,,,,4,,,,2020,13
+1237,On the nonlinear transient analysis of planar steel frames with semi-rigid connections: from fundamentals to algorithms and numerical studies,,,,,4,,,,2018,13
+1238,Static stability and load capacity of pyramidal trusses,,,,,4,,,,2018,13
+1239,Curvas de resistência de seções transversais de elementos estruturais expostos ao fogo via MCD,,,,,4,,,,2017,13
+1240,Numerical analysis of nonlinear behavior of steel-concrete composite structures,,,,,4,,,,2017,13
+1241,Análise termomecânica de estruturas de aço via acoplamento MCD/MRPR,,,,,4,,,,2016,13
+1242,"Trends in Practical Applications of Agents, Multi-Agent Systems and Sustainability",,,,,4,,,,2015,13
+1243,Introdução a Sistemas Multiagente,,,,,4,,,,2006,13
+1244,Dynamic non-linear behavior and instability of shallow arches with semi-rigid connections,,,,,4,,,,2005,13
+1245,Nonlinear oscillations and dynamic stability of an elastoplastic pyramidal truss,,,,,3,,,,2019,13
+1246,An efficient strategy for solving structural nonlinear equations by combining the orthogonal residual method and normal flow technique,,,,,3,,,,2019,13
+1247,Interface elements in geotechnical engineering-some numerical aspects and applications,,,,,3,,,,2017,13
+1248,Avaliação do comportamento inelástico de colunas e pórticos metálicos com flexão em torno do eixo de menor inércia,,,,,3,,,,2016,13
+1249,Methodologies and intelligent systems for technology enhanced learning,,,,,3,,,,2014,13
+1250,Avaliação do uso das ferramentas tecnológicas em ambientes virtuais de ensino e aprendizagem em educação a distância: Um estudo de caso do e-tec/cefet-mg,,,,,3,,,,2014,13
+1251,O compartilhamento de conhecimento entre os agentes de um curso na modalidade ead: um estudo de caso,,,,,3,,,,2013,13
+1252,Estudo retrospectivo de 63 casos de sarcomas de tecido mole no período de 1980-2005,,,,,3,,,,2007,13
+1253,A comparative study of some non-linear formulations for the analysis of plane frames,,,,,3,,,,2000,13
+1254,Closed-form solutions for the symmetric nonlinear free oscillations of pyramidal trusses,,,,,2,,,,2021,13
+1255,Nonlinear Resonance Analysis of Slender Portal Frames under Base Excitation,,,,,2,,,,2017,13
+1256,Nonlinear analysis of the progressive collapse of reinforced concrete plane frames using a multilayered beam formulation,,,,,2,,,,2014,13
+1257,Sistema computacional gráfico interativo para problemas de instabilidade em pórticos planos,,,,,2,,,,2014,13
+1258,Análise computacional via MDF de cascas cilíndricas com restrições bilaterais e unilaterais de contato,,,,,2,,,,2013,13
+1259,Refined elastoplastic analysis of plane steel frames under extreme dynamic loading,,,,,2,,,,2013,13
+1260,Métodos e parâmetros da análise do colapso progressivo de edifícios,,,,,2,,,,2011,13
+1261,Eventos Envolvendo Colapso Progressivo e suas Implicações,,,,,2,,,,2011,13
+1262,Conceitos e Terminologias da Estabilidade Estrutural,,,,,2,,,,2008,13
+1263,Análise não linear estática e dinâmica de arcos abatidos,,,,,2,,,,2006,13
+1264,Thermo-structural analysis of reinforced concrete beams,,,,,1,,,,2019,13
+1265,Numerical advanced analysis of steel-concrete composite beams and columns under fire,,,,,1,,,,2019,13
+1266,"Analysis and design of concrete structures using strut and tie model by FEM: Application in foundation blocks, short consoles, wall beams and rigid shoes",,,,,1,,,,2019,13
+1267,A hybrid intelligent agent for notification of users distracted by mobile phones in an urban environment,,,,,1,,,,2019,13
+1268,Numerical study of steel-concrete composite structures under fire situation,,,,,1,,,,2019,13
+1269,Perception policies for intelligent virtual agents,,,,,1,,,,2019,13
+1270,Numerical analysis of RC plane structures: a concentrated nonlinear effect approach,,,,,1,,,,2018,13
+1271,Avaliação Da Segurança Estrutural De Pórticos Planos de Aço Projetados Com Análise Avançada,,,,,1,,,,2018,13
+1272,Determination of structural composite elements strength through the use of the refined plastic‐hinge method,,,,,1,,,,2017,13
+1273,Non-linear dynamic analysis of plane frame structures under seismic load in frequency domain,,,,,1,,,,2016,13
+1274,Determinação da capacidade resistente de elementos estruturais mistos através do método da rótula plástica refinado,,,,,1,,,,2015,13
+1275,"COMPUTATIONAL ANALYSIS OF A RC PLANAR FRAME USING COROTATIONAL MULTILAYERED BEAM FE, CORRELATED TO EXPERIMENTAL RESULTS",,,,,1,,,,2013,13
+1276,Computational Assessment of the progressive collapse of a five storey structure considering two different building codes,,,,,1,,,,2013,13
+1277,Utilização de AGNor como marcador histológico no diagnóstico de tumores mistos mámários,,,,,1,,,,2008,13
+1278,Efeito das tensões residuais na análise avançada de estruturas simples de aço,,,,,1,,,,2006,13
+1279,Análise paramétrica de arcos senoidais com ligações semi-rígidas,,,,,1,,,,2006,13
+1280,Análise inelástica de sistemas estruturais metálicos,,,,,1,,,,2005,13
+1281,Detalhes numéricos na análise inelástica com zona plástica,,,,,1,,,,,13
+1282,USO DAS TECNOLOGIAS DIGITAIS COMO SUPORTE PARA A APRENDIZAGEM NA ERA DA EDUCAÇÃO E INDÚSTRIA 4.0-vol. 2,,,,,0,,,,2021,13
+1283,MASDES-DWMV: Model for Dynamic Ensemble Selection Based on Multiagent System and Dynamic Weighted Majority Voting,,,,,0,,,,2020,13
+1284,Second-order inelastic analysis of shallow and non-shallow steel arches,,,,,0,,,,2020,13
+1285,Ontology-based Extractive Text Summarization: The Contribution of Instances,,,,,0,,,,2019,13
+1286,"Numerical Study of Steel Plane Frames Considering Concentrated Plasticity, Semi-Rigid Joints and Residual Stresses",,,,,0,,,,2019,13
+1287,Influence of Partial Shear Connection of Steel-Concrete Composite Beam in the Multi-Story Buildings Analysis,,,,,0,,,,2018,13
+1288,Nonlinear dynamic analysis of structures in contact with soil.,,,,,0,,,,2018,13
+1289,Análise dinâmica não linear de estruturas em contato com o solo,,,,,0,,,,2018,13
+1290,Buenas Prácticas en la gestión del Blended Learning,,,,,0,,,,2018,13
+1291,ANÁLISE INELÁSTICA DE SEGUNDA ORDEM DE ESTRUTURAS COM SEÇÕES TRANSVERSAIS DUPLAMENTE SIMÉTRICAS,,,,,0,,,,2017,13
+1292,ANÁLISE NÃO LINEAR AVANÇADA DE ARCOS METÁLICOS ABATIDOS E POUCO ABATIDOS.,,,,,0,,,,2017,13
+1293,GEOMETRIC NONLINEAR ANALYSIS OF MECHANICAL PROBLEM UNDER PLANE CONDITIONS BY FEM,,,,,0,,,,2017,13
+1294,Análise numérica do comportamento não linear de estruturas mistas de aço e concreto,,,,,0,,,,2017,13
+1295,Determinação da capacidade resistente de elementos estruturais mistos através do método da rótula plástica refinado,,,,,0,,,,2017,13
+1296,Numerical analysis of nonlinear behavior of steel concrete composite structures Análise numérica do comportamento não linear de estruturas mistas de aço e concreto,,,,,0,,,,2017,13
+1297,Sistema adaptativo para ambientes virtuales de aprendizaje,,,,,0,,,,2017,13
+1298,Evaluation of the inelastic behavior of steel columns and frames subjected to minor‐axis bending,,,,,0,,,,2016,13
+1299,Análise estática nao linear de estruturas de concreto armado submetidas ao colapso progressivo: Static non-linear analysis of reinforced concrete structures subject to …,,,,,0,,,,2015,13
+1300,APLICAÇÃO DO FIREFLY ALGORITHM PARA OTIMIZAÇÃO ESTRUTURAL DE PARÂMETROS DE PÓRTICOS PLANOS SUBMETIDOS À FLEXÃO COMPOSTA COM IMPOSIÇÃO DE RESTRIÇÕES,,,,,0,,,,2014,13
+1301,Análise não linear do colapso progressivo de pórticos planos de concreto armado utilizando elemento de viga com seção transversal discretizada em camadas,,,,,0,,,,2014,13
+1302,Computational analysis of a reinforced concrete structure planar frame using corotational multilayered finite elements correlated to experimental results,,,,,0,,,,2013,13
+1303,Um estudo sobre possíveis técnicas de otimização de código para bytecode Lua,,,,,0,,,,2009,13
+1304,"Second-order plastic-zone analysis of steel frames, Part I: Numerical formulation and examples of validation (vol 6, pg 132, 2009)",,,,,0,,,,2009,13
+1305,Avaliação da microdensidade vascular como fator prognóstico em sarcomas de tecidos moles em pequenos animais,,,,,0,,,,2009,13
+1306,NONLINEAR ANALYSIS OF ARCHES UNDER CONTACT CONSTRAINTS,,,,,0,,,,2008,13
+1307,USING AXIAL FORCE ITERATIVE INTEGRATION IN PLASTIC ZONE INELASTIC ANALYSIS,,,,,0,,,,2008,13
+1308,ESTUDO DE MÉTODOS PARA FLEXIBILIZAÇÃO DE COMPORTAMENTOS EM JOGOS DE ESTRATÉGIA EM TEMPO REAL.,,,,,0,,,,2008,13
+1309,O USO DE DADOS DO SENSORIAMENTO REMOTO COMO RECURSO DID? TICO PARA O ENSINO DA CARTOGRAFIA NA GEOGRAFIA/Use of the Remote Sensing Products like Didactic Resource to Education …,,,,,0,,,,2006,13
+1310,Focus Group–3,,,,,0,,,,2006,13
+1311,STABILITY AND VIBRATION ANALYSIS OF SLENDER L-FRAMES WITH SEMI-RIGID CONNECTIONS,,,,,0,,,,2005,13
+1312,Optimization Techniques Applied to Structural Unilateral Contact Problems,,,,,0,,,,2005,13
+1313,Especificação formal de linguagens de comunicação em ambientes computacionais abertos heterogêneos,,,,,0,,,,2005,13
+1314,Defining a process of design and learning of digital graphics by means of distance education,,,,,0,,,,2005,13
+1315,imposed by elastic foundations,,,,,0,,,,2001,13
+1316,Stability of arches and beams under unilateral constraints,,,,,0,,,,1997,13
+1317,Introdução à Teoria da Estabilidade Com Não Linearidade Física e Implementação Numérica,,,,,0,,,,,13
+1318,ANÁLISE TRANSIENTE NÃO LINEAR DE VIGAS E ESTACAS DE AÇO EM CONTATO BILATERAL COM O MEIO GEOLÓGICO,,,,,0,,,,,13
+1319,Stability and Parametric Analysis of Columns with Lateral Constraints and L-Frames,,,,,0,,,,,13
+1320,CS-ASA: A COMPUTATIONAL SYSTEM FOR ADVANCED STATIC AND DYNAMIC ANALYSIS OF STEEL FRAMED STRUCTURES CS-ASA: A COMPUTATIONAL SYSTEM FOR ADVANCED STATIC AND DYNAMIC ANALYSIS OF …,,,,,0,,,,,13
+1321,ANÁLISE ESTÁTICA NÃO LINEAR DE ESTRUTURAS DE CONCRETO ARMADO SUBMETIDAS AO COLAPSO PROGRESSIVO,,,,,0,,,,,13
+1322,COMBINANDO AS TÉCNICAS DE BUSCA LINEAR COM CONTINUAÇÃO PARA A SOLUÇÃO DE PROBLEMAS ESTRUTURAIS NÃO LINEARES,,,,,0,,,,,13
+1323,FREE AND FORCED NONLINEAR VIBRATION OF STEEL FRAMES WITH SEMI-RIGID CONNECTIONS,,,,,0,,,,,13
+1324,ANÁLISE DINÂMICA NÃO LINEAR DE ESTRUTURAS RETICULADAS SOB AÇÃO SÍSMICA CONSIDERANDO INTERAÇÃO SOLO ESTRUTURA E COMPORTAMENTO ELASTO-PLÁSTICO DO SOLO.,,,,,0,,,,,13
+1325,PÓRTICOS EM L COM LIGAÇÕES RÍGIDAS E SEMI-RÍGIDAS: ANÁLISE DA ESTABILIDADE E SENSIBILIDADE A IMPERFEIÇÕES,,,,,0,,,,,13
+1326,GENERALIZED FORMULATION FOR INELASTIC ANALYSIS OF STEEL STRUCTURES,,,,,0,,,,,13
+1327,APPLICATIONS OF A HYBRID FINITE ELEMENT,,,,,0,,,,,13
+1328,ESTUDO NUMÉRICO VIA MDF DE CASCAS CILÍNDRICAS COM RESTRIÇÕES DE CONTATO,,,,,0,,,,,13
+1329,RESIDUAL STRESS EFFECT THROUGH THE PLASTIC-ZONE METHOD-AN ADVANCED DIRECT ANALYSIS,,,,,0,,,,,13
+1330,ANÁLISE DINÂMICA DE PÓRTICOS PLANOS DE AÇO COM DIFERENTES TIPOS DE LIGAÇÃO BASE-PILAR,,,,,0,,,,,13
+1331,"Second-Order Refined Plastic Analysis of Steel, Concrete and Composite Structures",,,,,0,,,,,13
+1332,UMA CONDIÇÃO DE ORTOGONALIDADE PARA ESTABILIZAR A ESTRATÉGIA DO RESÍDUO ORTOGONAL USADA NA ANÁLISE NÃO LINEAR DE ESTRUTURAS AN ORTHOGONALITY CONDITION FOR STABILIZE THE …,,,,,0,,,,,13
+1333,NONLINEAR DYNAMIC ANALYSIS OF A SLENDER FRAME UNDER REAL AND SYNTHETIC SEISMIC EXCITATIONS CONSIDERING THE BASE WITH ELASTO-PLASTIC BEHAVIOR,,,,,0,,,,,13
+1334,CONCENTRATED NUMERICAL APPROACH FOR SIMULATION OF STEEL-CON-CRETE COMPOSITE BEAMS WITH PARTIAL SHEAR CONNECTION,,,,,0,,,,,13
+1335,Simplified numerical model for analysis of steel-concrete composite beams with partial interaction,,,,,0,,,,,13
+1336,A TÉCNICA DO FLUXO NORMAL USADA PARA ESTABILIZAR A ESTRATÉGIA DO RESÍDUO ORTOGONAL NA ANÁLISE NÃO LINEAR DE ESTRUTURAS,,,,,0,,,,,13
+1337,NONLINEAR TRANSIENT ANALYSIS OF PLANAR STEEL FRAMES WITH SEMI-RIGID CONNECTIONS,,,,,0,,,,,13
+1338,"AVALIAÇÃO DE SISTEMAS ESTRUTURAIS RETICULADOS PLANOS: MODELAGEM, ANÁLISE ESTÁTICA E VISUALIZAÇÃO DA RESPOSTA USANDO O MATHEMATICA",,,,,0,,,,,13
+1339,Numerical study of thermal-mechanical behavior of 2D composite steel-concrete frames,,,,,0,,,,,13
+1340,u0d v,,,,,0,,,,,13
+1341,ANÁLISE INELÁSTICA DE SEGUNDA ORDEM DE ARCOS METÁLICOS COM SEÇÃO I,,,,,0,,,,,13
+1342,ANÁLISE INELÁSTICA DE COLUNAS DE AÇO SOB FLEXÃO EM TORNO DO EIXO DE MENOR INÉRCIA,,,,,0,,,,,13
+1343,PROCEDIMENTOS COMPUTACIONAIS PARA ANÁLISE NÃO-LINEAR DE PÓRTICOS COM LIGAÇÕES SEMI-RÍGIDAS,,,,,0,,,,,13
+1344,Non-linear analysis of steel-concrete composite frames via RPHM consid-ering cracking and partial shear connection,,,,,0,,,,,13
+1345,eeS EIETEILEEEEEEEEEEE,,,,,0,,,,,13
+1346,ANÁLISE DINÂMICA NÃO LINEAR DE ESTRUTURAS RETICULARES SUBMETIDAS A AÇÕES SÍSMICAS NO DOMÍNIO DA FREQUÊNCIA,,,,,0,,,,,13
+1347,NUMERICAL EVALUATION OF THE NONLINEAR DYNAMIC BEHAVIOR,,,,,0,,,,,13
+1348,ANÁLISE ESTÁTICA AVANÇADA DE ESTRUTURAS MISTAS COM BASE NO MÉTODO DA RÓTULA PLÁSTICA REFINADO,,,,,0,,,,,13
+1349,ANÁLISE GEOMETRICAMENTE NÃO-LINEAR DE TRELIÇAS 2D E 3D ATRAVÉS DO MEF,,,,,0,,,,,13
+1350,IMPLEMENTAÇÃO NUMÉRICA DO MODELO DE BIELAS E TIRANTES VIA MEF APLICADA A ESTRUTURAS ESPECIAIS PLANAS DE CONCRETO,,,,,0,,,,,13
+1351,ADVANCED ANALYSIS OF MULTI-STOREY STEEL BUILDINGS SUBJECTED TO EARTHQUAKES,,,,,0,,,,,13
+1352,PRÉ-PROCESSADOR GRÁFICO INTERATIVO PARA ANÁLISE AVANÇADA DE ESTRUTURAS,,,,,0,,,,,13
+1353,ESTUDO DO EQUILÍBRIO E ESTABILIDADE ELÁSTICA DE ARCOS ESBELTOS COM RESTRIÇÕES DE CONTATO,,,,,0,,,,,13
+1354,Advanced numerical analysis of shallow and deep steel arches under fire condition,,,,,0,,,,,13
+1355,1 7 CONVENCION CIENTIFICA,,,,,0,,,,,13
+1356,RELAÇÃO DAS CONDIÇÕES DE SANEAMENTO E SAÚDE: DESCRIÇÃO E AVALIAÇÃO DAS ETAPAS PRELIMINARES DO PROCESSO DE IMPLANTAÇÃO DO SISTEMA INTEGRADO DE SANEAMENTO BÁSICO NUMA COMUNIDADE …,,,,,0,,,,,13
+1357,"Segunda Ediçao dos Anais do VI Workshop-Escola de Sistemas de Agentes, seus Ambientes e apliCaçoes—WESAAC 2012—",,,,,0,,,,,13
+1358,T-072 FERRAMENTAS PARA DETERMINAÇÃO DO PADRÃO DE CONSUMO RESIDENCIAL DE ÁGUA,,,,,0,,,,,13
+1359,1) Identificação,,,,,0,,,,,13
+1360,INE5317 Linguagens Formais e Compiladores,,,,,0,,,,,13
+1361,RoboCup 2009 Graz-Austria Rescue Simulation League Team BRazil Rescue Robots-BR3 (Brazil) Agent Competition,,,,,0,,,,,13
+1362,UM TUTOR NA WEB,,,,,0,,,,,13
+1363,The notary based PKI,,,,,15,,,,2012,14
+1364,Formaçao de grupos colaborativos em um ambiente multiagente interativo de aprendizagem na internet: um estudo de caso utilizando sistemas multiagentes e algoritmos genéticos,,,,,13,,,,2006,14
+1365,Um novo modelo de Infra-estrutura de Chaves Públicas para uso no Brasil utilizando aplicativos com o código fonte aberto,,,,,11,,,,2002,14
+1366,Farnel: um protocolo de votaçao papel com verificabilidade parcial,,,,,10,,,,2001,14
+1367,Tecnologia Eleitoral e a Urna Eletrônica: Relatório SBC 2002,,,,,6,,,,2002,14
+1368,Electoral technology and the voting machine–report of the Brazilian Computer Society,,,,,4,,,,2002,14
+1369,A new class of irreducible pentanomials for polynomial-based multipliers in binary fields,,,,,3,,,,2018,14
+1370,Segurança em Computação,,,,,3,,,,2001,14
+1371,Proposta de um Sistema Electrônico de Auditoria Aplicado á Urna Electrônica Brasileira,,,,,3,,,,2001,14
+1372,Análise Não-linear no reconhecimento de padrões sonoros: Estudo de caso para sons pulmonares,,,,,3,,,,1999,14
+1373,Don’t Forget Your Roots: Constant-Time Root Finding over,,,,,2,,,,2019,14
+1374,Projeto Gene: Ambiente de Apoio ao Aprendizado de Genética através da Internet,,,,,2,,,,2009,14
+1375,RT-WiFi: um mecanismo TDMA para suportar comunicações de tempo real em redes IEEE 802.11,,,,,1,,,,2011,14
+1376,Formulários eletrônicos,,,,,1,,,,2007,14
+1377,Migrando a ICP-Brasil para uma Solução Nacional com Código Livre,,,,,1,,,,2005,14
+1378,Codificadores parametricos de sinais de voz com excitação multi-pulso,,,,,1,,,,1990,14
+1379,Improved constant-sum encodings for hash-based signatures,,,,,0,,,,2021,14
+1380,Steganographic Analysis of Blockchains,,,,,0,,,,2021,14
+1381,Bitcoin Blockchain Steganographic Analysis,,,,,0,,,,2020,14
+1382,An Entropy Source based on the Bluetooth Received Signal Strength Indicator,,,,,0,,,,2020,14
+1383,Post-quantum signature with preimage chameleon hashing,,,,,0,,,,2020,14
+1384,Certiﬁcado Digital Acadêmico na Nuvem,,,,,0,,,,2019,14
+1385,"História da ICP-Brasil, do nascimento à maioridade",,,,,0,,,,2019,14
+1386,Handling Vinegar Variables to Shorten Rainbow Key Pairs,,,,,0,,,,2019,14
+1387,An Efficient Keystream for Cryptographic Applications,,,,,0,,,,2015,14
+1388,Definição de fluxogramas para fiscalização de processos na construção de edificações públicas,,,,,0,,,,2014,14
+1389,Lista de certificados revogados limitada,,,,,0,,,,2013,14
+1390,Assinatura digital de laudos médicos: um assunto ainda não resolvido,,,,,0,,,,2013,14
+1391,Uma aplicação para comunicação com dispositivos criptográficos,,,,,0,,,,2012,14
+1392,Infraestrutura de Autenticação Única em Instituições de Ensino e Pesquisa Brasileiras,,,,,0,,,,2010,14
+1393,Implementando uma nova abordagem para a troca do par de chaves de uma AC-Raiz.,,,,,0,,,,2006,14
+1394,Estudo e implementação de redes de comunicação anônima e aplicação ao sistema de votação digital OSTRACON,,,,,0,,,,2005,14
+1395,Formularios Eletrˆonicos Seguros,,,,,0,,,,2004,14
+1396,"Centro de Ciências Exatas e Tecnológicas-UNISINOS, Av. Unisinos, 950, São Leopoldo-RS",,,,,0,,,,2000,14
+1397,Assinatura digital de laudos médicos: um assunto ainda não resolvido Digital signature for medical reports: an issue still unresolved,,,,,0,,,,,14
+1398,"Augsberg, S., Wer ist das Volk?, Die Pluralität demokratischer Entscheidungsverfahren im Bundesstaat als Herausforderung für Verfassungsrecht und Demokratietheorie, ZG 2012, 254.",,,,,0,,,,,14
+1399,Disciplina: Código-Sistemas de Informação em Saúde e Tecnologia Professores Responsáveis: Dra. Sayonara FF Barbosa,,,,,0,,,,,14
+1400,JULIANO ANDRÉ VERGUTZ,,,,,0,,,,,14
+1401,Criptografia e Segurança em Redes de computadores,,,,,0,,,,,14
+1402,Autenticaç ao Utilizando Senhas Descartáveis Baseadas em Caos,,,,,0,,,,,14
+1403,Proteção de Software,,,,,0,,,,,14
+1404,Votaç ao Anônima Segura Utilizando Lista de Discussao,,,,,0,,,,,14
+1405,Melhores práticas para substituiçao de Autoridades Certificadoras em uma ICP,,,,,0,,,,,14
+1406,AUDITORIA EM UNIDADE CERTIFICADORA,,,,,0,,,,,14
+1407,Audit and backup operations in the OpenHSM,,,,,0,,,,,14
+1408,Desenvolvimento de uma aplicacao que implemente Criptografia Assimetrica,,,,,0,,,,,14
+1409,A genetic programming approach for relevance feedback in region-based image retrieval systems,,,,,21,,,,2008,15
+1410,Sistemas multimídia distribuídos,,,,,14,,,,2000,15
+1411,Conceitos básicos de Informática,,,,,6,,,,2016,15
+1412,Using implicit feedback for neighbors selection: Alleviating the sparsity problem in collaborative recommendation systems,,,,,5,,,,2017,15
+1413,Sistemas Multimídia,,,,,3,,,,2000,15
+1414,"Special Topics in Multimedia, IoT and Web Technologies",,,,,1,,,,2020,15
+1415,A Queue Management Mechanism for Improving TCP fairness in Wireless Access Networks,,,,,1,,,,2010,15
+1416,Uma proposta de um modelo de implementação de serviços de apoio a aplicações industriais segundo o padrão MMS,,,,,1,,,,1991,15
+1417,Knowledge graph summarization impacts on movie recommendations,,,,,0,,,,2021,15
+1418,Capture and visualisation of text understanding through semantic annotations and semantic networks for teaching and learning,,,,,0,,,,2020,15
+1419,Prefácio e Organização,,,,,0,,,,2019,15
+1420,Minicursos do XXIV Simpósio Brasileiro de Sistemas Multimídia e Web,,,,,0,,,,2018,15
+1421,Minicursos do XXIII Simpósio Brasileiro de Sistemas Multimídia e Web,,,,,0,,,,2017,15
+1422,Sistemas de Recomendação em Repositórios Digitais,,,,,0,,,,2017,15
+1423,ANAIS DO XXIII SIMPÓSIO BRASILEIRO DE SISTEMAS MULTIMÍDIA E WEB: MINICURSOS,,,,,0,,,,2017,15
+1424,Minicursos do XXII Simpósio Brasileiro de Sistemas Multimídia e Web,,,,,0,,,,2016,15
+1425,Ferramentas digitais para ensino de literatura,,,,,0,,,,2012,15
+1426,Implantação de uma rede de testes para a plataforma de QoS EuQoS sobre DiffServ em Linux,,,,,0,,,,2008,15
+1427,Controlador de conferências para sistemas colaborativos,,,,,0,,,,2007,15
+1428,Serviços diferenciados em redes IP: diferenciação de serviços de rede utilizando um roteador CBQ,,,,,0,,,,2002,15
+1429,Análise comparativa dos métodos de sintetização de voz,,,,,0,,,,2001,15
+1430,Um modelo para especificação formal de apresentações multimidia interativas,,,,,0,,,,1999,15
+1431,Pesquisas e contribuições do Laboratório de Pesquisas em Sistemas Distribuídos (LAPESD/UFSC),,,,,0,,,,,15
+1432,Invited Papers,,,,,0,,,,,15
+1433,Guilherme Maciel Ferreira,,,,,0,,,,,15
+1434,1) Identificação,,,,,0,,,,,15
+1435,An Adaptive Information Retrieval for Digital Libraries,,,,,0,,,,,15
+1436,SPECIAL ISSUE ON SOCIAL MEDIA ANALYTICS: UNDERSTANDING THE PULSE OF THE SOCIETY,,,,,0,,,,,15
+1437,FERRAMENTA DE AUXÍLIO À COMUNICAÇÃO E AO DESENVOLVIMENTO COLABORATIVO,,,,,0,,,,,15
+1438,MOPAS 2010,,,,,0,,,,,15
+1439,"Teresinha Letícia da Silva, Sérgio Murilo Penedo 2",,,,,0,,,,,15
+1440,"Sérgio Murilo Penedo, Rafael de Moura Speroni 2, MAR Dantas INE–Departamento de Informática e Estatística-Universidade Federal de Santa Catarina (UFSC) 2 NURCAD–Núcleo de Redes …",,,,,0,,,,,15
+1441,2. TRANSMISSÃO DE DADOS MULTIMÍDIA 2.1. Introdução,,,,,0,,,,,15
+1442,ANEXO1–TELAS DO SISTEMA WEB DESENVOLVIDO ANEXO2–MODELAGEM DO BANCO DE DADOS DA APLICAÇÃO,,,,,0,,,,,15
+1443,MASTER: A multiple aspect view on trajectories,,,,,30,,,,2019,56
+1444,Knowledge discovery from geographical data,,,,,28,,,,2008,56
+1445,A framework for context-aware trajectory,,,,,24,,,,2009,56
+1446,Movelets: Exploring relevant subtrajectories for robust trajectory classification,,,,,20,,,,2018,56
+1447,SMSM: a similarity measure for trajectory stops and moves,,,,,18,,,,2019,56
+1448,Towards semantic‐aware multiple‐aspect trajectory similarity measuring,,,,,13,,,,2019,56
+1449,"MARC: a robust method for multiple-aspect trajectory classification via space, time, and semantic embeddings",,,,,8,,,,2020,56
+1450,A survey and comparison of trajectory classification methods,,,,,6,,,,2019,56
+1451,Exploring frequency-based approaches for efficient trajectory classification,,,,,5,,,,2020,56
+1452,MasterMovelets: discovering heterogeneous movelets for multiple aspect trajectory classification,,,,,4,,,,2020,56
+1453,Challenges in Vessel Behavior and Anomaly Detection: From Classical Machine Learning to Deep Learning,,,,,4,,,,2020,56
+1454,Discovering heterogeneous subsequences for trajectory classification,,,,,3,,,,2019,56
+1455,Traj2user: exploiting embeddings for computing similarity of users mobile behavior,,,,,3,,,,2018,56
+1456,Wise Sliding Window Segmentation: A classification-aided approach for trajectory segmentation,,,,,2,,,,2020,56
+1457,Unsupervised behavior change detection in multidimensional data streams for maritime traffic monitoring,,,,,2,,,,2019,56
+1458,Evaluating the effect of compressing algorithms for trajectory similarity and classification problems,,,,,1,,,,2021,56
+1459,Trajectory Data Privacy: Research Challenges and Opportunities.,,,,,1,,,,2019,56
+1460,Multiple-aspect analysis of semantic trajectories (MASTER),,,,,0,,,,2021,56
+1461,A novel similarity measure for multiple aspect trajectory clustering,,,,,0,,,,2021,56
+1462,Fast discovery of multidimensional subsequences for robust trajectory classification,,,,,0,,,,2021,56
+1463,MASTER: A Multiple Aspects View on Trajectories.,,,,,0,,,,2020,56
+1464,Discovering Heterogeneous Subsequences for Trajectory Classification,,,,,0,,,,2019,56
+1465,Monitoring People’s Behaviour using Video Analysis and trajectory Clustering,,,,,0,,,,2014,56
+1466,"Special issue on'" context-aware data mining (CADM)'"",,,,,0,,,,2011,56
+1467,Sixth International Workshop on spatial and spatiotemporal data mining: preface,,,,,0,,,,2011,56
+1468,Desenvolvimento de Técnicas para Análises Avançadas em Trajetórias de Regioes Móveis,,,,,0,,,,2009,56
+1469,Descoberta de Conhecimento em Dados Gerados por Dispositivos Móveis Geo-Referenciados,,,,,0,,,,2009,56
+1470,Semantic Aspects in Spatial Data Mining Vania Bogorny.,,,,,0,,,,,56
+1471,ICDM Workshops 2008,,,,,0,,,,,56
+1472,Um Estudo Comparativo entre Cursos de Pós-Graduação em Computação referente a área de Descoberta de Conhecimento através do uso de ferramentas de Text-Mining,,,,,0,,,,,56
+1473,Preface to Third International Workshop on Semantic Aspects in Data Mining (SADM’10),,,,,0,,,,,56

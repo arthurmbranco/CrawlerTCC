@@ -1,14 +1,200 @@
 <?xml version="1.0"?>
-<dblpperson name="Ant&#244;nio Augusto Fr&#246;hlich" n="98">
-<person key="homepages/43/6521" mdate="2014-10-06">
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Ant&#244;nio Augusto Medeiros Fr&#246;hlich</author>
+<dblpperson name="Ant&#244;nio Augusto Fr&#246;hlich" pid="43/6521" n="118">
+<person key="homepages/43/6521" mdate="2021-07-24">
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="43/6521">Ant&#244;nio Augusto Medeiros Fr&#246;hlich</author>
 <note type="affiliation">Federal University of Santa Catarina, Florianopolis, Brazil</note>
+<url>https://dl.acm.org/profile/81100162361</url>
+<url>https://orcid.org/0000-0002-4063-1339</url>
+<url>https://www.wikidata.org/entity/Q90692500</url>
 </person>
-<r><article key="journals/scp/ResnerAF18" mdate="2018-09-18">
-<author>Davi Resner</author>
-<author>Gustavo Medeiros de Ara&#250;jo</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><article key="journals/dafes/LucenaSF21" mdate="2021-06-15">
+<author orcid="0000-0002-8315-689X" pid="261/8292">Mateus Mart&#237;nez De Lucena</author>
+<author pid="26/2522">Roberto Milton Scheffel</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>An analysis of the Gateway Integrity Checking Protocol from the perspective of Intrusion Detection Systems.</title>
+<pages>89-111</pages>
+<year>2021</year>
+<volume>25</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10617-020-09240-8</ee>
+<url>db/journals/dafes/dafes25.html#LucenaSF21</url>
+</article>
+</r>
+<r><article key="journals/ijcim/ScheffelFS21" mdate="2021-06-01">
+<author orcid="0000-0002-7418-7918" pid="26/2522">Roberto Milton Scheffel</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author orcid="0000-0002-6651-2258" pid="257/6254">Marco Silvestri</author>
+<title>Automated fault detection for additive manufacturing using vibration sensors.</title>
+<pages>500-514</pages>
+<year>2021</year>
+<volume>34</volume>
+<journal>Int. J. Comput. Integr. Manuf.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1080/0951192X.2021.1901316</ee>
+<url>db/journals/ijcim/ijcim34.html#ScheffelFS21</url>
+</article>
+</r>
+<r><article key="journals/ijes/ReisF20" mdate="2020-09-11">
+<author pid="162/3438">Jo&#227;o Gabriel Reis</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>Towards deterministic FPGA reconfiguration.</title>
+<pages>236-253</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Int. J. Embed. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1504/IJES.2020.108872</ee>
+<url>db/journals/ijes/ijes13.html#ReisF20</url>
+</article>
+</r>
+<r><article key="journals/mva/CasagrandeMBFA20" mdate="2021-07-27">
+<author pid="208/7486">Luan Casagrande</author>
+<author orcid="0000-0001-6127-4863" pid="259/3251">Luiz Antonio Buschetto Macarini</author>
+<author pid="275/7455">Daniel Bitencourt</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="27/9584">Gustavo Medeiros de Ara&#250;jo</author>
+<title>A new feature extraction process based on SFTA and DWT to enhance classification of ceramic tiles quality.</title>
+<pages>71</pages>
+<year>2020</year>
+<volume>31</volume>
+<journal>Mach. Vis. Appl.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1007/s00138-020-01121-1</ee>
+<url>db/journals/mva/mva31.html#CasagrandeMBFA20</url>
+</article>
+</r>
+<r><article key="journals/sensors/RichaLHHF20" mdate="2020-10-26">
+<author pid="210/3765">Cesar Huegel Richa</author>
+<author pid="261/8292">Mateus Mart&#237;nez De Lucena</author>
+<author orcid="0000-0002-3581-275X" pid="251/5186">Leonardo Passig Horstmann</author>
+<author pid="251/5091">Jos&#233; Luis Conradi Hoffmann</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>Modeling Time Requirements of CPS in Wireless Networks.</title>
+<pages>1818</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Sensors</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.3390/s20071818</ee>
+<ee>https://www.wikidata.org/entity/Q90692516</ee>
+<url>db/journals/sensors/sensors20.html#RichaLHHF20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbesc/HorstmannF20" mdate="2021-04-09">
+<author orcid="0000-0002-3581-275X" pid="251/5186">Leonardo Passig Horstmann</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>A Fault Injection Framework for Real-time Multicore Embedded Systems.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC51047.2020.9277864</ee>
+<crossref>conf/sbesc/2020</crossref>
+<url>db/conf/sbesc/sbesc2020.html#HorstmannF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/ScheffelHHAFMPN20" mdate="2021-07-27">
+<author pid="26/2522">Roberto Milton Scheffel</author>
+<author pid="251/5091">Jos&#233; Lu&#237;s Conradi Hoffmann</author>
+<author orcid="0000-0002-3581-275X" pid="251/5186">Leonardo Passig Horstmann</author>
+<author pid="27/9584">Gustavo Medeiros de Ara&#250;jo</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="280/9769">Tiago Kaoru Matsuo</author>
+<author pid="280/9666">Vitor Pohlenz</author>
+<author pid="281/0093">Marcos Hisashi Napoli Nishioka</author>
+<title>Data Confidence Applied to Wind Turbine Power Curves.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC51047.2020.9277861</ee>
+<crossref>conf/sbesc/2020</crossref>
+<url>db/conf/sbesc/sbesc2020.html#ScheffelHHAFMPN20</url>
+</inproceedings>
+</r>
+<r><article key="journals/iotj/FrohlichSKV19" mdate="2020-06-08">
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author orcid="0000-0002-7418-7918" pid="26/2522">Roberto Milton Scheffel</author>
+<author orcid="0000-0002-5453-656X" pid="170/0240">David Kozhaya</author>
+<author pid="v/PauloVerissimo">Paulo Jorge Esteves Ver&#237;ssimo</author>
+<title>Byzantine Resilient Protocol for the IoT.</title>
+<pages>2506-2517</pages>
+<year>2019</year>
+<volume>6</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/JIOT.2018.2871157</ee>
+<url>db/journals/iotj/iotj6.html#FrohlichSKV19</url>
+</article>
+</r>
+<r><article key="journals/jbcs/ScheffelF19" mdate="2020-06-15">
+<author orcid="0000-0002-7418-7918" pid="26/2522">Roberto Milton Scheffel</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>Increasing sensor reliability through confidence attribution.</title>
+<pages>13</pages>
+<year>2019</year>
+<volume>25</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13173-019-0094-6</ee>
+<url>db/journals/jbcs/jbcs25.html#ScheffelF19</url>
+</article>
+</r>
+<r><inproceedings key="conf/etfa/HorstmannHF19" mdate="2020-10-25">
+<author orcid="0000-0002-3581-275X" pid="251/5186">Leonardo Passig Horstmann</author>
+<author pid="251/5091">Jos&#233; Luis Conradi Hoffmann</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>A Framework to Design and Implement Real-time Multicore Schedulers using Machine Learning.</title>
+<pages>251-258</pages>
+<year>2019</year>
+<booktitle>ETFA</booktitle>
+<ee>https://doi.org/10.1109/ETFA.2019.8869545</ee>
+<crossref>conf/etfa/2019</crossref>
+<url>db/conf/etfa/etfa2019.html#HorstmannHF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/HoffmannHF19" mdate="2020-10-25">
+<author pid="251/5091">Jos&#233; Luis Conradi Hoffmann</author>
+<author orcid="0000-0002-3581-275X" pid="251/5186">Leonardo Passig Horstmann</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>Anomaly Detection in Multicore Embedded Systems.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC49506.2019.9046093</ee>
+<crossref>conf/sbesc/2019</crossref>
+<url>db/conf/sbesc/sbesc2019.html#HoffmannHF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/LucenaSF19" mdate="2020-06-15">
+<author pid="261/8292">Mateus Mart&#237;nez De Lucena</author>
+<author orcid="0000-0002-7418-7918" pid="26/2522">Roberto Milton Scheffel</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>IoT Gateway Integrity Checking Protocol.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC49506.2019.9046077</ee>
+<crossref>conf/sbesc/2019</crossref>
+<url>db/conf/sbesc/sbesc2019.html#LucenaSF19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijsnet/Frohlich18" mdate="2020-08-06">
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>SmartData: an IoT-ready API for sensor networks.</title>
+<pages>202-210</pages>
+<year>2018</year>
+<volume>28</volume>
+<journal>Int. J. Sens. Networks</journal>
+<number>3</number>
+<ee>https://doi.org/10.1504/IJSNET.2018.096264</ee>
+<url>db/journals/ijsnet/ijsnet28.html#Frohlich18</url>
+</article>
+</r>
+<r><article key="journals/scp/ResnerAF18" mdate="2020-06-15">
+<author pid="166/4127">Davi Resner</author>
+<author pid="27/9584">Gustavo Medeiros de Ara&#250;jo</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Design and implementation of a cross-layer IoT protocol.</title>
 <pages>24-37</pages>
 <year>2018</year>
@@ -18,9 +204,21 @@
 <url>db/journals/scp/scp165.html#ResnerAF18</url>
 </article>
 </r>
-<r><inproceedings key="conf/isorc/MachadoF18" mdate="2018-08-23">
-<author>Caciano Machado</author>
-<author>Ant&#244;nio Augusto Medeiros Fr&#246;hlich</author>
+<r><inproceedings key="conf/IEEEants/ScheffelF18" mdate="2020-06-15">
+<author orcid="0000-0002-7418-7918" pid="26/2522">Roberto Milton Scheffel</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>FT-TSTP: A Multi-Gateway Fully Reactive Geographical Routing Protocol to Improve WSN Reliability.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>ANTS</booktitle>
+<ee>https://doi.org/10.1109/ANTS.2018.8710043</ee>
+<crossref>conf/IEEEants/2018</crossref>
+<url>db/conf/IEEEants/IEEEants2018.html#ScheffelF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isorc/MachadoF18" mdate="2020-10-25">
+<author orcid="0000-0002-5497-202X" pid="67/504">Caciano Machado</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Medeiros Fr&#246;hlich</author>
 <title>IoT Data Integrity Verification for Cyber-Physical Systems Using Blockchain.</title>
 <pages>83-90</pages>
 <year>2018</year>
@@ -31,36 +229,122 @@
 <url>db/conf/isorc/isorc2018.html#MachadoF18</url>
 </inproceedings>
 </r>
-<r><article key="journals/iet-cdt/GracioliF17" mdate="2017-07-04">
-<author>Giovani Gracioli</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/ladc/ScheffelF18" mdate="2020-06-16">
+<author orcid="0000-0002-7418-7918" pid="26/2522">Roberto Milton Scheffel</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>WSN Data Confidence Attribution Using Predictors.</title>
+<pages>145-154</pages>
+<year>2018</year>
+<booktitle>LADC</booktitle>
+<ee>https://doi.org/10.1109/LADC.2018.00025</ee>
+<crossref>conf/ladc/2018</crossref>
+<url>db/conf/ladc/ladc2018.html#ScheffelF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/MeurerFH18" mdate="2020-12-29">
+<author pid="160/4593">Rodrigo Schmitt Meurer</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author orcid="0000-0001-9355-822X" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</author>
+<title>Ambient Intelligence for the Internet of Things Through Context-Awareness.</title>
+<pages>83-89</pages>
+<year>2018</year>
+<booktitle>RSP</booktitle>
+<ee>https://doi.org/10.1109/RSP.2018.8631989</ee>
+<crossref>conf/rsp/2018</crossref>
+<url>db/conf/rsp/rsp2018.html#MeurerFH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/MuckFGRRD18" mdate="2020-09-05">
+<author pid="81/9953">Tiago M&#252;ck</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="40/3248">Giovani Gracioli</author>
+<author pid="41/923">Amir M. Rahmani</author>
+<author pid="162/3438">Jo&#227;o Gabriel Reis</author>
+<author orcid="0000-0002-3060-8119" pid="d/NikilDDutt">Nikil D. Dutt</author>
+<title>CHIPS-AHOy: a predictable holistic cyber-physical hypervisor for MPSoCs.</title>
+<pages>73-80</pages>
+<year>2018</year>
+<booktitle>SAMOS</booktitle>
+<ee>https://doi.org/10.1145/3229631.3229642</ee>
+<crossref>conf/samos/2018</crossref>
+<url>db/conf/samos/samos2018.html#MuckFGRRD18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/RichaF18" mdate="2020-06-15">
+<author pid="210/3765">Cesar Huegel Richa</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<title>Low-Latency Secure Roaming in V2I Networks.</title>
+<pages>31-37</pages>
+<year>2018</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2018.00014</ee>
+<crossref>conf/sbesc/2018</crossref>
+<url>db/conf/sbesc/sbesc2018.html#RichaF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/CunhaMNDCFRMFA18" mdate="2021-07-19">
+<author pid="239/6792">Renan Cunha</author>
+<author pid="98/7543">Rodrigo Maciel</author>
+<author pid="239/6863">Giann Nandi</author>
+<author pid="239/6787">Marina Daros</author>
+<author pid="239/6865">Joice Cardoso</author>
+<author pid="239/6734">Leonardo Francis</author>
+<author orcid="0000-0002-8319-743X" pid="12/8199">Vinicius Ramos 0001</author>
+<author pid="04/8974">Roderval Marcelino</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="27/9584">Gustavo Medeiros de Ara&#250;jo</author>
+<title>Applying Non-destructive Testing and Machine Learning to Ceramic Tile Quality Control.</title>
+<pages>54-61</pages>
+<year>2018</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC.2018.00017</ee>
+<crossref>conf/sbesc/2018</crossref>
+<url>db/conf/sbesc/sbesc2018.html#CunhaMNDCFRMFA18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsc/FrohlichR18" mdate="2020-06-15">
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="166/4127">Davi Resner</author>
+<title>Data-Centric Cyber-Physical Systems Design with Smartdata.</title>
+<pages>1274-1285</pages>
+<year>2018</year>
+<booktitle>WSC</booktitle>
+<ee>https://doi.org/10.1109/WSC.2018.8632446</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3320675</ee>
+<crossref>conf/wsc/2018</crossref>
+<url>db/conf/wsc/wsc2018.html#FrohlichR18</url>
+</inproceedings>
+</r>
+<r><article key="journals/iet-cdt/GracioliF17" mdate="2020-07-14">
+<author pid="40/3248">Giovani Gracioli</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Two-phase colour-aware multicore real-time scheduler.</title>
 <pages>133-139</pages>
 <year>2017</year>
 <volume>11</volume>
-<journal>IET Computers &#38; Digital Techniques</journal>
+<journal>IET Comput. Digit. Tech.</journal>
 <number>4</number>
 <ee>https://doi.org/10.1049/iet-cdt.2016.0114</ee>
 <url>db/journals/iet-cdt/iet-cdt11.html#GracioliF17</url>
 </article>
 </r>
-<r><article key="journals/sigops/ReisF17" mdate="2018-01-12">
-<author>Joao Gabriel Reis</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><article key="journals/sigops/ReisF17" mdate="2020-07-14">
+<author pid="162/3438">Joao Gabriel Reis</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>OS Support for Adaptive Components in Self-aware Systems.</title>
 <pages>101-112</pages>
 <year>2017</year>
 <volume>51</volume>
-<journal>Operating Systems Review</journal>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
 <number>1</number>
-<ee>http://doi.acm.org/10.1145/3139645.3139663</ee>
+<ee>https://doi.org/10.1145/3139645.3139663</ee>
 <url>db/journals/sigops/sigops51.html#ReisF17</url>
 </article>
 </r>
-<r><inproceedings key="conf/sbesc/RichaFG17" mdate="2017-12-11">
-<author>Cesar Huegel Richa</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Giovani Gracioli</author>
+<r><inproceedings key="conf/sbesc/RichaFG17" mdate="2020-06-15">
+<author pid="210/3765">Cesar Huegel Richa</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="40/3248">Giovani Gracioli</author>
 <title>Space-Time Derivative-Based Prediction: A Novel Trickling Mechanism for WSN.</title>
 <pages>47-54</pages>
 <year>2017</year>
@@ -71,11 +355,11 @@
 <url>db/conf/sbesc/sbesc2017.html#RichaFG17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/SusinWRF17" mdate="2017-12-11">
-<author>Matheus Martins Susin</author>
-<author>Lucas Francisco Wanner</author>
-<author>Davi Resner</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/sbesc/SusinWRF17" mdate="2020-06-15">
+<author pid="210/3809">Matheus Martins Susin</author>
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author pid="166/4127">Davi Resner</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Time Synchronization under Temperature and Distance Variations.</title>
 <pages>167-172</pages>
 <year>2017</year>
@@ -86,49 +370,50 @@
 <url>db/conf/sbesc/sbesc2017.html#SusinWRF17</url>
 </inproceedings>
 </r>
-<r><article key="journals/jcsc/BerejuckF16" mdate="2017-05-28">
-<author>Marcelo Daniel Berejuck</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><article key="journals/jcsc/BerejuckF16" mdate="2020-08-25">
+<author pid="46/7554">Marcelo Daniel Berejuck</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Evaluation of a Connectionless Technique for System-on-Chip Interconnection.</title>
-<pages>1-26</pages>
+<pages>1630005:1-1630005:26</pages>
 <year>2016</year>
 <volume>25</volume>
-<journal>Journal of Circuits, Systems, and Computers</journal>
+<journal>J. Circuits Syst. Comput.</journal>
 <number>10</number>
 <ee>https://doi.org/10.1142/S0218126616300051</ee>
 <url>db/journals/jcsc/jcsc25.html#BerejuckF16</url>
 </article>
 </r>
-<r><article key="journals/sigops/OyamadaFB16" mdate="2016-04-11">
-<author>M&#225;rcio Oyamada</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Leandro Buss Becker</author>
+<r><article key="journals/sigops/OyamadaFB16" mdate="2020-07-14">
+<author pid="07/559">M&#225;rcio Oyamada</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="24/3796">Leandro Buss Becker</author>
 <title>5th Brazilian Symposium on Computing System Engineering.</title>
 <pages>17</pages>
 <year>2016</year>
 <volume>50</volume>
-<journal>Operating Systems Review</journal>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
 <number>1</number>
-<ee>http://doi.acm.org/10.1145/2903267.2903273</ee>
+<ee>https://doi.org/10.1145/2903267.2903273</ee>
 <url>db/journals/sigops/sigops50.html#OyamadaFB16</url>
 </article>
 </r>
-<r><inproceedings key="conf/cse/ResnerF16" mdate="2017-07-19">
-<author>Davi Resner</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/cse/ResnerF16" mdate="2020-06-15">
+<author pid="166/4127">Davi Resner</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>TSTP MAC: A Foundation for the Trustful Space-Time Protocol.</title>
 <pages>40-47</pages>
 <year>2016</year>
 <booktitle>CSE/EUC/DCABES</booktitle>
 <ee>https://doi.org/10.1109/CSE-EUC-DCABES.2016.159</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSE-EUC-DCABES.2016.159</ee>
 <crossref>conf/cse/2016</crossref>
 <url>db/conf/cse/cse2016.html#ResnerF16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/etfa/ResnerFW16" mdate="2017-05-23">
-<author>Davi Resner</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Lucas Francisco Wanner</author>
+<r><inproceedings key="conf/etfa/ResnerFW16" mdate="2020-06-15">
+<author pid="166/4127">Davi Resner</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
 <title>Speculative Precision Time Protocol: Submicrosecond clock synchronization for the IoT.</title>
 <pages>1-8</pages>
 <year>2016</year>
@@ -138,10 +423,10 @@
 <url>db/conf/etfa/etfa2016.html#ResnerFW16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/MeurerLF16" mdate="2017-05-26">
-<author>Rodrigo Schmitt Meurer</author>
-<author>Mateus Krepsky Ludwich</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/sbesc/MeurerLF16" mdate="2020-06-15">
+<author pid="160/4593">Rodrigo Schmitt Meurer</author>
+<author pid="125/8098">Mateus Krepsky Ludwich</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Virtualizing Mixed-Criticality Operating Systems.</title>
 <pages>79-85</pages>
 <year>2016</year>
@@ -152,9 +437,9 @@
 <url>db/conf/sbesc/sbesc2016.html#MeurerLF16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/ReisF16" mdate="2017-05-26">
-<author>Joao Gabriel Reis</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/sbesc/ReisF16" mdate="2020-06-15">
+<author pid="162/3438">Joao Gabriel Reis</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Mutant Components: Efficiently Managing Multiple Implementations.</title>
 <pages>101-108</pages>
 <year>2016</year>
@@ -165,10 +450,10 @@
 <url>db/conf/sbesc/sbesc2016.html#ReisF16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/ResnerAF16" mdate="2017-05-26">
-<author>Davi Resner</author>
-<author>Gustavo Medeiros de Ara&#250;jo</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/sbesc/ResnerAF16" mdate="2020-06-15">
+<author pid="166/4127">Davi Resner</author>
+<author pid="27/9584">Gustavo Medeiros de Ara&#250;jo</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>On the Impact of Dynamic Routing Metrics on a Geographic Protocol for WSNs.</title>
 <pages>109-115</pages>
 <year>2016</year>
@@ -179,52 +464,53 @@
 <url>db/conf/sbesc/sbesc2016.html#ResnerAF16</url>
 </inproceedings>
 </r>
-<r><article key="journals/cee/FrohlichBS15" mdate="2017-05-27">
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Eduardo Augusto Bezerra</author>
-<author>Leonardo Kessler Slongo</author>
+<r><article key="journals/cee/FrohlichBS15" mdate="2020-06-15">
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author orcid="0000-0002-2191-6064" pid="86/4958">Eduardo Augusto Bezerra</author>
+<author pid="172/3326">Leonardo Kessler Slongo</author>
 <title>Experimental analysis of solar energy harvesting circuits efficiency for low power applications.</title>
 <pages>143-154</pages>
 <year>2015</year>
 <volume>45</volume>
-<journal>Computers &#38; Electrical Engineering</journal>
+<journal>Comput. Electr. Eng.</journal>
 <ee>https://doi.org/10.1016/j.compeleceng.2014.09.004</ee>
+<ee>https://www.wikidata.org/entity/Q59243736</ee>
 <url>db/journals/cee/cee45.html#FrohlichBS15</url>
 </article>
 </r>
-<r><article key="journals/csur/GracioliAMFP15" mdate="2017-01-02">
-<author>Giovani Gracioli</author>
-<author>Ahmed Alhammad</author>
-<author>Renato Mancuso 0001</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Rodolfo Pellizzoni</author>
+<r><article key="journals/csur/GracioliAMFP15" mdate="2020-06-15">
+<author pid="40/3248">Giovani Gracioli</author>
+<author pid="144/4674">Ahmed Alhammad</author>
+<author pid="19/5387">Renato Mancuso 0001</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="25/3790">Rodolfo Pellizzoni</author>
 <title>A Survey on Cache Management Mechanisms for Real-Time Embedded Systems.</title>
 <pages>32:1-32:36</pages>
 <year>2015</year>
 <volume>48</volume>
 <journal>ACM Comput. Surv.</journal>
 <number>2</number>
-<ee>http://doi.acm.org/10.1145/2830555</ee>
+<ee>https://doi.org/10.1145/2830555</ee>
 <url>db/journals/csur/csur48.html#GracioliAMFP15</url>
 </article>
 </r>
-<r><article key="journals/sigops/GracioliF15" mdate="2016-01-26">
-<author>Giovani Gracioli</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><article key="journals/sigops/GracioliF15" mdate="2020-07-14">
+<author pid="40/3248">Giovani Gracioli</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>On the Design and Evaluation of a Real-Time Operating System for Cache-Coherent Multicore Architectures.</title>
 <pages>2-16</pages>
 <year>2015</year>
 <volume>49</volume>
-<journal>Operating Systems Review</journal>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
 <number>2</number>
-<ee>http://doi.acm.org/10.1145/2883591.2883594</ee>
+<ee>https://doi.org/10.1145/2883591.2883594</ee>
 <url>db/journals/sigops/sigops49.html#GracioliF15</url>
 </article>
 </r>
-<r><inproceedings key="conf/dsd/ReisWF15" mdate="2017-05-19">
-<author>Joao Gabriel Reis</author>
-<author>Lucas Francisco Wanner</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/dsd/ReisWF15" mdate="2020-06-15">
+<author pid="162/3438">Joao Gabriel Reis</author>
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>A Framework for Dynamic Real-Time Reconfiguration.</title>
 <pages>255-258</pages>
 <year>2015</year>
@@ -235,9 +521,9 @@
 <url>db/conf/dsd/dsd2015.html#ReisWF15</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/etfa/ResnerF15" mdate="2017-05-23">
-<author>Davi Resner</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/etfa/ResnerF15" mdate="2020-06-15">
+<author pid="166/4127">Davi Resner</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Design rationale of a cross-layer, Trustful Space-Time Protocol for Wireless Sensor Networks.</title>
 <pages>1-8</pages>
 <year>2015</year>
@@ -247,10 +533,10 @@
 <url>db/conf/etfa/etfa2015.html#ResnerF15</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/rsp/ReisFW15" mdate="2017-05-25">
-<author>Joao Gabriel Reis</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Lucas Francisco Wanner</author>
+<r><inproceedings key="conf/rsp/ReisFW15" mdate="2020-06-15">
+<author pid="162/3438">Joao Gabriel Reis</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
 <title>X-Ware: mutant computing substrates.</title>
 <pages>25-31</pages>
 <year>2015</year>
@@ -260,9 +546,9 @@
 <url>db/conf/rsp/rsp2015.html#ReisFW15</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/rsp/LudwichF15" mdate="2017-05-25">
-<author>Mateus Krepsky Ludwich</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/rsp/LudwichF15" mdate="2020-06-15">
+<author pid="125/8098">Mateus Krepsky Ludwich</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Proper handling of interrupts in cyber-physical systems.</title>
 <pages>83-89</pages>
 <year>2015</year>
@@ -272,10 +558,10 @@
 <url>db/conf/rsp/rsp2015.html#LudwichF15</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/ReisFH15" mdate="2017-05-26">
-<author>Joao Gabriel Reis</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Arliones Stevert Hoeller</author>
+<r><inproceedings key="conf/sbesc/ReisFH15" mdate="2020-06-15">
+<author pid="162/3438">Joao Gabriel Reis</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author orcid="0000-0002-8883-8523" pid="222/8241">Arliones Stevert Hoeller</author>
 <title>On the FPGA Dynamic Partial Reconfiguration Interference on Real-Time Systems.</title>
 <pages>110-115</pages>
 <year>2015</year>
@@ -287,8 +573,8 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/sensornets/ResnerF15" mdate="2017-05-19">
-<author>Davi Resner</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="166/4127">Davi Resner</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Key Establishment and Trustful Communication for the Internet of Things.</title>
 <pages>197-206</pages>
 <year>2015</year>
@@ -298,9 +584,9 @@
 <url>db/conf/sensornets/sensornets2015.html#ResnerF15</url>
 </inproceedings>
 </r>
-<r><article publtype="informal" key="journals/corr/HoellerF15" mdate="2018-08-13">
-<author>Arliones Hoeller Jr.</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><article publtype="informal" key="journals/corr/HoellerF15" mdate="2021-01-23">
+<author orcid="0000-0002-8883-8523" pid="222/8241">Arliones Hoeller Jr.</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Evaluation of Energy-Efficient Heuristics for ACO-based Routing in Mobile Wireless Sensor Networks.</title>
 <year>2015</year>
 <volume>abs/1512.02114</volume>
@@ -309,50 +595,50 @@
 <url>db/journals/corr/corr1512.html#HoellerF15</url>
 </article>
 </r>
-<r><article key="journals/jsa/MuckF14" mdate="2017-05-20">
-<author>Tiago Rog&#233;rio M&#252;ck</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><article key="journals/jsa/MuckF14" mdate="2020-06-15">
+<author pid="81/9953">Tiago Rog&#233;rio M&#252;ck</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>A metaprogrammed C++ framework for hardware/software component integration and communication.</title>
 <pages>816-827</pages>
 <year>2014</year>
 <volume>60</volume>
-<journal>Journal of Systems Architecture - Embedded Systems Design</journal>
+<journal>J. Syst. Archit.</journal>
 <number>10</number>
 <ee>https://doi.org/10.1016/j.sysarc.2014.09.002</ee>
 <url>db/journals/jsa/jsa60.html#MuckF14</url>
 </article>
 </r>
-<r><article key="journals/mam/MuckF14" mdate="2017-05-18">
-<author>Tiago Rog&#233;rio M&#252;ck</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><article key="journals/mam/MuckF14" mdate="2020-06-15">
+<author pid="81/9953">Tiago Rog&#233;rio M&#252;ck</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Aspect-oriented RTL HW design using SystemC.</title>
 <pages>113-123</pages>
 <year>2014</year>
 <volume>38</volume>
-<journal>Microprocessors and Microsystems - Embedded Hardware Design</journal>
+<journal>Microprocess. Microsystems</journal>
 <number>2</number>
 <ee>https://doi.org/10.1016/j.micpro.2013.12.002</ee>
 <url>db/journals/mam/mam38.html#MuckF14</url>
 </article>
 </r>
-<r><article key="journals/sigops/LeiteGMF14" mdate="2014-06-05">
-<author>Julius C. B. Leite</author>
-<author>Raphael Guerra</author>
-<author>Rivalino Matias Jr.</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><article key="journals/sigops/LeiteGMF14" mdate="2020-07-14">
+<author pid="10/5959">Julius C. B. Leite</author>
+<author pid="91/1088">Raphael Guerra</author>
+<author pid="06/6499">Rivalino Matias Jr.</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Brazilian symposium on computer system engineering, November 2013.</title>
 <pages>1</pages>
 <year>2014</year>
 <volume>48</volume>
-<journal>Operating Systems Review</journal>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
 <number>1</number>
 <ee>http://dl.acm.org/citation.cfm?id=2627749</ee>
 <url>db/journals/sigops/sigops48.html#LeiteGMF14</url>
 </article>
 </r>
-<r><article key="journals/tc/MuckF14" mdate="2017-05-20">
-<author>Tiago Rog&#233;rio M&#252;ck</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><article key="journals/tc/MuckF14" mdate="2020-06-15">
+<author pid="81/9953">Tiago Rog&#233;rio M&#252;ck</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Toward Unified Design of Hardware and Software Components Using C++.</title>
 <pages>2880-2893</pages>
 <year>2014</year>
@@ -364,9 +650,9 @@
 <url>db/journals/tc/tc63.html#MuckF14</url>
 </article>
 </r>
-<r><inproceedings key="conf/etfa/GracioliF14" mdate="2017-05-23">
-<author>Giovani Gracioli</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/etfa/GracioliF14" mdate="2020-06-15">
+<author pid="40/3248">Giovani Gracioli</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>CAP: Color-aware task partitioning for multicore real-time applications.</title>
 <pages>1-8</pages>
 <year>2014</year>
@@ -376,11 +662,11 @@
 <url>db/conf/etfa/etfa2014.html#GracioliF14</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/indin/PaulonFBB14" mdate="2017-05-19">
-<author>A. R. Paulon</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Leandro Buss Becker</author>
-<author>Fabio Paulo Basso</author>
+<r><inproceedings key="conf/indin/PaulonFBB14" mdate="2020-06-15">
+<author pid="154/5038">A. R. Paulon</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="24/3796">Leandro Buss Becker</author>
+<author orcid="0000-0003-4275-0638" pid="58/4232">Fabio Paulo Basso</author>
 <title>Wireless sensor network UML profile to support model-driven development.</title>
 <pages>227-232</pages>
 <year>2014</year>
@@ -390,9 +676,9 @@
 <url>db/conf/indin/indin2014.html#PaulonFBB14</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/GracioliF14" mdate="2017-05-26">
-<author>Giovani Gracioli</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/sbesc/GracioliF14" mdate="2020-06-15">
+<author pid="40/3248">Giovani Gracioli</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>On the Influence of Shared Memory Contention in Real-Time Multicore Applications.</title>
 <pages>25-30</pages>
 <year>2014</year>
@@ -403,23 +689,24 @@
 <url>db/conf/sbesc/sbesc2014.html#GracioliF14</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/RufinoSRF14" mdate="2017-05-26">
-<author>Leonardo Maccari Rufino</author>
-<author>Rodrigo Vieira Steiner</author>
-<author>Rodrigo Valceli Raimundo</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/sbesc/RufinoSRF14" mdate="2020-06-15">
+<author pid="85/10768">Leonardo Maccari Rufino</author>
+<author pid="01/9952">Rodrigo Vieira Steiner</author>
+<author pid="171/6231">Rodrigo Valceli Raimundo</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Improvements in Wireless Communication and Support for WMSN in IEEE 1451.</title>
 <pages>109-114</pages>
 <year>2014</year>
 <booktitle>SBESC</booktitle>
 <ee>https://doi.org/10.1109/SBESC.2014.25</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBESC.2014.25</ee>
 <crossref>conf/sbesc/2014</crossref>
 <url>db/conf/sbesc/sbesc2014.html#RufinoSRF14</url>
 </inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/BerejuckF14" mdate="2018-08-13">
-<author>Marcelo Daniel Berejuck</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="46/7554">Marcelo Daniel Berejuck</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Evaluation of silicon consumption for a connectionless Network-on-Chip.</title>
 <year>2014</year>
 <volume>abs/1411.3492</volume>
@@ -428,37 +715,37 @@
 <url>db/journals/corr/corr1411.html#BerejuckF14</url>
 </article>
 </r>
-<r><article key="journals/rts/GracioliFPF13" mdate="2017-05-17">
-<author>Giovani Gracioli</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Rodolfo Pellizzoni</author>
-<author>Sebastian Fischmeister</author>
+<r><article key="journals/rts/GracioliFPF13" mdate="2020-09-10">
+<author pid="40/3248">Giovani Gracioli</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="25/3790">Rodolfo Pellizzoni</author>
+<author pid="59/4811">Sebastian Fischmeister</author>
 <title>Implementation and evaluation of global and partitioned scheduling in a real-time OS.</title>
 <pages>669-714</pages>
 <year>2013</year>
 <volume>49</volume>
-<journal>Real-Time Systems</journal>
+<journal>Real Time Syst.</journal>
 <number>6</number>
 <ee>https://doi.org/10.1007/s11241-013-9183-3</ee>
 <url>db/journals/rts/rts49.html#GracioliFPF13</url>
 </article>
 </r>
-<r><article key="journals/sigops/LudwichF13" mdate="2013-02-13">
-<author>Mateus Krepsky Ludwich</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><article key="journals/sigops/LudwichF13" mdate="2020-07-14">
+<author pid="125/8098">Mateus Krepsky Ludwich</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>On the formal verification of component-based embedded operating systems.</title>
 <pages>28-34</pages>
 <year>2013</year>
 <volume>47</volume>
-<journal>Operating Systems Review</journal>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
 <number>1</number>
-<ee>http://doi.acm.org/10.1145/2433140.2433148</ee>
+<ee>https://doi.org/10.1145/2433140.2433148</ee>
 <url>db/journals/sigops/sigops47.html#LudwichF13</url>
 </article>
 </r>
-<r><inproceedings key="conf/hpcc/SoldiF13" mdate="2017-05-23">
-<author>Rita de Cassia Cazu Soldi</author>
-<author>Ant&#244;nio Augusto Medeiros Fr&#246;hlich</author>
+<r><inproceedings key="conf/hpcc/SoldiF13" mdate="2020-06-15">
+<author pid="119/9080">Rita de Cassia Cazu Soldi</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Medeiros Fr&#246;hlich</author>
 <title>AEP - Automatic Exchange of Embedded System Software Parameters.</title>
 <pages>1938-1943</pages>
 <year>2013</year>
@@ -468,12 +755,12 @@
 <url>db/conf/hpcc/hpcc2013.html#SoldiF13</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/isorc/FrohlichOSOM13" mdate="2017-09-16">
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Alexandre Massayuki Okazaki</author>
-<author>Rodrigo Vieira Steiner</author>
-<author>Peterson Oliveira</author>
-<author orcid="0000-0003-4104-1741">Jean Everson Martina</author>
+<r><inproceedings key="conf/isorc/FrohlichOSOM13" mdate="2020-06-15">
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="12/11050">Alexandre Massayuki Okazaki</author>
+<author pid="01/9952">Rodrigo Vieira Steiner</author>
+<author pid="151/9155">Peterson Oliveira</author>
+<author orcid="0000-0003-4104-1741" pid="24/765">Jean Everson Martina</author>
 <title>A cross-layer approach to trustfulness in the Internet of Things.</title>
 <pages>1-8</pages>
 <year>2013</year>
@@ -484,9 +771,9 @@
 <url>db/conf/isorc/isorc2013.html#FrohlichOSOM13</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/rsp/MuckF13" mdate="2017-05-25">
-<author>Tiago Rog&#233;rio M&#252;ck</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/rsp/MuckF13" mdate="2020-06-15">
+<author pid="81/9953">Tiago Rog&#233;rio M&#252;ck</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Seamless integration of HW/SW components in a HLS-based SoC design environment.</title>
 <pages>109-115</pages>
 <year>2013</year>
@@ -496,9 +783,9 @@
 <url>db/conf/rsp/rsp2013.html#MuckF13</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/rtcsa/GracioliF13" mdate="2017-05-25">
-<author>Giovani Gracioli</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/rtcsa/GracioliF13" mdate="2020-06-15">
+<author pid="40/3248">Giovani Gracioli</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>An experimental evaluation of the cache partitioning impact on multicore real-time schedulers.</title>
 <pages>72-81</pages>
 <year>2013</year>
@@ -509,10 +796,10 @@
 <url>db/conf/rtcsa/rtcsa2013.html#GracioliF13</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/MeurerMF13" mdate="2017-05-26">
-<author>Rodrigo Schmitt Meurer</author>
-<author>Tiago Rog&#233;rio M&#252;ck</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/sbesc/MeurerMF13" mdate="2020-06-15">
+<author pid="160/4593">Rodrigo Schmitt Meurer</author>
+<author pid="81/9953">Tiago Rog&#233;rio M&#252;ck</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>An Implementation of the AES Cipher Using HLS.</title>
 <pages>113-118</pages>
 <year>2013</year>
@@ -523,11 +810,11 @@
 <url>db/conf/sbesc/sbesc2013.html#MeurerMF13</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/BeckerBFP13" mdate="2017-05-26">
-<author>Leandro Buss Becker</author>
-<author>Fabio Paulo Basso</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>A. R. Paulon</author>
+<r><inproceedings key="conf/sbesc/BeckerBFP13" mdate="2020-06-15">
+<author pid="24/3796">Leandro Buss Becker</author>
+<author orcid="0000-0003-4275-0638" pid="58/4232">Fabio Paulo Basso</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="154/5038">A. R. Paulon</author>
 <title>Model-Driven Development of WSN Applications.</title>
 <pages>161-166</pages>
 <year>2013</year>
@@ -538,10 +825,10 @@
 <url>db/conf/sbesc/sbesc2013.html#BeckerBFP13</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/HoellerOF13" mdate="2017-05-26">
-<author>Arliones Stevert Hoeller</author>
-<author>Peterson Oliveira</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/sbesc/HoellerOF13" mdate="2020-06-15">
+<author orcid="0000-0002-8883-8523" pid="222/8241">Arliones Stevert Hoeller</author>
+<author pid="151/9155">Peterson Oliveira</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Dynamic Adjustment of Transmission Power of Mobile Ad-Hoc Wireless Sensor Networks.</title>
 <pages>167-168</pages>
 <year>2013</year>
@@ -552,11 +839,11 @@
 <url>db/conf/sbesc/sbesc2013.html#HoellerOF13</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/wcnc/SteinerAFA13" mdate="2017-05-24">
-<author>Rodrigo Vieira Steiner</author>
-<author>Mohammad Reza Akhavan</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>A. Hamid Aghvami</author>
+<r><inproceedings key="conf/wcnc/SteinerAFA13" mdate="2020-06-15">
+<author pid="01/9952">Rodrigo Vieira Steiner</author>
+<author pid="132/7982">Mohammad Reza Akhavan</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="a/AHAghvami">A. Hamid Aghvami</author>
 <title>Performance evaluation of receiver based MAC using configurable framework in WSNs.</title>
 <pages>878-883</pages>
 <year>2013</year>
@@ -566,42 +853,42 @@
 <url>db/conf/wcnc/wcnc2013.html#SteinerAFA13</url>
 </inproceedings>
 </r>
-<r><article key="journals/sigops/FrohlichBLPSB12" mdate="2015-03-19">
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Leandro Buss Becker</author>
-<author>George Lima</author>
-<author>Stefan Petters</author>
-<author>Dilma M. Da Silva</author>
-<author>Edna Natividade da Silva Barros</author>
+<r><article key="journals/sigops/FrohlichBLPSB12" mdate="2020-07-14">
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="24/3796">Leandro Buss Becker</author>
+<author pid="07/2481">George Lima</author>
+<author pid="17/11062">Stefan Petters</author>
+<author pid="03/6463">Dilma M. Da Silva</author>
+<author pid="48/6034">Edna Natividade da Silva Barros</author>
 <title>Brazilian symposium on computing system engineering.</title>
 <pages>52</pages>
 <year>2012</year>
 <volume>46</volume>
-<journal>Operating Systems Review</journal>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
 <number>1</number>
-<ee>http://doi.acm.org/10.1145/2146382.2146393</ee>
+<ee>https://doi.org/10.1145/2146382.2146393</ee>
 <url>db/journals/sigops/sigops46.html#FrohlichBLPSB12</url>
 </article>
 </r>
-<r><article key="journals/sigops/MuckFGS12" mdate="2012-03-13">
-<author>Tiago Rog&#233;rio M&#252;ck</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Michael Gernoth</author>
-<author>Wolfgang Schr&#246;der-Preikschat</author>
+<r><article key="journals/sigops/MuckFGS12" mdate="2020-07-14">
+<author pid="81/9953">Tiago Rog&#233;rio M&#252;ck</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="34/11063">Michael Gernoth</author>
+<author pid="26/6488">Wolfgang Schr&#246;der-Preikschat</author>
 <title>Implementing OS components in hardware using AOP.</title>
 <pages>64-72</pages>
 <year>2012</year>
 <volume>46</volume>
-<journal>Operating Systems Review</journal>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
 <number>1</number>
-<ee>http://doi.acm.org/10.1145/2146382.2146395</ee>
+<ee>https://doi.org/10.1145/2146382.2146395</ee>
 <url>db/journals/sigops/sigops46.html#MuckFGS12</url>
 </article>
 </r>
-<r><inproceedings key="conf/iccnc/MatosFB12" mdate="2017-05-21">
-<author>Roberto de Matos</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Leandro Buss Becker</author>
+<r><inproceedings key="conf/iccnc/MatosFB12" mdate="2020-06-15">
+<author pid="67/1636">Roberto de Matos</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="24/3796">Leandro Buss Becker</author>
 <title>Using multiple channels to improve SDR flexibility and performance.</title>
 <pages>1031-1035</pages>
 <year>2012</year>
@@ -611,9 +898,9 @@
 <url>db/conf/iccnc/iccnc2012.html#MatosFB12</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/icecsys/MuckF12" mdate="2017-05-23">
-<author>Tiago Rog&#233;rio M&#252;ck</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/icecsys/MuckF12" mdate="2020-06-15">
+<author pid="81/9953">Tiago Rog&#233;rio M&#252;ck</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>On AOP techniques for C++-based HW/SW component implementation.</title>
 <pages>536-539</pages>
 <year>2012</year>
@@ -623,11 +910,11 @@
 <url>db/conf/icecsys/icecsys2012.html#MuckF12</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/iscc/SteinerGSF12" mdate="2017-05-25">
-<author>Rodrigo Vieira Steiner</author>
-<author>Giovani Gracioli</author>
-<author>Rita de Cassia Cazu Soldi</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/iscc/SteinerGSF12" mdate="2020-06-15">
+<author pid="01/9952">Rodrigo Vieira Steiner</author>
+<author pid="40/3248">Giovani Gracioli</author>
+<author pid="119/9080">Rita de Cassia Cazu Soldi</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>An operating system runtime reprogramming infrastructure for WSN.</title>
 <pages>621-624</pages>
 <year>2012</year>
@@ -638,73 +925,76 @@
 <url>db/conf/iscc/iscc2012.html#SteinerGSF12</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/MeiraFH12" mdate="2017-05-26">
-<author>Gustavo Nardon Meira</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Arliones Hoeller Jr.</author>
+<r><inproceedings key="conf/sbesc/MeiraFH12" mdate="2020-06-15">
+<author pid="160/5689">Gustavo Nardon Meira</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author orcid="0000-0002-8883-8523" pid="222/8241">Arliones Hoeller Jr.</author>
 <title>Real-Time Dynamic Voltage Scaling for the EPOS Operating System.</title>
 <pages>65-70</pages>
 <year>2012</year>
 <booktitle>SBESC</booktitle>
 <ee>https://doi.org/10.1109/SBESC.2012.21</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBESC.2012.21</ee>
 <crossref>conf/sbesc/2012</crossref>
 <url>db/conf/sbesc/sbesc2012.html#MeiraFH12</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/OliveiraOF12" mdate="2017-05-26">
-<author>Peterson Oliveira</author>
-<author>Alexandre Massayuki Okazaki</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/sbesc/OliveiraOF12" mdate="2020-06-15">
+<author pid="151/9155">Peterson Oliveira</author>
+<author pid="12/11050">Alexandre Massayuki Okazaki</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Time Synchronization at OS Level Using the IEEE 1588 Protocol.</title>
 <pages>153-156</pages>
 <year>2012</year>
 <booktitle>SBESC</booktitle>
 <ee>https://doi.org/10.1109/SBESC.2012.37</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBESC.2012.37</ee>
 <crossref>conf/sbesc/2012</crossref>
 <url>db/conf/sbesc/sbesc2012.html#OliveiraOF12</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/LudwichF12" mdate="2017-05-26">
-<author>Mateus Krepsky Ludwich</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/sbesc/LudwichF12" mdate="2020-06-15">
+<author pid="125/8098">Mateus Krepsky Ludwich</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>System-Level Verification of Embedded Operating Systems Components.</title>
 <pages>161-165</pages>
 <year>2012</year>
 <booktitle>SBESC</booktitle>
 <ee>https://doi.org/10.1109/SBESC.2012.39</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBESC.2012.39</ee>
 <crossref>conf/sbesc/2012</crossref>
 <url>db/conf/sbesc/sbesc2012.html#LudwichF12</url>
 </inproceedings>
 </r>
-<r><article key="journals/cee/FrohlichGS11" mdate="2017-06-05">
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Giovani Gracioli</author>
-<author orcid="0000-0003-3934-3943">Jo&#227;o Felipe Santos</author>
+<r><article key="journals/cee/FrohlichGS11" mdate="2020-02-19">
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="40/3248">Giovani Gracioli</author>
+<author orcid="0000-0003-3934-3943" pid="48/5148">Jo&#227;o Felipe Santos</author>
 <title>Periodic timers revisited: The real-time embedded system perspective.</title>
 <pages>365-375</pages>
 <year>2011</year>
 <volume>37</volume>
-<journal>Computers &#38; Electrical Engineering</journal>
+<journal>Comput. Electr. Eng.</journal>
 <number>3</number>
 <ee>https://doi.org/10.1016/j.compeleceng.2011.03.003</ee>
 <url>db/journals/cee/cee37.html#FrohlichGS11</url>
 </article>
 </r>
-<r><article key="journals/ijdsn/Frohlich11" mdate="2018-06-27">
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><article key="journals/ijdsn/Frohlich11" mdate="2020-06-21">
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>A Comprehensive Approach to Power Management in Embedded Systems.</title>
 <year>2011</year>
 <volume>7</volume>
 <number>1</number>
-<journal>IJDSN</journal>
-<ee>https://doi.org/10.1155/2011/807091</ee>
+<journal>Int. J. Distributed Sens. Networks</journal>
+<ee type="oa">https://doi.org/10.1155/2011/807091</ee>
 <url>db/journals/ijdsn/ijdsn7.html#Frohlich11</url>
 </article>
 </r>
-<r><inproceedings key="conf/dasc/FrohlichSR11" mdate="2017-05-22">
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Rodrigo Vieira Steiner</author>
-<author>Leonardo Maccari Rufino</author>
+<r><inproceedings key="conf/dasc/FrohlichSR11" mdate="2020-06-15">
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="01/9952">Rodrigo Vieira Steiner</author>
+<author pid="85/10768">Leonardo Maccari Rufino</author>
 <title>A Trustful Infrastructure for the Internet of Things Based on EPOSMote.</title>
 <pages>63-68</pages>
 <year>2011</year>
@@ -715,9 +1005,9 @@
 <url>db/conf/dasc/dasc2011.html#FrohlichSR11</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/globecom/OkazakiF11" mdate="2017-05-23">
-<author>Alexandre Massayuki Okazaki</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/globecom/OkazakiF11" mdate="2020-06-15">
+<author pid="12/11050">Alexandre Massayuki Okazaki</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Ant-based Dynamic Hop Optimization Protocol: A routing algorithm for Mobile Wireless Sensor Networks.</title>
 <pages>1139-1143</pages>
 <year>2011</year>
@@ -727,10 +1017,10 @@
 <url>db/conf/globecom/globecom2011w.html#OkazakiF11</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/icecsys/FlorMF11" mdate="2017-05-23">
-<author>Joao Paulo Pizani Flor</author>
-<author>Tiago Rog&#233;rio M&#252;ck</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/icecsys/FlorMF11" mdate="2020-06-15">
+<author pid="21/10783">Joao Paulo Pizani Flor</author>
+<author pid="81/9953">Tiago Rog&#233;rio M&#252;ck</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>High-level design and synthesis of a resource scheduler.</title>
 <pages>736-739</pages>
 <year>2011</year>
@@ -740,9 +1030,9 @@
 <url>db/conf/icecsys/icecsys2011.html#FlorMF11</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/ict/OkazakiF11" mdate="2018-09-20">
-<author>Alexandre Massayuki Okazaki</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/ict/OkazakiF11" mdate="2020-06-15">
+<author pid="12/11050">Alexandre Massayuki Okazaki</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>AD-ZRP: Ant-based routing algorithm for dynamic wireless sensor networks.</title>
 <pages>15-20</pages>
 <year>2011</year>
@@ -752,11 +1042,11 @@
 <url>db/conf/ict/ict2011.html#OkazakiF11</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/MuckGSF11" mdate="2017-05-26">
-<author>Tiago Rog&#233;rio M&#252;ck</author>
-<author>Michael Gernoth</author>
-<author>Wolfgang Schr&#246;der-Preikschat</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/sbesc/MuckGSF11" mdate="2020-06-15">
+<author pid="81/9953">Tiago Rog&#233;rio M&#252;ck</author>
+<author pid="34/11063">Michael Gernoth</author>
+<author pid="26/6488">Wolfgang Schr&#246;der-Preikschat</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>A Case Study of AOP and OOP Applied to Digital Hardware Design.</title>
 <pages>66-71</pages>
 <year>2011</year>
@@ -767,9 +1057,9 @@
 <url>db/conf/sbesc/sbesc2011.html#MuckGSF11</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/LudwichF11" mdate="2017-05-26">
-<author>Mateus Krepsky Ludwich</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/sbesc/LudwichF11" mdate="2020-06-15">
+<author pid="125/8098">Mateus Krepsky Ludwich</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Interfacing Hardware Devices to Embedded Java.</title>
 <pages>176-181</pages>
 <year>2011</year>
@@ -780,9 +1070,9 @@
 <url>db/conf/sbesc/sbesc2011.html#LudwichF11</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/GracioliF11" mdate="2017-05-26">
-<author>Giovani Gracioli</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/sbesc/GracioliF11" mdate="2020-06-15">
+<author pid="40/3248">Giovani Gracioli</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>API for Performance Monitoring in Embedded Multicore Systems.</title>
 <pages>194-199</pages>
 <year>2011</year>
@@ -793,9 +1083,9 @@
 <url>db/conf/sbesc/sbesc2011.html#GracioliF11</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/HoellerF11" mdate="2017-05-26">
-<author>Arliones Hoeller Jr.</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/sbesc/HoellerF11" mdate="2020-06-15">
+<author orcid="0000-0002-8883-8523" pid="222/8241">Arliones Hoeller Jr.</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Tutorial 2: Wireless Sensor Networks.</title>
 <pages>208-209</pages>
 <year>2011</year>
@@ -806,9 +1096,9 @@
 <url>db/conf/sbesc/sbesc2011.html#HoellerF11</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/smc/HoellerF11" mdate="2017-05-17">
-<author>Arliones Stevert Hoeller</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/smc/HoellerF11" mdate="2020-06-15">
+<author orcid="0000-0002-8883-8523" pid="222/8241">Arliones Stevert Hoeller</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>On the monitoring of system-level energy consumption of battery-powered embedded systems.</title>
 <pages>2608-2613</pages>
 <year>2011</year>
@@ -818,22 +1108,22 @@
 <url>db/conf/smc/smc2011.html#HoellerF11</url>
 </inproceedings>
 </r>
-<r><proceedings key="conf/sbesc/2011" mdate="2017-03-29">
-<editor>Ant&#244;nio Augusto Fr&#246;hlich</editor>
-<editor>Leandro Buss Becker</editor>
+<r><proceedings key="conf/sbesc/2011" mdate="2019-10-16">
+<editor pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</editor>
+<editor pid="24/3796">Leandro Buss Becker</editor>
 <title>Brazilian Symposium on Computing System Engineering, SBESC 2011, Florianopolis, Brazil, November 7-11, 2011</title>
 <booktitle>SBESC</booktitle>
 <publisher>IEEE Computer Society</publisher>
 <year>2011</year>
 <isbn>978-1-4673-0427-6</isbn>
-<ee>http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6114271</ee>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/6114271/proceeding</ee>
 <ee>http://www.computer.org/csdl/proceedings/sbesc/2011/4641/00/index.html</ee>
 <url>db/conf/sbesc/sbesc2011.html</url>
 </proceedings>
 </r>
-<r><inproceedings key="conf/etfa/MuckF10" mdate="2017-05-23">
-<author>Tiago Rog&#233;rio M&#252;ck</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/etfa/MuckF10" mdate="2020-06-15">
+<author pid="81/9953">Tiago Rog&#233;rio M&#252;ck</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>A run-time memory management approach for scratch-pad-based embedded systems.</title>
 <pages>1-4</pages>
 <year>2010</year>
@@ -843,9 +1133,9 @@
 <url>db/conf/etfa/etfa2010.html#MuckF10</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/ict/GracioliF10" mdate="2018-09-20">
-<author>Giovani Gracioli</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/ict/GracioliF10" mdate="2020-06-15">
+<author pid="40/3248">Giovani Gracioli</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>ELUS: A dynamic software reconfiguration infrastructure for embedded systems.</title>
 <pages>981-988</pages>
 <year>2010</year>
@@ -855,10 +1145,10 @@
 <url>db/conf/ict/ict2010d.html#GracioliF10</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/icumt/SteinerMF10" mdate="2017-05-21">
-<author>Rodrigo Vieira Steiner</author>
-<author>Tiago Rog&#233;rio M&#252;ck</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/icumt/SteinerMF10" mdate="2020-06-15">
+<author pid="01/9952">Rodrigo Vieira Steiner</author>
+<author pid="81/9953">Tiago Rog&#233;rio M&#252;ck</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>A configurable medium access control protocol for IEEE 802.15.4 networks.</title>
 <pages>301-308</pages>
 <year>2010</year>
@@ -868,11 +1158,11 @@
 <url>db/conf/icumt/icumt2010.html#SteinerMF10</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/cse/MarcondesCSF09" mdate="2017-05-24">
-<author>Hugo Marcondes</author>
-<author>Rafael Luiz Cancian</author>
-<author>Marcelo Ricardo Stemmer</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/cse/MarcondesCSF09" mdate="2020-06-15">
+<author pid="17/6221">Hugo Marcondes</author>
+<author pid="71/6603">Rafael Luiz Cancian</author>
+<author pid="21/10197">Marcelo Ricardo Stemmer</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>On the Design of Flexible Real-Time Schedulers for Embedded Systems.</title>
 <pages>382-387</pages>
 <year>2009</year>
@@ -884,8 +1174,8 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/iess/MarcondesF09" mdate="2018-06-26">
-<author>Hugo Marcondes</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="17/6221">Hugo Marcondes</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>A Hybrid Hardware and Software Component Architecture for Embedded System Design.</title>
 <pages>259-270</pages>
 <year>2009</year>
@@ -895,9 +1185,9 @@
 <url>db/conf/iess/iess2009.html#MarcondesF09</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/rsp/ReisF09" mdate="2017-05-25">
-<author>Tiago de Albuquerque Reis</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/rsp/ReisF09" mdate="2019-12-27">
+<author pid="75/7786">Tiago de Albuquerque Reis</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Operating System Support for Difference-Based Partial Hardware Reconfiguration.</title>
 <pages>75-80</pages>
 <year>2009</year>
@@ -908,35 +1198,35 @@
 <url>db/conf/rsp/rsp2009.html#ReisF09</url>
 </inproceedings>
 </r>
-<r><article key="journals/sigops/WiedenhoftWGF08" mdate="2010-02-01">
-<author>Geovani Ricardo Wiedenhoft</author>
-<author>Lucas Francisco Wanner</author>
-<author>Giovani Gracioli</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><article key="journals/sigops/WiedenhoftWGF08" mdate="2020-07-14">
+<author pid="23/618">Geovani Ricardo Wiedenhoft</author>
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author pid="40/3248">Giovani Gracioli</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Power management in the EPOS system.</title>
 <pages>71-80</pages>
 <year>2008</year>
 <volume>42</volume>
-<journal>Operating Systems Review</journal>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
 <number>6</number>
-<ee>http://doi.acm.org/10.1145/1453775.1453789</ee>
+<ee>https://doi.org/10.1145/1453775.1453789</ee>
 <url>db/journals/sigops/sigops42.html#WiedenhoftWGF08</url>
 </article>
 </r>
-<r><inproceedings key="conf/hotswup/GracioliF08" mdate="2010-06-15">
-<author>Giovani Gracioli</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/hotswup/GracioliF08" mdate="2020-06-15">
+<author pid="40/3248">Giovani Gracioli</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>An Operating System Infrastructure for Remote Code Update in Deeply Embedded Systems.</title>
 <year>2008</year>
 <booktitle>HotSWUp</booktitle>
-<ee>http://doi.acm.org/10.1145/1490283.1490287</ee>
+<ee>https://doi.org/10.1145/1490283.1490287</ee>
 <crossref>conf/hotswup/2008</crossref>
 <url>db/conf/hotswup/hotswup2008.html#GracioliF08</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/ifip10-3/WiedenhoftF08" mdate="2018-06-26">
-<author>Geovani Ricardo Wiedenhoft</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/ifip10-3/WiedenhoftF08" mdate="2020-06-15">
+<author pid="23/618">Geovani Ricardo Wiedenhoft</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Using Imprecise Computation Techniques for Power Management in Real-Time Embedded Systems.</title>
 <pages>121-130</pages>
 <year>2008</year>
@@ -946,12 +1236,12 @@
 <url>db/conf/ifip10-3/dipes2008.html#WiedenhoftF08</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sccc/GracioliSMWF08" mdate="2017-05-25">
-<author>Giovani Gracioli</author>
-<author>Danillo Moura Santos</author>
-<author>Roberto de Matos</author>
-<author>Lucas Francisco Wanner</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/sccc/GracioliSMWF08" mdate="2020-06-15">
+<author pid="40/3248">Giovani Gracioli</author>
+<author pid="08/6300">Danillo Moura Santos</author>
+<author pid="67/1636">Roberto de Matos</author>
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>One-Shot Time Management Analysis in EPOS.</title>
 <pages>92-99</pages>
 <year>2008</year>
@@ -962,25 +1252,25 @@
 <url>db/conf/sccc/sccc2008.html#GracioliSMWF08</url>
 </inproceedings>
 </r>
-<r><article key="journals/jot/CancianSSF07" mdate="2017-05-26">
-<author>Rafael Luiz Cancian</author>
-<author>Marcelo Ricardo Stemmer</author>
-<author>Alexandre Schulter</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><article key="journals/jot/CancianSSF07" mdate="2021-02-17">
+<author pid="71/6603">Rafael Luiz Cancian</author>
+<author pid="21/10197">Marcelo Ricardo Stemmer</author>
+<author pid="40/5113">Alexandre Schulter</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>A Tool for Supporting and Automating the Development of Component-based Embedded Systems.</title>
 <pages>399-416</pages>
 <year>2007</year>
 <volume>6</volume>
-<journal>Journal of Object Technology</journal>
+<journal>J. Object Technol.</journal>
 <number>9</number>
-<ee>https://doi.org/10.5381/jot.2007.6.9.a20</ee>
+<ee type="oa">https://doi.org/10.5381/jot.2007.6.9.a20</ee>
 <url>db/journals/jot/jot6.html#CancianSSF07</url>
 </article>
 </r>
-<r><inproceedings key="conf/etfa/WiedenhoftHF07" mdate="2017-05-23">
-<author>Geovani Ricardo Wiedenhoft</author>
-<author>Arliones Stevert Hoeller</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/etfa/WiedenhoftHF07" mdate="2020-06-15">
+<author pid="23/618">Geovani Ricardo Wiedenhoft</author>
+<author orcid="0000-0002-8883-8523" pid="222/8241">Arliones Stevert Hoeller</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>A power manager for deeply embedded systems.</title>
 <pages>748-751</pages>
 <year>2007</year>
@@ -990,10 +1280,10 @@
 <url>db/conf/etfa/etfa2007.html#WiedenhoftHF07</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/etfa/CancianSF07" mdate="2017-05-23">
-<author>Rafael Luiz Cancian</author>
-<author>Marcelo Ricardo Stemmer</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/etfa/CancianSF07" mdate="2020-06-15">
+<author pid="71/6603">Rafael Luiz Cancian</author>
+<author pid="21/10197">Marcelo Ricardo Stemmer</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>New developments in EPOS tools for configuring and generating embedded systems.</title>
 <pages>776-779</pages>
 <year>2007</year>
@@ -1003,10 +1293,10 @@
 <url>db/conf/etfa/etfa2007.html#CancianSF07</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/iess/WannerOF07" mdate="2018-06-26">
-<author>Lucas Francisco Wanner</author>
-<author>Augusto Born de Oliveira</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/iess/WannerOF07" mdate="2020-06-15">
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author pid="81/1753">Augusto Born de Oliveira</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Configurable Medium Access Control for Wireless Sensor Networks.</title>
 <pages>401-410</pages>
 <year>2007</year>
@@ -1016,11 +1306,11 @@
 <url>db/conf/iess/iess2007.html#WannerOF07</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/iess/OliveiraWKF07" mdate="2018-06-26">
-<author>Augusto Born de Oliveira</author>
-<author>Lucas Francisco Wanner</author>
-<author>Pierre Kuonen</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/iess/OliveiraWKF07" mdate="2020-06-15">
+<author pid="81/1753">Augusto Born de Oliveira</author>
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author pid="09/2514">Pierre Kuonen</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Integrating Wireless Sensor Networks and the Grid through POP-C++.</title>
 <pages>411-420</pages>
 <year>2007</year>
@@ -1030,11 +1320,11 @@
 <url>db/conf/iess/iess2007.html#OliveiraWKF07</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/etfa/MarcondesHWF06" mdate="2017-05-23">
-<author>Hugo Marcondes</author>
-<author>Arliones Stevert Hoeller</author>
-<author>Lucas Francisco Wanner</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/etfa/MarcondesHWF06" mdate="2020-06-15">
+<author pid="17/6221">Hugo Marcondes</author>
+<author orcid="0000-0002-8883-8523" pid="222/8241">Arliones Stevert Hoeller</author>
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Operating Systems Portability: 8 bits and beyond.</title>
 <pages>124-130</pages>
 <year>2006</year>
@@ -1044,11 +1334,11 @@
 <url>db/conf/etfa/etfa2006.html#MarcondesHWF06</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/etfa/WannerHOF06" mdate="2017-05-23">
-<author>Lucas Francisco Wanner</author>
-<author>Arliones Stevert Hoeller</author>
-<author>Augusto Born de Oliveira</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/etfa/WannerHOF06" mdate="2020-06-15">
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author orcid="0000-0002-8883-8523" pid="222/8241">Arliones Stevert Hoeller</author>
+<author pid="81/1753">Augusto Born de Oliveira</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Operating System Support for Data Acquisition in Sensor Networks.</title>
 <pages>582-585</pages>
 <year>2006</year>
@@ -1058,11 +1348,11 @@
 <url>db/conf/etfa/etfa2006.html#WannerHOF06</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/etfa/SantosMFC06" mdate="2017-05-23">
-<author>Danillo Moura Santos</author>
-<author>Roberto de Matos</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Rafael Luiz Cancian</author>
+<r><inproceedings key="conf/etfa/SantosMFC06" mdate="2020-06-15">
+<author pid="08/6300">Danillo Moura Santos</author>
+<author pid="67/1636">Roberto de Matos</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="71/6603">Rafael Luiz Cancian</author>
 <title>Application-Oriented System Design as an Embedded Systems Development Strategy: a critical analysis.</title>
 <pages>615-618</pages>
 <year>2006</year>
@@ -1072,10 +1362,10 @@
 <url>db/conf/etfa/etfa2006.html#SantosMFC06</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/ifip10-3/HoellerWF06" mdate="2018-06-26">
-<author>Arliones Stevert Hoeller</author>
-<author>Lucas Francisco Wanner</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/ifip10-3/HoellerWF06" mdate="2020-06-15">
+<author pid="222/8241">Arliones Stevert Hoeller</author>
+<author pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>A Hierarchical Approach for Power Management on Mobile Embedded Systems.</title>
 <pages>265-274</pages>
 <year>2006</year>
@@ -1085,21 +1375,21 @@
 <url>db/conf/ifip10-3/dipes2006.html#HoellerWF06</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/mswim/ReghelinF06" mdate="2007-05-24">
-<author>Ricardo Reghelin</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/mswim/ReghelinF06" mdate="2018-11-06">
+<author pid="51/783">Ricardo Reghelin</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>A decentralized location system for sensor networks using cooperative calibration and heuristics.</title>
 <pages>139-146</pages>
 <year>2006</year>
 <crossref>conf/mswim/2006</crossref>
 <booktitle>MSWiM</booktitle>
-<ee>http://doi.acm.org/10.1145/1164717.1164742</ee>
+<ee>https://doi.org/10.1145/1164717.1164742</ee>
 <url>db/conf/mswim/mswim2006.html#ReghelinF06</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aiccsa/TondelloF05" mdate="2017-05-26">
-<author>Gustavo Fortes Tondello</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/aiccsa/TondelloF05" mdate="2020-06-15">
+<author pid="49/778">Gustavo Fortes Tondello</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>On the automatic configuration of application-oriented operating systems.</title>
 <pages>120</pages>
 <year>2005</year>
@@ -1111,8 +1401,8 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/etfa/PolpetaF05" mdate="2017-05-23">
-<author>Fauze Val&#233;rio Polpeta</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="49/2320">Fauze Val&#233;rio Polpeta</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>On the automatic generation of SoC-based embedded systems.</title>
 <year>2005</year>
 <crossref>conf/etfa/2005</crossref>
@@ -1121,9 +1411,9 @@
 <url>db/conf/etfa/etfa2005.html#PolpetaF05</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/hpcs/SantosF05" mdate="2017-05-25">
-<author>Thiago Robert C. Santos</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/hpcs/SantosF05" mdate="2020-06-15">
+<author pid="20/1148">Thiago Robert C. Santos</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>A Customizable Component for Low-Level Communication Software.</title>
 <pages>58-64</pages>
 <year>2005</year>
@@ -1135,8 +1425,8 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/iess/PolpetaF05" mdate="2018-06-26">
-<author>Fauze Val&#233;rio Polpeta</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="49/2320">Fauze Val&#233;rio Polpeta</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>An Application-Oriented Approach for the Generation of SOC-Based Embedded Systems.</title>
 <pages>55-64</pages>
 <year>2005</year>
@@ -1146,22 +1436,22 @@
 <url>db/conf/iess/iess2005.html#PolpetaF05</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sac/DAgostiniF05" mdate="2006-02-10">
-<author>Tiago Stein D'Agostini</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/sac/DAgostiniF05" mdate="2020-06-15">
+<author pid="50/1406">Tiago Stein D'Agostini</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Bridging AOP to SMP: turning GCC into a metalanguage preprocessor.</title>
 <pages>1563-1564</pages>
 <year>2005</year>
 <crossref>conf/sac/2005</crossref>
 <booktitle>SAC</booktitle>
-<ee>http://doi.acm.org/10.1145/1066677.1067028</ee>
+<ee>https://doi.org/10.1145/1066677.1067028</ee>
 <url>db/conf/sac/sac2005.html#DAgostiniF05</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/euc/PereiraFM04" mdate="2017-05-26">
-<author>Marcelo Trierveiler Pereira</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Hugo Marcondes</author>
+<author pid="60/4239">Marcelo Trierveiler Pereira</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="17/6221">Hugo Marcondes</author>
 <title>RIFFS: Reverse Indirect Flash File System.</title>
 <pages>30-40</pages>
 <ee>https://doi.org/10.1007/978-3-540-30121-9_4</ee>
@@ -1172,8 +1462,8 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/euc/PolpetaF04" mdate="2017-05-26">
-<author>Fauze Val&#233;rio Polpeta</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="49/2320">Fauze Val&#233;rio Polpeta</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>Hardware Mediators: A Portability Artifact for Component-Based Systems.</title>
 <pages>271-280</pages>
 <ee>https://doi.org/10.1007/978-3-540-30121-9_26</ee>
@@ -1183,10 +1473,10 @@
 <url>db/conf/euc/euc2004.html#PolpetaF04</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbac-pad/SanchesSF04" mdate="2017-05-17">
-<author>Andr&#233; Lu&#237;s Gobbi Sanches</author>
-<author>Fernando Roberto Secco</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
+<r><inproceedings key="conf/sbac-pad/SanchesSF04" mdate="2020-06-15">
+<author pid="86/6648">Andr&#233; Lu&#237;s Gobbi Sanches</author>
+<author pid="85/242">Fernando Roberto Secco</author>
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
 <title>High Performance Communication System Based on Generic Programming.</title>
 <pages>92-99</pages>
 <year>2004</year>
@@ -1198,12 +1488,12 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/wob/RechGLPFD04" mdate="2005-03-10">
-<author>Daniel Rech</author>
-<author>Edmundo Grisard</author>
-<author>Susana Linskens</author>
-<author>Apu&#227; C. M. Paquola</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Sirlei Daffre</author>
+<author pid="23/5905">Daniel Rech</author>
+<author pid="70/4377">Edmundo Grisard</author>
+<author pid="83/1322">Susana Linskens</author>
+<author pid="88/2887">Apu&#227; C. M. Paquola</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="01/1678">Sirlei Daffre</author>
 <title>An Improvement Over the CODA Filterfor LC-MS Analysis.</title>
 <pages>158-161</pages>
 <year>2004</year>
@@ -1212,19 +1502,19 @@
 <url>db/conf/wob/wob2004.html#RechGLPFD04</url>
 </inproceedings>
 </r>
-<r><phdthesis key="phd/dnb/Frohlich01" mdate="2017-01-19">
-<author>Ant&#244;nio Augusto Medeiros Fr&#246;hlich</author>
+<r><phdthesis key="phd/dnb/Frohlich01" mdate="2021-07-17">
+<author pid="43/6521">Ant&#244;nio Augusto Medeiros Fr&#246;hlich</author>
 <title>Application oriented operating systems.</title>
 <year>2001</year>
 <pages>1-200</pages>
 <school>Technical University of Berlin, Germany</school>
 <isbn>978-3-88457-400-3</isbn>
-<ee>http://d-nb.info/962197254</ee>
+<ee>https://d-nb.info/962197254</ee>
 </phdthesis>
 </r>
-<r><inproceedings key="conf/ccgrid/FrohlichS01" mdate="2017-05-24">
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Wolfgang Schr&#246;der-Preikschat</author>
+<r><inproceedings key="conf/ccgrid/FrohlichS01" mdate="2020-06-15">
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="26/6488">Wolfgang Schr&#246;der-Preikschat</author>
 <title>On Component-Based Communication Systems for Clusters of Workstation.</title>
 <pages>640-645</pages>
 <year>2001</year>
@@ -1236,9 +1526,9 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/hpcn/FrohlichTS00" mdate="2017-05-23">
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Gilles Pokam Tientcheu</author>
-<author>Wolfgang Schr&#246;der-Preikschat</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="96/3986">Gilles Pokam Tientcheu</author>
+<author pid="26/6488">Wolfgang Schr&#246;der-Preikschat</author>
 <title>EPOS and Myrinet: Effective Communication Support for Parallel Applications Running on Clusters of Commodity Workstations.</title>
 <pages>417-426</pages>
 <ee>https://doi.org/10.1007/3-540-45492-6_41</ee>
@@ -1248,27 +1538,27 @@
 <url>db/conf/hpcn/hpcn2000.html#FrohlichTS00</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sigopsE/BeucheFMPSSSS00" mdate="2006-02-10">
-<author>Danilo Beuche</author>
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Reinhard Meyer</author>
-<author>Holger Papajewski</author>
-<author>Friedrich Sch&#246;n</author>
-<author>Wolfgang Schr&#246;der-Preikschat</author>
-<author>Olaf Spinczyk</author>
-<author>Ute Spinczyk</author>
+<r><inproceedings key="conf/sigopsE/BeucheFMPSSSS00" mdate="2018-11-06">
+<author pid="31/7021">Danilo Beuche</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="22/6567">Reinhard Meyer</author>
+<author pid="45/4192">Holger Papajewski</author>
+<author pid="33/5175">Friedrich Sch&#246;n</author>
+<author pid="26/6488">Wolfgang Schr&#246;der-Preikschat</author>
+<author pid="s/OlafSpinczyk">Olaf Spinczyk</author>
+<author pid="s/UteSpinczyk">Ute Spinczyk</author>
 <title>On architecture transparency in operating systems.</title>
 <pages>147-152</pages>
 <year>2000</year>
 <crossref>conf/sigopsE/2000</crossref>
 <booktitle>ACM SIGOPS European Workshop</booktitle>
-<ee>http://doi.acm.org/10.1145/566726.566758</ee>
+<ee>https://doi.org/10.1145/566726.566758</ee>
 <url>db/conf/sigopsE/sigopsE2000.html#BeucheFMPSSSS00</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/ecoopw/FrohlichS99" mdate="2002-04-22">
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Wolfgang Schr&#246;der-Preikschat</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="26/6488">Wolfgang Schr&#246;der-Preikschat</author>
 <title>EPOS: An Object-Oriented Operating System.</title>
 <pages>27</pages>
 <year>1999</year>
@@ -1278,8 +1568,8 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/ipps/FrohlichS99" mdate="2017-05-23">
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Wolfgang Schr&#246;der-Preikschat</author>
+<author pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="26/6488">Wolfgang Schr&#246;der-Preikschat</author>
 <title>Tailor-Made Operating Systems for Embedded Parallel Applications.</title>
 <pages>1361-1373</pages>
 <year>1999</year>
@@ -1289,9 +1579,9 @@
 <ee>https://doi.org/10.1007/BFb0098015</ee>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/euromicro/FrohlichS98" mdate="2017-05-21">
-<author>Ant&#244;nio Augusto Fr&#246;hlich</author>
-<author>Wolfgang Schr&#246;der-Preikschat</author>
+<r><inproceedings key="conf/euromicro/FrohlichS98" mdate="2020-06-15">
+<author orcid="0000-0002-4063-1339" pid="43/6521">Ant&#244;nio Augusto Fr&#246;hlich</author>
+<author pid="26/6488">Wolfgang Schr&#246;der-Preikschat</author>
 <title>SMP PCs: A Case Study on Cluster Computing.</title>
 <pages>20953-20960</pages>
 <year>1998</year>
@@ -1302,82 +1592,105 @@
 <url>db/conf/euromicro/euromicro1998.html#FrohlichS98</url>
 </inproceedings>
 </r>
-<coauthors n="75" nc="4">
-<co c="0" n="2"><na f="a/Aghvami:Hamid">Hamid Aghvami</na><na>A. Hamid Aghvami</na></co>
-<co c="0"><na f="a/Akhavan:Mohammad_Reza">Mohammad Reza Akhavan</na></co>
-<co c="0"><na f="a/Alhammad:Ahmed">Ahmed Alhammad</na></co>
-<co c="0"><na f="a/Ara=uacute=jo:Gustavo_Medeiros_de">Gustavo Medeiros de Ara&#250;jo</na></co>
-<co c="0" n="2"><na f="b/Barros:Edna">Edna Barros</na><na>Edna Natividade da Silva Barros</na></co>
-<co c="0"><na f="b/Basso:Fabio_Paulo">Fabio Paulo Basso</na></co>
-<co c="0"><na f="b/Becker:Leandro_Buss">Leandro Buss Becker</na></co>
-<co c="0"><na f="b/Berejuck:Marcelo_Daniel">Marcelo Daniel Berejuck</na></co>
-<co c="0"><na f="b/Beuche:Danilo">Danilo Beuche</na></co>
-<co c="0"><na f="b/Bezerra:Eduardo_Augusto">Eduardo Augusto Bezerra</na></co>
-<co c="0"><na f="c/Cancian:Rafael_Luiz">Rafael Luiz Cancian</na></co>
-<co c="1"><na f="d/Daffre:Sirlei">Sirlei Daffre</na></co>
-<co c="-1"><na f="d/D=Agostini:Tiago_Stein">Tiago Stein D'Agostini</na></co>
-<co c="0"><na f="f/Fischmeister:Sebastian">Sebastian Fischmeister</na></co>
-<co c="0"><na f="f/Flor:Joao_Paulo_Pizani">Joao Paulo Pizani Flor</na></co>
-<co c="0"><na f="g/Gernoth:Michael">Michael Gernoth</na></co>
-<co c="0"><na f="g/Gracioli:Giovani">Giovani Gracioli</na></co>
-<co c="1"><na f="g/Grisard:Edmundo">Edmundo Grisard</na></co>
-<co c="0"><na f="g/Guerra:Raphael">Raphael Guerra</na></co>
-<co c="0"><na f="h/Hoeller:Arliones_Stevert">Arliones Stevert Hoeller</na></co>
-<co c="2"><na f="h/Hoeller_Jr=:Arliones">Arliones Hoeller Jr.</na></co>
-<co c="0"><na f="k/Kuonen:Pierre">Pierre Kuonen</na></co>
-<co c="0"><na f="l/Leite:Julius_C=_B=">Julius C. B. Leite</na></co>
-<co c="0"><na f="l/Lima:George">George Lima</na></co>
-<co c="1"><na f="l/Linskens:Susana">Susana Linskens</na></co>
-<co c="0"><na f="l/Ludwich:Mateus_Krepsky">Mateus Krepsky Ludwich</na></co>
-<co c="-1"><na f="m/Machado:Caciano">Caciano Machado</na></co>
-<co c="0"><na f="m/Mancuso_0001:Renato">Renato Mancuso 0001</na></co>
-<co c="0"><na f="m/Marcondes:Hugo">Hugo Marcondes</na></co>
-<co c="0"><na f="m/Martina:Jean_Everson">Jean Everson Martina</na></co>
-<co c="0" n="2"><na f="m/Matias:Rivalino">Rivalino Matias</na><na>Rivalino Matias Jr.</na></co>
-<co c="0"><na f="m/Matos:Roberto_de">Roberto de Matos</na></co>
-<co c="2"><na f="m/Meira:Gustavo_Nardon">Gustavo Nardon Meira</na></co>
-<co c="0"><na f="m/Meurer:Rodrigo_Schmitt">Rodrigo Schmitt Meurer</na></co>
-<co c="0"><na f="m/Meyer:Reinhard">Reinhard Meyer</na></co>
-<co c="0"><na f="m/M=uuml=ck:Tiago_Rog=eacute=rio">Tiago Rog&#233;rio M&#252;ck</na></co>
-<co c="0"><na f="o/Okazaki:Alexandre_Massayuki">Alexandre Massayuki Okazaki</na></co>
-<co c="0"><na f="o/Oliveira:Augusto_Born_de">Augusto Born de Oliveira</na></co>
-<co c="0"><na f="o/Oliveira:Peterson">Peterson Oliveira</na></co>
-<co c="0"><na f="o/Oyamada:M=aacute=rcio">M&#225;rcio Oyamada</na></co>
-<co c="0"><na f="p/Papajewski:Holger">Holger Papajewski</na></co>
-<co c="1"><na f="p/Paquola:Apu=atilde=_C=_M=">Apu&#227; C. M. Paquola</na></co>
-<co c="0"><na f="p/Paulon:A=_R=">A. R. Paulon</na></co>
-<co c="0"><na f="p/Pellizzoni:Rodolfo">Rodolfo Pellizzoni</na></co>
-<co c="0"><na f="p/Pereira:Marcelo_Trierveiler">Marcelo Trierveiler Pereira</na></co>
-<co c="0"><na f="p/Petters:Stefan">Stefan Petters</na></co>
-<co c="-1"><na f="p/Polpeta:Fauze_Val=eacute=rio">Fauze Val&#233;rio Polpeta</na></co>
-<co c="0"><na f="r/Raimundo:Rodrigo_Valceli">Rodrigo Valceli Raimundo</na></co>
-<co c="1"><na f="r/Rech:Daniel">Daniel Rech</na></co>
-<co c="-1"><na f="r/Reghelin:Ricardo">Ricardo Reghelin</na></co>
-<co c="0"><na f="r/Reis:Joao_Gabriel">Joao Gabriel Reis</na></co>
-<co c="-1"><na f="r/Reis:Tiago_de_Albuquerque">Tiago de Albuquerque Reis</na></co>
-<co c="0"><na f="r/Resner:Davi">Davi Resner</na></co>
-<co c="0"><na f="r/Richa:Cesar_Huegel">Cesar Huegel Richa</na></co>
-<co c="0"><na f="r/Rufino:Leonardo_Maccari">Leonardo Maccari Rufino</na></co>
-<co c="3"><na f="s/Sanches:Andr=eacute=_Lu=iacute=s_Gobbi">Andr&#233; Lu&#237;s Gobbi Sanches</na></co>
-<co c="0"><na f="s/Santos:Danillo_Moura">Danillo Moura Santos</na></co>
-<co c="0"><na f="s/Santos:Jo=atilde=o_Felipe">Jo&#227;o Felipe Santos</na></co>
-<co c="-1"><na f="s/Santos:Thiago_Robert_C=">Thiago Robert C. Santos</na></co>
-<co c="0"><na f="s/Sch=ouml=n:Friedrich">Friedrich Sch&#246;n</na></co>
-<co c="0"><na f="s/Schr=ouml=der=Preikschat:Wolfgang">Wolfgang Schr&#246;der-Preikschat</na></co>
-<co c="0"><na f="s/Schulter:Alexandre">Alexandre Schulter</na></co>
-<co c="3"><na f="s/Secco:Fernando_Roberto">Fernando Roberto Secco</na></co>
-<co c="0" n="2"><na f="s/Silva:Dilma_Da">Dilma Da Silva</na><na>Dilma M. Da Silva</na></co>
-<co c="0"><na f="s/Slongo:Leonardo_Kessler">Leonardo Kessler Slongo</na></co>
-<co c="0"><na f="s/Soldi:Rita_de_Cassia_Cazu">Rita de Cassia Cazu Soldi</na></co>
-<co c="0"><na f="s/Spinczyk:Olaf">Olaf Spinczyk</na></co>
-<co c="0"><na f="s/Spinczyk:Ute">Ute Spinczyk</na></co>
-<co c="0"><na f="s/Steiner:Rodrigo_Vieira">Rodrigo Vieira Steiner</na></co>
-<co c="0"><na f="s/Stemmer:Marcelo_Ricardo">Marcelo Ricardo Stemmer</na></co>
-<co c="0"><na f="s/Susin:Matheus_Martins">Matheus Martins Susin</na></co>
-<co c="0"><na f="t/Tientcheu:Gilles_Pokam">Gilles Pokam Tientcheu</na></co>
-<co c="-1"><na f="t/Tondello:Gustavo_Fortes">Gustavo Fortes Tondello</na></co>
-<co c="0"><na f="w/Wanner:Lucas_Francisco">Lucas Francisco Wanner</na></co>
-<co c="0"><na f="w/Wiedenhoft:Geovani_Ricardo">Geovani Ricardo Wiedenhoft</na></co>
+<coauthors n="98" nc="3">
+<co c="0" n="2"><na f="a/Aghvami:Hamid" pid="a/AHAghvami">Hamid Aghvami</na><na>A. Hamid Aghvami</na></co>
+<co c="0"><na f="a/Akhavan:Mohammad_Reza" pid="132/7982">Mohammad Reza Akhavan</na></co>
+<co c="0"><na f="a/Alhammad:Ahmed" pid="144/4674">Ahmed Alhammad</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Gustavo_Medeiros_de" pid="27/9584">Gustavo Medeiros de Ara&#250;jo</na></co>
+<co c="0" n="2"><na f="b/Barros:Edna" pid="48/6034">Edna Barros</na><na>Edna Natividade da Silva Barros</na></co>
+<co c="0"><na f="b/Basso:Fabio_Paulo" pid="58/4232">Fabio Paulo Basso</na></co>
+<co c="0"><na f="b/Becker:Leandro_Buss" pid="24/3796">Leandro Buss Becker</na></co>
+<co c="0"><na f="b/Berejuck:Marcelo_Daniel" pid="46/7554">Marcelo Daniel Berejuck</na></co>
+<co c="0"><na f="b/Beuche:Danilo" pid="31/7021">Danilo Beuche</na></co>
+<co c="0"><na f="b/Bezerra:Eduardo_Augusto" pid="86/4958">Eduardo Augusto Bezerra</na></co>
+<co c="0"><na f="b/Bitencourt:Daniel" pid="275/7455">Daniel Bitencourt</na></co>
+<co c="0"><na f="c/Cancian:Rafael_Luiz" pid="71/6603">Rafael Luiz Cancian</na></co>
+<co c="0"><na f="c/Cardoso:Joice" pid="239/6865">Joice Cardoso</na></co>
+<co c="0"><na f="c/Casagrande:Luan" pid="208/7486">Luan Casagrande</na></co>
+<co c="0"><na f="c/Cunha:Renan" pid="239/6792">Renan Cunha</na></co>
+<co c="1"><na f="d/Daffre:Sirlei" pid="01/1678">Sirlei Daffre</na></co>
+<co c="-1"><na f="d/D=Agostini:Tiago_Stein" pid="50/1406">Tiago Stein D'Agostini</na></co>
+<co c="0"><na f="d/Daros:Marina" pid="239/6787">Marina Daros</na></co>
+<co c="0"><na f="d/Dutt:Nikil_D=" pid="d/NikilDDutt">Nikil D. Dutt</na></co>
+<co c="0"><na f="f/Fischmeister:Sebastian" pid="59/4811">Sebastian Fischmeister</na></co>
+<co c="0"><na f="f/Flor:Joao_Paulo_Pizani" pid="21/10783">Joao Paulo Pizani Flor</na></co>
+<co c="0"><na f="f/Francis:Leonardo" pid="239/6734">Leonardo Francis</na></co>
+<co c="0"><na f="g/Gernoth:Michael" pid="34/11063">Michael Gernoth</na></co>
+<co c="0"><na f="g/Gracioli:Giovani" pid="40/3248">Giovani Gracioli</na></co>
+<co c="1"><na f="g/Grisard:Edmundo" pid="70/4377">Edmundo Grisard</na></co>
+<co c="0"><na f="g/Guerra:Raphael" pid="91/1088">Raphael Guerra</na></co>
+<co c="0" n="3"><na f="h/Hoeller:Arliones" pid="222/8241">Arliones Hoeller</na><na>Arliones Stevert Hoeller</na><na>Arliones Hoeller Jr.</na></co>
+<co c="0" n="2"><na f="h/Hoffmann:Jos=eacute=_Luis_Conradi" pid="251/5091">Jos&#233; Luis Conradi Hoffmann</na><na>Jos&#233; Lu&#237;s Conradi Hoffmann</na></co>
+<co c="0"><na f="h/Horstmann:Leonardo_Passig" pid="251/5186">Leonardo Passig Horstmann</na></co>
+<co c="0"><na f="h/H=uuml=bner:Jomi_Fred" pid="h/JomiFredHubner">Jomi Fred H&#252;bner</na></co>
+<co c="0"><na f="k/Kozhaya:David" pid="170/0240">David Kozhaya</na></co>
+<co c="0"><na f="k/Kuonen:Pierre" pid="09/2514">Pierre Kuonen</na></co>
+<co c="0"><na f="l/Leite:Julius_C=_B=" pid="10/5959">Julius C. B. Leite</na></co>
+<co c="0"><na f="l/Lima:George" pid="07/2481">George Lima</na></co>
+<co c="1"><na f="l/Linskens:Susana" pid="83/1322">Susana Linskens</na></co>
+<co c="0"><na f="l/Lucena:Mateus_Mart=iacute=nez_De" pid="261/8292">Mateus Mart&#237;nez De Lucena</na></co>
+<co c="0"><na f="l/Ludwich:Mateus_Krepsky" pid="125/8098">Mateus Krepsky Ludwich</na></co>
+<co c="0"><na f="m/Macarini:Luiz_Antonio_Buschetto" pid="259/3251">Luiz Antonio Buschetto Macarini</na></co>
+<co c="-1"><na f="m/Machado:Caciano" pid="67/504">Caciano Machado</na></co>
+<co c="0"><na f="m/Maciel:Rodrigo" pid="98/7543">Rodrigo Maciel</na></co>
+<co c="0"><na f="m/Mancuso_0001:Renato" pid="19/5387">Renato Mancuso 0001</na></co>
+<co c="0"><na f="m/Marcelino:Roderval" pid="04/8974">Roderval Marcelino</na></co>
+<co c="0"><na f="m/Marcondes:Hugo" pid="17/6221">Hugo Marcondes</na></co>
+<co c="0"><na f="m/Martina:Jean_Everson" pid="24/765">Jean Everson Martina</na></co>
+<co c="0" n="2"><na f="m/Matias:Rivalino" pid="06/6499">Rivalino Matias</na><na>Rivalino Matias Jr.</na></co>
+<co c="0"><na f="m/Matos:Roberto_de" pid="67/1636">Roberto de Matos</na></co>
+<co c="0"><na f="m/Matsuo:Tiago_Kaoru" pid="280/9769">Tiago Kaoru Matsuo</na></co>
+<co c="0"><na f="m/Meira:Gustavo_Nardon" pid="160/5689">Gustavo Nardon Meira</na></co>
+<co c="0"><na f="m/Meurer:Rodrigo_Schmitt" pid="160/4593">Rodrigo Schmitt Meurer</na></co>
+<co c="0"><na f="m/Meyer:Reinhard" pid="22/6567">Reinhard Meyer</na></co>
+<co c="0" n="2"><na f="m/M=uuml=ck:Tiago_Rog=eacute=rio" pid="81/9953">Tiago Rog&#233;rio M&#252;ck</na><na>Tiago M&#252;ck</na></co>
+<co c="0"><na f="n/Nandi:Giann" pid="239/6863">Giann Nandi</na></co>
+<co c="0"><na f="n/Nishioka:Marcos_Hisashi_Napoli" pid="281/0093">Marcos Hisashi Napoli Nishioka</na></co>
+<co c="0"><na f="o/Okazaki:Alexandre_Massayuki" pid="12/11050">Alexandre Massayuki Okazaki</na></co>
+<co c="0"><na f="o/Oliveira:Augusto_Born_de" pid="81/1753">Augusto Born de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Peterson" pid="151/9155">Peterson Oliveira</na></co>
+<co c="0"><na f="o/Oyamada:M=aacute=rcio" pid="07/559">M&#225;rcio Oyamada</na></co>
+<co c="0"><na f="p/Papajewski:Holger" pid="45/4192">Holger Papajewski</na></co>
+<co c="1"><na f="p/Paquola:Apu=atilde=_C=_M=" pid="88/2887">Apu&#227; C. M. Paquola</na></co>
+<co c="0"><na f="p/Paulon:A=_R=" pid="154/5038">A. R. Paulon</na></co>
+<co c="0"><na f="p/Pellizzoni:Rodolfo" pid="25/3790">Rodolfo Pellizzoni</na></co>
+<co c="0"><na f="p/Pereira:Marcelo_Trierveiler" pid="60/4239">Marcelo Trierveiler Pereira</na></co>
+<co c="0"><na f="p/Petters:Stefan" pid="17/11062">Stefan Petters</na></co>
+<co c="0"><na f="p/Pohlenz:Vitor" pid="280/9666">Vitor Pohlenz</na></co>
+<co c="-1"><na f="p/Polpeta:Fauze_Val=eacute=rio" pid="49/2320">Fauze Val&#233;rio Polpeta</na></co>
+<co c="0" n="2"><na f="r/Rahmani:Amir=Mohammad" pid="41/923">Amir-Mohammad Rahmani</na><na>Amir M. Rahmani</na></co>
+<co c="0"><na f="r/Raimundo:Rodrigo_Valceli" pid="171/6231">Rodrigo Valceli Raimundo</na></co>
+<co c="0" n="2"><na f="r/Ramos:Vinicius_F=_C=" pid="12/8199">Vinicius F. C. Ramos</na><na>Vinicius Ramos 0001</na></co>
+<co c="1"><na f="r/Rech:Daniel" pid="23/5905">Daniel Rech</na></co>
+<co c="-1"><na f="r/Reghelin:Ricardo" pid="51/783">Ricardo Reghelin</na></co>
+<co c="0" n="2"><na f="r/Reis:Joao_Gabriel" pid="162/3438">Joao Gabriel Reis</na><na>Jo&#227;o Gabriel Reis</na></co>
+<co c="-1"><na f="r/Reis:Tiago_de_Albuquerque" pid="75/7786">Tiago de Albuquerque Reis</na></co>
+<co c="0"><na f="r/Resner:Davi" pid="166/4127">Davi Resner</na></co>
+<co c="0"><na f="r/Richa:Cesar_Huegel" pid="210/3765">Cesar Huegel Richa</na></co>
+<co c="0"><na f="r/Rufino:Leonardo_Maccari" pid="85/10768">Leonardo Maccari Rufino</na></co>
+<co c="2"><na f="s/Sanches:Andr=eacute=_Lu=iacute=s_Gobbi" pid="86/6648">Andr&#233; Lu&#237;s Gobbi Sanches</na></co>
+<co c="0"><na f="s/Santos:Danillo_Moura" pid="08/6300">Danillo Moura Santos</na></co>
+<co c="0"><na f="s/Santos:Jo=atilde=o_Felipe" pid="48/5148">Jo&#227;o Felipe Santos</na></co>
+<co c="-1"><na f="s/Santos:Thiago_Robert_C=" pid="20/1148">Thiago Robert C. Santos</na></co>
+<co c="0"><na f="s/Scheffel:Roberto_Milton" pid="26/2522">Roberto Milton Scheffel</na></co>
+<co c="0"><na f="s/Sch=ouml=n:Friedrich" pid="33/5175">Friedrich Sch&#246;n</na></co>
+<co c="0"><na f="s/Schr=ouml=der=Preikschat:Wolfgang" pid="26/6488">Wolfgang Schr&#246;der-Preikschat</na></co>
+<co c="0"><na f="s/Schulter:Alexandre" pid="40/5113">Alexandre Schulter</na></co>
+<co c="2"><na f="s/Secco:Fernando_Roberto" pid="85/242">Fernando Roberto Secco</na></co>
+<co c="0" n="2"><na f="s/Silva:Dilma_Da" pid="03/6463">Dilma Da Silva</na><na>Dilma M. Da Silva</na></co>
+<co c="0"><na f="s/Silvestri:Marco" pid="257/6254">Marco Silvestri</na></co>
+<co c="0"><na f="s/Slongo:Leonardo_Kessler" pid="172/3326">Leonardo Kessler Slongo</na></co>
+<co c="0"><na f="s/Soldi:Rita_de_Cassia_Cazu" pid="119/9080">Rita de Cassia Cazu Soldi</na></co>
+<co c="0"><na f="s/Spinczyk:Olaf" pid="s/OlafSpinczyk">Olaf Spinczyk</na></co>
+<co c="0"><na f="s/Spinczyk:Ute" pid="s/UteSpinczyk">Ute Spinczyk</na></co>
+<co c="0"><na f="s/Steiner:Rodrigo_Vieira" pid="01/9952">Rodrigo Vieira Steiner</na></co>
+<co c="0"><na f="s/Stemmer:Marcelo_Ricardo" pid="21/10197">Marcelo Ricardo Stemmer</na></co>
+<co c="0"><na f="s/Susin:Matheus_Martins" pid="210/3809">Matheus Martins Susin</na></co>
+<co c="0"><na f="t/Tientcheu:Gilles_Pokam" pid="96/3986">Gilles Pokam Tientcheu</na></co>
+<co c="-1"><na f="t/Tondello:Gustavo_Fortes" pid="49/778">Gustavo Fortes Tondello</na></co>
+<co c="0" n="2"><na f="v/Ver=iacute=ssimo:Paulo" pid="v/PauloVerissimo">Paulo Ver&#237;ssimo</na><na>Paulo Jorge Esteves Ver&#237;ssimo</na></co>
+<co c="0"><na f="w/Wanner:Lucas_Francisco" pid="w/LucasFranciscoWanner">Lucas Francisco Wanner</na></co>
+<co c="0"><na f="w/Wiedenhoft:Geovani_Ricardo" pid="23/618">Geovani Ricardo Wiedenhoft</na></co>
 </coauthors>
 </dblpperson>
 

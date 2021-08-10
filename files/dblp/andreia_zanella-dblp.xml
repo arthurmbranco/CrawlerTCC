@@ -1,86 +1,102 @@
 <?xml version="1.0"?>
-<dblpperson name="Andreia Zanella" n="5">
-<person key="homepages/128/7258" mdate="2015-05-26">
-<author>Andreia Zanella</author>
+<dblpperson name="Andreia Zanella" pid="128/7258" n="6">
+<person key="homepages/128/7258" mdate="2019-12-10">
+<author pid="128/7258">Andreia Zanella</author>
+<url>https://orcid.org/0000-0002-0651-0349</url>
 </person>
-<r><article key="journals/itor/CalabriaCZ18" mdate="2018-04-19">
-<author>Felipe A. Calabria</author>
-<author>Ana S. Camanho</author>
-<author>Andreia Zanella</author>
+<r><article key="journals/eor/OliveiraZC19" mdate="2020-02-21">
+<author orcid="0000-0002-1904-7533" pid="242/6265">Renata Oliveira</author>
+<author orcid="0000-0002-0651-0349" pid="128/7258">Andreia Zanella</author>
+<author orcid="0000-0001-7683-5889" pid="54/6218">Ana S. Camanho</author>
+<title>The assessment of corporate social responsibility: The construction of an industry ranking and identification of potential for improvement.</title>
+<pages>498-513</pages>
+<year>2019</year>
+<volume>278</volume>
+<journal>Eur. J. Oper. Res.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.ejor.2018.11.042</ee>
+<url>db/journals/eor/eor278.html#OliveiraZC19</url>
+</article>
+</r>
+<r><article key="journals/itor/CalabriaCZ18" mdate="2020-07-09">
+<author pid="217/7764">Felipe A. Calabria</author>
+<author orcid="0000-0001-7683-5889" pid="54/6218">Ana S. Camanho</author>
+<author orcid="0000-0002-0651-0349" pid="128/7258">Andreia Zanella</author>
 <title>The use of composite indicators to evaluate the performance of Brazilian hydropower plants.</title>
 <pages>1323-1343</pages>
 <year>2018</year>
 <volume>25</volume>
-<journal>ITOR</journal>
+<journal>Int. Trans. Oper. Res.</journal>
 <number>4</number>
 <ee>https://doi.org/10.1111/itor.12277</ee>
 <url>db/journals/itor/itor25.html#CalabriaCZ18</url>
 </article>
 </r>
-<r><article key="journals/te/GoncalvesWHZ18" mdate="2018-05-15">
-<author orcid="0000-0001-6038-9140">Rafael Queiroz Gon&#231;alves</author>
-<author orcid="0000-0002-6566-1606">Christiane Gresse von Wangenheim</author>
-<author orcid="0000-0001-6550-9092">Jean C. R. Hauck</author>
-<author>Andreia Zanella</author>
+<r><article key="journals/te/GoncalvesWHZ18" mdate="2020-04-16">
+<author orcid="0000-0001-6038-9140" pid="131/2529">Rafael Queiroz Gon&#231;alves</author>
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author orcid="0000-0001-6550-9092" pid="77/5650">Jean C. R. Hauck</author>
+<author orcid="0000-0002-0651-0349" pid="128/7258">Andreia Zanella</author>
 <title>An Instructional Feedback Technique for Teaching Project Management Tools Aligned With PMBOK.</title>
 <pages>143-150</pages>
 <year>2018</year>
 <volume>61</volume>
-<journal>IEEE Trans. Education</journal>
+<journal>IEEE Trans. Educ.</journal>
 <number>2</number>
 <ee>https://doi.org/10.1109/TE.2017.2774766</ee>
 <url>db/journals/te/te61.html#GoncalvesWHZ18</url>
 </article>
 </r>
-<r><article key="journals/anor/ZanellaCD15" mdate="2017-06-05">
-<author orcid="0000-0002-0651-0349">Andreia Zanella</author>
-<author>Ana S. Camanho</author>
-<author orcid="0000-0001-6209-3626">Teresa Galv&#227;o Dias</author>
+<r><article key="journals/anor/ZanellaCD15" mdate="2020-08-13">
+<author orcid="0000-0002-0651-0349" pid="128/7258">Andreia Zanella</author>
+<author orcid="0000-0001-7683-5889" pid="54/6218">Ana S. Camanho</author>
+<author orcid="0000-0001-6209-3626" pid="122/4905">Teresa Galv&#227;o Dias</author>
 <title>The assessment of cities' livability integrating human wellbeing and environmental impact.</title>
 <pages>695-726</pages>
 <year>2015</year>
 <volume>226</volume>
-<journal>Annals OR</journal>
+<journal>Ann. Oper. Res.</journal>
 <number>1</number>
 <ee>https://doi.org/10.1007/s10479-014-1666-7</ee>
 <url>db/journals/anor/anor226.html#ZanellaCD15</url>
 </article>
 </r>
-<r><article key="journals/eor/ZanellaCD15" mdate="2017-06-06">
-<author orcid="0000-0002-0651-0349">Andreia Zanella</author>
-<author>Ana S. Camanho</author>
-<author orcid="0000-0001-6209-3626">Teresa Galv&#227;o Dias</author>
+<r><article key="journals/eor/ZanellaCD15" mdate="2020-02-21">
+<author orcid="0000-0002-0651-0349" pid="128/7258">Andreia Zanella</author>
+<author orcid="0000-0001-7683-5889" pid="54/6218">Ana S. Camanho</author>
+<author orcid="0000-0001-6209-3626" pid="122/4905">Teresa Galv&#227;o Dias</author>
 <title>Undesirable outputs and weighting schemes in composite indicators based on data envelopment analysis.</title>
 <pages>517-530</pages>
 <year>2015</year>
 <volume>245</volume>
-<journal>European Journal of Operational Research</journal>
+<journal>Eur. J. Oper. Res.</journal>
 <number>2</number>
 <ee>https://doi.org/10.1016/j.ejor.2015.03.036</ee>
 <url>db/journals/eor/eor245.html#ZanellaCD15</url>
 </article>
 </r>
-<r><article key="journals/jors/ZanellaCD13" mdate="2017-06-06">
-<author orcid="0000-0002-0651-0349">Andreia Zanella</author>
-<author orcid="0000-0001-7683-5889">A. S. Camanho</author>
-<author orcid="0000-0001-6209-3626">Teresa Galv&#227;o Dias</author>
+<r><article key="journals/jors/ZanellaCD13" mdate="2020-06-08">
+<author orcid="0000-0002-0651-0349" pid="128/7258">Andreia Zanella</author>
+<author orcid="0000-0001-7683-5889" pid="54/6218">Ana S. Camanho</author>
+<author orcid="0000-0001-6209-3626" pid="122/4905">Teresa Galv&#227;o Dias</author>
 <title>Benchmarking countries' environmental performance.</title>
 <pages>426-438</pages>
 <year>2013</year>
 <volume>64</volume>
-<journal>JORS</journal>
+<journal>J. Oper. Res. Soc.</journal>
 <number>3</number>
 <ee>https://doi.org/10.1057/jors.2012.62</ee>
 <url>db/journals/jors/jors64.html#ZanellaCD13</url>
 </article>
 </r>
-<coauthors n="6" nc="2">
-<co c="0"><na f="c/Calabria:Felipe_A=">Felipe A. Calabria</na></co>
-<co c="0" n="2"><na f="c/Camanho:Ana_S=">Ana S. Camanho</na><na>A. S. Camanho</na></co>
-<co c="0" n="2"><na f="g/Galv=atilde=o:Teresa">Teresa Galv&#227;o</na><na>Teresa Galv&#227;o Dias</na></co>
-<co c="1"><na f="g/Gon=ccedil=alves:Rafael_Queiroz">Rafael Queiroz Gon&#231;alves</na></co>
-<co c="1"><na f="h/Hauck:Jean_C=_R=">Jean C. R. Hauck</na></co>
-<co c="1"><na f="w/Wangenheim:Christiane_Gresse_von">Christiane Gresse von Wangenheim</na></co>
+<coauthors n="7" nc="2">
+<co c="0"><na f="c/Calabria:Felipe_A=" pid="217/7764">Felipe A. Calabria</na></co>
+<co c="0"><na f="c/Camanho:Ana_S=" pid="54/6218">Ana S. Camanho</na></co>
+<co c="0" n="2"><na f="g/Galv=atilde=o:Teresa" pid="122/4905">Teresa Galv&#227;o</na><na>Teresa Galv&#227;o Dias</na></co>
+<co c="1"><na f="g/Gon=ccedil=alves:Rafael_Queiroz" pid="131/2529">Rafael Queiroz Gon&#231;alves</na></co>
+<co c="1"><na f="h/Hauck:Jean_C=_R=" pid="77/5650">Jean C. R. Hauck</na></co>
+<co c="0"><na f="o/Oliveira:Renata" pid="242/6265">Renata Oliveira</na></co>
+<co c="1"><na f="w/Wangenheim:Christiane_Gresse_von" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</na></co>
 </coauthors>
 </dblpperson>
 

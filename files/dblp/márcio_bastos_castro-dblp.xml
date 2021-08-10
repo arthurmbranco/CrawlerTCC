@@ -1,18 +1,175 @@
 <?xml version="1.0"?>
-<dblpperson name="M&#225;rcio Bastos Castro" n="32">
-<person key="homepages/39/6633" mdate="2018-07-05">
-<author>M&#225;rcio Bastos Castro</author>
-<author>M&#225;rcio Castro</author>
+<dblpperson name="M&#225;rcio Bastos Castro" pid="39/6633" n="44">
+<person key="homepages/39/6633" mdate="2021-07-24">
+<author pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author pid="39/6633">M&#225;rcio Castro 0001</author>
 <url>http://www.inf.ufsc.br/~marcio.castro/</url>
 <url>https://scholar.google.com/citations?user=3sxkal4AAAAJ</url>
-<url>http://lattes.cnpq.br/6876016315737507</url>
+<url>https://dl.acm.org/profile/81314493470</url>
 <url>https://orcid.org/0000-0002-9992-8540</url>
+<url>https://www.wikidata.org/entity/Q57923677</url>
+<url>http://lattes.cnpq.br/6876016315737507</url>
 <note type="affiliation">Federal University of Santa Catarina (UFSC), Informatics and Statistics Department</note>
 </person>
-<r><inproceedings key="conf/europar/PodestaNC18" mdate="2018-09-13">
-<author>Emmanuel Podest&#225; Jr.</author>
-<author>Bruno Marques do Nascimento</author>
-<author orcid="0000-0002-9992-8540">M&#225;rcio Castro</author>
+<homonyms n="1">
+<h f="c/Castro:M=aacute=rcio"><name>M&#225;rcio Castro</name>
+</h>
+</homonyms>
+<r><article key="journals/jpdc/FreitasPSCC21" mdate="2021-06-11">
+<author orcid="0000-0002-2324-349X" pid="236/4140">Vinicius Freitas</author>
+<author orcid="0000-0003-0997-586X" pid="75/2582">La&#233;rcio Lima Pilla</author>
+<author pid="236/3924">Alexandre de L. Santana</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author pid="34/2570">Johanne Cohen</author>
+<title>PackStealLB: A scalable distributed load balancer based on work stealing and workload discretization.</title>
+<pages>34-45</pages>
+<year>2021</year>
+<volume>150</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2020.12.005</ee>
+<url>db/journals/jpdc/jpdc150.html#FreitasPSCC21</url>
+</article>
+</r>
+<r><article key="journals/jpdc/PennaSUCFM21" mdate="2021-07-13">
+<author orcid="0000-0003-3617-2915" pid="210/3783">Pedro Henrique Penna</author>
+<author orcid="0000-0001-8963-5130" pid="262/0936">Jo&#227;o Vicente Souto</author>
+<author orcid="0000-0002-6506-6903" pid="291/2695">Jo&#227;o Fellipe Uller</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author orcid="0000-0001-9722-1093" pid="13/4670">Henrique C. Freitas</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<title>Inter-kernel communication facility of a distributed operating system for NoC-based lightweight manycores.</title>
+<pages>1-15</pages>
+<year>2021</year>
+<volume>154</volume>
+<journal>J. Parallel Distributed Comput.</journal>
+<ee>https://doi.org/10.1016/j.jpdc.2021.04.002</ee>
+<url>db/journals/jpdc/jpdc154.html#PennaSUCFM21</url>
+</article>
+</r>
+<r><article key="journals/spe/SantanaFCPM21" mdate="2021-07-25">
+<author orcid="0000-0002-3203-3662" pid="236/3924">Alexandre de L. Santana</author>
+<author orcid="0000-0002-2324-349X" pid="236/4140">Vinicius Freitas</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author orcid="0000-0003-0997-586X" pid="75/2582">La&#233;rcio Lima Pilla</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<title>ARTful: A model for user-defined schedulers targeting multiple high-performance computing runtime systems.</title>
+<pages>1622-1638</pages>
+<year>2021</year>
+<volume>51</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/spe.2977</ee>
+<url>db/journals/spe/spe51.html#SantanaFCPM21</url>
+</article>
+</r>
+<r><inproceedings key="conf/sac/JuniorPUC21" mdate="2021-06-11">
+<author pid="291/3511">Emmanuel Podest&#225; Junior</author>
+<author pid="210/3783">Pedro Henrique Penna</author>
+<author pid="291/2695">Jo&#227;o Fellipe Uller</author>
+<author pid="39/6633">M&#225;rcio Castro 0001</author>
+<title>A trace-driven methodology to evaluate and optimize memory management services of distributed operating systems for lightweight manycores.</title>
+<pages>1190-1198</pages>
+<year>2021</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3412841.3441994</ee>
+<crossref>conf/sac/2021</crossref>
+<url>db/conf/sac/sac2021.html#JuniorPUC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/OikawaFCP20" mdate="2021-06-11">
+<author pid="265/2614">C. R. Anna Victoria Oikawa</author>
+<author orcid="0000-0002-2324-349X" pid="236/4140">Vinicius Freitas</author>
+<author pid="39/6633">M&#225;rcio Castro 0001</author>
+<author pid="75/2582">La&#233;rcio Lima Pilla</author>
+<title>Adaptive Load Balancing based on Machine Learning for Iterative Parallel Applications.</title>
+<pages>94-101</pages>
+<year>2020</year>
+<booktitle>PDP</booktitle>
+<ee>https://doi.org/10.1109/PDP50117.2020.00021</ee>
+<crossref>conf/pdp/2020</crossref>
+<url>db/conf/pdp/pdp2020.html#OikawaFCP20</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/PennaGCPFBM19" mdate="2021-06-11">
+<author orcid="0000-0003-3617-2915" pid="210/3783">Pedro Henrique Penna</author>
+<author orcid="0000-0002-0746-4014" pid="96/1748">Ant&#244;nio Tadeu A. Gomes</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author pid="83/1063">Patricia Della Mea Plentz</author>
+<author orcid="0000-0001-9722-1093" pid="13/4670">Henrique C. Freitas</author>
+<author pid="15/1102">Fran&#231;ois Broquedis</author>
+<author orcid="0000-0003-1047-7462" pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<title>A comprehensive performance evaluation of the BinLPT workload-aware loop scheduler.</title>
+<year>2019</year>
+<volume>31</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1002/cpe.5170</ee>
+<url>db/journals/concurrency/concurrency31.html#PennaGCPFBM19</url>
+</article>
+</r>
+<r><article key="journals/concurrency/RoseC19" mdate="2021-06-11">
+<author orcid="0000-0003-0070-0157" pid="95/5199">C&#233;sar A. F. De Rose</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<title>Foreword to the special issue of the workshop on high performance computing systems (XVIII Simp&#243;sio em Sistemas Computacionais de Alto Desempenho, WSCAD 2017).</title>
+<year>2019</year>
+<volume>31</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>18</number>
+<ee>https://doi.org/10.1002/cpe.5319</ee>
+<url>db/journals/concurrency/concurrency31.html#RoseC19</url>
+</article>
+</r>
+<r><article key="journals/jrtip/PflegerPRPC19" mdate="2021-06-11">
+<author pid="250/6272">Sergio G. Pfleger</author>
+<author pid="83/1063">Patricia Della Mea Plentz</author>
+<author pid="156/4621">Rodrigo C. O. Rocha</author>
+<author orcid="0000-0003-4908-2847" pid="171/1261">Alyson D. Pereira</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<title>Real-time video denoising on multicores and GPUs with Kalman-based and Bilateral filters fusion.</title>
+<pages>1629-1642</pages>
+<year>2019</year>
+<volume>16</volume>
+<journal>J. Real Time Image Process.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s11554-016-0659-y</ee>
+<url>db/journals/jrtip/jrtip16.html#PflegerPRPC19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ieeehpcs/FreitasSCP19" mdate="2021-06-11">
+<author orcid="0000-0002-2324-349X" pid="236/4140">Vinicius Freitas</author>
+<author pid="236/3924">Alexandre de L. Santana</author>
+<author pid="39/6633">M&#225;rcio Castro 0001</author>
+<author pid="75/2582">La&#233;rcio Lima Pilla</author>
+<title>Distributed Memory Graph Representation for Load Balancing Data: Accelerating Data Structure Generation for Decentralized Scheduling.</title>
+<pages>787-794</pages>
+<year>2019</year>
+<booktitle>HPCS</booktitle>
+<ee>https://doi.org/10.1109/HPCS48598.2019.9188134</ee>
+<crossref>conf/ieeehpcs/2019</crossref>
+<url>db/conf/ieeehpcs/ieeehpcs2019.html#FreitasSCP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbesc/PennaSLCBFM19" mdate="2021-06-11">
+<author orcid="0000-0003-3617-2915" pid="210/3783">Pedro Henrique Penna</author>
+<author orcid="0000-0001-8963-5130" pid="262/0936">Jo&#227;o Vicente Souto</author>
+<author pid="262/0886">Davidson Francis Lima</author>
+<author pid="39/6633">M&#225;rcio Castro 0001</author>
+<author pid="15/1102">Fran&#231;ois Broquedis</author>
+<author orcid="0000-0001-9722-1093" pid="13/4670">Henrique C. Freitas</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<title>On the Performance and Isolation of Asymmetric Microkernel Design for Lightweight Manycores.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>SBESC</booktitle>
+<ee>https://doi.org/10.1109/SBESC49506.2019.9046080</ee>
+<crossref>conf/sbesc/2019</crossref>
+<url>db/conf/sbesc/sbesc2019.html#PennaSLCBFM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/PodestaNC18" mdate="2021-06-11">
+<author pid="224/8723">Emmanuel Podest&#225; Jr.</author>
+<author pid="224/8845">Bruno Marques do Nascimento</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
 <title>Energy Efficient Stencil Computations on the Low-Power Manycore MPPA-256 Processor.</title>
 <pages>642-655</pages>
 <year>2018</year>
@@ -22,46 +179,75 @@
 <url>db/conf/europar/europar2018.html#PodestaNC18</url>
 </inproceedings>
 </r>
-<r><article key="journals/concurrency/SouzaPQPGFCNM17" mdate="2017-12-28">
-<author>Matheus A. Souza</author>
-<author orcid="0000-0003-3617-2915">Pedro Henrique Penna</author>
-<author>Matheus M. Queiroz</author>
-<author orcid="0000-0003-4908-2847">Alyson D. Pereira</author>
-<author>Lu&#237;s Fabr&#237;cio Wanderley G&#243;es</author>
-<author orcid="0000-0001-9722-1093">Henrique C. Freitas</author>
-<author>M&#225;rcio Castro</author>
-<author>Philippe O. A. Navaux</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
+<r><inproceedings key="conf/sbac-pad/FreitasSCP18" mdate="2019-10-19">
+<author orcid="0000-0002-2324-349X" pid="236/4140">Vinicius Freitas</author>
+<author pid="236/3924">Alexandre de L. Santana</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author orcid="0000-0003-0997-586X" pid="75/2582">La&#233;rcio Lima Pilla</author>
+<title>A Batch Task Migration Approach for Decentralized Global Rescheduling.</title>
+<pages>49-56</pages>
+<year>2018</year>
+<booktitle>SBAC-PAD</booktitle>
+<ee>https://doi.org/10.1109/CAHPC.2018.8645953</ee>
+<crossref>conf/sbac-pad/2018</crossref>
+<url>db/conf/sbac-pad/sbac-pad2018.html#FreitasSCP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wscad/SantanaFPCM18" mdate="2021-06-11">
+<author pid="236/3924">Alexandre de L. Santana</author>
+<author orcid="0000-0002-2324-349X" pid="236/4140">Vinicius Freitas</author>
+<author orcid="0000-0003-0997-586X" pid="75/2582">La&#233;rcio Lima Pilla</author>
+<author pid="39/6633">M&#225;rcio Castro 0001</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<title>Reducing Global Schedulers Complexity through Runtime System Decoupling.</title>
+<pages>38-44</pages>
+<year>2018</year>
+<booktitle>WSCAD</booktitle>
+<ee>https://doi.org/10.1109/WSCAD.2018.00016</ee>
+<crossref>conf/wscad/2018</crossref>
+<url>db/conf/wscad/wscad2018.html#SantanaFPCM18</url>
+</inproceedings>
+</r>
+<r><article key="journals/concurrency/SouzaPQPGFCNM17" mdate="2021-06-11">
+<author pid="198/0025">Matheus Alc&#226;ntara Souza</author>
+<author orcid="0000-0003-3617-2915" pid="210/3783">Pedro Henrique Penna</author>
+<author pid="156/8863">Matheus M. Queiroz</author>
+<author orcid="0000-0003-4908-2847" pid="171/1261">Alyson D. Pereira</author>
+<author orcid="0000-0003-1801-9917" pid="49/3151">Lu&#237;s Fabr&#237;cio Wanderley G&#243;es</author>
+<author orcid="0000-0001-9722-1093" pid="13/4670">Henrique C. Freitas</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author orcid="0000-0003-1047-7462" pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
 <title>CAP Bench: a benchmark suite for performance and energy evaluation of low-power many-core processors.</title>
 <year>2017</year>
 <volume>29</volume>
-<journal>Concurrency and Computation: Practice and Experience</journal>
+<journal>Concurr. Comput. Pract. Exp.</journal>
 <number>4</number>
 <ee>https://doi.org/10.1002/cpe.3892</ee>
 <url>db/journals/concurrency/concurrency29.html#SouzaPQPGFCNM17</url>
 </article>
 </r>
-<r><article key="journals/concurrency/PennaCFBM17" mdate="2017-12-28">
-<author orcid="0000-0003-3617-2915">Pedro Henrique Penna</author>
-<author orcid="0000-0002-9992-8540">M&#225;rcio Castro</author>
-<author orcid="0000-0001-9722-1093">Henrique C. Freitas</author>
-<author>Fran&#231;ois Broquedis</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
+<r><article key="journals/concurrency/PennaCFBM17" mdate="2021-06-11">
+<author orcid="0000-0003-3617-2915" pid="210/3783">Pedro Henrique Penna</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author orcid="0000-0001-9722-1093" pid="13/4670">Henrique C. Freitas</author>
+<author orcid="0000-0003-1291-7417" pid="15/1102">Fran&#231;ois Broquedis</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
 <title>Design methodology for workload-aware loop scheduling strategies based on genetic algorithm and simulation.</title>
 <year>2017</year>
 <volume>29</volume>
-<journal>Concurrency and Computation: Practice and Experience</journal>
+<journal>Concurr. Comput. Pract. Exp.</journal>
 <number>22</number>
 <ee>https://doi.org/10.1002/cpe.3933</ee>
 <url>db/journals/concurrency/concurrency29.html#PennaCFBM17</url>
 </article>
 </r>
-<r><inproceedings key="conf/cbms/VolpatoSGCD17" mdate="2018-02-19">
-<author>Felipe Volpato</author>
-<author>Madalena Pereira da Silva</author>
-<author>Alexandre Leopoldo Gon&#231;alves</author>
-<author>M&#225;rcio Castro</author>
-<author>Mario Antonio Ribeiro Dantas</author>
+<r><inproceedings key="conf/cbms/VolpatoSGCD17" mdate="2021-06-11">
+<author pid="204/3581">Felipe Volpato</author>
+<author orcid="0000-0002-8886-2822" pid="21/3058">Madalena Pereira da Silva</author>
+<author pid="43/4251">Alexandre Leopoldo Gon&#231;alves</author>
+<author pid="39/6633">M&#225;rcio Castro 0001</author>
+<author orcid="0000-0002-2312-7042" pid="d/MarioARDantas">M&#225;rio Ant&#244;nio Ribeiro Dantas</author>
 <title>Provisioning and Delivering Sepsis Data Supported by an Enhanced SDN Environment.</title>
 <pages>492-497</pages>
 <year>2017</year>
@@ -72,14 +258,14 @@
 <url>db/conf/cbms/cbms2017.html#VolpatoSGCD17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/iccS/PennaICPFBM17" mdate="2017-12-06">
-<author>Pedro Henrique Penna</author>
-<author>Eduardo C. Inacio</author>
-<author>M&#225;rcio Bastos Castro</author>
-<author>Patricia Della Mea Plentz</author>
-<author>Henrique C. Freitas</author>
-<author>Fran&#231;ois Broquedis</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
+<r><inproceedings key="conf/iccS/PennaICPFBM17" mdate="2020-03-27">
+<author orcid="0000-0003-3617-2915" pid="210/3783">Pedro Henrique Penna</author>
+<author orcid="0000-0003-3424-8269" pid="161/8536">Eduardo C. Inacio</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author pid="83/1063">Patricia Della Mea Plentz</author>
+<author orcid="0000-0001-9722-1093" pid="13/4670">Henrique C. Freitas</author>
+<author orcid="0000-0003-1291-7417" pid="15/1102">Fran&#231;ois Broquedis</author>
+<author orcid="0000-0003-1047-7462" pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
 <title>Assessing the Performance of the SRR Loop Scheduler with Irregular Workloads.</title>
 <pages>255-264</pages>
 <year>2017</year>
@@ -89,11 +275,11 @@
 <url>db/conf/iccS/iccS2017.html#PennaICPFBM17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/iccS/MartinezDCN17" mdate="2017-06-21">
-<author>V&#237;ctor Mart&#237;nez</author>
-<author>Fabrice Dupros</author>
-<author>M&#225;rcio Castro</author>
-<author>Philippe Olivier Alexandre Navaux</author>
+<r><inproceedings key="conf/iccS/MartinezDCN17" mdate="2021-06-11">
+<author pid="22/2903">V&#237;ctor Mart&#237;nez</author>
+<author orcid="0000-0002-1069-9949" pid="54/5417">Fabrice Dupros</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
 <title>Performance Improvement of Stencil Computations for Multi-core Architectures based on Machine Learning.</title>
 <pages>305-314</pages>
 <year>2017</year>
@@ -103,12 +289,12 @@
 <url>db/conf/iccS/iccS2017.html#MartinezDCN17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/iccS/PereiraRCGD17" mdate="2017-06-28">
-<author orcid="0000-0003-4908-2847">Alyson D. Pereira</author>
-<author>Rodrigo C. O. Rocha</author>
-<author>M&#225;rcio Castro</author>
-<author>Lu&#237;s F. W. G&#243;es</author>
-<author>Mario A. R. Dantas</author>
+<r><inproceedings key="conf/iccS/PereiraRCGD17" mdate="2021-06-11">
+<author orcid="0000-0003-4908-2847" pid="171/1261">Alyson D. Pereira</author>
+<author pid="156/4621">Rodrigo C. O. Rocha</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author orcid="0000-0003-1801-9917" pid="49/3151">Lu&#237;s F. W. G&#243;es</author>
+<author orcid="0000-0002-2312-7042" pid="d/MarioARDantas">Mario A. R. Dantas</author>
 <title>Enabling efficient stencil code generation in OpenACC.</title>
 <pages>2333-2337</pages>
 <year>2017</year>
@@ -118,12 +304,12 @@
 <url>db/conf/iccS/iccS2017.html#PereiraRCGD17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/ieeehpcs/PereiraCDRG17" mdate="2017-09-20">
-<author>Alyson D. Pereira</author>
-<author>M&#225;rcio Castro</author>
-<author>Mario A. R. Dantas</author>
-<author>Rodrigo C. O. Rocha</author>
-<author>Lu&#237;s Fabr&#237;cio Wanderley G&#243;es</author>
+<r><inproceedings key="conf/ieeehpcs/PereiraCDRG17" mdate="2021-06-11">
+<author orcid="0000-0003-4908-2847" pid="171/1261">Alyson D. Pereira</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author orcid="0000-0002-2312-7042" pid="d/MarioARDantas">Mario A. R. Dantas</author>
+<author pid="156/4621">Rodrigo C. O. Rocha</author>
+<author orcid="0000-0003-1801-9917" pid="49/3151">Lu&#237;s Fabr&#237;cio Wanderley G&#243;es</author>
 <title>Extending OpenACC for Efficient Stencil Code Generation and Execution by Skeleton Frameworks.</title>
 <pages>719-726</pages>
 <year>2017</year>
@@ -133,12 +319,12 @@
 <url>db/conf/ieeehpcs/ieeehpcs2017.html#PereiraCDRG17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbac-pad/PereiraRRCG17" mdate="2017-12-01">
-<author>Alyson D. Pereira</author>
-<author>Rodrigo C. O. Rocha</author>
-<author>Luiz Ramos</author>
-<author>M&#225;rcio Castro</author>
-<author>Lu&#237;s F. W. G&#243;es</author>
+<r><inproceedings key="conf/sbac-pad/PereiraRRCG17" mdate="2021-06-11">
+<author orcid="0000-0003-4908-2847" pid="171/1261">Alyson D. Pereira</author>
+<author pid="156/4621">Rodrigo C. O. Rocha</author>
+<author pid="144/4614">Luiz Ramos</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author orcid="0000-0003-1801-9917" pid="49/3151">Lu&#237;s F. W. G&#243;es</author>
 <title>Automatic Partitioning of Stencil Computations on Heterogeneous Systems.</title>
 <pages>43-48</pages>
 <year>2017</year>
@@ -149,10 +335,10 @@
 <url>db/conf/sbac-pad/sbac-pad2017w.html#PereiraRRCG17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/BorinCP17" mdate="2017-12-11">
-<author>Lais Borin</author>
-<author>M&#225;rcio Castro</author>
-<author>Patricia Della Mea Plentz</author>
+<r><inproceedings key="conf/sbesc/BorinCP17" mdate="2021-06-11">
+<author pid="210/3797">Lais Borin</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author pid="83/1063">Patricia Della Mea Plentz</author>
 <title>Towards the Use of LITMUS RT as a Testbed for Multiprocessor Scheduling in Energy Harvesting Real-Time Systems.</title>
 <pages>109-116</pages>
 <year>2017</year>
@@ -163,12 +349,12 @@
 <url>db/conf/sbesc/sbesc2017.html#BorinCP17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbesc/PennaCFMC17" mdate="2017-12-11">
-<author>Pedro Henrique de Mello Morado Penna</author>
-<author>M&#225;rcio Bastos Castro</author>
-<author>Henrique Cota de Freitas</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
-<author>Joao Caram</author>
+<r><inproceedings key="conf/sbesc/PennaCFMC17" mdate="2021-07-25">
+<author orcid="0000-0003-3617-2915" pid="210/3783">Pedro Henrique de Mello Morado Penna</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author orcid="0000-0001-9722-1093" pid="13/4670">Henrique Cota de Freitas</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<author pid="210/3764">Joao Caram</author>
 <title>Using the Nanvix Operating System in Undergraduate Operating System Courses.</title>
 <pages>193-198</pages>
 <year>2017</year>
@@ -179,28 +365,29 @@
 <url>db/conf/sbesc/sbesc2017.html#PennaCFMC17</url>
 </inproceedings>
 </r>
-<r><article key="journals/pc/CastroFDANM16" mdate="2017-06-14">
-<author orcid="0000-0002-9992-8540">M&#225;rcio Castro</author>
-<author orcid="0000-0002-5374-2521">Emilio Francesquini</author>
-<author>Fabrice Dupros</author>
-<author orcid="0000-0001-9405-9596">Hideo Aochi</author>
-<author>Philippe O. A. Navaux</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
+<r><article key="journals/pc/CastroFDANM16" mdate="2021-06-11">
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author orcid="0000-0002-1069-9949" pid="54/5417">Fabrice Dupros</author>
+<author orcid="0000-0001-9405-9596" pid="45/538">Hideo Aochi</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author orcid="0000-0003-1047-7462" pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
 <title>Seismic wave propagation simulations on low-power and performance-centric manycores.</title>
 <pages>108-120</pages>
 <year>2016</year>
 <volume>54</volume>
-<journal>Parallel Computing</journal>
+<journal>Parallel Comput.</journal>
 <ee>https://doi.org/10.1016/j.parco.2016.01.011</ee>
+<ee>https://www.wikidata.org/entity/Q57716461</ee>
 <url>db/journals/pc/pc54.html#CastroFDANM16</url>
 </article>
 </r>
-<r><inproceedings key="conf/carla/PadoinPCNM16" mdate="2017-05-17">
-<author>Edson L. Padoin</author>
-<author>La&#233;rcio Lima Pilla</author>
-<author>M&#225;rcio Bastos Castro</author>
-<author>Philippe O. A. Navaux</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
+<r><inproceedings key="conf/carla/PadoinPCNM16" mdate="2019-12-27">
+<author pid="121/1924">Edson L. Padoin</author>
+<author orcid="0000-0003-0997-586X" pid="75/2582">La&#233;rcio Lima Pilla</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author pid="74/1262">Philippe O. A. Navaux</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
 <title>Exploration of Load Balancing Thresholds to Save Energy on Iterative Applications.</title>
 <pages>76-88</pages>
 <year>2016</year>
@@ -210,14 +397,14 @@
 <url>db/conf/carla/carla2016.html#PadoinPCNM16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/europar/SaffranGSPCGF16" mdate="2017-05-29">
-<author>Jo&#227;o Saffran</author>
-<author>Gabriel Garcia</author>
-<author>Matheus A. Souza</author>
-<author>Pedro Henrique Penna</author>
-<author>M&#225;rcio Castro</author>
-<author>Lu&#237;s F. W. G&#243;es</author>
-<author>Henrique C. Freitas</author>
+<r><inproceedings key="conf/europar/SaffranGSPCGF16" mdate="2021-06-11">
+<author pid="200/5309">Jo&#227;o Saffran</author>
+<author pid="99/8240">Gabriel Garcia</author>
+<author pid="198/0025">Matheus Alc&#226;ntara Souza</author>
+<author orcid="0000-0003-3617-2915" pid="210/3783">Pedro Henrique Penna</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author pid="49/3151">Lu&#237;s F. W. G&#243;es</author>
+<author orcid="0000-0001-9722-1093" pid="13/4670">Henrique C. Freitas</author>
 <title>A Low-Cost Energy-Efficient Raspberry Pi Cluster for Data Mining Algorithms.</title>
 <pages>788-799</pages>
 <year>2016</year>
@@ -227,13 +414,13 @@
 <url>db/conf/europar/europar2016w.html#SaffranGSPCGF16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/icecsys/NettoGLCPG16" mdate="2017-05-23">
-<author>Renan Netto</author>
-<author>Chrystian Guth</author>
-<author>Vinicius S. Livramento</author>
-<author>M&#225;rcio Castro</author>
-<author>La&#233;rcio Lima Pilla</author>
-<author>Jos&#233; Lu&#237;s G&#252;ntzel</author>
+<r><inproceedings key="conf/icecsys/NettoGLCPG16" mdate="2021-06-11">
+<author pid="159/9431">Renan Netto</author>
+<author pid="129/7581">Chrystian Guth</author>
+<author pid="78/9849">Vinicius S. Livramento</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Castro 0001</author>
+<author orcid="0000-0003-0997-586X" pid="75/2582">La&#233;rcio Lima Pilla</author>
+<author pid="04/3287">Jos&#233; Lu&#237;s G&#252;ntzel</author>
 <title>Exploiting parallelism to speed up circuit legalization.</title>
 <pages>624-627</pages>
 <year>2016</year>
@@ -243,77 +430,77 @@
 <url>db/conf/icecsys/icecsys2016.html#NettoGLCPG16</url>
 </inproceedings>
 </r>
-<r><article key="journals/iet-cdt/PadoinPCBNM15" mdate="2017-06-06">
-<author>Edson L. Padoin</author>
-<author>La&#233;rcio Lima Pilla</author>
-<author orcid="0000-0002-9992-8540">M&#225;rcio Bastos Castro</author>
-<author>Francieli Zanon Boito</author>
-<author>Philippe Olivier Alexandre Navaux</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
+<r><article key="journals/iet-cdt/PadoinPCBNM15" mdate="2020-07-14">
+<author pid="121/1924">Edson L. Padoin</author>
+<author orcid="0000-0003-0997-586X" pid="75/2582">La&#233;rcio Lima Pilla</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author pid="99/9377">Francieli Zanon Boito</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author orcid="0000-0003-1047-7462" pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
 <title>Performance/energy trade-off in scientific computing: the case of ARM big.LITTLE and Intel Sandy Bridge.</title>
 <pages>27-35</pages>
 <year>2015</year>
 <volume>9</volume>
-<journal>IET Computers &#38; Digital Techniques</journal>
+<journal>IET Comput. Digit. Tech.</journal>
 <number>1</number>
 <ee>https://doi.org/10.1049/iet-cdt.2014.0074</ee>
 <url>db/journals/iet-cdt/iet-cdt9.html#PadoinPCBNM15</url>
 </article>
 </r>
-<r><article key="journals/jpdc/FrancesquiniCPD15" mdate="2017-12-28">
-<author orcid="0000-0002-5374-2521">Emilio Francesquini</author>
-<author orcid="0000-0002-9992-8540">M&#225;rcio Bastos Castro</author>
-<author>Pedro Henrique Penna</author>
-<author>Fabrice Dupros</author>
-<author orcid="0000-0001-9722-1093">Henrique C. Freitas</author>
-<author>Philippe Olivier Alexandre Navaux</author>
-<author orcid="0000-0003-1047-7462">Jean-Fran&#231;ois M&#233;haut</author>
+<r><article key="journals/jpdc/FrancesquiniCPD15" mdate="2020-10-26">
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author orcid="0000-0003-3617-2915" pid="210/3783">Pedro Henrique Penna</author>
+<author orcid="0000-0002-1069-9949" pid="54/5417">Fabrice Dupros</author>
+<author orcid="0000-0001-9722-1093" pid="13/4670">Henrique C. Freitas</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author orcid="0000-0003-1047-7462" pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
 <title>On the energy efficiency and performance of irregular application executions on multicore, NUMA and manycore platforms.</title>
 <pages>32-48</pages>
 <year>2015</year>
 <volume>76</volume>
-<journal>J. Parallel Distrib. Comput.</journal>
+<journal>J. Parallel Distributed Comput.</journal>
 <ee>https://doi.org/10.1016/j.jpdc.2014.11.002</ee>
 <url>db/journals/jpdc/jpdc76.html#FrancesquiniCPD15</url>
 </article>
 </r>
-<r><article key="journals/ijpp/GoesRCMCC14" mdate="2017-06-06">
-<author>Lu&#237;s Fabr&#237;cio Wanderley G&#243;es</author>
-<author>Christiane Pousa Ribeiro</author>
-<author orcid="0000-0002-9992-8540">M&#225;rcio Bastos Castro</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
-<author>Murray Cole</author>
-<author>Marcelo Cintra</author>
+<r><article key="journals/ijpp/GoesRCMCC14" mdate="2020-04-01">
+<author orcid="0000-0003-1801-9917" pid="49/3151">Lu&#237;s Fabr&#237;cio Wanderley G&#243;es</author>
+<author pid="92/7437">Christiane Pousa Ribeiro</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author orcid="0000-0003-1047-7462" pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<author pid="83/786">Murray Cole</author>
+<author pid="73/5470">Marcelo Cintra</author>
 <title>Automatic Skeleton-Driven Memory Affinity for Transactional Worklist Applications.</title>
 <pages>365-382</pages>
 <year>2014</year>
 <volume>42</volume>
-<journal>International Journal of Parallel Programming</journal>
+<journal>Int. J. Parallel Program.</journal>
 <number>2</number>
 <ee>https://doi.org/10.1007/s10766-013-0253-x</ee>
 <url>db/journals/ijpp/ijpp42.html#GoesRCMCC14</url>
 </article>
 </r>
-<r><article key="journals/jpdc/CastroGM14" mdate="2017-06-06">
-<author orcid="0000-0002-9992-8540">M&#225;rcio Bastos Castro</author>
-<author>Lu&#237;s Fabr&#237;cio Wanderley G&#243;es</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
+<r><article key="journals/jpdc/CastroGM14" mdate="2020-02-22">
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author orcid="0000-0003-1801-9917" pid="49/3151">Lu&#237;s Fabr&#237;cio Wanderley G&#243;es</author>
+<author orcid="0000-0003-1047-7462" pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
 <title>Adaptive thread mapping strategies for transactional memory applications.</title>
 <pages>2845-2859</pages>
 <year>2014</year>
 <volume>74</volume>
-<journal>J. Parallel Distrib. Comput.</journal>
+<journal>J. Parallel Distributed Comput.</journal>
 <number>9</number>
 <ee>https://doi.org/10.1016/j.jpdc.2014.05.008</ee>
 <url>db/journals/jpdc/jpdc74.html#CastroGM14</url>
 </article>
 </r>
-<r><inproceedings key="conf/hipc/PadoinCPNM14" mdate="2017-05-26">
-<author>Edson L. Padoin</author>
-<author>M&#225;rcio Bastos Castro</author>
-<author>La&#233;rcio Lima Pilla</author>
-<author>Philippe Olivier Alexandre Navaux</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
+<r><inproceedings key="conf/hipc/PadoinCPNM14" mdate="2018-11-30">
+<author pid="121/1924">Edson L. Padoin</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author orcid="0000-0003-0997-586X" pid="75/2582">La&#233;rcio Lima Pilla</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
 <title>Saving energy by exploiting residual imbalances on iterative applications.</title>
 <pages>1-10</pages>
 <year>2014</year>
@@ -324,11 +511,11 @@
 <url>db/conf/hipc/hipc2014.html#PadoinCPNM14</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/pdp/RuiCGF14" mdate="2017-06-15">
-<author>Fernando Rui</author>
-<author orcid="0000-0002-9992-8540">M&#225;rcio Bastos Castro</author>
-<author orcid="0000-0002-4690-3964">Dalvan Griebler</author>
-<author>Luiz Gustavo Fernandes</author>
+<r><inproceedings key="conf/pdp/RuiCGF14" mdate="2018-11-02">
+<author pid="144/4323">Fernando Rui</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author orcid="0000-0002-4690-3964" pid="135/0603">Dalvan Griebler</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
 <title>Evaluating the Impact of Transactional Characteristics on the Performance of Transactional Memory Applications.</title>
 <pages>93-97</pages>
 <year>2014</year>
@@ -339,12 +526,12 @@
 <url>db/conf/pdp/pdp2014.html#RuiCGF14</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbac-pad/CastroDFMN14" mdate="2017-06-15">
-<author orcid="0000-0002-9992-8540">M&#225;rcio Bastos Castro</author>
-<author>Fabrice Dupros</author>
-<author orcid="0000-0002-5374-2521">Emilio Francesquini</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
-<author>Philippe Olivier Alexandre Navaux</author>
+<r><inproceedings key="conf/sbac-pad/CastroDFMN14" mdate="2020-10-25">
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author orcid="0000-0002-1069-9949" pid="54/5417">Fabrice Dupros</author>
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<author pid="74/1262">Philippe Olivier Alexandre Navaux</author>
 <title>Energy Efficient Seismic Wave Propagation Simulation on a Low-Power Manycore Processor.</title>
 <pages>57-64</pages>
 <year>2014</year>
@@ -355,33 +542,33 @@
 <url>db/conf/sbac-pad/sbac-pad2014.html#CastroDFMN14</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sc/CastroFNM13" mdate="2018-03-08">
-<author orcid="0000-0002-9992-8540">M&#225;rcio Bastos Castro</author>
-<author orcid="0000-0002-5374-2521">Emilio Francesquini</author>
-<author>Thomas Messi Ngu&#233;l&#233;</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
+<r><inproceedings key="conf/sc/CastroFNM13" mdate="2018-11-06">
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author orcid="0000-0002-5374-2521" pid="121/4593">Emilio Francesquini</author>
+<author pid="167/0152">Thomas Messi Ngu&#233;l&#233;</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
 <title>Analysis of computing and energy performance of multicore, NUMA, and manycore platforms for an irregular application.</title>
 <pages>5:1-5:8</pages>
 <year>2013</year>
 <booktitle>IA3@SC</booktitle>
-<ee>http://doi.acm.org/10.1145/2535753.2535757</ee>
+<ee>https://doi.org/10.1145/2535753.2535757</ee>
 <crossref>conf/sc/2013ia3</crossref>
 <url>db/conf/sc/ia3-2013.html#CastroFNM13</url>
 </inproceedings>
 </r>
-<r><phdthesis key="phd/hal/Bastoscastro12" mdate="2016-07-07">
-<author>M&#225;rcio Bastos Castro</author>
+<r><phdthesis key="phd/hal/Bastoscastro12" mdate="2020-07-21">
+<author pid="39/6633">M&#225;rcio Bastos Castro</author>
 <title>Optimisation de la performance des applications de m&#233;moire transactionnelle sur des plates-formes multicoeurs : une approche bas&#233;e sur l'apprentissage automatique. (Improving the Performance of Transactional Memory Applications on Multicores : A Machine Learning-based Approach).</title>
 <year>2012</year>
 <school>Grenoble Alpes University, France</school>
-<ee>https://tel.archives-ouvertes.fr/tel-00766983</ee>
+<ee type="oa">https://tel.archives-ouvertes.fr/tel-00766983</ee>
 </phdthesis>
 </r>
-<r><inproceedings key="conf/europar/CastroGFM12" mdate="2017-06-02">
-<author orcid="0000-0002-9992-8540">M&#225;rcio Bastos Castro</author>
-<author>Lu&#237;s Fabr&#237;cio Wanderley G&#243;es</author>
-<author>Luiz Gustavo Fernandes</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
+<r><inproceedings key="conf/europar/CastroGFM12" mdate="2019-10-19">
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author orcid="0000-0003-1801-9917" pid="49/3151">Lu&#237;s Fabr&#237;cio Wanderley G&#243;es</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
 <title>Dynamic Thread Mapping Based on Machine Learning for Transactional Memory Applications.</title>
 <pages>465-476</pages>
 <year>2012</year>
@@ -392,12 +579,12 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/hipc/CastroGRCCM11" mdate="2017-06-02">
-<author orcid="0000-0002-9992-8540">M&#225;rcio Bastos Castro</author>
-<author>Lu&#237;s Fabr&#237;cio Wanderley G&#243;es</author>
-<author>Christiane Pousa Ribeiro</author>
-<author>Murray Cole</author>
-<author>Marcelo Cintra</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author pid="49/3151">Lu&#237;s Fabr&#237;cio Wanderley G&#243;es</author>
+<author pid="92/7437">Christiane Pousa Ribeiro</author>
+<author pid="83/786">Murray Cole</author>
+<author pid="73/5470">Marcelo Cintra</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
 <title>A machine learning-based approach for thread mapping on transactional memory applications.</title>
 <pages>1-10</pages>
 <year>2011</year>
@@ -408,13 +595,13 @@
 <url>db/conf/hipc/hipc2011.html#CastroGRCCM11</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/pdp/CastroGMMFS11" mdate="2017-06-05">
-<author orcid="0000-0002-9992-8540">M&#225;rcio Bastos Castro</author>
-<author>Kiril Georgiev</author>
-<author>Vania Marangozova-Martin</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
-<author>Luiz Gustavo Fernandes</author>
-<author>Miguel Santana</author>
+<r><inproceedings key="conf/pdp/CastroGMMFS11" mdate="2018-11-02">
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author pid="53/7806">Kiril Georgiev</author>
+<author pid="04/7807">Vania Marangozova-Martin</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<author pid="59/1374">Miguel Santana</author>
 <title>Analysis and Tracing of Applications Based on Software Transactional Memory on Multicore Architectures.</title>
 <pages>199-206</pages>
 <year>2011</year>
@@ -426,10 +613,10 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/vecpar/RibeiroCMC10" mdate="2017-06-05">
-<author>Christiane Pousa Ribeiro</author>
-<author orcid="0000-0002-9992-8540">M&#225;rcio Bastos Castro</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
-<author>Alexandre Carissimi</author>
+<author pid="92/7437">Christiane Pousa Ribeiro</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<author pid="79/6098">Alexandre Carissimi</author>
 <title>Improving Memory Affinity of Geophysics Applications on NUMA Platforms Using Minas.</title>
 <pages>279-292</pages>
 <year>2010</year>
@@ -439,12 +626,12 @@
 <url>db/conf/vecpar/vecpar2010.html#RibeiroCMC10</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/ipps/CastroFPMA09" mdate="2017-06-04">
-<author orcid="0000-0002-9992-8540">M&#225;rcio Bastos Castro</author>
-<author>Luiz Gustavo Fernandes</author>
-<author>Christiane Pousa Ribeiro</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
-<author>Marilton Sanchotene de Aguiar</author>
+<r><inproceedings key="conf/ipps/CastroFPMA09" mdate="2019-10-19">
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<author pid="92/7437">Christiane Pousa Ribeiro</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<author orcid="0000-0002-5247-6022" pid="02/284">Marilton Sanchotene de Aguiar</author>
 <title>NUMA-ICTM: A parallel version of ICTM exploiting memory placement strategies for NUMA machines.</title>
 <pages>1-8</pages>
 <year>2009</year>
@@ -455,12 +642,12 @@
 <url>db/conf/ipps/ipdps2009.html#CastroFPMA09</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbac-pad/RibeiroMCCF09" mdate="2017-06-05">
-<author>Christiane Pousa Ribeiro</author>
-<author>Jean-Fran&#231;ois M&#233;haut</author>
-<author>Alexandre Carissimi</author>
-<author orcid="0000-0002-9992-8540">M&#225;rcio Bastos Castro</author>
-<author>Luiz Gustavo Fernandes</author>
+<r><inproceedings key="conf/sbac-pad/RibeiroMCCF09" mdate="2018-11-02">
+<author pid="92/7437">Christiane Pousa Ribeiro</author>
+<author pid="63/4133">Jean-Fran&#231;ois M&#233;haut</author>
+<author pid="79/6098">Alexandre Carissimi</author>
+<author orcid="0000-0002-9992-8540" pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author orcid="0000-0002-7506-3685" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
 <title>Memory Affinity for Hierarchical Shared Memory Multiprocessors.</title>
 <pages>59-66</pages>
 <year>2009</year>
@@ -471,28 +658,28 @@
 <url>db/conf/sbac-pad/sbac-pad2009.html#RibeiroMCCF09</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sac/GiannettiFTNRC06" mdate="2006-07-07">
-<author>Fabio Giannetti</author>
-<author>Luiz Gustavo Fernandes</author>
-<author>Rogerio Timmers</author>
-<author>Thiago Nunes</author>
-<author>Mateus Raeder</author>
-<author>M&#225;rcio Bastos Castro</author>
+<r><inproceedings key="conf/sac/GiannettiFTNRC06" mdate="2018-11-06">
+<author pid="72/6411">Fabio Giannetti</author>
+<author pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<author pid="65/2321">Rogerio Timmers</author>
+<author pid="11/1128">Thiago Nunes</author>
+<author pid="60/3883">Mateus Raeder</author>
+<author pid="39/6633">M&#225;rcio Bastos Castro</author>
 <title>High performance XSL-FO rendering for variable data printing.</title>
 <pages>811-817</pages>
 <year>2006</year>
 <crossref>conf/sac/2006</crossref>
 <booktitle>SAC</booktitle>
-<ee>http://doi.acm.org/10.1145/1141277.1141464</ee>
+<ee>https://doi.org/10.1145/1141277.1141464</ee>
 <url>db/conf/sac/sac2006.html#GiannettiFTNRC06</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/pact/CastroBFRV05" mdate="2017-05-25">
-<author>M&#225;rcio Bastos Castro</author>
-<author>Lucas Baldo</author>
-<author>Luiz Gustavo Fernandes</author>
-<author>Mateus Raeder</author>
-<author>Pedro Velho</author>
+<author pid="39/6633">M&#225;rcio Bastos Castro</author>
+<author pid="13/2378">Lucas Baldo</author>
+<author pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</author>
+<author pid="60/3883">Mateus Raeder</author>
+<author pid="05/2623">Pedro Velho</author>
 <title>A Parallel Version for the Propagation Algorithm.</title>
 <pages>403-412</pages>
 <year>2005</year>
@@ -502,61 +689,70 @@
 <url>db/conf/pact/pact2005.html#CastroBFRV05</url>
 </inproceedings>
 </r>
-<coauthors n="54" nc="2">
-<co c="0" n="2"><na f="a/Aguiar:Marilton_S=_de">Marilton S. de Aguiar</na><na>Marilton Sanchotene de Aguiar</na></co>
-<co c="0"><na f="a/Aochi:Hideo">Hideo Aochi</na></co>
-<co c="0"><na f="b/Baldo:Lucas">Lucas Baldo</na></co>
-<co c="0"><na f="b/Boito:Francieli_Zanon">Francieli Zanon Boito</na></co>
-<co c="0"><na f="b/Borin:Lais">Lais Borin</na></co>
-<co c="0"><na f="b/Broquedis:Fran=ccedil=ois">Fran&#231;ois Broquedis</na></co>
-<co c="0"><na f="c/Caram:Joao">Joao Caram</na></co>
-<co c="0"><na f="c/Carissimi:Alexandre">Alexandre Carissimi</na></co>
-<co c="0"><na f="c/Cintra:Marcelo">Marcelo Cintra</na></co>
-<co c="0"><na f="c/Cole:Murray">Murray Cole</na></co>
-<co c="0" n="2"><na f="d/Dantas:Mario_A=_R=">Mario A. R. Dantas</na><na>Mario Antonio Ribeiro Dantas</na></co>
-<co c="0"><na f="d/Dupros:Fabrice">Fabrice Dupros</na></co>
-<co c="0"><na f="f/Fernandes:Luiz_Gustavo">Luiz Gustavo Fernandes</na></co>
-<co c="0"><na f="f/Francesquini:Emilio">Emilio Francesquini</na></co>
-<co c="0"><na f="f/Freitas:Henrique_C=">Henrique C. Freitas</na></co>
-<co c="0"><na f="f/Freitas:Henrique_Cota_de">Henrique Cota de Freitas</na></co>
-<co c="0"><na f="g/Garcia:Gabriel">Gabriel Garcia</na></co>
-<co c="0"><na f="g/Georgiev:Kiril">Kiril Georgiev</na></co>
-<co c="0"><na f="g/Giannetti:Fabio">Fabio Giannetti</na></co>
-<co c="0" n="2"><na f="g/G=oacute=es:Lu=iacute=s_Fabr=iacute=cio_Wanderley">Lu&#237;s Fabr&#237;cio Wanderley G&#243;es</na><na>Lu&#237;s F. W. G&#243;es</na></co>
-<co c="0" n="2"><na f="g/Gon=ccedil=alves:Alexandre_L=">Alexandre L. Gon&#231;alves</na><na>Alexandre Leopoldo Gon&#231;alves</na></co>
-<co c="0"><na f="g/Griebler:Dalvan">Dalvan Griebler</na></co>
-<co c="0" n="2"><na f="g/G=uuml=ntzel:Jos=eacute=_Lu=iacute=s_Almada">Jos&#233; Lu&#237;s Almada G&#252;ntzel</na><na>Jos&#233; Lu&#237;s G&#252;ntzel</na></co>
-<co c="0"><na f="g/Guth:Chrystian">Chrystian Guth</na></co>
-<co c="0" n="2"><na f="i/Inacio:Eduardo_Camilo">Eduardo Camilo Inacio</na><na>Eduardo C. Inacio</na></co>
-<co c="0"><na f="l/Livramento:Vinicius_S=">Vinicius S. Livramento</na></co>
-<co c="0"><na f="m/Marangozova=Martin:Vania">Vania Marangozova-Martin</na></co>
-<co c="0"><na f="m/Mart=iacute=nez:V=iacute=ctor">V&#237;ctor Mart&#237;nez</na></co>
-<co c="0"><na f="m/M=eacute=haut:Jean=Fran=ccedil=ois">Jean-Fran&#231;ois M&#233;haut</na></co>
-<co c="1"><na f="n/Nascimento:Bruno_Marques_do">Bruno Marques do Nascimento</na></co>
-<co c="0" n="2"><na f="n/Navaux:Philippe_Olivier_Alexandre">Philippe Olivier Alexandre Navaux</na><na>Philippe O. A. Navaux</na></co>
-<co c="0"><na f="n/Netto:Renan">Renan Netto</na></co>
-<co c="0"><na f="n/Ngu=eacute=l=eacute=:Thomas_Messi">Thomas Messi Ngu&#233;l&#233;</na></co>
-<co c="0"><na f="n/Nunes:Thiago">Thiago Nunes</na></co>
-<co c="0"><na f="p/Padoin:Edson_L=">Edson L. Padoin</na></co>
-<co c="0"><na f="p/Penna:Pedro_Henrique">Pedro Henrique Penna</na></co>
-<co c="0"><na f="p/Penna:Pedro_Henrique_de_Mello_Morado">Pedro Henrique de Mello Morado Penna</na></co>
-<co c="0"><na f="p/Pereira:Alyson_D=">Alyson D. Pereira</na></co>
-<co c="0"><na f="p/Pilla:La=eacute=rcio_Lima">La&#233;rcio Lima Pilla</na></co>
-<co c="0"><na f="p/Plentz:Patricia_Della_Mea">Patricia Della Mea Plentz</na></co>
-<co c="1"><na f="p/Podest=aacute=_Jr=:Emmanuel">Emmanuel Podest&#225; Jr.</na></co>
-<co c="0"><na f="q/Queiroz:Matheus_M=">Matheus M. Queiroz</na></co>
-<co c="0"><na f="r/Raeder:Mateus">Mateus Raeder</na></co>
-<co c="0"><na f="r/Ramos:Luiz">Luiz Ramos</na></co>
-<co c="0"><na f="r/Ribeiro:Christiane_Pousa">Christiane Pousa Ribeiro</na></co>
-<co c="0" n="2"><na f="r/Rocha:Rodrigo_Caetano">Rodrigo Caetano Rocha</na><na>Rodrigo C. O. Rocha</na></co>
-<co c="0"><na f="r/Rui:Fernando">Fernando Rui</na></co>
-<co c="0"><na f="s/Saffran:Jo=atilde=o">Jo&#227;o Saffran</na></co>
-<co c="0"><na f="s/Santana:Miguel">Miguel Santana</na></co>
-<co c="0"><na f="s/Silva:Madalena_Pereira_da">Madalena Pereira da Silva</na></co>
-<co c="0"><na f="s/Souza:Matheus_A=">Matheus A. Souza</na></co>
-<co c="0"><na f="t/Timmers:Rogerio">Rogerio Timmers</na></co>
-<co c="0"><na f="v/Velho:Pedro">Pedro Velho</na></co>
-<co c="0"><na f="v/Volpato:Felipe">Felipe Volpato</na></co>
+<coauthors n="63" nc="2">
+<co c="0" n="2"><na f="a/Aguiar:Marilton_S=_de" pid="02/284">Marilton S. de Aguiar</na><na>Marilton Sanchotene de Aguiar</na></co>
+<co c="0"><na f="a/Aochi:Hideo" pid="45/538">Hideo Aochi</na></co>
+<co c="0"><na f="b/Baldo:Lucas" pid="13/2378">Lucas Baldo</na></co>
+<co c="0"><na f="b/Boito:Francieli_Zanon" pid="99/9377">Francieli Zanon Boito</na></co>
+<co c="0"><na f="b/Borin:Lais" pid="210/3797">Lais Borin</na></co>
+<co c="0"><na f="b/Broquedis:Fran=ccedil=ois" pid="15/1102">Fran&#231;ois Broquedis</na></co>
+<co c="0"><na f="c/Caram:Joao" pid="210/3764">Joao Caram</na></co>
+<co c="0"><na f="c/Carissimi:Alexandre" pid="79/6098">Alexandre Carissimi</na></co>
+<co c="0"><na f="c/Cintra:Marcelo" pid="73/5470">Marcelo Cintra</na></co>
+<co c="0"><na f="c/Cohen:Johanne" pid="34/2570">Johanne Cohen</na></co>
+<co c="0"><na f="c/Cole:Murray" pid="83/786">Murray Cole</na></co>
+<co c="0" n="2"><na f="d/Dantas:Mario_A=_R=" pid="d/MarioARDantas">Mario A. R. Dantas</na><na>M&#225;rio Ant&#244;nio Ribeiro Dantas</na></co>
+<co c="0"><na f="d/Dupros:Fabrice" pid="54/5417">Fabrice Dupros</na></co>
+<co c="0"><na f="f/Fernandes:Luiz_Gustavo" pid="f/LuizGustavoFernandes">Luiz Gustavo Fernandes</na></co>
+<co c="0"><na f="f/Francesquini:Emilio" pid="121/4593">Emilio Francesquini</na></co>
+<co c="0" n="2"><na f="f/Freitas:Henrique_Cota_de" pid="13/4670">Henrique Cota de Freitas</na><na>Henrique C. Freitas</na></co>
+<co c="0"><na f="f/Freitas:Vinicius" pid="236/4140">Vinicius Freitas</na></co>
+<co c="0"><na f="g/Garcia:Gabriel" pid="99/8240">Gabriel Garcia</na></co>
+<co c="0"><na f="g/Georgiev:Kiril" pid="53/7806">Kiril Georgiev</na></co>
+<co c="0"><na f="g/Giannetti:Fabio" pid="72/6411">Fabio Giannetti</na></co>
+<co c="0" n="2"><na f="g/G=oacute=es:Lu=iacute=s_Fabr=iacute=cio_Wanderley" pid="49/3151">Lu&#237;s Fabr&#237;cio Wanderley G&#243;es</na><na>Lu&#237;s F. W. G&#243;es</na></co>
+<co c="0"><na f="g/Gomes:Ant=ocirc=nio_Tadeu_A=" pid="96/1748">Ant&#244;nio Tadeu A. Gomes</na></co>
+<co c="0" n="2"><na f="g/Gon=ccedil=alves:Alexandre_L=" pid="43/4251">Alexandre L. Gon&#231;alves</na><na>Alexandre Leopoldo Gon&#231;alves</na></co>
+<co c="0"><na f="g/Griebler:Dalvan" pid="135/0603">Dalvan Griebler</na></co>
+<co c="0"><na f="g/G=uuml=ntzel:Jos=eacute=_Lu=iacute=s" pid="04/3287">Jos&#233; Lu&#237;s G&#252;ntzel</na></co>
+<co c="0"><na f="g/Guth:Chrystian" pid="129/7581">Chrystian Guth</na></co>
+<co c="0" n="2"><na f="i/Inacio:Eduardo_Camilo" pid="161/8536">Eduardo Camilo Inacio</na><na>Eduardo C. Inacio</na></co>
+<co c="0"><na f="j/Junior:Emmanuel_Podest=aacute=" pid="291/3511">Emmanuel Podest&#225; Junior</na></co>
+<co c="0"><na f="l/Lima:Davidson_Francis" pid="262/0886">Davidson Francis Lima</na></co>
+<co c="0"><na f="l/Livramento:Vinicius_S=" pid="78/9849">Vinicius S. Livramento</na></co>
+<co c="0"><na f="m/Marangozova=Martin:Vania" pid="04/7807">Vania Marangozova-Martin</na></co>
+<co c="0"><na f="m/Mart=iacute=nez:V=iacute=ctor" pid="22/2903">V&#237;ctor Mart&#237;nez</na></co>
+<co c="0"><na f="m/M=eacute=haut:Jean=Fran=ccedil=ois" pid="63/4133">Jean-Fran&#231;ois M&#233;haut</na></co>
+<co c="1"><na f="n/Nascimento:Bruno_Marques_do" pid="224/8845">Bruno Marques do Nascimento</na></co>
+<co c="0" n="2"><na f="n/Navaux:Philippe_Olivier_Alexandre" pid="74/1262">Philippe Olivier Alexandre Navaux</na><na>Philippe O. A. Navaux</na></co>
+<co c="0"><na f="n/Netto:Renan" pid="159/9431">Renan Netto</na></co>
+<co c="0"><na f="n/Ngu=eacute=l=eacute=:Thomas_Messi" pid="167/0152">Thomas Messi Ngu&#233;l&#233;</na></co>
+<co c="0"><na f="n/Nunes:Thiago" pid="11/1128">Thiago Nunes</na></co>
+<co c="0"><na f="o/Oikawa:C=_R=_Anna_Victoria" pid="265/2614">C. R. Anna Victoria Oikawa</na></co>
+<co c="0"><na f="p/Padoin:Edson_L=" pid="121/1924">Edson L. Padoin</na></co>
+<co c="0" n="2"><na f="p/Penna:Pedro_Henrique_de_Mello_Morado" pid="210/3783">Pedro Henrique de Mello Morado Penna</na><na>Pedro Henrique Penna</na></co>
+<co c="0"><na f="p/Pereira:Alyson_D=" pid="171/1261">Alyson D. Pereira</na></co>
+<co c="0"><na f="p/Pfleger:Sergio_G=" pid="250/6272">Sergio G. Pfleger</na></co>
+<co c="0"><na f="p/Pilla:La=eacute=rcio_Lima" pid="75/2582">La&#233;rcio Lima Pilla</na></co>
+<co c="0"><na f="p/Plentz:Patricia_Della_Mea" pid="83/1063">Patricia Della Mea Plentz</na></co>
+<co c="1"><na f="p/Podest=aacute=_Jr=:Emmanuel" pid="224/8723">Emmanuel Podest&#225; Jr.</na></co>
+<co c="0"><na f="q/Queiroz:Matheus_M=" pid="156/8863">Matheus M. Queiroz</na></co>
+<co c="0"><na f="r/Raeder:Mateus" pid="60/3883">Mateus Raeder</na></co>
+<co c="0"><na f="r/Ramos:Luiz" pid="144/4614">Luiz Ramos</na></co>
+<co c="0"><na f="r/Ribeiro:Christiane_Pousa" pid="92/7437">Christiane Pousa Ribeiro</na></co>
+<co c="0" n="2"><na f="r/Rocha:Rodrigo_Caetano" pid="156/4621">Rodrigo Caetano Rocha</na><na>Rodrigo C. O. Rocha</na></co>
+<co c="0"><na f="r/Rose:C=eacute=sar_A=_F=_De" pid="95/5199">C&#233;sar A. F. De Rose</na></co>
+<co c="0"><na f="r/Rui:Fernando" pid="144/4323">Fernando Rui</na></co>
+<co c="0"><na f="s/Saffran:Jo=atilde=o" pid="200/5309">Jo&#227;o Saffran</na></co>
+<co c="0"><na f="s/Santana:Alexandre_de_L=" pid="236/3924">Alexandre de L. Santana</na></co>
+<co c="0"><na f="s/Santana:Miguel" pid="59/1374">Miguel Santana</na></co>
+<co c="0"><na f="s/Silva:Madalena_Pereira_da" pid="21/3058">Madalena Pereira da Silva</na></co>
+<co c="0"><na f="s/Souto:Jo=atilde=o_Vicente" pid="262/0936">Jo&#227;o Vicente Souto</na></co>
+<co c="0"><na f="s/Souza:Matheus_Alc=acirc=ntara" pid="198/0025">Matheus Alc&#226;ntara Souza</na></co>
+<co c="0"><na f="t/Timmers:Rogerio" pid="65/2321">Rogerio Timmers</na></co>
+<co c="0"><na f="u/Uller:Jo=atilde=o_Fellipe" pid="291/2695">Jo&#227;o Fellipe Uller</na></co>
+<co c="0"><na f="v/Velho:Pedro" pid="05/2623">Pedro Velho</na></co>
+<co c="0"><na f="v/Volpato:Felipe" pid="204/3581">Felipe Volpato</na></co>
 </coauthors>
 </dblpperson>
 

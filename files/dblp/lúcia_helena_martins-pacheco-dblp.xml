@@ -1,12 +1,97 @@
 <?xml version="1.0"?>
-<dblpperson name="L&#250;cia Helena Martins Pacheco" n="1">
+<dblpperson name="L&#250;cia Helena Martins Pacheco" pid="20/1310" n="7">
 <person key="homepages/20/1310" mdate="2009-06-09">
-<author>L&#250;cia Helena Martins Pacheco</author>
+<author pid="20/1310">L&#250;cia Helena Martins Pacheco</author>
 </person>
+<r><article key="journals/iie/AlvesWP21" mdate="2021-07-20">
+<author pid="242/2725">Nathalia da Cruz Alves</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="20/1310">L&#250;cia Helena Martins Pacheco</author>
+<title>Assessing Product Creativity in Computing Education: A Systematic Mapping Study.</title>
+<pages>19-45</pages>
+<year>2021</year>
+<volume>20</volume>
+<journal>Informatics Educ.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.15388/infedu.2021.02</ee>
+<url>db/journals/iie/iie20.html#AlvesWP21</url>
+</article>
+</r>
+<r><article key="journals/iie/LehmkuhlWPBA21" mdate="2021-07-20">
+<author pid="297/2321">G&#233;ssica Lehmkuhl</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="20/1310">L&#250;cia Helena Martins Pacheco</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<author pid="242/2725">Nathalia da Cruz Alves</author>
+<title>SCORE - A Model for the Self-Assessment of Creativity Skills in the Context of Computing Education in K-12.</title>
+<pages>231-254</pages>
+<year>2021</year>
+<volume>20</volume>
+<journal>Informatics Educ.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.15388/infedu.2021.11</ee>
+<url>db/journals/iie/iie20.html#LehmkuhlWPBA21</url>
+</article>
+</r>
+<r><inproceedings key="conf/csedu/PachecoDMWBP20" mdate="2020-06-04">
+<author pid="20/1310">L&#250;cia Helena Martins Pacheco</author>
+<author pid="266/5007">Leonardo Philippi Degering</author>
+<author pid="266/4971">Fernanda Mioto</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="12/10539">Adriano Ferreti Borgatto</author>
+<author pid="187/5496">Giani Petri</author>
+<title>Improvements in bASES21: 21st-Century Skills Assessment Model to K12.</title>
+<pages>297-307</pages>
+<year>2020</year>
+<booktitle>CSEDU (1)</booktitle>
+<ee>https://doi.org/10.5220/0009581702970307</ee>
+<crossref>conf/csedu/2020-1</crossref>
+<url>db/conf/csedu/csedu2020-1.html#PachecoDMWBP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/PachecoWA20" mdate="2020-06-04">
+<author pid="20/1310">L&#250;cia Helena Martins Pacheco</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author pid="242/2725">Nathalia da Cruz Alves</author>
+<title>Polemics about Computational Thinking: Digital Competence in Digital Zeitgeist - Continued Search for Answers.</title>
+<pages>499-506</pages>
+<year>2020</year>
+<booktitle>CSEDU (2)</booktitle>
+<ee>https://doi.org/10.5220/0009797104990506</ee>
+<crossref>conf/csedu/2020-2</crossref>
+<url>db/conf/csedu/csedu2020-2.html#PachecoWA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/PachecoWA19" mdate="2020-10-25">
+<author pid="20/1310">L&#250;cia Helena Martins Pacheco</author>
+<author pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<author orcid="0000-0002-3523-9199" pid="242/2725">Nathalia da Cruz Alves</author>
+<title>Assessment of Computational Thinking in K-12 Context: Educational Practices, Limits and Possibilities - A Systematic Mapping Study.</title>
+<pages>292-303</pages>
+<year>2019</year>
+<booktitle>CSEDU (1)</booktitle>
+<ee>https://doi.org/10.5220/0007738102920303</ee>
+<crossref>conf/csedu/2019-1</crossref>
+<url>db/conf/csedu/csedu2019-1.html#PachecoWA19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/PachecoAW19" mdate="2020-12-29">
+<author pid="20/1310">L&#250;cia Helena Martins Pacheco</author>
+<author pid="242/2725">Nathalia da Cruz Alves</author>
+<author orcid="0000-0002-6566-1606" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</author>
+<title>Educational Practices in Computational Thinking: Assessment, Pedagogical Aspects, Limits, and Possibilities: A Systematic Mapping Study.</title>
+<pages>442-466</pages>
+<year>2019</year>
+<booktitle>CSEDU (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58459-7_21</ee>
+<crossref>conf/csedu/2019s</crossref>
+<url>db/conf/csedu/csedu2019s.html#PachecoAW19</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/lcn/BarencoSP95" mdate="2017-05-26">
-<author>Cl&#225;udia Jacy Barenco</author>
-<author>Elizabeth Sueli Specialski</author>
-<author>L&#250;cia Helena Martins Pacheco</author>
+<author pid="121/9602">Cl&#225;udia Jacy Barenco</author>
+<author pid="71/6467">Elizabeth Sueli Specialski</author>
+<author pid="20/1310">L&#250;cia Helena Martins Pacheco</author>
 <title>Aspects of video and audio signals transmission in a FDDI network.</title>
 <pages>469-478</pages>
 <year>1995</year>
@@ -17,9 +102,16 @@
 <url>db/conf/lcn/lcn1995.html#BarencoSP95</url>
 </inproceedings>
 </r>
-<coauthors n="2" nc="1">
-<co c="0" n="2"><na f="a/Abbas:Cl=aacute=udia_Jacy_Barenco">Cl&#225;udia Jacy Barenco Abbas</na><na>Cl&#225;udia Jacy Barenco</na></co>
-<co c="0"><na f="s/Specialski:Elizabeth_Sueli">Elizabeth Sueli Specialski</na></co>
+<coauthors n="9" nc="2">
+<co c="1" n="2"><na f="a/Abbas:Cl=aacute=udia_Jacy_Barenco" pid="121/9602">Cl&#225;udia Jacy Barenco Abbas</na><na>Cl&#225;udia Jacy Barenco</na></co>
+<co c="0"><na f="a/Alves:Nathalia_da_Cruz" pid="242/2725">Nathalia da Cruz Alves</na></co>
+<co c="0"><na f="b/Borgatto:Adriano_Ferreti" pid="12/10539">Adriano Ferreti Borgatto</na></co>
+<co c="0"><na f="d/Degering:Leonardo_Philippi" pid="266/5007">Leonardo Philippi Degering</na></co>
+<co c="0"><na f="l/Lehmkuhl:G=eacute=ssica" pid="297/2321">G&#233;ssica Lehmkuhl</na></co>
+<co c="0"><na f="m/Mioto:Fernanda" pid="266/4971">Fernanda Mioto</na></co>
+<co c="0"><na f="p/Petri:Giani" pid="187/5496">Giani Petri</na></co>
+<co c="1"><na f="s/Specialski:Elizabeth_Sueli" pid="71/6467">Elizabeth Sueli Specialski</na></co>
+<co c="0"><na f="w/Wangenheim:Christiane_Gresse_von" pid="w/ChristianeGressevonWangenheim">Christiane Gresse von Wangenheim</na></co>
 </coauthors>
 </dblpperson>
 

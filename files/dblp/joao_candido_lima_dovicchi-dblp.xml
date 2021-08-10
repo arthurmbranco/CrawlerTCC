@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
-<dblpperson name="Joao Dovicchi" n="1">
+<dblpperson name="Joao Dovicchi" pid="129/6200" n="1">
 <person key="homepages/129/6200" mdate="2013-05-14">
-<author>Joao Dovicchi</author>
+<author pid="129/6200">Joao Dovicchi</author>
 </person>
 <r><inproceedings key="conf/isspa/DovicchiAFMM05" mdate="2017-05-26">
-<author>Joao Dovicchi</author>
-<author>Jo&#227;o Bosco da Mota Alves</author>
-<author>Luiz Fernando</author>
-<author>Jacintho Maia</author>
-<author>Eder de Mattos</author>
+<author pid="129/6200">Joao Dovicchi</author>
+<author pid="65/3703">Jo&#227;o Bosco da Mota Alves</author>
+<author pid="129/6239">Luiz Fernando</author>
+<author pid="129/6472">Jacintho Maia</author>
+<author pid="129/6157">Eder de Mattos</author>
 <title>N-parametric dilation coefficients: a contribution to the compactly supported wavelets construction.</title>
 <pages>13-16</pages>
 <year>2005</year>
@@ -19,10 +19,10 @@
 </inproceedings>
 </r>
 <coauthors n="4" nc="1">
-<co c="0"><na f="a/Alves:Jo=atilde=o_Bosco_da_Mota">Jo&#227;o Bosco da Mota Alves</na></co>
-<co c="0"><na f="f/Fernando:Luiz">Luiz Fernando</na></co>
-<co c="0"><na f="m/Maia:Jacintho">Jacintho Maia</na></co>
-<co c="0"><na f="m/Mattos:Eder_de">Eder de Mattos</na></co>
+<co c="0"><na f="a/Alves:Jo=atilde=o_Bosco_da_Mota" pid="65/3703">Jo&#227;o Bosco da Mota Alves</na></co>
+<co c="0"><na f="f/Fernando:Luiz" pid="129/6239">Luiz Fernando</na></co>
+<co c="0"><na f="m/Maia:Jacintho" pid="129/6472">Jacintho Maia</na></co>
+<co c="0"><na f="m/Mattos:Eder_de" pid="129/6157">Eder de Mattos</na></co>
 </coauthors>
 </dblpperson>
 

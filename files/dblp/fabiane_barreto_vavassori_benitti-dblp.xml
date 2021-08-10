@@ -1,49 +1,168 @@
 <?xml version="1.0"?>
-<dblpperson name="Fabiane Barreto Vavassori Benitti" n="14">
+<dblpperson name="Fabiane Barreto Vavassori Benitti" pid="58/10759" n="25">
 <person key="homepages/58/10759" mdate="2012-01-17">
-<author>Fabiane Barreto Vavassori Benitti</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
 </person>
-<r><article key="journals/csi/JustoBL18" mdate="2018-03-29">
-<author>Jos&#233; Lu&#237;s Barros Justo</author>
-<author>Fabiane Barreto Vavassori Benitti</author>
-<author>Ania Cravero Leal</author>
+<r><article key="journals/iie/LimaB21" mdate="2021-07-20">
+<author pid="244/8931">Adriano Luiz de Souza Lima</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
+<title>UsabilityZero: Can a Bad User Experience Teach Well?</title>
+<pages>69-84</pages>
+<year>2021</year>
+<volume>20</volume>
+<journal>Informatics Educ.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.15388/infedu.2021.04</ee>
+<url>db/journals/iie/iie20.html#LimaB21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cibse/BritoB20" mdate="2021-01-18">
+<author pid="283/1200">Nath&#225;lia Liz de Brito</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
+<title>Recomenda&#231;&#245;es de t&#233;cnicas complementares de elicita&#231;&#227;o de requisitos em um guia facetado.</title>
+<pages>236-249</pages>
+<year>2020</year>
+<booktitle>CIbSE</booktitle>
+<crossref>conf/cibse/2020</crossref>
+<url>db/conf/cibse/cibse2020.html#BritoB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wer/IgnacioB20" mdate="2021-02-10">
+<author pid="274/2095">Rafael Crispim Ign&#225;cio</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
+<title>Improving the Selection of Requirements Elicitation Techniques: A Faceted Guide.</title>
+<year>2020</year>
+<booktitle>WER</booktitle>
+<ee type="oa">http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER20/01_WER_2020_paper_1.pdf</ee>
+<crossref>conf/wer/2020</crossref>
+<url>db/conf/wer/wer2020.html#IgnacioB20</url>
+</inproceedings>
+</r>
+<r><article key="journals/csi/JustoBM19" mdate="2020-02-20">
+<author orcid="0000-0003-2046-2643" pid="b/JLBarrosJ">Jos&#233; Lu&#237;s Barros Justo</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
+<author orcid="0000-0001-5429-2449" pid="96/1477">Santiago Matalonga</author>
+<title>Trends in software reuse research: A tertiary study.</title>
+<year>2019</year>
+<volume>66</volume>
+<journal>Comput. Stand. Interfaces</journal>
+<ee>https://doi.org/10.1016/j.csi.2019.04.011</ee>
+<url>db/journals/csi/csi66.html#JustoBM19</url>
+</article>
+</r>
+<r><article key="journals/csi/JustoBT19" mdate="2020-02-20">
+<author pid="b/JLBarrosJ">Jos&#233; Lu&#237;s Barros Justo</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
+<author pid="30/6247">Saurabh Tiwari 0001</author>
+<title>The impact of Use Cases in real-world software development projects: A systematic mapping study.</title>
+<year>2019</year>
+<volume>66</volume>
+<journal>Comput. Stand. Interfaces</journal>
+<ee>https://doi.org/10.1016/j.csi.2019.103362</ee>
+<url>db/journals/csi/csi66.html#JustoBT19</url>
+</article>
+</r>
+<r><inproceedings key="conf/hci/LimaB19" mdate="2019-07-16">
+<author pid="244/8931">Adriano Luiz de Souza Lima</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
+<title>Let's Talk About Tools and Approaches for Teaching HCI.</title>
+<pages>155-170</pages>
+<year>2019</year>
+<booktitle>HCI (25)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-21814-0_13</ee>
+<crossref>conf/hci/2019-25</crossref>
+<url>db/conf/hci/hci2019-25.html#LimaB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/TatibanaB19" mdate="2019-12-09">
+<author pid="254/6548">Guilherme M. Tatibana</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
+<title>Use case or activity diagram, that is the question!</title>
+<pages>306-312</pages>
+<year>2019</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3364641.3364677</ee>
+<crossref>conf/sbqs/2019</crossref>
+<url>db/conf/sbqs/sbqs2019.html#TatibanaB19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-06754" mdate="2019-06-24">
+<author pid="b/JLBarrosJ">Jos&#233; Lu&#237;s Barros Justo</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
+<author pid="30/6247">Saurabh Tiwari 0001</author>
+<title>The impact of Use Cases in real-world software development projects: A systematic mapping study.</title>
+<year>2019</year>
+<volume>abs/1906.06754</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.06754</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-06754</url>
+</article>
+</r>
+<r><article key="journals/csi/JustoBL18" mdate="2020-02-20">
+<author pid="b/JLBarrosJ">Jos&#233; Lu&#237;s Barros Justo</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
+<author pid="35/7708">Ania Cravero Leal</author>
 <title>Software patterns and requirements engineering activities in real-world settings: A systematic mapping study.</title>
 <pages>23-42</pages>
 <year>2018</year>
 <volume>58</volume>
-<journal>Computer Standards &#38; Interfaces</journal>
+<journal>Comput. Stand. Interfaces</journal>
 <ee>https://doi.org/10.1016/j.csi.2017.12.001</ee>
 <url>db/journals/csi/csi58.html#JustoBL18</url>
 </article>
 </r>
-<r><article key="journals/ce/SpolaorB17" mdate="2017-12-28">
-<author orcid="0000-0003-0748-3693">Newton Spola&#244;r</author>
-<author>Fabiane Barreto Vavassori Benitti</author>
+<r><article key="journals/iie/Benitti18" mdate="2020-09-17">
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
+<title>A Methodology to Define Learning Objects Granularity: A Case Study in Software Testing.</title>
+<pages>1-20</pages>
+<year>2018</year>
+<volume>17</volume>
+<journal>Informatics Educ.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.15388/infedu.2018.01</ee>
+<url>db/journals/iie/iie17.html#Benitti18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/BordinB18" mdate="2018-11-21">
+<author pid="135/0747">Andr&#233;a Sabedra Bordin</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
+<title>Software maintenance: what do we teach and what does the industry practice?</title>
+<pages>270-279</pages>
+<year>2018</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3266237.3266251</ee>
+<crossref>conf/sbes/2018</crossref>
+<url>db/conf/sbes/sbes2018.html#BordinB18</url>
+</inproceedings>
+</r>
+<r><article key="journals/ce/SpolaorB17" mdate="2020-02-22">
+<author orcid="0000-0003-0748-3693" pid="48/9358">Newton Spola&#244;r</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
 <title>Robotics applications grounded in learning theories on tertiary education: A systematic review.</title>
 <pages>97-107</pages>
 <year>2017</year>
 <volume>112</volume>
-<journal>Computers &#38; Education</journal>
+<journal>Comput. Educ.</journal>
 <ee>https://doi.org/10.1016/j.compedu.2017.05.001</ee>
 <url>db/journals/ce/ce112.html#SpolaorB17</url>
 </article>
 </r>
-<r><inproceedings key="conf/sbes/Benitti17" mdate="2017-09-18">
-<author>Fabiane Barreto Vavassori Benitti</author>
+<r><inproceedings key="conf/sbes/Benitti17" mdate="2018-11-06">
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
 <title>As a teacher, I want to know what to teach in requirements engineering so that professionals can be better prepared.</title>
 <pages>318-327</pages>
 <year>2017</year>
 <booktitle>SBES</booktitle>
-<ee>http://doi.acm.org/10.1145/3131151.3131185</ee>
+<ee>https://doi.org/10.1145/3131151.3131185</ee>
 <crossref>conf/sbes/2017</crossref>
 <url>db/conf/sbes/sbes2017.html#Benitti17</url>
 </inproceedings>
 </r>
 <r><article publtype="informal" key="journals/corr/JustoLBC17" mdate="2018-08-13">
-<author>Jos&#233; Lu&#237;s Barros Justo</author>
-<author>Ania Cravero Leal</author>
-<author>Fabiane Barreto Vavassori Benitti</author>
-<author>Rafael Capilla-Sevilla</author>
+<author pid="b/JLBarrosJ">Jos&#233; Lu&#237;s Barros Justo</author>
+<author pid="35/7708">Ania Cravero Leal</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
+<author pid="194/2601">Rafael Capilla-Sevilla</author>
 <title>Systematic Mapping Protocol: The impact of using software patterns during requirements engineering activities in real-world settings.</title>
 <year>2017</year>
 <volume>abs/1701.05747</volume>
@@ -52,22 +171,22 @@
 <url>db/journals/corr/corr1701.html#JustoLBC17</url>
 </article>
 </r>
-<r><inproceedings key="conf/ease/MolleriB15" mdate="2015-06-30">
-<author>Jefferson Seide Moll&#233;ri</author>
-<author>Fabiane Barreto Vavassori Benitti</author>
+<r><inproceedings key="conf/ease/MolleriB15" mdate="2021-04-09">
+<author orcid="0000-0001-5629-5256" pid="117/5621">Jefferson Seide Moll&#233;ri</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
 <title>SESRA: a web-based automated tool to support the systematic literature review process.</title>
 <pages>24:1-24:6</pages>
 <year>2015</year>
 <booktitle>EASE</booktitle>
-<ee>http://doi.acm.org/10.1145/2745802.2745825</ee>
+<ee>https://doi.org/10.1145/2745802.2745825</ee>
 <crossref>conf/ease/2015</crossref>
 <url>db/conf/ease/ease2015.html#MolleriB15</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/clei/WelterBT14" mdate="2017-05-21">
-<author>Marcio Welter</author>
-<author>Fabiane Barreto Vavassori Benitti</author>
-<author>Marcello Thiry</author>
+<author pid="156/4544">Marcio Welter</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
+<author pid="78/176">Marcello Thiry</author>
 <title>Green metrics to software development organizations: A systematic mapping.</title>
 <pages>1-7</pages>
 <year>2014</year>
@@ -77,23 +196,23 @@
 <url>db/conf/clei/clei2014.html#WelterBT14</url>
 </inproceedings>
 </r>
-<r><article key="journals/jucs/BenittiS13" mdate="2017-05-17">
-<author>Fabiane Barreto Vavassori Benitti</author>
-<author>Rodrigo Cezario da Silva</author>
+<r><article key="journals/jucs/BenittiS13" mdate="2021-02-17">
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
+<author pid="76/10831">Rodrigo Cezario da Silva</author>
 <title>Evaluation of a Systematic Approach to Requirements Reuse.</title>
 <pages>254-280</pages>
 <year>2013</year>
 <volume>19</volume>
-<journal>J. UCS</journal>
+<journal>J. Univers. Comput. Sci.</journal>
 <number>2</number>
-<ee>https://doi.org/10.3217/jucs-019-02-0254</ee>
+<ee type="oa">https://doi.org/10.3217/jucs-019-02-0254</ee>
 <url>db/journals/jucs/jucs19.html#BenittiS13</url>
 </article>
 </r>
 <r><inproceedings key="conf/seke/MolleriSB13" mdate="2015-01-05">
-<author>Jefferson Seide Moll&#233;ri</author>
-<author>Luiz Eduardo da Silva</author>
-<author>Fabiane Barreto Vavassori Benitti</author>
+<author pid="117/5621">Jefferson Seide Moll&#233;ri</author>
+<author pid="97/8569">Luiz Eduardo da Silva</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
 <title>Proposal of an Automated Approach to Support the Systematic Review of Literature Process (S).</title>
 <pages>488-493</pages>
 <year>2013</year>
@@ -102,33 +221,33 @@
 <url>db/conf/seke/seke2013.html#MolleriSB13</url>
 </inproceedings>
 </r>
-<r><article key="journals/ce/Benitti12" mdate="2017-05-20">
-<author>Fabiane Barreto Vavassori Benitti</author>
+<r><article key="journals/ce/Benitti12" mdate="2020-02-22">
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
 <title>Exploring the educational potential of robotics in schools: A systematic review.</title>
 <pages>978-988</pages>
 <year>2012</year>
 <volume>58</volume>
-<journal>Computers &#38; Education</journal>
+<journal>Comput. Educ.</journal>
 <number>3</number>
 <ee>https://doi.org/10.1016/j.compedu.2011.10.006</ee>
 <url>db/journals/ce/ce58.html#Benitti12</url>
 </article>
 </r>
-<r><inproceedings key="conf/ihc/SommarivaB12" mdate="2013-09-25">
-<author>Leonardo Sommariva</author>
-<author>Fabiane Barreto Vavassori Benitti</author>
+<r><inproceedings key="conf/ihc/SommarivaB12" mdate="2019-05-28">
+<author pid="115/5043">Leonardo Sommariva</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
 <title>Investigando o ensino de IHC no contexto da computa&#231;&#227;o: o que e como &#233; ensinado?</title>
 <pages>33-38</pages>
 <year>2012</year>
 <booktitle>WEIHC</booktitle>
-<ee>http://ceur-ws.org/Vol-967/paper5.pdf</ee>
+<ee type="oa">http://ceur-ws.org/Vol-967/paper5.pdf</ee>
 <crossref>conf/ihc/2012weihc</crossref>
 <url>db/conf/ihc/weihc2012.html#SommarivaB12</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/seke/MolleriB12" mdate="2012-08-20">
-<author>Jefferson Seide Moll&#233;ri</author>
-<author>Fabiane Barreto Vavassori Benitti</author>
+<author pid="117/5621">Jefferson Seide Moll&#233;ri</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
 <title>Automated Approaches to Support Secondary Study Processes: a Systematic Review.</title>
 <pages>143-147</pages>
 <year>2012</year>
@@ -137,10 +256,21 @@
 <url>db/conf/seke/seke2012.html#MolleriB12</url>
 </inproceedings>
 </r>
+<r><inproceedings key="conf/cibse/SilvaB11" mdate="2021-02-09">
+<author pid="76/10831">Rodrigo Cezario da Silva</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
+<title>Padr&#245;es de Escrita de Requisitos: um Mapeamento Sistem&#225;tico da Literatura.</title>
+<pages>259-272</pages>
+<year>2011</year>
+<booktitle>CIbSE</booktitle>
+<crossref>conf/cibse/2011</crossref>
+<url>db/conf/cibse/cibse2011.html#SilvaB11</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/ihc/SommarivaBD11" mdate="2012-06-18">
-<author>Leonardo Sommariva</author>
-<author>Fabiane Barreto Vavassori Benitti</author>
-<author>Felipe Simoni Dalcin</author>
+<author pid="115/5043">Leonardo Sommariva</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
+<author pid="115/5028">Felipe Simoni Dalcin</author>
 <title>UsabilityGame: jogo simulador para apoio ao ensino de usabilidade.</title>
 <pages>61-65</pages>
 <year>2011</year>
@@ -150,41 +280,48 @@
 <url>db/conf/ihc/ihc2011.html#SommarivaBD11</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/wer/SilvaB11" mdate="2012-02-01">
-<author>Rodrigo Cezario da Silva</author>
-<author>Fabiane Barreto Vavassori Benitti</author>
+<r><inproceedings key="conf/wer/SilvaB11" mdate="2020-03-12">
+<author pid="76/10831">Rodrigo Cezario da Silva</author>
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
 <title>Padr&#245;es de Escrita de Requisitos: um mapeamento sistem&#225;tico da literatura.</title>
 <year>2011</year>
 <booktitle>WER</booktitle>
-<ee>http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER11/silva.pdf</ee>
+<ee type="oa">http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER11/silva.pdf</ee>
 <crossref>conf/wer/2011</crossref>
 <url>db/conf/wer/wer2011.html#SilvaB11</url>
 </inproceedings>
 </r>
-<r><article key="journals/rita/Benitti08" mdate="2015-04-12">
-<author>Fabiane Barreto Vavassori Benitti</author>
+<r><article key="journals/rita/Benitti08" mdate="2020-02-03">
+<author pid="58/10759">Fabiane Barreto Vavassori Benitti</author>
 <title>Proposta de Utiliza&#231;&#227;o do Diagrama de Seq&#252;&#234;ncia para Defini&#231;&#227;o de Casos de Teste de Unidade.</title>
 <pages>139-154</pages>
 <year>2008</year>
 <volume>15</volume>
 <journal>RITA</journal>
 <number>2</number>
-<ee>http://www.seer.ufrgs.br/index.php/rita/article/view/rita_v15_n2_p139-154</ee>
+<ee type="oa">https://doi.org/10.22456/2175-2745.7029</ee>
 <url>db/journals/rita/rita15.html#Benitti08</url>
 </article>
 </r>
-<coauthors n="11" nc="4">
-<co c="0"><na f="c/Capilla=Sevilla:Rafael">Rafael Capilla-Sevilla</na></co>
-<co c="2"><na f="d/Dalcin:Felipe_Simoni">Felipe Simoni Dalcin</na></co>
-<co c="0"><na f="j/Justo:Jos=eacute=_Lu=iacute=s_Barros">Jos&#233; Lu&#237;s Barros Justo</na></co>
-<co c="0"><na f="l/Leal:Ania_Cravero">Ania Cravero Leal</na></co>
-<co c="1"><na f="m/Moll=eacute=ri:Jefferson_Seide">Jefferson Seide Moll&#233;ri</na></co>
-<co c="1"><na f="s/Silva:Luiz_Eduardo_da">Luiz Eduardo da Silva</na></co>
-<co c="-1"><na f="s/Silva:Rodrigo_Cezario_da">Rodrigo Cezario da Silva</na></co>
-<co c="2"><na f="s/Sommariva:Leonardo">Leonardo Sommariva</na></co>
-<co c="-1"><na f="s/Spola=ocirc=r:Newton">Newton Spola&#244;r</na></co>
-<co c="3"><na f="t/Thiry:Marcello">Marcello Thiry</na></co>
-<co c="3"><na f="w/Welter:Marcio">Marcio Welter</na></co>
+<coauthors n="18" nc="4">
+<co c="-1" n="2"><na f="b/Bordin:Andr=eacute=a_S=" pid="135/0747">Andr&#233;a S. Bordin</na><na>Andr&#233;a Sabedra Bordin</na></co>
+<co c="-1"><na f="b/Brito:Nath=aacute=lia_Liz_de" pid="283/1200">Nath&#225;lia Liz de Brito</na></co>
+<co c="0"><na f="c/Capilla=Sevilla:Rafael" pid="194/2601">Rafael Capilla-Sevilla</na></co>
+<co c="2"><na f="d/Dalcin:Felipe_Simoni" pid="115/5028">Felipe Simoni Dalcin</na></co>
+<co c="-1"><na f="i/Ign=aacute=cio:Rafael_Crispim" pid="274/2095">Rafael Crispim Ign&#225;cio</na></co>
+<co c="0"><na f="j/Justo:Jos=eacute=_Lu=iacute=s_Barros" pid="b/JLBarrosJ">Jos&#233; Lu&#237;s Barros Justo</na></co>
+<co c="0"><na f="l/Leal:Ania_Cravero" pid="35/7708">Ania Cravero Leal</na></co>
+<co c="-1"><na f="l/Lima:Adriano_Luiz_de_Souza" pid="244/8931">Adriano Luiz de Souza Lima</na></co>
+<co c="0"><na f="m/Matalonga:Santiago" pid="96/1477">Santiago Matalonga</na></co>
+<co c="1"><na f="m/Moll=eacute=ri:Jefferson_Seide" pid="117/5621">Jefferson Seide Moll&#233;ri</na></co>
+<co c="1"><na f="s/Silva:Luiz_Eduardo_da" pid="97/8569">Luiz Eduardo da Silva</na></co>
+<co c="-1"><na f="s/Silva:Rodrigo_Cezario_da" pid="76/10831">Rodrigo Cezario da Silva</na></co>
+<co c="2"><na f="s/Sommariva:Leonardo" pid="115/5043">Leonardo Sommariva</na></co>
+<co c="-1"><na f="s/Spola=ocirc=r:Newton" pid="48/9358">Newton Spola&#244;r</na></co>
+<co c="-1"><na f="t/Tatibana:Guilherme_M=" pid="254/6548">Guilherme M. Tatibana</na></co>
+<co c="3"><na f="t/Thiry:Marcello" pid="78/176">Marcello Thiry</na></co>
+<co c="0"><na f="t/Tiwari_0001:Saurabh" pid="30/6247">Saurabh Tiwari 0001</na></co>
+<co c="3"><na f="w/Welter:Marcio" pid="156/4544">Marcio Welter</na></co>
 </coauthors>
 </dblpperson>
 
